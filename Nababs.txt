@@ -123,10 +123,9 @@ https://sae13.playlist.ttvnw.net/v1/playlist/CrYGIfTUfRz0Kkm9n7VcMgAWIGLGIfrwD2-
 #EXTINF:-1,LOS 40 PRINCIPALES 
 https://sae13.playlist.ttvnw.net/v1/playlist/CpIGc0lhUyzua0109eSsa3MDavswgKrdYjd-dt8Y3cjCpy0kBYKTqc-VRS6HBl0HngZRfUg7NZVnNhrJk2-90oXSxPNjmBNs0xZuOn_fsCqjHk-mLsiBv-DGnM2C-t1rNEN2SUt9rSvqRUM40LQ5hmLZdkOeVLC-HrSiScOTbflACeKDmGQURyBbH-uBScrJ3LiiJsxEnGbFpErP8h1VCSZ0mICaWSt6_XW5UGn14qqhRHCV15-rvv10-KNGXLwwLgjCHJxQj0Chu7vQU_SNB-Cz6EGCvH76aYXeVtcVnP3_BLzU5J94Y2-gnzPhFrldywQrZ4ZMoZ_JcH32BRwGzNbVve3900DjZ8yQt8toFOMkMXrPNAhQ3Kh8lP8N_saoep1MEGyE6oKpcohN6eStCvEw0Hkk1KDDI12fejJTkIBdw0yZCs3L3W6N-q9J6yBREbg-cU2jMMoUJ4UmPDUbmCXqS-ja4zV30aDvkTB1UdldvUWmwlDQygNMWapSrxyAUdo3VnV-S8Vb7NYnLLpWQGbXZAx6M2Xlqyd8Gr_oZKD02wRnbmKve-2rxiTSoOV__lFvrvVv494mepr0jZpTRDYodZXnrONmgIiZxWM6Vy8DbphzQSDgU7hRslMySEpDx6YQ5BaFy9FEb3Dh81EgGfMekwXgk1Wm-RAHKyiXvzRu-oY4MtPK7d9ioitmc9WyAiohYQ_HF3FouVYbo-4cmsL7N4BmuVHUZIcNbLfI7uXBnbbQLp9dT4yPp3Ajri0Kzb1C5DY3NQkAZ1Qf6PszMqea-axCVamqCKUQmCE0Uh34u9dTxkOMH5jMOHnZnMskmfZP8D5MMMH3RZp6h-09uxrJTPXIORSXwtHIOMdQQMQjhZemwnl8Bnrbpz0__YBH7L_jwHxpBmnXuZV0RHXGBziEr9inzZyqpeas_8MXkxhTVmncSP8L80sDbWhvyP71k0xlYBby6Rlx6QumZ-tEKwQDq6PVRDMECgkL5NWRGyxPiA-4XxnEE8dC2YblD0LgyceBqbCl7uny0_MyMNfm6wQXDDhVGgx2N8Mi6ePRI7uvk_4gASoJdXMtZWFzdC0yMIgN.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="INFANTIL", LOS SIMPSONS
-http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="INFANTIL", LOS SIMPSONS http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 
-#EXTINF:-1 LOSSIMPSONS24  http://tv.zapping.life:8080/live/MarlyTobonIPTVCLUB/EsXeUfvwQs/94883.m3u8
+#EXTINF:-1 LOS SIMPSONS24 http://tv.zapping.life:8080/live/MarlyTobonIPTVCLUB/EsXeUfvwQs/94883.m3u8
 
 #EXTINF:-1,CANAL 12 
 https://g2.vxral-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
@@ -1913,6 +1912,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u
 
 #EXTINF:-1 tvg-id="5f85cf621d6d2200079f1de0" tvg-name="Karaoke por Stingray" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Música" tvg-chno="1525", Karaoke por Stingray
 https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7f4a1004-3df9-11f0-90ac-1ee1ca4b8ae7
+
 
 
 
