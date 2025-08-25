@@ -125,7 +125,8 @@ https://sae13.playlist.ttvnw.net/v1/playlist/CpIGc0lhUyzua0109eSsa3MDavswgKrdYjd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="INFANTIL", LOS SIMPSONS http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 
-#EXTINF:-1 LOS SIMPSONS24 http://tv.zapping.life:8080/live/MarlyTobonIPTVCLUB/EsXeUfvwQs/94883.m3u8
+#EXTINF:-1,http://tv.zapping.life:8080/live/MarlyTobonIPTVCLUB/EsXeUfvwQs/94883.m3u8
+
 
 #EXTINF:-1,CANAL 12 
 https://g2.vxral-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
@@ -1912,6 +1913,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u
 
 #EXTINF:-1 tvg-id="5f85cf621d6d2200079f1de0" tvg-name="Karaoke por Stingray" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Música" tvg-chno="1525", Karaoke por Stingray
 https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7f4a1004-3df9-11f0-90ac-1ee1ca4b8ae7
+
 
 
 
