@@ -124,6 +124,197 @@ http://tv.zapping.life:8080/live/MarlyTobonIPTVCLUB/EsXeUfvwQs/112428.m3u8
 #EXTINF:-1,CANAL 12 
 https://g2.vxral-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
 
+24/7 LISTA IPTV
+ #EXTINF:-1,SEX AND THE CITY 24/7
+http://tv.zapping.life:8080/live/MarlyTobonIPTVCLUB/EsXeUfvwQs/94864.m3u8
+
+
+#EXTINF:-1,24HS 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/95593
+
+
+
+#EXTINF:-1,9-1-1 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94915
+
+
+
+#EXTINF:-1,BLACK SAILS 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94812
+
+
+
+#EXTINF:-1,BLINDSPOT 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94917
+
+
+
+#EXTINF:-1,BOARDWALK EMPIRE 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94918
+
+
+
+#EXTINF:-1,BONES 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94919
+
+
+
+#EXTINF:-1,BREAKING BAD 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94920
+
+
+
+#EXTINF:-1,CHICAGO FIRE 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94921
+
+
+#EXTINF:-1,CHICAGO MED
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94922
+
+
+
+#EXTINF:-1,CHICAGO PD 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94987
+
+
+
+#EXTINF:-1,CRIMINAL MINDS 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/95604
+
+
+
+#EXTINF:-1,CSI MIAMI 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94924
+
+
+#EXTINF:-1,CSI NEW YORK 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94925
+
+
+
+#EXTINF:-1,DEXTER 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94927
+
+
+#EXTINF:-1,EL CANDIDATO 
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94814
+
+
+#EXTINF:-1,EL MENTALISTA 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94937
+
+#EXTINF:-1,EL MUNDO OCULTO DE SABRINA 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94823
+
+#EXTINF:-1,EL SEÑOR DE LOS ANILLOS 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/95594
+
+#EXTINF:-1,ELITE 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/95605
+
+#EXTINF:-1,ERASE UNA VEZ 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94836
+
+#EXTINF:-1,FALLING SEKIES 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94815
+
+#EXTINF:-1,FEAR THE WALKING 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94825
+
+#EXTINF:-1,GAME OF THRONES 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94830
+
+#EXTINF:-1,HALO 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94831
+
+#EXTINF:-1,HAWAII 5.0
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94929
+
+#EXTINF:-1,HOMELAND 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94930
+
+#EXTINF:-1,LA CASA DE PAPEL 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/95606
+
+#EXTINF:-1,LA CASA DEL DRAGON 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94834
+
+#EXTINF:-1,LA LEY Y LA ORDEN 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94932
+
+#EXTINF:-1,LA MATERIA OSCURA 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94833
+
+#EXTINF:-1,LOS 100 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94841
+
+#EXTINF:-1,LOS EXPEDIENTES X 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94843
+
+#EXTINF:-1,LOST 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94816
+
+#EXTINF:-1,NCIS 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94933
+
+#EXTINF:-1,NCIS LOS ANGELES 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94934
+
+#EXTINF:-1,PERDIDOS EN EL ESPACIO 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94835
+
+#EXTINF:-1,PRISION BREAK
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94935
+
+#EXTINF:-1,S.W.A.T 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94936
+
+#EXTINF:-1,SEAL TEAM 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94817
+
+#EXTINF:-1,See 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94837
+
+#EXTINF:-1,SPARTACUS 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94819
+
+#EXTINF:-1,SQUID GAME 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94820
+
+#EXTINF:-1,STAR TREK DISCOVERY 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94838
+
+#EXTINF:-1,STATION 19
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94821
+
+#EXTINF:-1,STRANGER THINGS 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94839
+
+#EXTINF:-1,SUPERNATURAL 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94840
+
+#EXTINF:-1,THE MADALORIAN 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94842
+
+#EXTINF:-1,THE ROOKIE 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94938
+
+#EXTINF:-1,THE WALKING DEAD THE RETRUN 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94826
+
+#EXTINF:-1,THE WALKING DEAD CITY 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94828
+
+#EXTINF:-1, THE WALKING DEAD WORLD BEYONO
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94827
+
+#EXTINF:-1,VIKINGOS 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94822
+
+#EXTINF:-1,WHITE COLLAR 24/7
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94939
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
 #EXTINF:-1 group-title="Argentina"  tvg-id="America 24.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/2944696007343.png" tvg-group="Noticias", A24
@@ -1906,6 +2097,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u
 
 #EXTINF:-1 tvg-id="5f85cf621d6d2200079f1de0" tvg-name="Karaoke por Stingray" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Música" tvg-chno="1525", Karaoke por Stingray
 https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7f4a1004-3df9-11f0-90ac-1ee1ca4b8ae7
+
 
 
 
