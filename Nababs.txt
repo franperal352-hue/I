@@ -94,7 +94,7 @@ https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 #EXTINF:-1,CANAL 6 POSADAS
 https://iptv.ixfo.com.ar:30443/live-HD/C4POS/playlist.m3u8
 
-#EXTINF:-1,MISIONES ONLINE https://www.dailymotion.com/cdn/live/video/x7zh5gd.m3u8?sec=YGwdGpFGzpO3b0w5DTm0aIGBfPQ8m_0wkGPDOWktgFncXD2RRvH-GsqAL543ZnTa9AMtHKsN3iIK512W9My8uw&dmTs=117403&dmV1st=7ac05bd9-a954-4c57-98c5-d8cc7e5cd19c
+#EXTINF:-1,MISIONES ONLINE https://live.eu-north-1a.cf.dmcdn.net/sec2(H8_3Qg6AYFsYM31VHYDvAdoTnwSIsBeeb4zbbMMXxB02MdKJO9DfGSIlaF2r5vaLwBY3Jx7pNNxesDE59h-suTzpR1wmx3oOA6v4zcW4JdSUMXnGIfmTeNWhEQuwr211)/dm/3/x7zh5gd/s/live-720.m3u8#cell=lcf-eu-north-1a
 
 #EXTINF:-1,CANAL 21 POSADAS
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
@@ -1906,6 +1906,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u
 
 #EXTINF:-1 tvg-id="5f85cf621d6d2200079f1de0" tvg-name="Karaoke por Stingray" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Música" tvg-chno="1525", Karaoke por Stingray
 https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7f4a1004-3df9-11f0-90ac-1ee1ca4b8ae7
+
 
 
 
