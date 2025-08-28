@@ -1,9 +1,113 @@
 #EXTM3U refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/ar.xml.gz"
 "https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ar.xml.gz"
 
+#EXTINF:-1,LOS SIMPSONS CAP NUEVOS 24/7
+https://tv.nube-x.xyz:8443/play/7XtIBagsJJ_BrOYm8vdLnWbpGWjUHdTewI9J0bZFmROI2I7NYPUZGJIY-iacFjG5
+
+#EXTINF:-1,LOS SIMPSONS CAP NUEVOS 2 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e84dbaa4GeEGfQJJOAssPUi7mpckYWx9g-rrMJ3PiYa6L
+
+
+#EXTINF:-1,BARBIE 24/7
+https://tv.nube-x.xyz:8443/play/7XtIBagsJJ_BrOYm8vdLnd3dOXM9DC02Yq-r4t5r_eU-2DTNoArjXqeY35gYSvMQ
+
+#EXTINF:-1,BOB ESPONJA 24/7
+https://tv.nube-x.xyz:8443/play/7XtIBagsJJ_BrOYm8vdLnd3dOXM9DC02Yq-r4t5r_eWds9ksB8YgA4ghnS55O2rF
+
+#EXTINF:-1,CASO CERRADO PARTE1 24/7
+https://tv.nube-x.xyz:8443/play/7XtIBagsJJ_BrOYm8vdLnd3dOXM9DC02Yq-r4t5r_eX6qg3MkH64tvp8E8_k1khU
+
+#EXTINF:-1,CASO CERRADO PARTE2 24/7
+https://tv.nube-x.xyz:8443/play/7XtIBagsJJ_BrOYm8vdLnd3dOXM9DC02Yq-r4t5r_eWXnYng4jAe7vg51irYSpiy
+
+#EXTINF:-1,RICKY MORTI 24/7
+https://tv.nube-x.xyz:8443/play/7XtIBagsJJ_BrOYm8vdLnWbpGWjUHdTewI9J0bZFmROYLAajTzAAjZ8gnPDgW43O
+
+#EXTINF:-1,ED EDD Y EDDY 24/7 https://tv.nube-x.xyz:8443/play/7XtIBagsJJ_BrOYm8vdLnd3dOXM9DC02Yq-r4t5r_eUVpZ-_Q6g2VuW__Ud5ttS
+
+#EXTINF:-1,BABY SHARK TV 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668dhmKjRE22U_8iZQVB1WgaQ
+
+#EXTINF:-1,BARNEY 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668emZ9xeRPQtiinCi0b7UXHS
+
+#EXTINF:-1,DISNEY 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668f0gRa4ESNo1x4LgaUu_1J-
+
+#EXTINF:-1,THE BOYS 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e84dbaa4GeEGfQJJOAssPUi4cBN6zFmsoljg9aMP0CXO_
+
+#EXTINF:-1,LA CASA DEL DRAGON 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e84dbaa4GeEGfQJJOAssPUi6NFhcHKT5QpV6979YcxTR7
+
+#EXTINF:-1,MERLINA 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e84dbaa4GeEGfQJJOAssPUi4SWZFbyFGl0J90kEvQspIt
+
+#EXTINF:-1,HIGH SCHOOL MUSICAL 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8394d4kmLskxFbNxUEHyfBvXLEyvos447Dc8bp-wVC50
+
+#EXTINF:-1,RAPIDOS Y FURIOSOS ESPIAS AL VOLANTE 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e84dbaa4GeEGfQJJOAssPUi4u1yeaaKFfhrwhpt5djqt8
+
+#EXTINF:-1,RAPIDOS Y FURIOSOS 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e81s-xJ9lEat8i_zQlD4iwtviRSlGr9z4VP3XBIM35_sW
+
+#EXTINF:-1,RAPIDOS Y FURIOSOS 1-5 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668d4PFNbMAmNq-wiDRAecLIJ
+
+#EXTINF:-1,RAPIDOS Y FURIOSOS 6-10 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668f0-4K8QcktOvm9oQ5i6LTQ
+
+#EXTINF:-1,CREPÚSCULO 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e81s-xJ9lEat8i_zQlD4iwtuWbCUH1Lc78PpQpbwq0O2_
+
+#EXTINF:-1,CINE 2025 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e81s-xJ9lEat8i_zQlD4iwtsHnmJvmsyfF_70amvDmfaI
+
+#EXTINF:-1,HARRY POTTER 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e84dbaa4GeEGfQJJOAssPUi5ustncaaLn7FCdXMJ_el6v
+
+#EXTINF:-1,AMAZON CINE 1 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e88qxrEv7lNFbRgkfV58g8Q0OZMrycl35J0uOASvc2ldg
+
+#EXTINF:-1,NETFLIX KIDS CINE 1 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAE9Lb183HPif0m3ASyzetmi
+
+#EXTINF:-1,NETFLIX KIDS CINE 2 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAEZDEygSguEy5MK5wAPifeg
+
+#EXTINF:-1,NETFLIX KIDS CINE 3 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAGlMEPgg73gOptyf5z6R98l
+
+#EXTINF:-1,NETFLIX CINE 1 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAH2SPVMayHOMGJ1azxtsrQ2
+
+#EXTINF:-1,NETFLIX CINE 2 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAFa_fzvaI-KbaUnmhLLG-TV
+
+#EXTINF:-1,NETFLIX CINE 3 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAHv8bdtfj0QFvlftxaKhwo9
+
+#EXTINF:-1,NETFLIX CINE 4 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAGdOaSXjjPUOFhEG_iPTxiV
+
+#EXTINF:-1,NETFLIX CINE 5 24/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAGdOaSXjjPUOFhEG_iPTxiV
+
+
+#EXTINF:-1,NETFLIX CINE 6 25/7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89h6ucOz4Ak5bhCXr16zwhL6sWFNJfwpkXjorlODxNy2
+
+
+#EXTINF:-1,NETFLIX CINE 7 24/7
+http://playtv44.com:8080/981196968/123456/217065
+
+
 
 #EXTINF:-1,LOS SIMPSONS 24/7
 https://user.tvcluboficial.com/live/m/m/357.m3u8
+
+
 
 EXTINF:-1,EL CHAVO 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-208219/playlist.m3u8
@@ -2694,6 +2798,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
