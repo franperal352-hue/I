@@ -63,7 +63,7 @@ https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e81s-xJ9lEat8i_zQlD4iwtviRSlG
 #EXTINF:-1 tvg-id="" xui-id="243423" tvg-logo="https://i.ibb.co/ZRrwNgS/resize.png" tvg-name="Rapido y Furioso (1-5)" group-title="24/7",Rapido y Furioso (1-5)
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668d4PFNbMAmNq-wiDRAecLIJ
 
-#EXTINF:-1,RAPIDOS Y FURIOSOS 6-10 24/7
+#EXTINF:-1 tvg-id="" xui-id="243424" tvg-logo="https://i.ibb.co/ZRrwNgS/resize.png" tvg-name="Rapido y Furioso (6-10)" group-title="24/7",Rapido y Furioso (6-10)
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668f0-4K8QcktOvm9oQ5i6LTQ
 
 #EXTINF:-1,CREPÚSCULO 24/7
@@ -2806,6 +2806,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
