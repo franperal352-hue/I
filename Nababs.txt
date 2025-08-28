@@ -59,8 +59,8 @@ https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e80thUSB2ZTspK7Jm6DugSvuYdCDH
 #EXTINF:-1 tvg-id="" xui-id="243623" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFvfqUNUSxjT3zDOKhryKiV9YEt.jpg" tvg-name="Merlina" group-title="24/7 III",Merlina
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e84dbaa4GeEGfQJJOAssPUi4SWZFbyFGl0J90kEvQspIt
 
-#EXTINF:-1,HIGH SCHOOL MUSICAL 24/7
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8394d4kmLskxFbNxUEHyfBvXLEyvos447Dc8bp-wVC50
+#EXTINF:-1 tvg-id="" xui-id="243592" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw8TxUHkeQH8GzSygewHkx05sQe.jpg" tvg-name="High School Musical: El Musical: La Serie" group-title="24/7 III",High School Musical: El Musical: La Serie
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8394d4kmLskxFbNxUEHyfBuqe5WtV-1vi1Q5ZaFiz07n
 
 #EXTINF:-1,RAPIDOS Y FURIOSOS ESPIAS AL VOLANTE 24/7
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e84dbaa4GeEGfQJJOAssPUi4u1yeaaKFfhrwhpt5djqt8
@@ -2814,6 +2814,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
