@@ -59,7 +59,7 @@ https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e84dbaa4GeEGfQJJOAssPUi4SWZFb
 #EXTINF:-1 tvg-id="" xui-id="243592" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw8TxUHkeQH8GzSygewHkx05sQe.jpg" tvg-name="High School Musical: El Musical: La Serie" group-title="24/7 III",High School Musical: El Musical: La Serie
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8394d4kmLskxFbNxUEHyfBuqe5WtV-1vi1Q5ZaFiz07n
 
-#EXTINF:-1,RAPIDOS Y FURIOSOS ESPIAS AL VOLANTE 24/7
+#EXTINF:-1 tvg-id="" xui-id="243636" tvg-logo="https://www.themoviedb.org/t/p/w500/uf0JXBxRRzp3r3jReOKrz9llYv8.jpg" tvg-name="Rápidos y furiosos: Espías al volante" group-title="24/7 III",Rápidos y furiosos: Espías al volante
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e84dbaa4GeEGfQJJOAssPUi4u1yeaaKFfhrwhpt5djqt8
 
 #EXTINF:-1,RAPIDOS Y FURIOSOS 24/7
@@ -2811,6 +2811,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
