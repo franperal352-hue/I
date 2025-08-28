@@ -6,6 +6,8 @@
 #EXTINF:-1,CANAL 12 
 https://g2.vxral-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
 
+#EXTINF:-1,https://live.eu-north-1b.cf.dmcdn.net/sec2(9gJLFBR6lvM5pCplvATKJiKTtpdcfIbLTPDj0V1Ilcqkytd9ABkeoOeJrBQDuRphwDwFyL2SAj-1M4RqVea5Ste_goTk-hGI7iA1d5uUP-5DiRMpsqbY0sQMKgVp0vT5)/dm/3/x7zh5gd/s/live-720.m3u8#cell=lcf-eu-north-1b
+
 
 
 #EXTINF:-1 tvg-logo="https://misionescuatro.com/wp-content/themes/misiones-cuatro-2018/img/logo.svg?x19163" group-title="MISIONES", MISIONES CUATRO MISIONES
@@ -2851,6 +2853,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
