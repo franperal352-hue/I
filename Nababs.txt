@@ -20,13 +20,14 @@ https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668e2JQPY
 #EXTINF:-1 tvg-id="" xui-id="243451" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" tvg-name="Bob Esponja Pantalones Cuadrados" group-title="24/7 II",Bob Esponja Pantalones Cuadrados
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668duFBZ_01Ye53p72DRKmyip
 
-
-
-#EXTINF:-1,CASO CERRADO PARTE1 24/7
+#EXTINF:-1 tvg-id="" xui-id="243320" tvg-logo="https://basededatos.atrae.org/media/works/rEkUpvQWa4jy5C2VmYzHCb7W1AK.jpg" tvg-name="Caso Cerrado (parte 1)" group-title="24/7",Caso Cerrado (parte 1)
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e80thUSB2ZTspK7Jm6DugSvt1IuBx2ux7_rY64chpkYBn
 
-#EXTINF:-1,CASO CERRADO PARTE2 24/7
+#EXTINF:-1 tvg-id="" xui-id="243321" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmZjOWI1YjQtZGEwYy00YWE5LWIyZWMtMDBkYmE2ODA3Nzg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-name="Caso Cerrado (parte 2)" group-title="24/7",Caso Cerrado (parte 2)
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e80thUSB2ZTspK7Jm6DugSvsLHuwSBAYEl00qJCsVIjX8
+
+
+
 
 #EXTINF:-1 tvg-id="" xui-id="243426" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5Yiep9EwcQgLolg013ETBVqHxuD.jpg" tvg-name="Ricky Morty" group-title="24/7",Ricky Morty
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668eTEIoe9S131sCaiaLgJU--
@@ -2811,6 +2812,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
