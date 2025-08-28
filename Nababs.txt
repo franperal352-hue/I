@@ -78,8 +78,9 @@ https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e81s-xJ9lEat8i_zQlD4iwtuWbCUH
 #EXTINF:-1 tvg-id="" xui-id="262153" tvg-logo="" tvg-name="CINE 2025" group-title="24/7 Películas",CINE 2025
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e81s-xJ9lEat8i_zQlD4iwtsHnmJvmsyfF_70amvDmfaI
 
-#EXTINF:-1 tvg-id="" xui-id="243688" tvg-logo="http://skytvpluzz.xyz:80/images/pq4dUiharjHbJ_yyPLv4lkRiJTiLLry-2ifJAL6xC7A8c6QKr5EeG1L-qZksy16s9Oow1jWeNzpYEkCb7LG9Gkpep8Rf-vafS8Mn2TFXbmE.png" tvg-name="HARRY POTTER 24/7" group-title="24/7 Películas",HARRY POTTER 24/7
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e84dbaa4GeEGfQJJOAssPUi5ustncaaLn7FCdXMJ_el6v
+#EXTINF:-1 tvg-id="" xui-id="243374" tvg-logo="https://logos-world.net/wp-content/uploads/2020/04/Harry-Potter-Logo.png" tvg-name="Harry Potter" group-title="24/7",Harry Potter
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e80thUSB2ZTspK7Jm6DugSvvwsUs5gMcL9awtoUYWlSVl
+
 
 #EXTINF:-1 tvg-id="" xui-id="120848" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Logo.png" tvg-name="AMAZON 3" group-title="Amazon - Netflix 24/7",AMAZON 3
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e88qxrEv7lNFbRgkfV58g8Q0OZMrycl35J0uOASvc2ldg
@@ -2813,6 +2814,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
