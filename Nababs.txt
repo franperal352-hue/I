@@ -19,7 +19,8 @@ http://172.93.102.119:8989/279025_.m3u8
 #EXTINF:-1,DRAGON BALL
 http://172.93.102.119:8989/279024_.m3u8
 
-#EXTINF:-1,MLS https://bfonz.envivotv.live/hotflix/mls1es/index.m3u8?token=623213ffee7c142dc6511efdc2d7b26d65d9de46-7ff03f91f4a01252b44cf362d0f862a8-1756353310-1756342510&remote=168.197.219.125
+#EXTINF:-1,MLSh
+ttp://flx.lat:8080//live/kp6032/ApgZR5ZSNR6y/318622.ts
 
 
 
@@ -2693,6 +2694,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
