@@ -1,6 +1,11 @@
 #EXTM3U refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/ar.xml.gz"
 "https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ar.xml.gz"
 
+
+#EXTINF:-1,PAW PAPAROL
+http://23.137.84.204:8080/981196968/123456/217067?token=HkMKVkBaFFhBA1dRVFNYUQEABFALBF1eVwcAWg8AUgEGVANWVwsHU1pEHkFFF0sBAww9WFcVXgpUBFEOAR5BTBYEEGhaVhRYQVAFVgRQG0hAFQtcVhVeCVIGVwsABFAJVE1AR1pWFFhBUgRRBFEbSEAEGkVWRQpZCWwFXUBbAFxHWwxCX14aQAwIbQdTDlgKBkNYEwIVSBoMQBEaDFwWVQlNQFVaRkQDFwMQWVgWVQhOQwFeRlkQShwRWxpjYUEVRwQaQ1ZcRQsMCBBZFBdKRk5DC0JsRQFLEUEEWVtXERtfQ1IVHxBbAxs5UQxYDVwHFggNX0AVXhpUEU0aW10NUBEOEGhDW1JAWUQGVQdaDUYf
+
+
 #EXTINF:-1,LOS SIMPSONS CAP NUEVOS 24/7
 https://tv.nube-x.xyz:8443/play/7XtIBagsJJ_BrOYm8vdLnWbpGWjUHdTewI9J0bZFmROI2I7NYPUZGJIY-iacFjG5
 
@@ -2798,6 +2803,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
