@@ -14,7 +14,8 @@ https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668etSSKx
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e80thUSB2ZTspK7Jm6DugSvuZagGWcWEKsTUI6kxY8FGM
 
 #EXTINF:-1,BOB ESPONJA 24/7
-https://tv.nube-x.xyz:8443/play/7XtIBagsJJ_BrOYm8vdLnd3dOXM9DC02Yq-r4t5r_eWds9ksB8YgA4ghnS55O2rF
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e80thUSB2ZTspK7Jm6DugSvtlJw8klkVU8sGnjg2UoE15
+
 
 #EXTINF:-1,CASO CERRADO PARTE1 24/7
 https://tv.nube-x.xyz:8443/play/7XtIBagsJJ_BrOYm8vdLnd3dOXM9DC02Yq-r4t5r_eX6qg3MkH64tvp8E8_k1khU
@@ -2800,6 +2801,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
