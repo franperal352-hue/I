@@ -85,9 +85,9 @@ https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e80thUSB2ZTspK7Jm6DugSvvwsUs5
 #EXTINF:-1 tvg-id="" xui-id="120848" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Logo.png" tvg-name="AMAZON 3" group-title="Amazon - Netflix 24/7",AMAZON 3
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e88qxrEv7lNFbRgkfV58g8Q0OZMrycl35J0uOASvc2ldg
 
-
-#EXTINF:-1,NETFLIX KIDS CINE 1 24/7
+#EXTINF:-1 tvg-id="" xui-id="144990" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="NETFLIX KIDS 1" group-title="Amazon - Netflix 24/7",NETFLIX KIDS 1
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAE9Lb183HPif0m3ASyzetmi
+
 
 #EXTINF:-1,NETFLIX KIDS CINE 2 24/7
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAEZDEygSguEy5MK5wAPifeg
@@ -2814,6 +2814,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
