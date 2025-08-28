@@ -49,9 +49,10 @@ https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668f0gRa4
 #EXTINF:-1 tvg-id="" xui-id="243457" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="CANAL DISNEY 2 24-7" group-title="24/7 II",CANAL DISNEY 2 24-7
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668ePw3ye1d-H-KbNNdxneXD6
 
-
-#EXTINF:-1,THE BOYS 24/7
+#EXTINF:-1 tvg-id="" xui-id="243645" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Aes6nbECN7j61PEnPmz3eQKE0x.jpg" tvg-name="The Boys" group-title="24/7 III",The Boys
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e84dbaa4GeEGfQJJOAssPUi4cBN6zFmsoljg9aMP0CXO_
+
+
 
 #EXTINF:-1,LA CASA DEL DRAGON 24/7
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e84dbaa4GeEGfQJJOAssPUi6NFhcHKT5QpV6979YcxTR7
@@ -2814,6 +2815,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
