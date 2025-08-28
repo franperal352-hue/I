@@ -74,7 +74,8 @@ https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668f0-4K8
 #EXTINF:-1 tvg-id="" xui-id="262151" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png?resize=696,392&ssl=1" tvg-name="CREPUSCULO" group-title="24/7 Películas",CREPUSCULO
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e81s-xJ9lEat8i_zQlD4iwtuWbCUH1Lc78PpQpbwq0O2_
 
-#EXTINF:-1,CINE 2025 24/7
+
+#EXTINF:-1 tvg-id="" xui-id="262153" tvg-logo="" tvg-name="CINE 2025" group-title="24/7 Películas",CINE 2025
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e81s-xJ9lEat8i_zQlD4iwtsHnmJvmsyfF_70amvDmfaI
 
 #EXTINF:-1,HARRY POTTER 24/7
@@ -2811,6 +2812,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
