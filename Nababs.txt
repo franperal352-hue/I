@@ -94,30 +94,45 @@ https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAEZDEyg
 #EXTINF:-1 tvg-id="" xui-id="144992" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="NETFLIX KIDS 3" group-title="Amazon - Netflix 24/7",NETFLIX KIDS 3
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAGlMEPgg73gOptyf5z6R98l
 
-
-#EXTINF:-1,NETFLIX CINE 1 24/7
+#EXTINF:-1 tvg-id="" xui-id="144993" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 1" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 1
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAH2SPVMayHOMGJ1azxtsrQ2
 
-#EXTINF:-1,NETFLIX CINE 2 24/7
+
+#EXTINF:-1 tvg-id="" xui-id="144994" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 2" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 2
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAFa_fzvaI-KbaUnmhLLG-TV
 
-#EXTINF:-1,NETFLIX CINE 3 24/7
+
+#EXTINF:-1 tvg-id="" xui-id="144995" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 3" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 3
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAGRyg3KjTXp7wmI0DysovM_
+
+
+
+#EXTINF:-1 tvg-id="" xui-id="144996" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 4" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 4
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAHradI9O6KYIx3m6pRWApSc
+
+
+
+#EXTINF:-1 tvg-id="" xui-id="144997" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 5" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 5
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAHv8bdtfj0QFvlftxaKhwo9
 
-#EXTINF:-1,NETFLIX CINE 4 24/7
+
+#EXTINF:-1 tvg-id="" xui-
+id="144998" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 6" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 6
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAGdOaSXjjPUOFhEG_iPTxiV
 
-#EXTINF:-1,NETFLIX CINE 5 24/7
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAGdOaSXjjPUOFhEG_iPTxiV
 
 
-#EXTINF:-1,NETFLIX CINE 6 25/7
+#EXTINF:-1 tvg-id="" xui-id="144999" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 7" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 7
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAH_qEii3I7AIsy4jjAblwMs
+
+
+
+#EXTINF:-1 tvg-id="" xui-id="145000" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 8" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 8
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89h6ucOz4Ak5bhCXr16zwhL6sWFNJfwpkXjorlODxNy2
 
 
-#EXTINF:-1,NETFLIX CINE 7 24/7
-http://playtv44.com:8080/981196968/123456/217065
-
+#EXTINF:-1 tvg-id="" xui-id="145001" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 9" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 9
+https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89h6ucOz4Ak5bhCXr16zwhKUx-UqZ3dgvFaWO5f5fwpl
 
 
 #EXTINF:-1,LOS SIMPSONS 24/7
@@ -2814,6 +2829,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
