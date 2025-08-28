@@ -285,191 +285,254 @@ https://g2.vxral-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Pl
  #EXTINF:-1,SEX AND THE CITY 24/7
 http://tv.zapping.life:8080/live/MarlyTobonIPTVCLUB/EsXeUfvwQs/94864.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/c4k0DZqr/Proyectox-24-7seri3s-9.png" tvg-name="24/ The Walking Dead Daryl Dixon" group-title="24/7 SERIES",24/ The Walking Dead Daryl Dixon
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94829
 
-#EXTINF:-1,24HS 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/kg7j0d7d/Proyectox-Cinemax-13.png" tvg-name="24/7 24H" group-title="24/7 SERIES",24/7 24H
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/95593
 
-
-
-#EXTINF:-1,9-1-1 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KcgsLN0C/Proyectox-Cinemax-14.png" tvg-name="24/7 9-1-1 (e)" group-title="24/7 SERIES",24/7 9-1-1 (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94915
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jd03h792/Proyectox-Cinemax-15.png" tvg-name="24/7 Better Call Saul (e)" group-title="24/7 SERIES",24/7 Better Call Saul (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94916
 
-
-#EXTINF:-1,BLACK SAILS 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/gkVSt0FD/Proyectox-Cinemax-16.png" tvg-name="24/7 Black Sails" group-title="24/7 SERIES",24/7 Black Sails
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94812
 
-
-
-#EXTINF:-1,BLINDSPOT 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/y8nfBrN3/Proyectox-Cinemax-17.png" tvg-name="24/7 Blindspot (e)" group-title="24/7 SERIES",24/7 Blindspot (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94917
 
-
-
-#EXTINF:-1,BOARDWALK EMPIRE 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Jhnphcy6/Proyectox-Cinemax-18.png" tvg-name="24/7 Boardwalk Empire (e)" group-title="24/7 SERIES",24/7 Boardwalk Empire (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94918
 
-
-
-#EXTINF:-1,BONES 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/g0TNLX8Y/Proyectox-Cinemax-19.png" tvg-name="24/7 Bones (e)" group-title="24/7 SERIES",24/7 Bones (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94919
 
-
-
-#EXTINF:-1,BREAKING BAD 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RFJG7SLw/Proyectox-Cinemax-20.png" tvg-name="24/7 Breaking Bad (e)" group-title="24/7 SERIES",24/7 Breaking Bad (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94920
 
-
-
-#EXTINF:-1,CHICAGO FIRE 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Gt0KzWXV/Proyectox-Cinemax-21.png" tvg-name="24/7 Chicago Fire (e)" group-title="24/7 SERIES",24/7 Chicago Fire (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94921
 
-
-#EXTINF:-1,CHICAGO MED
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qq8LF1YR/Proyectox-Cinemax-22.png" tvg-name="24/7 Chicago Med (e)" group-title="24/7 SERIES",24/7 Chicago Med (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94922
 
-
-
-#EXTINF:-1,CHICAGO PD 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/L4fNhsXp/Proyectox-Cinemax-23.png" tvg-name="24/7 Chicago P.D (e)" group-title="24/7 SERIES",24/7 Chicago P.D (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94987
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/gkW4hPX6/Proyectox-Cinemax-24.png" tvg-name="24/7 Cobra Kai" group-title="24/7 SERIES",24/7 Cobra Kai
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94813
 
-
-#EXTINF:-1,CRIMINAL MINDS 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSZzCcB0/Proyectox-Cinemax-26.png" tvg-name="24/7 Criminal Minds (e)" group-title="24/7 SERIES",24/7 Criminal Minds (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/95604
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MKm5brV3/Proyectox-Cinemax-25.png" tvg-name="24/7 CSI Las Vegas (e)" group-title="24/7 SERIES",24/7 CSI Las Vegas (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94926
 
-
-#EXTINF:-1,CSI MIAMI 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/XYN82cgj/Proyectox-Cinemax-27.png" tvg-name="24/7 CSI Miami (e)" group-title="24/7 SERIES",24/7 CSI Miami (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94924
 
-
-#EXTINF:-1,CSI NEW YORK 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nhd1Njdv/Proyectox-Cinemax-28.png" tvg-name="24/7 CSI New York (e)" group-title="24/7 SERIES",24/7 CSI New York (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94925
 
-
-
-#EXTINF:-1,DEXTER 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/6QyhKWSF/Proyectox-Cinemax-29.png" tvg-name="24/7 Dexter (e)" group-title="24/7 SERIES",24/7 Dexter (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94927
 
-
-#EXTINF:-1,EL CANDIDATO 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Qt7kB6jb/Proyectox-Cinemax-30.png" tvg-name="24/7 El Candidato (e)" group-title="24/7 SERIES",24/7 El Candidato (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94814
 
-
-#EXTINF:-1,EL MENTALISTA 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y0wNQ19w/Proyectox-Cinemax-31.png" tvg-name="24/7 El Mentalista (e)" group-title="24/7 SERIES",24/7 El Mentalista (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94937
 
-#EXTINF:-1,EL MUNDO OCULTO DE SABRINA 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qqXsw-zh6/Proyectox-Cinemax2.png" tvg-name="24/7 El mundo oculto de Sabrina (e)" group-title="24/7 SERIES",24/7 El mundo oculto de Sabrina (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94823
 
-#EXTINF:-1,EL SEÑOR DE LOS ANILLOS 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/dQ8jwSHQ/Proyectox-Cinemax2-1.png" tvg-name="24/7 El señor de los anillos: Los anillos de poder (e)" group-title="24/7 SERIES",24/7 El señor de los anillos: Los anillos de poder (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/95594
 
-#EXTINF:-1,ELITE 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jdtQ5QmH/Proyectox-Cinemax2-2.png" tvg-name="24/7 Elite (e)" group-title="24/7 SERIES",24/7 Elite (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/95605
 
-#EXTINF:-1,ERASE UNA VEZ 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/4NPvhHRr/Proyectox-Cinemax2-3.png" tvg-name="24/7 Erase una vez" group-title="24/7 SERIES",24/7 Erase una vez
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94836
 
-#EXTINF:-1,FALLING SEKIES 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YCS6N2pj/Proyectox-Cinemax2-4.png" tvg-name="24/7 Falling Skies" group-title="24/7 SERIES",24/7 Falling Skies
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94815
 
-#EXTINF:-1,FEAR THE WALKING 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/7ZQgKv69/Proyectox-Cinemax2-5.png" tvg-name="24/7 Fear the Walking Dead (e)" group-title="24/7 SERIES",24/7 Fear the Walking Dead (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94825
 
-#EXTINF:-1,GAME OF THRONES 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cJgfjDtS/Proyectox-Cinemax2-6.png" tvg-name="24/7 Game of Thrones (e)" group-title="24/7 SERIES",24/7 Game of Thrones (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94830
 
-#EXTINF:-1,HALO 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/1zkDZpDN/Proyectox-Cinemax2-7.png" tvg-name="24/7 Halo (e)" group-title="24/7 SERIES",24/7 Halo (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94831
 
-#EXTINF:-1,HAWAII 5.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/d1GrQL9N/Proyectox-Cinemax2-8.png" tvg-name="24/7 Hawaii 5.0 (e)" group-title="24/7 SERIES",24/7 Hawaii 5.0 (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94929
 
-#EXTINF:-1,HOMELAND 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/kMFKkRGB/Proyectox-Cinemax2-9.png" tvg-name="24/7 Heroes (e)" group-title="24/7 SERIES",24/7 Heroes (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94832
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rscWDMnV/Proyectox-Cinemax2-10.png" tvg-name="24/7 Homeland (e)" group-title="24/7 SERIES",24/7 Homeland (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94930
 
-#EXTINF:-1,LA CASA DE PAPEL 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/DyvLFf45/Proyectox-Cinemax2-11.png" tvg-name="24/7 La Casa de Papel" group-title="24/7 SERIES",24/7 La Casa de Papel
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/95606
 
-#EXTINF:-1,LA CASA DEL DRAGON 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vTzn9kkW/Proyectox-Cinemax2-12.png" tvg-name="24/7 La Casa del Dragon (e)" group-title="24/7 SERIES",24/7 La Casa del Dragon (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94834
 
-#EXTINF:-1,LA LEY Y LA ORDEN 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/0y3wppWH/Proyectox-Cinemax2-13.png" tvg-name="24/7 La Ley y el Orden (e)" group-title="24/7 SERIES",24/7 La Ley y el Orden (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94932
 
-#EXTINF:-1,LA MATERIA OSCURA 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/t476Zr5x/Proyectox-Cinemax2-14.png" tvg-name="24/7 La Materia Oscura (e)" group-title="24/7 SERIES",24/7 La Materia Oscura (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94833
 
-#EXTINF:-1,LOS 100 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rm2RHqL1/Proyectox-Cinemax2-15.png" tvg-name="24/7 Los 100 (e)" group-title="24/7 SERIES",24/7 Los 100 (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94841
 
-#EXTINF:-1,LOS EXPEDIENTES X 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SKMzVJHQ/Proyectox-Cinemax2-16.png" tvg-name="24/7 Los expedientes secretos X (e)" group-title="24/7 SERIES",24/7 Los expedientes secretos X (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94843
 
-#EXTINF:-1,LOST 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/d1RZPgqz/Proyectox-Cinemax2-17.png" tvg-name="24/7 Lost (e)" group-title="24/7 SERIES",24/7 Lost (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94816
 
-#EXTINF:-1,NCIS 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Hnpcp3nj/Proyectox-Cinemax2-18.png" tvg-name="24/7 NCIS (e)" group-title="24/7 SERIES",24/7 NCIS (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94933
 
-#EXTINF:-1,NCIS LOS ANGELES 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qqjtgn6w/Proyectox-Cinemax2-19.png" tvg-name="24/7 NCIS Los Angeles (e)" group-title="24/7 SERIES",24/7 NCIS Los Angeles (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94934
 
-#EXTINF:-1,PERDIDOS EN EL ESPACIO 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bYTS6XVn/Proyectox-Cinemax2-20.png" tvg-name="24/7 Perdidos en el Espacio" group-title="24/7 SERIES",24/7 Perdidos en el Espacio
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94835
 
-#EXTINF:-1,PRISION BREAK
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YqCGZXTs/Proyectox-Cinemax2-21.png" tvg-name="24/7 Prison Break (e)" group-title="24/7 SERIES",24/7 Prison Break (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94935
 
-#EXTINF:-1,S.W.A.T 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/3Jf4TXTJ/Proyectox-Cinemax2-22.png" tvg-name="24/7 S.W.A.T. (e)" group-title="24/7 SERIES",24/7 S.W.A.T. (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94936
 
-#EXTINF:-1,SEAL TEAM 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/L8rJqm5c/Proyectox-Cinemax2-24.png" tvg-name="24/7 SEAL Team (e)" group-title="24/7 SERIES",24/7 SEAL Team (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94817
 
-#EXTINF:-1,See 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cLKK4vx7/Proyectox-Cinemax2-25.png" tvg-name="24/7 See (e)" group-title="24/7 SERIES",24/7 See (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94837
 
-#EXTINF:-1,SPARTACUS 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/BvHXHR1X/Proyectox-Cinemax2-26.png" tvg-name="24/7 shogun 1980 (e)" group-title="24/7 SERIES",24/7 shogun 1980 (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94818
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MTwXDtyt/Proyectox-Cinemax2-28.png" tvg-name="24/7 Spartacus (e)" group-title="24/7 SERIES",24/7 Spartacus (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94819
 
-#EXTINF:-1,SQUID GAME 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MTYHrR5w/Proyectox-Cinemax2-29.png" tvg-name="24/7 Squid Game (e)" group-title="24/7 SERIES",24/7 Squid Game (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94820
 
-#EXTINF:-1,STAR TREK DISCOVERY 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cC4CqHkn/Proyectox-Cinemax2-30.png" tvg-name="24/7 Star Trek: Discovery" group-title="24/7 SERIES",24/7 Star Trek: Discovery
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94838
 
-#EXTINF:-1,STATION 19
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nrRznJNw/Proyectox-Cinemax2-31.png" tvg-name="24/7 Station 19 (e)" group-title="24/7 SERIES",24/7 Station 19 (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94821
 
-#EXTINF:-1,STRANGER THINGS 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nV0M44MY/Proyectox-24-7seri3s.png" tvg-name="24/7 Stranger Things (e)" group-title="24/7 SERIES",24/7 Stranger Things (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94839
 
-#EXTINF:-1,SUPERNATURAL 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RVhhXWHr/Proyectox-24-7seri3s-1.png" tvg-name="24/7 Supernatural (e)" group-title="24/7 SERIES",24/7 Supernatural (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94840
 
-#EXTINF:-1,THE MADALORIAN 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rFHmbq1D/Proyectox-24-7seri3s-2.png" tvg-name="24/7 The Mandalorian (e)" group-title="24/7 SERIES",24/7 The Mandalorian (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94842
-
-#EXTINF:-1,THE ROOKIE 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mgFDWKj8/Proyectox-24-7seri3s-3.png" tvg-name="24/7 The Rookie (e)" group-title="24/7 SERIES",24/7 The Rookie (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94938
 
-#EXTINF:-1,THE WALKING DEAD THE RETRUN 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/3w5w89b7/Proyectox-24-7seri3s-4.png" tvg-name="24/7 The Walking Dead" group-title="24/7 SERIES",24/7 The Walking Dead
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94826
 
-#EXTINF:-1,THE WALKING DEAD CITY 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jjHSLNGf/Proyectox-24-7seri3s-5.png" tvg-name="24/7 The Walking Dead Dead City (e)" group-title="24/7 SERIES",24/7 The Walking Dead Dead City (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94828
 
-#EXTINF:-1, THE WALKING DEAD WORLD BEYONO
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SsmN8Rhv/Proyectox-24-7seri3s-6.png" tvg-name="24/7 The Walking Dead World Beyond (e)" group-title="24/7 SERIES",24/7 The Walking Dead World Beyond (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94827
 
-#EXTINF:-1,VIKINGOS 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1JM40ML/Proyectox-24-7seri3s-7.png" tvg-name="24/7 Vikings (e)" group-title="24/7 SERIES",24/7 Vikings (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94822
 
-#EXTINF:-1,WHITE COLLAR 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/T1wd7shj/Proyectox-24-7seri3s-8.png" tvg-name="24/7 White Collar (e)" group-title="24/7 SERIES",24/7 White Collar (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94939
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fTccH6Gb/Proyectox-24-7-series-Animacion3-6.png" tvg-name="24/7 2 Broke Girls (e)" group-title="24/7 SERIES COMEDIAS",24/7 2 Broke Girls (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94845
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FFJgSfG3/Proyectox-24-7-series-Animacion3-7.png" tvg-name="24/7 40-20" group-title="24/7 SERIES COMEDIAS",24/7 40-20
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94844
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/x19KB6Q3/Proyectox-24-7-series-Animacion3-8.png" tvg-name="24/7 Aida (e)" group-title="24/7 SERIES COMEDIAS",24/7 Aida (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/95595
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RV51LMb8/Proyectox-24-7-series-Animacion3-9.png" tvg-name="24/7 Aqui no hay quien viva (e)" group-title="24/7 SERIES COMEDIAS",24/7 Aqui no hay quien viva (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/95596
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/3wR2xWdy/Proyectox-24-7-series-Animacion3-10.png" tvg-name="24/7 Brooklyn Nine-Nine (e)" group-title="24/7 SERIES COMEDIAS",24/7 Brooklyn Nine-Nine (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94848
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/K8QnbtvS/Proyectox-24-7-series-Animacion3-11.png" tvg-name="24/7 Club de Cuervos (e)" group-title="24/7 SERIES COMEDIAS",24/7 Club de Cuervos (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94849
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hG5Tzgd2/Proyectox-24-7-series-Animacion3-12.png" tvg-name="24/7 Comedy Central Stand-Up (e)" group-title="24/7 SERIES COMEDIAS",24/7 Comedy Central Stand-Up (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/95597
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RFJfw814/Proyectox-24-7-series-Animacion3-13.png" tvg-name="24/7 Como conocí a tu madre" group-title="24/7 SERIES COMEDIAS",24/7 Como conocí a tu madre
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94857
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PJmwRwF7/Proyectox-24-7-series-Animacion3-14.png" tvg-name="24/7 Con el culo al aire (e)" group-title="24/7 SERIES COMEDIAS",24/7 Con el culo al aire (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94851
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y0cFR38g/Proyectox-24-7-series-Animacion3-15.png" tvg-name="24/7 El Chavo del Ocho HQ (e)" group-title="24/7 SERIES COMEDIAS",24/7 El Chavo del Ocho HQ (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94852
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/7Yk7TK5r/Proyectox-24-7-series-Animacion3-16.png" tvg-name="24/7 El Juego de las Llaves (e)" group-title="24/7 SERIES COMEDIAS",24/7 El Juego de las Llaves (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94853
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KcLBz6v5/Proyectox-24-7-series-Animacion3-17.png" tvg-name="24/7 Friends (e)" group-title="24/7 SERIES COMEDIAS",24/7 Friends (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94854
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mgZHmh3d/Proyectox-24-7-series-Animacion3-18.png" tvg-name="24/7 Full House (e)" group-title="24/7 SERIES COMEDIAS",24/7 Full House (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94855
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pXJjQKjh/Proyectox-24-7-series-Animacion3-19.png" tvg-name="24/7 Glee (e)" group-title="24/7 SERIES COMEDIAS",24/7 Glee (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/95598
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cJr8Njbw/Proyectox-24-7-series-Animacion3-20.png" tvg-name="24/7 La familia P. Luche (e)" group-title="24/7 SERIES COMEDIAS",24/7 La familia P. Luche (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94859
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rwht3cQq/Proyectox-24-7-series-Animacion3-21.png" tvg-name="24/7 La que se avecina (e)" group-title="24/7 SERIES COMEDIAS",24/7 La que se avecina (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94858
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/G2D84Drp/Proyectox-24-7-series-Animacion3-22.png" tvg-name="24/7 Malcolm in the Middle (e)" group-title="24/7 SERIES COMEDIAS",24/7 Malcolm in the Middle (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94860
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/TPF529zS/Proyectox-24-7-series-Animacion3-23.png" tvg-name="24/7 Matrimonio con hijos" group-title="24/7 SERIES COMEDIAS",24/7 Matrimonio con hijos
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94861
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y0w4YSqz/Proyectox-24-7-series-Animacion3-24.png" tvg-name="24/7 Scrubs (e)" group-title="24/7 SERIES COMEDIAS",24/7 Scrubs (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/95599
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y0w4YSqz/Proyectox-24-7-series-Animacion3-24.png" tvg-name="24/7 Sex and the City" group-title="24/7 SERIES COMEDIAS",24/7 Sex and the City
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94864
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jqznKyZg/Proyectox-24-7-series-Animacion3-26.png" tvg-name="24/7 Shameless (e)" group-title="24/7 SERIES COMEDIAS",24/7 Shameless (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94865
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KvfK3xXt/Proyectox-24-7-series-Animacion3-27.png" tvg-name="24/7 Superstore (e)" group-title="24/7 SERIES COMEDIAS",24/7 Superstore (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94866
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PrTpqN7t/Proyectox-24-7-series-Animacion3-28.png" tvg-name="24/7 The Big Bang Theory (e)" group-title="24/7 SERIES COMEDIAS",24/7 The Big Bang Theory (e)
+http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94867
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vZm4WkMk/Proyectox-24-7-series-Animacion3-29.png" tvg-name="24/7 The Fresh Prince of Bel Air (e)" group-title="24/7 SERIES COMEDIAS",24/7 The Fresh Prince of Bel Air (e)
+http://tv.zapping.lif
+
 
 #EXTINF:-1,LOS SIMPSONS 24/7
 http://tv.zapping.life:8080/live/MarlyTobonIPTVCLUB/EsXeUfvwQs/94883.m3u8
@@ -2829,6 +2892,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
