@@ -62,7 +62,7 @@ https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8394d4kmLskxFbNxUEHyfBuqe5Wt
 #EXTINF:-1 tvg-id="" xui-id="243636" tvg-logo="https://www.themoviedb.org/t/p/w500/uf0JXBxRRzp3r3jReOKrz9llYv8.jpg" tvg-name="Rápidos y furiosos: Espías al volante" group-title="24/7 III",Rápidos y furiosos: Espías al volante
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e84dbaa4GeEGfQJJOAssPUi4u1yeaaKFfhrwhpt5djqt8
 
-#EXTINF:-1,RAPIDOS Y FURIOSOS 24/7
+#EXTINF:-1 tvg-id="" xui-id="262152" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png?resize=696,392&ssl=1" tvg-name="Rapido y furioso" group-title="24/7 Películas",Rapido y furioso
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e81s-xJ9lEat8i_zQlD4iwtviRSlGr9z4VP3XBIM35_sW
 
 #EXTINF:-1 tvg-id="" xui-id="243423" tvg-logo="https://i.ibb.co/ZRrwNgS/resize.png" tvg-name="Rapido y Furioso (1-5)" group-title="24/7",Rapido y Furioso (1-5)
@@ -2811,6 +2811,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
