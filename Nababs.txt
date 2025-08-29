@@ -7,35 +7,13 @@ http://newoneblack.site:80/0147657/8433224/438038
 #EXTINF:-1, AGENDA DE LUCHAS UFC
 http://newoneblack.site:80/0147657/8433224/765673
 
-#EXTINF:-1, APPLE TV BRASIL 1
-http://levelxpt.lat:80/090720634/959666174/172891.ts
-
-#EXTINF:-1,APPLE TV BRASIL 2
-http://levelxpt.lat:80/090720634/959666174/172892.ts
-
-
-#EXTINF:-1,FURACÃO LIVE
-http://levelxpt.lat:80/090720634/959666174/172896.ts
-
-#EXTINF:-1,TVA SPORTS FHD
-http://levelxpt.lat:80/090720634/959666174/369837.ts
-
-#EXTINF:-1,TVE BAHIA
-http://levelxpt.lat:80/090720634/959666174/172893.ts
-
-#EXTINF:-1,ZAPPING SPORTS HD
-http://levelxpt.lat:80/090720634/959666174/1544879.ts
-
-
-#EXTINF:-1,Flograppling
-http://levelxpt.lat:80/090720634/959666174/5068660.ts
 
 
 #EXTINF:-1,CANAL 12 
 https://g2.vxral-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1,MISIONES ONLINE
-https://live.eu-north-1b.cf.dmcdn.net/sec2(fnljJny92Z1CEa4MPgKLROYy44Esmuye9RhwVDgfZrU45FrMdzXuyAaL3SnDT36KK_65OVFW67mUlcfGZ-9_Ck1aZWZsGxO2oWFWwLfH4j2VJFdG53MqOlUk8hxQ1THf)/dm/3/x7zh5gd/s/live-720.m3u8#cell=lcf-eu-north-1b
+https://live.eu-north-1a.cf.dmcdn.net/sec2(AWcCpNxpBwbzAWsGT90mHcOTYmfA1x3SFv12XRJZuAEEKLe4wbCyrY2978rTn_96xA5ANN7XGXCuviq7uv6HalDqP816jXEUtmCJOiYl0IA-wJ-1iMeL6M1k4bx56w-m)/dm/3/x7zh5gd/s/live-720.m3u8#cell=lcf-eu-north-1a
 
 
 
@@ -5503,6 +5481,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
