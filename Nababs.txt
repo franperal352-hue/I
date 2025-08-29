@@ -291,7 +291,8 @@ http://planettvweb.com:8091/JavierHndez/AFur2741a/12043
 #EXTINF:-1,DAZN 2 FHD
 http://planettvweb.com:8091/JavierHndez/AFur2741a/11975
 
-
+#EXTINF:-1 DAZN 4 FHD
+http://planettvweb.com:8091/JavierHndez/AFur2741a/19995
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2890,6 +2891,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
