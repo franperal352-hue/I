@@ -55,7 +55,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 https://g2.vxral-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1,MISIONES ONLINE
-https://www.dailymotion.com/cdn/live/video/x7zh5gd.m3u8?sec=y32ofDYJvtVEq4AVv8ecJkUIxyYvr3KeMqn5cAxx9FN0ZG9dxW6UnxqLp_rutehjltX4W4LpKGGHXlAD-6y4yco0WQ6W5CWLPjmPOIjJY7NguYusdBW_Csowl9Am9w1I&dmTs=590107&dmV1st=23c21541-8bf8-e268-0587-e91ecc2fd14b
+https://live.eu-north-1b.cf.dmcdn.net/sec2(fnljJny92Z1CEa4MPgKLROYy44Esmuye9RhwVDgfZrU45FrMdzXuyAaL3SnDT36KK_65OVFW67mUlcfGZ-9_Ck1aZWZsGxO2oWFWwLfH4j2VJFdG53MqOlUk8hxQ1THf)/dm/3/x7zh5gd/s/live-720.m3u8#cell=lcf-eu-north-1b
 
 
 
@@ -2939,6 +2939,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
