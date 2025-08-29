@@ -7,9 +7,11 @@ http://newoneblack.site:80/0147657/8433224/438038
 #EXTINF:-1, AGENDA DE LUCHAS UFC
 http://newoneblack.site:80/0147657/8433224/765673
 
-#EXTINF:-1 tvg-name="APPLE TV 1" tvg-logo="https://logospng.org/download/apple-tv/apple-tv-4096.png" group-title="⚽ESPORTES PPV",APPLE TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=
+#EXTINF:-1, APPLE TV BRASIL 1
 http://levelxpt.lat:80/090720634/959666174/172891.ts
+
+
+
 #EXTINF:-1 tvg-name="APPLE TV 2" tvg-logo="https://logospng.org/download/apple-tv/apple-tv-4096.png" group-title="⚽ESPORTES PPV",APPLE TV 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=
 http://levelxpt.lat:80/090720634/959666174/172892.ts
@@ -2918,6 +2920,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
