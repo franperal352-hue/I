@@ -226,6 +226,11 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11
 deportes (100xx)
 
 
+#EXTINF:-1,UFC FIGHT PASS
+http://aguacomgas.shop:80/clesio/27999683897/251923.ts
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1904c4d846a99e940903174bdbab74f0:08a4ca972cd037a1fe042515c310bfe1
 #EXTINF:-1 ch-number="100" tvg-id="DeporTV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/160/160/0/0/13868550072195.png" group-title="Deportes", DeporTV
@@ -5481,6 +5486,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
