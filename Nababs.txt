@@ -285,7 +285,8 @@ https://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc_C/Fox
 #EXTINF:-1,DAZN F1
 http://planettvweb.com:8091/JavierHndez/AFur2741a/16967
 
-
+#EXTINF:-1,DAZN 1 FHD
+http://planettvweb.com:8091/JavierHndez/AFur2741a/12043
 
 
 
@@ -2885,6 +2886,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png"
+
 
 
 
