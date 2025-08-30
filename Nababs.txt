@@ -108,6 +108,15 @@ https://use23.playlist.ttvnw.net/v1/playlist/Cs8EpugWTnsYUOG40UdoyBfA8frSfgYgAOh
 #KODIPROP:inputstream.adaptive.license_key=eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3
 https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd|User-Agent=Dalvik/2.1.0 (Linux; U; Android 10; AFTMM Build/PS7272.3809N)
 
+#EXTINF:-1 tvg-chno="1242" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LUZU!.png?raw=true" group-title="SAO IPTV", LUZU TV
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0104
+
+#EXTINF:-1 tvg-chno="1242" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LUZU!.png?raw=true" group-title="SAO IPTV", LUZU TV
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0092
+
+
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5501,6 +5510,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
