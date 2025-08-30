@@ -7,6 +7,11 @@ http://newoneblack.site:80/0147657/8433224/438038
 #EXTINF:-1, AGENDA DE LUCHAS UFC
 http://newoneblack.site:80/0147657/8433224/765673
 
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3bceb6f1-072f-4b0b-8e89-e15c0cfb671f-profile_image-70x70.png", Luzu TV
+https://api.m3use.projectmoose.xyz/m3u/maidanax/Youtube/6842f0f17ffebda16d033e2b.m3u8?uid=maidanax&pkey=TP74FcqY
+
+
+
 
 
 
@@ -5495,6 +5500,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
