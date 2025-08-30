@@ -9,7 +9,7 @@ http://newoneblack.site:80/0147657/8433224/765673
 
 
 #EXTINF:-1,LUZU TV STREAM
-https://usher.ttvnw.net/api/channel/hls/luzu_tv.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiYTc3NmM3ODEtZDI3NC00MGYwLTk2NTUtMTgxMWUxNGRjMGVkIn0%3D&allow_source=true&browser_family=chrome&browser_version=139.0&cdm=wv&enable_score=true&fast_bread=true&include_unavailable=true&os_name=Android&os_version=15&p=655291&platform=androidtv_web_tv&play_session_id=3b0aea26e622b6cd44e219aaade49ddb&player_backend=mediaplayer&player_version=1.44.0-rc.1.1&playlist_include_framerate=true&reassignments_supported=true&sig=fba1febb6173fce6f86b58618398dbab11e65b89&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22luzu_tv%22%2C%22channel_id%22%3A601665123%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22H1F9WL0b3bGvHLi3gFNEXDC5a8Fd9O02%22%2C%22expires%22%3A1756516108%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22channel_home_live%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22168.197.219.125%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%2
+https://sae13.playlist.ttvnw.net/v1/playlist/CtQGXC6Z5d0_Mx043DFJxsY7aEdI63KJUNXASHz98oEjzHaLeEasoxFL8lQS5IEgJpXE6_8DkrZd8HVLxfET62s2zVabTAi34Uut3AzNAwG4tKvKnq4iaI7RO_AtDPRllOdd0MCrJIK3mgUhPYdXRtWj1H3IsXCqJzigdmlG8potfUFrm4_X2ywZ22IhWVTjEpQs6OyuTPPWGXCbeQhOpc8-QppbbWsgnOvMCQkeTt3wxG9YNoKLHx-3QCbi0PjEg9O4cd0zRPnab-8ZTvMrE4w82h8SFPzxShRkiu40k3BFt7knyC7IjJNxq1bLeR9RsBFHKATaZQFBtNQhA_wJtVwPzmnuv-Ucu_I7vU6NwkFEbsKGMAQhejpk3WAr6SXjAxGQO12C50HhHGEHj2MKR3EJ28PIGXdCr7pr-SzkNvYq8Xe_TaU0wWv_p2mihajVrnR1eQsfnJavtuXuKDdco8ahfsO8hNjBD92pKN7npbSVoB5JvSx0ct9JX5Gs8eBeBfCaIkZFDyGUEh5AtHTJ60CgU0aslxYhTupUvCcuNvBMhxTxiS4OJe0qVVj8QVt_HpfRRJrUKq-cugiHbMlKJbgJAqfKEcwzr7xsCnf-xO6nEke7x6k1nUp-CZl2vBNt5Od4UaMXl3uO2dEQJpoDZmjToykWdhpwDUOPv6kIR73hllSjmB4T7dIRrMJ119LI5nPAv3gtNfJTTy3-Nk90AqzLAujCo_Mo_UVd70b7une0b58NmNhBjqYWKhf6vgVLc2TWtEHue89RF_kOYO7rmqn93-AiNQTDI3hVzC4IlaVhaXzwkRhc_GEriXsr_GnSs0NNbNE767wiLfeAHdSP3ldw0Imq_YKIDjq-W3lLDMz7e97HzjnKj7Em81Rtfo-vYhUo5rjZyKgM0hcEidwd9IiR0nyrbwUvCTCMYiOx8Vs3q7tf-efP830bw1YAVylT7WiN78rOxvOO2YkMSPc5bX55V48PVcxCX04cPbaHu6vnCn93SPQpmnZv0X8n3MmQgn4Jz_6rh92no4ZMVXDLGo6T2WgMI1P6dITYuIzNrdEqzLzruIP77-4i6BI6o3c-bkuQXeMcHDSsFWcLJcZTMtx4zCXb3g1VLSy2X7pYqbuWjGUlp7iCGgwaTTWtJ4GMbgHaUXsgASoJdXMtZWFzdC0yMI0N.m3u8
 
 
 #EXTINF:-1,URBAN FM STREAM
@@ -5496,6 +5496,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
