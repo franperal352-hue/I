@@ -7,18 +7,6 @@ http://newoneblack.site:80/0147657/8433224/438038
 #EXTINF:-1, AGENDA DE LUCHAS UFC
 http://newoneblack.site:80/0147657/8433224/765673
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3bceb6f1-072f-4b0b-8e89-e15c0cfb671f-profile_image-70x70.png", Luzu TV
-https://api.m3use.projectmoose.xyz/m3u/maidanax/Youtube/6842f0f17ffebda16d033e2b.m3u8?uid=maidanax&pkey=TP74FcqY
-
-
-
-
-
-
-
-#EXTINF:-1,URBAN FM STREAM
-https://sae11.playlist.ttvnw.net/v1/playlist/CtUGxeK5br3m3xL93h0u8YysHG3LFkZATMuywlwc_Nx3TKO4TPR0ubRbQ3i96bqekMZGG5IFzC7rGQ5BT0uMJmzYtsZcrqkmfj4kHS0vN98HTyEkv_RqyvDb0Nv9WSWc0qJE6ojsE2ykjtYMYOpMXqNH8lNsPXwdmFPXRDYf2iiYPTCLJxshXW3u4U2CavXmaNVvDRtEGnNtd4zmTWuHPlR7sjyw2gbwMISZnUaalGrLgNaeDpU9do17V3e7B3IQovzdXqXiSQQp9GtlZapQf9pCrfDRTl-zDyzT2OOL6lwl1_YM7pKddpwjvAuo6AYziI0vGYY0zZXcQzGyTkJWtpP6MHhDb7Pbgt3gTKjp3YSn2Cxz1d3AYnjvC39tLNSGlox6DgYAJworq6bv1HvJTzbpWNsrzaR-KsFNA1_Qy3b1bS7nrbK7hqluf-LaZkyImC1TuQWjrct_lQyHAjjpRLjWS1XUHM-j7WTzbj2_DOBJEMln-LlE3RQwDyhd5L6lrc6KdYbCwshRfbpM-VJ4qgL8gTPsL4EUM7nOnEdRoe-Q79wGiuPIDb5rkI4-Yf9fsS0DgzhacEkM0o92qtFEn9MuJojIHFdoDNHHYDWkpMgfPpSqzfxoiQnLg8Mo6p4zx8Ua2eNClsN4kLgf0DkhqFWBdV72QdnmRCARRuY3NgZabdwmpGRXwdOlex_fri8KJzc57bD40r8zIxDyS74v_4FJuxSArtCFZ1Zh9pVd_-t4s6kBcxyrovpz-V--NYXtvFL184tq3NOtI2PT5Tcj2iiArahFfmiyPwtxsq24Zkgx7dzTgbAfJq6lx2usg5cJ9tNGGMx0o808b0WBKKkWXqx_la6x0P2KNs3f_2hglbQzfu8wNU-fvygXIrTIo70lZ9gUOe4UortPnvx5C5BJDEmfp7URWbhn9_XoVSV0xFjjuJmyGoYKvEsmhiziUaO-Fz7dEnXc0rjX_elbhIYtr8pBCEyAPunZ2Ek3KQc_B-7KKomVDSiWgTAQ3nU2DQ5j6Ks1XxJxxok9IPa8ntOWxJjY7yCHj445PmcV63w-jtY5jWo79usr3b2D3U3nGT_QwEjWAmZqtDR_bAd6UUNWhFSdsFHIFddpybM1njpGd1G5ymVy43ToMhoMx7mpMyGNfZ42btPCIAEqCXVzLWVhc3QtMjCNDQ.m3u8
-
 
 
 
@@ -107,6 +95,12 @@ https://live.enhdtv.com:8081/donnatvdigital/index.m3u8
 
 #EXTINF:-1,FM SHOW 
 https://streamlky.alsolnet.com/fmshow
+
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/16/16/16168f46-4590-492e-9cd3-e13e75b345c7.jpg", Urbana Play
+https://api.m3use.projectmoose.xyz/m3u/maidanax/Youtube/686edbd957b02c495332739c.m3u8?uid=maidanax&pkey=TP74FcqY
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5500,6 +5494,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
