@@ -2,8 +2,6 @@
 "https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/generate/duMu5WNPC9.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 
 
-#EXTINF:-1, TV MUNDIAL 1
-https://raw.githubusercontent.com/david2803/Iptv/main/tv0nl1n3.m3u
 
 
 #EXTINF:-1,CANAL 12 
@@ -1325,6 +1323,32 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+#EXTINF:-1 group-title="" tvg-logo="https://btv.mx/posters/1721260700494.png",Netflix 1
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168559/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 group-title="" tvg-logo="https://btv.mx/posters/1721260744228.png",Netflix 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168560/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 group-title="" tvg-logo="https://btv.mx/posters/1721261132530.png",Netflix 3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168561/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 group-title="" tvg-logo="https://btv.mx/posters/1721261150163.png",Netflix 4
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168562/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 group-title="" tvg-logo="https://btv.mx/posters/1721261186277.png",Netflix 5
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168563/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 group-title="" tvg-logo="https://btv.mx/posters/1721261206256.png",Netflix 6
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168564/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 group-title="" tvg-logo="https://btv.mx/posters/1721261225342.png",Netflix 7
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168565/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 group-title="" tvg-logo="https://btv.mx/posters/1721261283536.png",Netflix 10 Kids
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168566/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 group-title="" tvg-logo="https://btv.mx/posters/1721261305558.png",Netflix 11 Kids
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168567/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 group-title="" tvg-logo="https://btv.mx/posters/1721261440473.png",Netflix 18
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168569/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 group-title="" tvg-logo="https://btv.mx/posters/1721261460552.png",Netflix 20
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168570/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 group-title="" tvg-logo="https://btv.mx/posters/1721261401200.png",Netflix Adventure
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168568/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+
 
 #EXTINF:-1,CINE FAMILIAR 24/7
 http://planettvweb.com:8091/JavierHndez/AFur2741a/74606
@@ -5502,6 +5526,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
