@@ -2,6 +2,9 @@
 "https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/generate/duMu5WNPC9.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 
 
+#EXTINF:-1, TV MUNDIAL 1
+https://raw.githubusercontent.com/david2803/Iptv/main/tv0nl1n3.m3u
+
 
 #EXTINF:-1,CANAL 12 
 https://g2.vxral-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
@@ -5499,6 +5502,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
