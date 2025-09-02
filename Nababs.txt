@@ -1331,6 +1331,24 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" tvg-name="MIX HITS " group-title="EVENTOS 24/7",MIX HITS
 http://vmi1839636.contaboserver.net:2082/live/luissegundo/luis83821/48306.m3u8
 
+#EXTINF:-1,Hannah Montana 24/7
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/575640.ts
+
+#EXTINF:-1,LOS SIMPSONS NEW 24/7
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/575762.ts
+
+#EXTINF:-1,LA ROSA DE GUADALUPE 24/7 2
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/575649.ts
+
+#EXTINF:-1,PEPPA PIG 24/7
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/428507.ts
+
+#EXTINF:-1,CORAJE EL PERRO COBARDE 24/7
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/575715.ts
+
+#EXTINF:-1,CINEMA VIP 1
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235588.ts
+
 #EXTINF:-1,LA ROSA DE GUADALUPE 24/7
 http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/616009.ts
 
@@ -5512,6 +5530,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
