@@ -1465,8 +1465,7 @@ http://iptvglobal.site:80/Legazy/GHoRXksJZc/562848.ts
 #EXTINF:-1,Arcane
 http://iptvglobal.site:80/Legazy/GHoRXksJZc/562821.ts
 
-#EXTINF:-1,Paranormal Activity
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562787.ts
+#EXTINF:-1,Paranormal Activity 24/7 http://iptvglobal.site:80/Legazy/GHoRXksJZc/562787.ts
 
 #EXTINF:-1,CONCIERTOS
 http://iptvglobal.site:80/Legazy/GHoRXksJZc/637838.ts
@@ -5755,6 +5754,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
