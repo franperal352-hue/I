@@ -1331,6 +1331,92 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" tvg-name="MIX HITS " group-title="EVENTOS 24/7",MIX HITS
 http://vmi1839636.contaboserver.net:2082/live/luissegundo/luis83821/48306.m3u8
 
+#EXTINF:-1,50 CLÁSICO DE DISNEY 24/7
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235582.ts
+
+#EXTINF:-1,AMAZON PRIME 24/7 2
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235571.ts
+
+#EXTINF:-1,DISNEY PELÍCULAS 24/7 2
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235579.ts
+
+#EXTINF:-1,NETFLIX 24/7 PELICULAS
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235580.ts
+
+#EXTINF:-1, PARAMOUNT 24/7 PELICULAS
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235589.tsa
+
+#EXTINF:-1,STAR + PELICULAS 24/7
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235575.ts
+
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235588.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVm4H7A3EJjytLLTumli9Pyuw51AAnP974A&s" tvg-name="CINEMA VIP 02 FHD" group-title="EXTRA CINE",CINEMA VIP 02 FHD
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235574.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVm4H7A3EJjytLLTumli9Pyuw51AAnP974A&s" tvg-name="CINEMA VIP 03 FHD" group-title="EXTRA CINE",CINEMA VIP 03 FHD
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235584.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVm4H7A3EJjytLLTumli9Pyuw51AAnP974A&s" tvg-name="CINEMA VIP 04 FHD" group-title="EXTRA CINE",CINEMA VIP 04 FHD
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235583.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVm4H7A3EJjytLLTumli9Pyuw51AAnP974A&s" tvg-name="CINEMA VIP 05 FHD" group-title="EXTRA CINE",CINEMA VIP 05 FHD
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235573.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVm4H7A3EJjytLLTumli9Pyuw51AAnP974A&s" tvg-name="CINEMA VIP 06 FHD" group-title="EXTRA CINE",CINEMA VIP 06 FHD
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235561.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVm4H7A3EJjytLLTumli9Pyuw51AAnP974A&s" tvg-name="CINEMA VIP 07 FHD" group-title="EXTRA CINE",CINEMA VIP 07 FHD
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235565.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVm4H7A3EJjytLLTumli9Pyuw51AAnP974A&s" tvg-name="CINEMA VIP 08 FHD" group-title="EXTRA CINE",CINEMA VIP 08 FHD
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235578.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVm4H7A3EJjytLLTumli9Pyuw51AAnP974A&s" tvg-name="CINEMA VIP 09 FHD" group-title="EXTRA CINE",CINEMA VIP 09 FHD
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235569.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVm4H7A3EJjytLLTumli9Pyuw51AAnP974A&s" tvg-name="CINEMA VIP 10 FHD" group-title="EXTRA CINE",CINEMA VIP 10 FHD
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235564.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVm4H7A3EJjytLLTumli9Pyuw51AAnP974A&s" tvg-name="CINEMA VIP 13 FHD" group-title="EXTRA CINE",CINEMA VIP 13 FHD
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235576.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVm4H7A3EJjytLLTumli9Pyuw51AAnP974A&s" tvg-name="CINEMA VIP 14 FHD" group-title="EXTRA CINE",CINEMA VIP 14 FHD
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235585.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVm4H7A3EJjytLLTumli9Pyuw51AAnP974A&s" tvg-name="CINEMA VIP 15 FHD" group-title="EXTRA CINE",CINEMA VIP 15 FHD
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235567.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,Hannah Montana 24/7
 http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/575640.ts
 
@@ -5530,6 +5616,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
