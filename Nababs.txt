@@ -94,7 +94,7 @@ https://streamlky.alsolnet.com/fmshow
 https://use21.playlist.ttvnw.net/v1/playlist/Cs4E89p8FucX3cfs2tDvtNUMKxkVn8d8lrFodtkNuFu4wYJjiAc6Q-f-JLDJlB-g4-tGK_4MzxjvbFK2ekqDioZXSB9JBozqHhYxk8pyBYKZe67N5DLxEXtkYAT1UbhwPoOlx_QNoCyemBAMey2XyccyWCCzrMci2ZrnMT2CKesbKyzrIhUOort17FeacGNNyPhVvBxaMqxN6So95z8ScYeV-jWgMQ_dOe2gybZNQUWf_qwZJvnwdkplCA8Mx-DvUq2rPf-da0ezd4mjEmMMJzMgTu5A9LbB6dCCSNURSL9JES1P3CrOk8CbvR7FjuU0ot6zp8RKwJuB56xuDI08rcsvZ7Tcx7emyglshlvhwT_SC3lz16sBeDAQyrwvJTG-EOg4qpvLtNfTJSL6KFUfhc3NM3Md6JhIouldwMhk9RhRmbc_J2LOn7d3mX1lBoj3my0kkfBFUk8amC1JS0tpknaRQZ5vMvs0LD1w9EwGlTFRMwOxEY9HIi9aFtvZl2_KpyOVC5r9OHBOZ1VSE-e8KXij_-8jLY5YcX0g9PUe6Pj5SZepMUceswGrMRHFyUGOE8oPlyG36w2XQsDzGZ1XTqSbZLgSbhUUTWvHtBzFIBTMFKQolIEHTmvLBtIXWwhmmeXLCJ2CUGOvPHLddXwQkwWUPLFse8sGV5w9THshJNECDvVpf1G41PhRr8qZD0fwhdfaXN42SD7zZH-UqBBy7w26tHL4Dzsa77u1E7RA4xI8dT1ZRXK_YEBk73cvEcR5hWQNqQJPshRKWRkocFrqDp8aDPxJJafkVHv060deYiABKgl1cy1lYXN0LTIwjQ0.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg", Sindicato Vencido https://api.m3use.projectmoose.xyz/m3u/maidanax/Youtube/68b64376ddb1130a57892421.m3u8?uid=maidanax&pkey=TP74FcqY
+#EXTINF:-1,Sindicato Vencido https://api.m3use.projectmoose.xyz/m3u/maidanax/Youtube/68b64376ddb1130a57892421.m3u8?uid=maidanax&pkey=TP74FcqY
 
 
 
@@ -5510,6 +5510,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
