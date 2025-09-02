@@ -323,6 +323,11 @@ http://planettvweb.com:8091/JavierHndez/AFur2741a/11975
 #EXTINF:-1 DAZN 4 FHD
 http://planettvweb.com:8091/JavierHndez/AFur2741a/19995
 
+#EXTINF:-1,USA: UFC FIGHT PASS
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/9bb343b5-5c9d-4fbf-966e-5e0953f8fbef.m3u
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
@@ -1523,33 +1528,20 @@ http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235585.ts
 http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235567.ts
 
 
+#EXTINF:-1,Escobar El Patron del Mal24/7
+http://latinostvhd.club:25461/8642755377/437ca16994/43146
 
+#EXTINF:-1,Vis a Vis 24/7
+http://latinostvhd.club:25461/8642755377/437ca16994/117807
 
+#EXTINF:-1,CINE Cl4ro Cinema 24/7
+http://latinostvhd.club:25461/8642755377/437ca16994/283008
 
+#EXTINF:-1,CINE Cl4ro Cinema 24/7
+http://latinostvhd.club:25461/8642755377/437ca16994/283009
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,CINE Cl4ro Cinema 24/7
+http://latinostvhd.club:25461/8642755377/437ca16994/283010
 
 
 
@@ -5763,6 +5755,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
