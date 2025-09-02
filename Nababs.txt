@@ -1360,16 +1360,115 @@ http://iptvglobal.site:80/Legazy/GHoRXksJZc/563068.ts
 #EXTINF:-1,24/7 Rocky
 http://iptvglobal.site:80/Legazy/GHoRXksJZc/563063.ts
 
+#EXTINF:-1,24/7 Supervivencia al desnudo
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/563006.ts
+
+#EXTINF:-1,24/7 Master Chef Latino
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562995.ts
+
+#EXTINF:-1,DISNEY NUEVOS 24-7
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562962.ts
+
+#EXTINF:-1,Disney Nostalgia 2 24-7
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562961.ts
+
+#EXTINF:-1,Disney Nostalgia 24-7
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562960.ts
+
+#EXTINF:-1,DISNEY EXITOS 24-7
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562959.ts
+
+#EXTINF:-1,DISNEY EMOTIVOS 24-7
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562958.ts
+
+#EXTINF:-1,Disney Avengers 24-7
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562957.ts
+
+#EXTINF:-1,Disney 3 24-7
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562956.ts
+
+#EXTINF:-1,24/7 FBI HD
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562906.ts
+
+#EXTINF:-1,24/7 Caso Cerrado Familia 3
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562903.ts
+
+#EXTINF:-1,24/7  Caso Cerrado Familia 2
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562902.ts
+
+#EXTINF:-1,24/7| Caso Cerrado Familia Hd
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562900.ts
+
+#EXTINF:-1,24/7| Caso Cerado Inmigracion hd
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562886.ts
+
+#EXTINF:-1,24/7 DORA LA EXPLORADORA
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562885.ts
+
+#EXTINF:-1,24/7 Super Mario Bross 3
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562884.ts
+
+#EXTINF:-1,24/7 CATRASTROFES AEREOS HD
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562883.ts
+
+#EXTINF:-1,24/7 ALERTA AEROPUERTO HD
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562882.ts
 
 
+#EXTINF:-1,24/7 PLAY! DRAGON BALL GT
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562876.ts
+
+#EXTINF:-1,24/7 PINKI & CEREBRO
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562874.ts
 
 
+#EXTINF:-1,24/7 PLAY! CINEMA DRAGON BALL 2 HD
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562865.ts
+
+#EXTINF:-1,24/7 DRAGON BALL Z
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562864.ts
+
+#EXTINF:-1,24/7  DRAGON BALL SUPER
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562863.ts
+
+#EXTINF:-1,24/7 CINEMA DC COMICS HD
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562862.ts
+
+#EXTINF:-1,24/7 CINEMA DISNEY PIXAR 1 HD
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562859.ts
+
+#EXTINF:-1,24/7 CINEMA LEGO MOVIES HD
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562858.ts
 
 
+#EXTINF:-1,24/7 EXPONIENDO INFIELES BADABU
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562853.ts
+
+#EXTINF:-1,24/7 Luisito Comunica (Mexico) HD
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562852.ts
+
+#EXTINF:-1,24/7 El Bilardo El Doctor Del Futbol
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562850.ts
+
+#EXTINF:-1,24/7 Seleccion Argentina La Serie - Camino A Qatar
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562849.ts
+
+#EXTINF:-1,24/7 La Era De Escaloni
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562848.ts
 
 
+#EXTINF:-1,24/7 Arcane
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562821.ts
+
+#EXTINF:-1,24/7 Paranormal Activity
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/562787.ts
+
+#EXTINF:-1,CONCIERTOS
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/637838.ts
 
 
+#EXTINF:-1,24/7 | ROSA DE GUADALUPE
+http://iptvglobal.site:80/Legazy/GHoRXksJZc/533430.ts
 
 
 
@@ -5664,6 +5763,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
