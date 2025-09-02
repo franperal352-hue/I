@@ -1333,9 +1333,11 @@ http://vmi1839636.contaboserver.net:2082/live/luissegundo/luis83821/48306.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa_l_HgIPFf7CgNK2Z8bE_BKP0roGnvWLOnQ&s" tvg-name="24/7 Exponiendo Infieles" group-title="24/7 - PROGRAMAS DE TV",24/7 Exponiendo Infieles
+#EXTINF:-1,EXPONIENDO INFIELES 24/7
 http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/583782.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://miro.medium.com/v2/resize:fit:1358/1*KsDFanTRUB4bB96xVKYTbA.jpeg" tvg-name="24/7 Alerta Aeropuerto" group-title="24/7 - PROGRAMAS DE TV",24/7 Alerta Aeropuerto
+
+
+#EXTINF:-1,ALERTA AEROPUERTO 24/7
 http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/583792.ts
 
 
@@ -5625,6 +5627,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
