@@ -269,8 +269,7 @@ http://aguacomgas.shop:80/clesio/27999683897/251923.ts
 http://179.63.6.17:9000/play/a08e
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="ALTERNATIVOS", DSPORTS 2
-https://deportes2.ksdjugfsddeports.com:9091/17_/index.m3u8?token=793b647623d3083de3dd637beb14c30a790bb4ff-bc7c1be213b584ef2161d8e85c37a7b8-1756899027-1756877427&remote=168.197.219.125
-
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=33&f=.ts
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="ALTERNATIVOS", DSPORTS+ 
 https://bgfuzq.fubohd.com/dsports2/mono.m3u8?token=30c9a9a1cdba43243fc10a3c3668d3434a6b9aa8-59-1756891785-1756873785
@@ -5846,6 +5845,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
