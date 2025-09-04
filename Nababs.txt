@@ -269,11 +269,13 @@ http://aguacomgas.shop:80/clesio/27999683897/251923.ts
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/dsports1.png" group-title="DEPORTES", D Sports ar OP2
-###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"l48HPu4yYGo/JUQwb7Gnsw","kid":"PhwN2NlRM12djFNNKSd8kQ"}],"type":"temporary"}###
-###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey###
-https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
-###https://1059-vos.dtvott.com/DASH/manifest.mpd###
+
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"l48HPu4yYGo/JUQwb7Gnsw","kid":"PhwN2NlRM12djFNNKSd8kQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://rakuten-euronews-4-
+#EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/dsports1.png" group-title="DEPORTES", D Sports ar
+es.samsung.wurl.tv/playlist.m3u8
+https://1059-vos.dtvott.com/DASH/manifest.mpd
 
 
 
@@ -5918,6 +5920,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
