@@ -275,7 +275,14 @@ http://tv.zapping.life:8080/live/MarlyTobonIPTVCLUB/EsXeUfvwQs/9566.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="ALTERNATIVOS", DSPORTS+ 
 http://200.60.97.100:28888/play/a0c9/index.m3u8
 
+#EXTINF:-1 group-title="-",TyC Sports SD
+http://179.51.136.23:8000/play/a060
 
+#EXTINF:-1 group-title="-",TyC Sports
+http://186.148.196.82:8001/play/a00n
+
+#EXTINF:-1 group-title="-",TyC Sports (Op 2)
+http://181.13.252.102:8000/play/a02s
 
 
 
@@ -5905,6 +5912,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
