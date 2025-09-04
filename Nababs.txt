@@ -1412,6 +1412,10 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" tvg-name="MIX HITS " group-title="EVENTOS 24/7",MIX HITS
 http://vmi1839636.contaboserver.net:2082/live/luissegundo/luis83821/48306.m3u8
 
+#EXTINF:-1 ,24/7 La Hija de Dios: Dalma Maradona
+http://sudaka.link:25461/jotace62/KxU3de1Fr5/33566.ts
+
+
 
 #EXTINF:-1,24/7 N| Ecomoda
 http://gzytv.vip:8880/Mario0123/246813579/310
@@ -5845,6 +5849,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
