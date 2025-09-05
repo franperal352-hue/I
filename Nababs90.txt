@@ -334,10 +334,26 @@ https://cdn.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd?|refer
 #EXTINF:-1 ch-number="113" tvg-id="FOX Sports 3.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png" group-title="Deportes", FOX Sports 3
 https://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f9a70c294ea75346b991a61c55ff1d8f:7012eb6cd752998ee5cfbe68517491f5
-#EXTINF:-1 ch-number="122" tvg-id="America Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/368/CH_LOGO/160/160/0/0/446218910784.png" group-title="Deportes", América Sports
-https://cdn.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-name="TyC Sports.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="Deportes" ch-number="101" type="channel",TyC Sports
+http://francope.elementfx.com/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd?|Origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TyCSports2" tvg-name="TyC Sports 2 (Novedades)" tvg-logo="https://i.imgur.com/g0KRM2t.png" group-title="Deportes" ch-number="102" type="channel",TyC Sports 2
+http://francope.elementfx.com/live/TyCSports2
+
+#EXTINF:-1 tvg-id="TyCSports3" tvg-name="TyC Sports 3 (Novedades)" tvg-logo="https://i.imgur.com/g0KRM2t.png" group-title="Deportes" ch-number="103" type="channel",TyC Sports 3
+http://francope.elementfx.com/live/TyCSports3
+
+#EXTINF:-1 tvg-id="TyCSports4" tvg-name="TyC Sports 4 (Fútbol Oro)" tvg-logo="https://i.imgur.com/g0KRM2t.png" group-title="Deportes" ch-number="104" type="channel",TyC Sports 4
+http://francope.elementfx.com/live/TyCSports4
+
+#EXTINF:-1 tvg-id="TyCSports5" tvg-name="TyC Sports 5 (Polideportivo)" tvg-logo="https://i.imgur.com/g0KRM2t.png" group-title="Deportes" ch-number="105" type="channel",TyC Sports 5
+http://francope.elementfx.com/live/TyCSports5
+
+#EXTINF:-1 tvg-id="TyCSports6" tvg-name="TyC Sports 6 (Polideportivo)" tvg-logo="https://i.imgur.com/g0KRM2t.png" group-title="Deportes" ch-number="106" type="channel",TyC Sports 6
+http://francope.elementfx.com/live/TyCSports6
 
 #EXTINF:-1 group-title="TYC SPORTS PLAY" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 01
 https://ch01-04-11-tyc.vodgc.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
@@ -374,6 +390,16 @@ https://ch11-04-11-tyc.vodgc.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m
 
 #EXTINF:-1 group-title="TYC SPORTS PLAY" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 12
 https://ch12-04-11-tyc.vodgc.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TyC Sports " tvg-name="TyC Sports Internacional USA" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="Deportes" ch-number="108" type="channel",TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://francope.elementfx.com/tycsportsplay/tyc.php?mode=play&channel=TyCInternacionalUSA
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Deportes" ch-number="109" type="channel",TNT Sports Premium
+http://francope.elementfx.com/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd?|Origin=https://portal.app.flow.com.ar
 
 
 
@@ -5808,6 +5834,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
