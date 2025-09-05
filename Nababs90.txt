@@ -132,10 +132,11 @@ http://francope.elementfx.com/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mp
 #EXTINF:-1 tvg-id="TN HD.uy" tvg-name="TN HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" group-title="Argentina" ch-number="31" type="channel",TN
 http://francope.elementfx.com/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd?|Origin=https://portal.app.flow.com.ar
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
-#EXTINF:-1  tvg-id="Television Pública.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="Argentina", TV Pública
-https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
+#EXTINF:-1 tvg-id="TV Pública.ar" tvg-name="TV Pública.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="Argentina" ch-number="7" type="channel",TV Pública
+http://francope.elementfx.com/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd?|Origin=https://portal.app.flow.com.ar
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c1f50e3f51216bdd1efcc99d3a27217:3441c930277d824402aafee446ba8f90
@@ -5827,6 +5828,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
