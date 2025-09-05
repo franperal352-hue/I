@@ -616,54 +616,41 @@ https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(GO
 #EXTINF:-1 tvg-id="HBO HD.uy" tvg-name="HBO" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="Cine, Novelas y Series" ch-number="319" type="channel",HBO
 http://francope.elementfx.com/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd?|Origin=https://portal.app.flow.com.ar
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
+#EXTINF:-1 tvg-id="HBO 2 HD.uy" tvg-name="HBO 2" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBO2P.png?raw=true" group-title="Cine, Novelas y Series" ch-number="320" type="channel",HBO 2
+http://francope.elementfx.com/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd?|Origin=https://portal.app.flow.com.ar
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
+#EXTINF:-1 tvg-id="HBO Plus HD.uy" tvg-name="HBO Plus" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPL.png?raw=true" group-title="Cine, Novelas y Series" ch-number="321" type="channel",HBO Plus
+http://francope.elementfx.com////live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd?|Origin=https://portal.app.flow.com.ar
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=535473132f68082160b489482ca35f8e:e90fd91fcd3fc809bed2b1c0d37f7297
+#EXTINF:-1 tvg-id="HBO Family.uy" tvg-name="HBO Family" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="Cine, Novelas y Series" ch-number="322" type="channel",HBO Family
+http://francope.elementfx.com////live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd?|Origin=https://portal.app.flow.com.ar
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7821b2662148fe333d5191acbb8a5c1f:ae43f3e2545237ebda58b13813b5d328
+#EXTINF:-1 tvg-id="HBO Mundi HD.uy" tvg-name="HBO Mundi" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOMN.png?raw=true" group-title="Cine, Novelas y Series" ch-number="323" type="channel",HBO Mundi
+http://francope.elementfx.com/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd?|Origin=https://portal.app.flow.com.ar
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6
+#EXTINF:-1 tvg-id="HBO POP HD.uy" tvg-name="HBO Pop" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPP.png?raw=true" group-title="Cine, Novelas y Series" ch-number="324" type="channel",HBO Pop
+http://francope.elementfx.com/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd?|Origin=https://portal.app.flow.com.ar
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e866499fbc1149f49989672075aa3a68:d2dd5c95623c6343240981c2202fc311
+#EXTINF:-1 tvg-id="HBO Signature HD.uy" tvg-name="HBO Signature" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOSG.png?raw=true" group-title="Cine, Novelas y Series" ch-number="325" type="channel",HBO Signature
+http://francope.elementfx.com/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd?|Origin=https://portal.app.flow.com.ar
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d504011bbef467c0de3a7534e302a6d4:334103e2abe16faa7f9ab2e3097c5a58
+#EXTINF:-1 tvg-id="HBO Xtreme HD.uy" tvg-name="HBO Xtreme" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOXT.png?raw=true" group-title="Cine, Novelas y Series" ch-number="326" type="channel",HBO Xtreme
+http://francope.ele
 
-
-
-
-
-
-
-
-#EXTINF:-1 ch-number="320" tvg-id="HBO 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/101/CH_LOGO/160/160/0/0/93371734072127.png" group-title="Cine, Novelas y Series", HBO 2
-http://181.10.181.101:15001/play/a07o/index.m3u8
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6f386db42c083a82b8969064eb9907d:dc492969ce6b9cb3909a5d59a33f88da
-#EXTINF:-1 ch-number="321" tvg-id="HBO Plus HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png" group-title="Cine, Novelas y Series", HBO Plus
-https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6f386db42c083a82b8969064eb9907d:dc492969ce6b9cb3909a5d59a33f88da
-#EXTINF:-1 ch-number="322" tvg-id="HBO Family.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png" group-title="Cine, Novelas y Series", HBO Family
-https://cdn.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bea5da44f49a7e30d21a6e0a2fddc225:0185b209bf50e2a1b1cfd416db5177de
-#EXTINF:-1 ch-number="323" tvg-id="HBO Mundi HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/160/160/0/0/61157416071448.png" group-title="Cine, Novelas y Series", HBO Mundi
-https://cdn.sensa.com.ar/live/eds/HBOMundi/live_dash_cld/HBOMundi.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5cf1ad9c7bc0a20051535aff63a5c04:019ea0de590a01385f50ae3fe090d19e
-#EXTINF:-1 ch-number="324" tvg-id="HBO POP HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/160/160/0/0/68908128073927.png" group-title="Cine, Novelas y Series", HBO Pop
-https://cdn.sensa.com.ar/live/eds/HBOPop/live_dash_cld/HBOPop.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf48ba89e03b41e52882a7e155facd9c:50103d8a819d4faed4e44dc6cd908066
-#EXTINF:-1 ch-number="325" tvg-id="HBO Signature HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/160/160/0/0/3657655307500.png" group-title="Cine, Novelas y Series", HBO Signature
-https://cdn.sensa.com.ar/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=33d4823ed2cae55c19fa0a7c20fa4235:a64c4d55edb20046802e76332c8aa75e
-#EXTINF:-1 ch-number="326" tvg-id="HBO Xtreme HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png" group-title="Cine, Novelas y Series", HBO Xtreme
-https://cdn.sensa.com.ar/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9cab32316b3d8aae0452755cebdaadd:35e61869849168043a44045f2d7ff842
@@ -6126,6 +6113,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
