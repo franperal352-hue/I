@@ -7,10 +7,6 @@
 #EXTINF:-1,CANAL 12 
 https://g2.vxral-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1,MISIONES ONLINE
-https://live.eu-north-1a.cf.dmcdn.net/sec2(AWcCpNxpBwbzAWsGT90mHcOTYmfA1x3SFv12XRJZuAEEKLe4wbCyrY2978rTn_96xA5ANN7XGXCuviq7uv6HalDqP816jXEUtmCJOiYl0IA-wJ-1iMeL6M1k4bx56w-m)/dm/3/x7zh5gd/s/live-720.m3u8#cell=lcf-eu-north-1a
-
-
 
 #EXTINF:-1 tvg-logo="https://misionescuatro.com/wp-content/themes/misiones-cuatro-2018/img/logo.svg?x19163" group-title="MISIONES", MISIONES CUATRO MISIONES
 https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
@@ -88,6 +84,18 @@ https://live.enhdtv.com:8081/donnatvdigital/index.m3u8
 
 #EXTINF:-1,FM SHOW 
 https://streamlky.alsolnet.com/fmshow
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
+#EXTINF:-1 tvg-id="199#KZO" tvg-name="199#KZO" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjDcEftxHSDqjmbRp_AmsP6jXlMfUUvvrTzRZZbNq-kGf1XhqB795jNAXWnFFEdCJPUMHQjHroAsauEZzGAl-YEmMHUe_aVTCh_08dUrag2ycjSRHL1KqCspurZr_tQF7XZmjjGcWAgJKjIuFCFk2hHpcF1a1KN_RFZHrSyyotJ3Fz8lMYo0vKrs1sx=s336" group-title="Argentina" ch-number="17" type="channel",KZO Entertaiment
+http://francope.elementfx.com/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd?|Origin=https://portal.app.flow.com.ar
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" group-title="🇦🇷 🇵🇾 🇺🇾  OPCIONES AR PY UY", ESENCIALES VORTERIX
@@ -5831,6 +5839,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
