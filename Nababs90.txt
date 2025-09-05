@@ -91,18 +91,10 @@ https://streamlky.alsolnet.com/fmshow
 http://francope.elementfx.com/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd?|Origin=https://portal.app.flow.com.ar
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" group-title="🇦🇷 🇵🇾 🇺🇾  OPCIONES AR PY UY", ESENCIALES VORTERIX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3
-https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd|User-Agent=Dalvik/2.1.0 (Linux; U; Android 10; AFTMM Build/PS7272.3809N)
-
+#EXTINF:-1 tvg-name="Vorterix" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VTRIX.png?raw=true" group-title="Música" ch-number="517" type="channel",Vorterix
+http://francope.elementfx.com/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd?|Origin=https://portal.app.flow.com.ar
 
 
 #EXTINF:-1,RADIO MITRE TV
@@ -5816,6 +5808,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
