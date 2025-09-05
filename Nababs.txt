@@ -610,10 +610,25 @@ https://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd?|refer
 #EXTINF:-1 ch-number="318" tvg-id="Golden.py" tvg-logo="https://i.postimg.cc/L4QXnxHV/golden-plus.png" group-title="Cine, Novelas y Series", Golden Plus
 https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(GOLDEN_HD)/manifest.mpd?|referer=https://pylocalliveclarovideo.akamaized.net/
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
-#EXTINF:-1 ch-number="319" group-title="Cine, Novelas y Series" tvg-id="HBO HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" tvg-name="HBO",HBO
-https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+#EXTINF:-1 tvg-id="HBO HD.uy" tvg-name="HBO" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="Cine, Novelas y Series" ch-number="319" type="channel",HBO
+http://francope.elementfx.com/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd?|Origin=https://portal.app.flow.com.ar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 ch-number="320" tvg-id="HBO 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/101/CH_LOGO/160/160/0/0/93371734072127.png" group-title="Cine, Novelas y Series", HBO 2
 http://181.10.181.101:15001/play/a07o/index.m3u8
@@ -6111,6 +6126,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
