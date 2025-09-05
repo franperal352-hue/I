@@ -2027,7 +2027,7 @@ https://tv.nube-x.xyz:8443/play/uMICfGVjmLsvMFWqCzJRAk4hqn3wHP95wf1TM3CJqV5EtHMj
 
 
 #EXTINF:-1 tvg-id="" xui-id="262152" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png?resize=696,392&ssl=1" tvg-name="Rapido y furioso" group-title="24/7 Películas",Rapido y furioso
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e81s-xJ9lEat8i_zQlD4iwtviRSlGr9z4VP3XBIM35_sW
+https://tv.nube-x.xyz:8443/play/uMICfGVjmLsvMFWqCzJRAsxpcGkVx-bOvd2hQacW1PkkqcZwmegJ1A0CA_sP03rG
 
 #EXTINF:-1 tvg-id="" xui-id="243423" tvg-logo="https://i.ibb.co/ZRrwNgS/resize.png" tvg-name="Rapido y Furioso (1-5)" group-title="24/7",Rapido y Furioso (1-5)
 https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668d4PFNbMAmNq-wiDRAecLIJ
@@ -6119,6 +6119,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
