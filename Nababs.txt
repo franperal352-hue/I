@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1,TELEFE
-http://179.51.136.23:8000/play/a07e
+https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5916,6 +5916,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
