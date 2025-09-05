@@ -626,10 +626,13 @@ http://francope.elementfx.com/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd?|Origi
 #EXTINF:-1 tvg-id="HBO Plus HD.uy" tvg-name="HBO Plus" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPL.png?raw=true" group-title="Cine, Novelas y Series" ch-number="321" type="channel",HBO Plus
 https://cdn.cvattv.com.ar///live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=535473132f68082160b489482ca35f8e:e90fd91fcd3fc809bed2b1c0d37f7297
 #EXTINF:-1 tvg-id="HBO Family.uy" tvg-name="HBO Family" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="Cine, Novelas y Series" ch-number="322" type="channel",HBO Family
-http://francope.elementfx.com////live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd?|Origin=https://portal.app.flow.com.ar
+https://cdn.cvattv.com.ar///live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7821b2662148fe333d5191acbb8a5c1f:ae43f3e2545237ebda58b13813b5d328
@@ -6113,6 +6116,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
