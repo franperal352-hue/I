@@ -137,11 +137,10 @@ http://francope.elementfx.com/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNotic
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-name="TV Pública.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="Argentina" ch-number="7" type="channel",TV Pública
 http://francope.elementfx.com/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd?|Origin=https://portal.app.flow.com.ar
 
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c1f50e3f51216bdd1efcc99d3a27217:3441c930277d824402aafee446ba8f90
-#EXTINF:-1 group-title="Argentina"  tvg-id="Canal 9.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" tvg-group="Nacionales", El nueve
-https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
+#EXTINF:-1 tvg-id="Canal 9.uy" tvg-name="Canal 9.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" group-title="Argentina" ch-number="9" type="channel",El nueve
+http://francope.elementfx.com/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd?|Origin=https://portal.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=faf29a5a543c9d82ef34ec2479140003:2452197f9d4eb63a3081d986ca413375
@@ -5828,6 +5827,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
