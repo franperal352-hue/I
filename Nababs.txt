@@ -239,8 +239,8 @@ https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd?|referer=https://pla
 
 deportes (100xx)
 
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" tvg-name="Direc*TV SP HD (arg)" group-title="DEPORTES",Direc*TV SP HD (arg)
-http://vmi1839636.contaboserver.net:2082/Francisco4/Francisco507/33608
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" tvg-name=" DSportsHD (arg)" group-title="DEPORTES", DSports ARG
+http://vmi1839636.contaboserver.net:2082/Francisco4/Francisco507/47580
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="Deportes" ch-number="132" type="channel",DSports 2
 http://francope.elementfx.com/live/dsports2
@@ -6171,6 +6171,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
