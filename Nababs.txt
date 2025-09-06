@@ -245,8 +245,12 @@ http://vmi1839636.contaboserver.net:2082/Francisco4/Francisco507/47580
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1751613120479" tvg-name="DIRECTVSPORT" group-title="DEPORTES",DSPORTS 2 DIRECTV
 http://179.51.136.19:8000/play/a112/index.m3u8
 
-#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/franperal352-hue/I/refs/heads/main/DSports_%2B_2022.png" group-title="Deportes" ch-number="133" type="channel",DSPORTS + DIRECTV
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://raw.githubusercontent.com/franperal352-hue/I/refs/heads/main/DSports_%2B_2022.png" tvg-name="DIRECTVSPORT" group-title="DEPORTES",DSPORTS+ DIRECTV
 http://38.199.6.1:17001/play/a0vx/index.m3u8
+
+
+
+
 
 
 #EXTINF:-1,UFC FIGHT PASS
@@ -6171,6 +6175,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
