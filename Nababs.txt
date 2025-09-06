@@ -237,15 +237,10 @@ https://cdn.sensa.com.ar/bpk-tv/Argentinisima/default/index.mpd?|referer=https:/
 https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
-#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png",Los Tres Chiflados
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-
-
-
 deportes (100xx)
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="Deportes" ch-number="131" type="channel",DSports
-http://francope.elementfx.com/live/dsports
+#EXTINF:-1 tvg-id="" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/01/dsport-argentina.png" tvg-name="| DSPORTS AR |" group-title="DEPORTES PREMIUM",| DSPORTS AR |
+http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/592036.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="Deportes" ch-number="132" type="channel",DSports 2
 http://francope.elementfx.com/live/dsports2
@@ -2430,6 +2425,11 @@ http://tv.zapping.lif
 #EXTINF:-1,LOS SIMPSONS 24/7
 http://tv.zapping.life:8080/live/MarlyTobonIPTVCLUB/EsXeUfvwQs/94883.m3u8
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94883
+
+
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png",Los Tres Chiflados
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
 
 
 #EXTINF:-1 channel-id="61b793ccf571b80007b7a610" tvg-id="61b793ccf571b80007b7a610" tvg-chno="27" tvg-name="Adrenalina Pura TV" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="Películas",Adrenalina Pura TV
@@ -6171,6 +6171,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
