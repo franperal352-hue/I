@@ -1770,9 +1770,6 @@ http://iptvglobal.site:80/Legazy/GHoRXksJZc/563068.ts
 #EXTINF:-1,Rocky 24/7
 http://iptvglobal.site:80/Legazy/GHoRXksJZc/563063.ts
 
-#EXTINF:-1,Supervivencia al desnudo 24/7
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/563006.ts
-
 #EXTINF:-1,Master Chef Latino 24/7
 http://iptvglobal.site:80/Legazy/GHoRXksJZc/562995.ts
 
@@ -1818,11 +1815,14 @@ http://iptvglobal.site:80/Legazy/GHoRXksJZc/562885.ts
 #EXTINF:-1,Super Mario Bross 3
 http://iptvglobal.site:80/Legazy/GHoRXksJZc/562884.ts
 
-#EXTINF:-1,CATRASTROFES AEREOS HD
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562883.ts
 
-#EXTINF:-1,ALERTA AEROPUERTO HD
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562882.ts
+#EXTINF:-1 tvg-id="" xui-id="563019" tvg-logo="http://icomplay.net:80/images/ES-ZnjfvvGBS-v8DriSJrKkgT3zZLiMAGOsN4w--cgxe9d7duhXEtRkbpaFAWgHMt7VxIorSweMdD02Ik5vKu9X9AK-1VcprfgTnJISb0DesUJcadajDaWRISXcTmkji.jpeg" tvg-name="24/7 Alerta Aeropuerto" group-title="24-7 CINEMA -ECD-",24/7 Alerta Aeropuerto
+http://iptvglobal.site:80/play/dcebj2v2n-kxtOmNOgDcJvTqJnOpuYKbbBWfmWPkxgstLQHehcT95GThWxBzxHvk/ts
+
+
+
+#EXTINF:-1 tvg-id="" xui-id="563006" tvg-logo="http://icomplay.net:80/images/ES-ZnjfvvGBS-v8DriSJrKkgT3zZLiMAGOsN4w--cgxe9d7duhXEtRkbpaFAWgHMnT0U1filaSvacrmk6wI-36XcUJNAKkXA1fj38ILN2klAhi9GgcPu0s2Ct6NArDTF.jpeg" tvg-name="24/7 Supervivencia al desnudo" group-title="24-7 CINEMA -ECD-",24/7 Supervivencia al desnudo
+http://iptvglobal.site:80/play/dcebj2v2n-kxtOmNOgDcJvTqJnOpuYKbbBWfmWPkxgu_iFbWEkiLnlCJFzJM_W_V/ts
 
 
 #EXTINF:-1,PLAY! DRAGON BALL GT
@@ -6173,6 +6173,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
