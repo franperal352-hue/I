@@ -763,6 +763,117 @@ https://cdn.sensa.com.ar/live/eds/USANetwork/live_dash_cld/USANetwork.mpd?|refer
 #EXTINF:-1 ch-number="349" tvg-id="Warner HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/160/160/0/0/14633187073787.png" group-title="Cine, Novelas y Series", Warner TV
 https://cdn.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 tvg-id="" xui-id="579252" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || PELICULAS NAVIDAD 1" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || PELICULAS NAVIDAD 1
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY14kf7Q-Dp_GlcmFUmzk3fz/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579253" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || PELICULAS NAVIDAD 2" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || PELICULAS NAVIDAD 2
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0ZfjMxxXzJUbplLYsIgquP/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579254" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA CABALLEROS DEL ZODIACO" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA CABALLEROS DEL ZODIACO
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY30pvCPxYANjkFCCOcrZSoQ/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579255" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA DRAGON BALL" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA DRAGON BALL
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1CwUzM54MET9OFVg51mSS_/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579256" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA HARRY POTTER" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA HARRY POTTER
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY20E4MA2TdpbT-iCGqFogYc/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579257" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA PIRATAS DEL CARIBE" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA PIRATAS DEL CARIBE
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1IcYP9ZEmhfQZArJ7OSoRg/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579258" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA SAW" group-title="TV || 24/7 PELICULAS 
+EXCLUSIVAS",24/7 || SAGA SAW
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0kLpX1KlJ6XA_wlyxK4JCs/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579259" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA TRANSFORMERS" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA TRANSFORMERS
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY19cQqMZSZ0PRZXicIaBPCF/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579260" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || PELICULAS MARVEL 1" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || PELICULAS MARVEL 1
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1nGA_XkTtLdWtOHWnmv7WM/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579261" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || PELICULAS MARVEL 2" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || PELICULAS MARVEL 2
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1uNB8eANpE2uA2__kgk5Xl/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579262" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || PELICULAS DC COMICS 1" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || PELICULAS DC COMICS 1
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY2RZ3qNkjE9f_iihuImZzBl/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579263" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || PELICULAS DC COMICS 2" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || PELICULAS DC COMICS 2
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1_afYkIsCFJnjX0MDOkt7b/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579274" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA RAMBO" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA RAMBO
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY3esUVBZPjI8IIo7JYbYlJP/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579275" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || PELICULAS MARVEL 3" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || PELICULAS MARVEL 3
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0_SuJmb1g8KzZ3YDPGN0pg/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579276" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA JUEGOS DEL HAMBRE" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA JUEGOS DEL HAMBRE
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1rRVxCROazmPhTjU27_jan/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579281" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || CLASICOS DISNEY 1" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || CLASICOS DISNEY 1
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY2MUHiNzqTzACwRY5iEZqkN/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579282" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || CLASICOS DISNEY 2" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || CLASICOS DISNEY 2
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY2XqDx6ZYvTMpyKfnYwyHxk/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579283" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || CLASICOS DISNEY 3" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || CLASICOS DISNEY 3
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY3gP2I5eBNIek5Xq4jyO-FA/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579336" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA DESTINO FINAL" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA DESTINO FINAL
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0Ld8-9O653QyT-8_RgnCJo/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579337" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA EL EXORCISTA" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA EL EXORCISTA
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0TNJzy2Of31U-lf9nAGmzw/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579338" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA RAPIDOS Y FURIOSOS" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA RAPIDOS Y FURIOSOS
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY3aW2tlIZgzmRft8QMsEIFE/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579339" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA JURASSIC PARK" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA JURASSIC PARK
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0XJF3U1ROUgwOlx_M4_wY8/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579340" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA CREPUSCULO" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA CREPUSCULO
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1AdTaYy6CvX4fl3ZB1Ivgm/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579341" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA DURO DE MATAR" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA DURO DE MATAR
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY3UuxaVAUTAMQmK4_oxWHmp/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579342" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA EL ARO" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA EL ARO
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1uMs_2dWVQNNN7zZg7h3RR/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579343" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA MATRIX" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA MATRIX
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY2tU7wGkp6Y22N6o49QP4Df/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579344" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA ROCKY BALBOA" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA ROCKY BALBOA
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0FRYN9kAC2YErBCGCXNvK9/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579345" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA TERMINATOR" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA TERMINATOR
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY2w_b6Q2LCw7mH2BtuT6SvA/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579393" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA RESIDENT EVIL" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA RESIDENT EVIL
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1HZ1-IuAsoR4O6DEnbpfkz/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579395" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA CAZAFANTASMAS" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA CAZAFANTASMAS
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY3x6ekh8_CNp4X7HRW-YBaj/ts
+
+#EXTINF:-1 tvg-id="" xui-id="579396" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA SCARY MOVIE" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA SCARY MOVIE
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY3KDLLn-_c-HWNxh4ZIVZaH/ts
+#EXTINF:-1 tvg-id="" xui-id="580487" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA LA PURGA" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA LA PURGA
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1L8PZFEbjGvdRG8n9-RFL7/ts
+
+#EXTINF:-1 tvg-id="" xui-id="580488" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA FREDDY KRUEGER" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA FREDDY KRUEGER
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0DMU4AkbAbTAIufkFJCc9m/ts
+
+#EXTINF:-1 tvg-id="" xui-id="580489" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA CHUCKY" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA CHUCKY
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY2ICwnXgMzx7PUxMJBf_jac/ts
+
+#EXTINF:-1 tvg-id="" xui-id="580490" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA PICARDIA MEXICANA" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA PICARDIA MEXICANA
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0ZcC5xDZsDPHUlXqGroDJU/ts
+
+#EXTINF:-1 tvg-id="" xui-id="580491" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA ACTIVIDAD PARANORMAL" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA ACTIVIDAD PARANORMAL
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0fq9y1MA-i_egGnDdESb_g/ts
+
+#EXTINF:-1 tvg-id="" xui-id="580492" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || TERROR BAJO LA TIERRA" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || TERROR BAJO LA TIERRA
+http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY2e_-gdVggbmmJukv7Y3Dgb/ts
+
 
 #EXTINF:-1 tvg-id="" xui-id="333938" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE156c8vJxQ8HoNHSVCQtyESRrRk655oF6uysUhe2BWqix.png" tvg-name="NETFLIX TV 01" group-title="24-7 NETFLIX | LAT",NETFLIX TV 02
 http://iptvglobal.site:80/play/dcebj2v2n-kxtOmNOgDcJoduZAMR30v6nZ-qO94gyrjO1G2KCc6sWPMajcadvOev/ts
@@ -6179,6 +6290,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
