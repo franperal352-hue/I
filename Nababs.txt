@@ -1808,11 +1808,12 @@ http://iptvglobal.site:80/Legazy/GHoRXksJZc/562859.ts
 http://iptvglobal.site:80/Legazy/GHoRXksJZc/562858.ts
 
 
-#EXTINF:-1,EXPONIENDO INFIELES BADABU
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562853.ts
+#EXTINF:-1 tvg-id="" xui-id="562853" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw-0254W9HJakXLwminTH0dj5eQJugs3aEYHUYCk16spv7IH-YT0kevFfZFLUTWKKPYbWfvjHxYclPXivYdNyrQ0.png" tvg-name="24/7 | EXPONIENDO INFIELES BADABU" group-title="24-7 CINEMA -ECD-",24/7 | EXPONIENDO INFIELES BADABU
+http://iptvglobal.site:80/play/dcebj2v2n-kxtOmNOgDcJnlmnqaVkv8pDKjXAqtZ07HDgq_2PJ7-PD0N-3_LCliX/ts
 
-#EXTINF:-1,Luisito Comunica (Mexico) HD
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562852.ts
+
+#EXTINF:-1 tvg-id="" xui-id="562852" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw44iHtnld3K8SlM6ReHTovSoiq2thBTxI_aD_kzRjCSnCNFEy713GXlPJKLM34tchLlfVKToSv-ZXgsudtJRrfA.jpg" tvg-name="24/7 Luisito Comunica (Mexico) HD" group-title="24-7 CINEMA -ECD-",24/7 Luisito Comunica (Mexico) HD
+http://iptvglobal.site:80/play/dcebj2v2n-kxtOmNOgDcJnlmnqaVkv8pDKjXAqtZ07G3ERAwnLUwDoxIfjkyXvQD/ts/Legazy/GHoRXksJZc/562852.ts
 
 #EXTINF:-1,El Bilardo El Doctor Del Futbol
 http://iptvglobal.site:80/Legazy/GHoRXksJZc/562850.ts
@@ -6125,6 +6126,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
