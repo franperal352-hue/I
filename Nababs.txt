@@ -296,13 +296,13 @@ https://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="🇦🇷 FLOW",  ESPN 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/ESPN_6_logo.svg" group-title="🇦🇷 FLOW",  ESPN 6
 https://chromecast.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc_C/FoxSports3_UY.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-7-logo-png_seeklogo-522718.png" group-title="🇦🇷 FLOW",  ESPN 7 
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-7-logo-png_seeklogo-522718.png" group-title="🇦🇷 FLOW",  ESPN 7 
 https://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc_C/FoxSports2_UY.mpd
 
 
@@ -6175,6 +6175,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
