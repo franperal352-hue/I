@@ -112,27 +112,30 @@ http://m.mtd.llc:2082/extratv/index_fkr.mpd?|origin=https://www.telecentroplay.c
 #EXTINF:-1,RADIO MITRE TV
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0004
 
+
+#EXTINF:-1 tvg-id="AMERICA 24.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" group-title="🇦🇷 TV ARGENTINA", A24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
-#EXTINF:-1 tvg-id="America 24.uy" tvg-name="America 24.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" group-title="Argentina" ch-number="24" type="channel",A24
-http://francope.elementfx.com/live/c7eds/America24/SA_Live_dash_enc/America24.mpd?|Origin=https://portal.app.flow.com.ar
+https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd?|origin=https://web.app.flow.com.py
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5NOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" group-title="🇦🇷 TV ARGENTINA", C5N
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
-#EXTINF:-1 tvg-id="C5N.uy" tvg-name="C5N.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" group-title="Argentina" ch-number="25" type="channel",C5N
-http://francope.elementfx.com/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd?|Origin=https://portal.app.flow.com.ar
+https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd?|origin=https://web.app.flow.com.py
 
+
+
+#EXTINF:-1 tvg-id="26 TV.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOvN7HEybuqi5cATBqIDNouB6Kc5nVYBLZCA&usqp=CAU" group-title="🇦🇷 TV ARGENTINA", CANAL 26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
-#EXTINF:-1 tvg-id="Canal 26.uy" tvg-name="Canal 26.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true" group-title="Argentina" ch-number="26" type="channel",Canal 26
-http://francope.elementfx.com/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd?|Origin=https://portal.app.flow.com.ar
+https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd?|origin=https://web.app.flow.com.py
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="CRONICA TV.ar" tvg-name="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="🇦🇷 TV ARGENTINA", Cronica
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
-#EXTINF:-1 tvg-id="Cronica TV.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/800/542/0/0/90907313073986.png" group-title="Argentina" ch-number="28" type="channel",Crónica
-http://francope.elementfx.com/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd?|Origin=https://portal.app.flow.com.ar
+https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd?|origin=https://web.app.flow.com.py
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
@@ -6290,6 +6293,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
