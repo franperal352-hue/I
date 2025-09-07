@@ -102,21 +102,15 @@ http://francope.elementfx.com/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd?
 https://cdn.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_C/MixTV.mpd|referer=https://player.sensa.com.ar/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ea5121a9e3552ca221b5ad04f7f9631:0a4c2c76e86f11e71f3365b1b54fcaf9
-#EXTINF:-1 group-title="Argentina" tvg-id="EXTRA" tvg-logo="https://i.ibb.co/BLpHBq6/extra.png" tvg-name="EXTRA TV",EXTRA TV
-http://m.mtd.llc:2082/extratv/index_fkr.mpd?|origin=https://www.telecentroplay.com.ar
-
-
 
 #EXTINF:-1,RADIO MITRE TV
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0004
 
 
-#EXTINF:-1 tvg-id="AMERICA 24.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" group-title="🇦🇷 TV ARGENTINA", A24
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
-https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd?|origin=https://web.app.flow.com.py
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
+#EXTINF:-1 group-title="Argentina"  tvg-id="C5N.uy" tvg-name="C5NOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" tvg-group="Noticias", C5N
+https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
 
@@ -6293,6 +6287,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
