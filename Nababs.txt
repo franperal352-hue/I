@@ -102,6 +102,13 @@ http://francope.elementfx.com/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd?
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=mixtv&token=3534067578
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea5121a9e3552ca221b5ad04f7f9631:0a4c2c76e86f11e71f3365b1b54fcaf9
+#EXTINF:-1 group-title="Argentina" tvg-id="EXTRA" tvg-logo="https://i.ibb.co/BLpHBq6/extra.png" tvg-name="EXTRA TV",EXTRA TV
+http://m.mtd.llc:2082/extratv/index_fkr.mpd?|origin=https://www.telecentroplay.com.ar
+
+
+
 
 #EXTINF:-1,RADIO MITRE TV
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0004
@@ -6302,6 +6309,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
