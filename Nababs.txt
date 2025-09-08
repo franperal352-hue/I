@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://asturscore.com/wp-content/uploads/2025/05/The-Conjuring-Last-Rites.jpeg" group-title="PELICULAS", EL CONJURO 4 ÚLTIMOS RITOS
-https://pruebasfilmbox.blogspot.com/?player=fluidplayer&provider=rand&format=video%2Fmp4&link=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffww1%2Fa5%2Fs8%2F2%2Fc%2Fy%2Ff%2Ff%2Fcyffz.aaa.mp4
+https://hugh.cdn.rumble.cloud/video/fww1/a5/s8/2/c/y/f/f/cyffz.aaa.mp4
 
 
 
@@ -6315,6 +6315,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
