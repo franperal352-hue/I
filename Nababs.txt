@@ -102,6 +102,20 @@ http://francope.elementfx.com/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd?
 https://cdn.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_C/MixTV.mpd?|Referer=https://web.app.flow.com.ar/|Origin=https://web.app.flow.com.ar/
 
 
+#EXTINF:-1,MIX TV",
+        "ico": "https://i.ibb.co/GQRpHLw8/images-removebg-preview.png",
+        "uri": "ZylNRmvg22ulyw8uQe0okw57sV7qUrC6sPdnAwU2pZVszlxV2j+dnq+WZro4xjH2yBD+p3BexMn/p+KrQk7TT1hEZZb4M7kCmc3t3l8/OeI=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKljSy4lCsMqCwZckniLdd9u0heCmnqOqt6IF9KdQj6Foi7/lfrDiEqYR86B+NoAD7VEsPTT+NE+ILc7Xc/4dM0WNxobNwlzJS4F39lr+fxhfWunPYnHjFnBvyOz763dBvQ==",
+        "origin": "https://portal.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari
+
+
+
+
+
+
+
 #EXTINF:-1,RADIO MITRE TV
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0004
 
@@ -6301,6 +6315,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
