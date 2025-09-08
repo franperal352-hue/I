@@ -788,6 +788,37 @@ https://cdn.sensa.com.ar/live/eds/USANetwork/live_dash_cld/USANetwork.mpd?|refer
 #EXTINF:-1 ch-number="349" tvg-id="Warner HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/160/160/0/0/14633187073787.png" group-title="Cine, Novelas y Series", Warner TV
 https://cdn.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="24/7 P | Cinema VIP 11 HD" group-title="⍟NETFLIX CINEMA",24/7 P | Cinema VIP 11 HD
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/340221
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="24/7 P | Cinema VIP 01 HD" group-title="⍟NETFLIX CINEMA",24/7 P | Cinema VIP 01 HD
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/340212
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="24/7 P | Cinema VIP 02 HD" group-title="⍟NETFLIX CINEMA",24/7 P | Cinema VIP 02 HD
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/340213
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="24/7 P | Cinema VIP 04 HD" group-title="⍟NETFLIX CINEMA",24/7 P | Cinema VIP 04 HD
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/340214
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="24/7 P | Cinema VIP 05 HD" group-title="⍟NETFLIX CINEMA",24/7 P | Cinema VIP 05 HD
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/340215
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="24/7 P | Cinema VIP 06 HD" group-title="⍟NETFLIX CINEMA",24/7 P | Cinema VIP 06 HD
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/340216
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="24/7 P | Cinema VIP 07 HD" group-title="⍟NETFLIX CINEMA",24/7 P | Cinema VIP 07 HD
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/340217
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="24/7 P | Cinema VIP 08 HD" group-title="⍟NETFLIX CINEMA",24/7 P | Cinema VIP 08 HD
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/340218
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="24/7 P | Cinema VIP 09 HD" group-title="⍟NETFLIX CINEMA",24/7 P | Cinema VIP 09 HD
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/340219
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="24/7 P | Cinema VIP 12 HD" group-title="⍟NETFLIX CINEMA",24/7 P | Cinema VIP 12 HD
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/340222
+
+
 #EXTINF:-1 tvg-id="" xui-id="579252" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || PELICULAS NAVIDAD 1" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || PELICULAS NAVIDAD 1
 http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY14kf7Q-Dp_GlcmFUmzk3fz/ts
 
@@ -6315,6 +6346,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
