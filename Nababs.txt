@@ -973,6 +973,337 @@ http://iptvglobal.site:80/play/dcebj2v2n-kxtOmNOgDcJoduZAMR30v6nZ-qO94gyrh0aZ9HG
 http://iptvglobal.site:80/play/dcebj2v2n-kxtOmNOgDcJoduZAMR30v6nZ-qO94gyrjD8sW0KX-WJcqx08z67O18/ts
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b0/Ranma%C2%BD.jpg/revision/latest?cb=20200912222928&path-prefix=es" tvg-name="24/7 RANMA" group-title="⍟24/7 | CANALES",24/7 RANMA
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525830
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/d7/The_Munsters_DVD.jpg/revision/latest?cb=20200911220424&path-prefix=es" tvg-name="LOS MONSTERS 2" group-title="⍟24/7 | CANALES",LOS MONSTERS 2
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525831
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://purepng.com/public/uploads/large/mario-moreno-cantinflas-png-rgp.png" tvg-name="24/7 Cantinflas 3" group-title="⍟24/7 | CANALES",24/7 Cantinflas 3
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525832
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/23164159.54c923cdbe47a.png" tvg-name="24/7 CASO CERRADO 2" group-title="⍟24/7 | CANALES",24/7 CASO CERRADO 2
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525834
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.canal1.com.co/wp-content/uploads/2020/03/18165629/Canal1-SharkTank-360w.jpg" tvg-name="24/7 Negociando con Tiburones" group-title="⍟24/7 | CANALES",24/7 Negociando con Tiburones
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525837
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.kienyke.com/sites/default/files/styles/interna_contenido_s/public/2023-01/Sin%20t%C3%ADtulo-1_0009_Caracol%20Television%20.jpg?itok=CWDtjkJ_" tvg-name="24/7 Sin Tetas no hay páraiso" group-title="⍟24/7 | CANALES",24/7 Sin Tetas no hay páraiso
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525843
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/fd/LooneyTunes.jpg/revision/latest?cb=20210209235146&path-prefix=es" tvg-name="24/7 Los pequeños Looney Tunes" group-title="⍟24/7 | CANALES",24/7 Los pequeños Looney Tunes
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525848
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/cb/SpongeBob.png/revision/latest?cb=20220925230116&path-prefix=es" tvg-name="24/7 Bob Esponja" group-title="⍟24/7 | CANALES",24/7 Bob Esponja
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525853
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEzYTBkZGItYzk4YS00MTRjLWE2MzAtMzQ1MWM5MjYxMzUzXkEyXkFqcGdeQXVyNTMwOTA0OTA@._V1_.jpg" tvg-name="24/7 Rosario tijeras" group-title="⍟24/7 | CANALES",24/7 Rosario tijeras
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525855
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.formulatv.com/images/series/posters/1400/1426/dest_1.jpg" tvg-name="24/7 La Casa de Papel" group-title="⍟24/7 | CANALES",24/7 La Casa de Papel
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525863
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM3ZmY2YzAtZjY1My00OTJjLWI5M2QtYmYxNDQ1OTBkY2E2XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" tvg-name="24/7 El chavo - 2 temp" group-title="⍟24/7 | CANALES",24/7 El chavo - 2 temp
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525864
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/semana/5XIWEWPHXBEFROBFEGHORMM6LM.jpg" tvg-name="24/7 Chespirito 2" group-title="⍟24/7 | CANALES",24/7 Chespirito 2
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525873
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/ca/12/61/ca126140511710bd58effae0339c3eb6.jpg" tvg-name="24/7 PIRATAS DEL CARIBE" group-title="⍟24/7 | CANALES",24/7 PIRATAS DEL CARIBE
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525887
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.clarin.com/img/2019/12/19/CikYDUKf_720x0__1.jpg" tvg-name="24/7 Coyote y el Correcaminos" group-title="⍟24/7 | CANALES",24/7 Coyote y el Correcaminos
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525891
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/283F9B8A9140C82F02ACEA1C49A03052AA7CFEEEDE2821BBD35C79E2DC02AA3A/scale?width=506&aspectRatio=2.00&format=jpeg" tvg-name="24/7 Alerta Aeropuerto" group-title="⍟24/7 | CANALES",24/7 Alerta Aeropuerto
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525893
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn2.img.sputniknews.lat/img/106500/36/1065003667_804:218:1934:1460_1920x0_80_0_0_4adae20dda4e70fbc521791f351f1883.jpg" tvg-name="24/7 Vikingos" group-title="⍟24/7 | CANALES",24/7 Vikingos
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525894
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/peliculas-terror-hbo-coronavirus-1584445749.jpg?crop=0.530xw:1.00xh;0.236xw,0&resize=640:*" tvg-name="24/7  Cine Terror 3" group-title="⍟24/7 | CANALES",24/7  Cine Terror 3
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525910
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/11/Supervivencia-al-desnudo-edicion-extrema-episodio-7-scaled.jpg" tvg-name="24/7 Supervivencia al desnudo Extrema 2" group-title="⍟24/7 | CANALES",24/7 Supervivencia al desnudo Extrema 2
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525911
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/11/Supervivencia-al-desnudo-edicion-extrema-episodio-7-scaled.jpg" tvg-name="24/7 Supervivencia al desnudo Extrema" group-title="⍟24/7 | CANALES",24/7 Supervivencia al desnudo Extrema
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525912
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/305876650/s332/temporada-7" tvg-name="24/7 Supervivenvia al desnudo 3" group-title="⍟24/7 | CANALES",24/7 Supervivenvia al desnudo 3
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525915
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ep00.epimg.net/elpais/imagenes/2017/09/21/fotorrelato/1506004325_686220_1506008048_album_normal.jpg" tvg-name="24/7 Los Simpsons" group-title="⍟24/7 | CANALES",24/7 Los Simpsons
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525916
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/305876650/s332/temporada-7" tvg-name="24/7 Supervivenvia al desnudo 2" group-title="⍟24/7 | CANALES",24/7 Supervivenvia al desnudo 2
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525917
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/6c/Dragon_Ball_GT1.jpg/revision/latest?cb=20220818171539&path-prefix=es" tvg-name="247 Dragon Ball GT" group-title="⍟24/7 | CANALES",247 Dragon Ball GT
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525929
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/01093f4/2147483647/strip/false/crop/380x480+0+0/resize/1200x1515!/quality/90/?url=http://caracol-brightspot.s3.amazonaws.com/ec/c4/e85f86734aae9a8b18a9fe15eb15/portada-cartel-sapos.jpg" tvg-name="24/7 El cartel de los sapos" group-title="⍟24/7 | CANALES",24/7 El cartel de los sapos
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525933
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/b2/4e/dc/b24edc1615d2dc1bd2d558eebed79adb.jpg" tvg-name="24/7 Dragon Ball Super" group-title="⍟24/7 | CANALES",24/7 Dragon Ball Super
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525935
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.kindpng.com/picc/m/770-7707151_dragon-ball-wiki-goku-super-saiyajin-3-render.png" tvg-name="24/7 Dragon Ball Z Saiyajin" group-title="⍟24/7 | CANALES",24/7 Dragon Ball Z Saiyajin
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525937
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/elchavodel8.png" tvg-name="24/7 El Chavo del 8" group-title="⍟24/7 | CANALES",24/7 El Chavo del 8
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525939
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/_gr41FEso034/SUl_oXKqgnI/AAAAAAAAjzY/EmHqLzgQ8A8/s400/Roberto+Gomez+Bola%C3%B1os+como+chapulin+colorado.jpg" tvg-name="24/7 Chespirito" group-title="⍟24/7 | CANALES",24/7 Chespirito
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525942
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/5/5b/SeiyadePegasoSaintSeiya02.png/revision/latest?cb=20190728210056&path-prefix=es" tvg-name="24/7 Caballeros del Zodiaco cap 1 - 40" group-title="⍟24/7 | CANALES",24/7 Caballeros del Zodiaco cap 1 - 40
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525948
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngmart.com/files/3/Dragon-Ball-Goku-PNG-Free-Download.png" tvg-name="24/7 Dragon ball" group-title="⍟24/7 | CANALES",24/7 Dragon ball
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525952
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://flyclipart.com/thumbs/dragon-ball-z-imagens-1210255.png" tvg-name="24/7 Dragon Ball Z" group-title="⍟24/7 | CANALES",24/7 Dragon Ball Z
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525956
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/199979169/s332/house" tvg-name="24/7 Dr House" group-title="⍟24/7 | CANALES",24/7 Dr House
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525959
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/La_Reina_del_Sur_2.jpg/220px-La_Reina_del_Sur_2.jpg" tvg-name="24/7 La reina del Sur" group-title="⍟24/7 | CANALES",24/7 La reina del Sur
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525974
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.rctvinternational.com/wp-content/uploads/2019/09/MiGordaBella-900x900new-768x768.jpg" tvg-name="24/7 Mi gorda Bella" group-title="⍟24/7 | CANALES",24/7 Mi gorda Bella
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525975
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/19/03/14/13/02/4576818.jpg" tvg-name="24/7 Las Muñecas de la mafia" group-title="⍟24/7 | CANALES",24/7 Las Muñecas de la mafia
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525976
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/scr6-12772-r-640888e229b1c.jpg?crop=0.480xw:0.721xh;0.249xw,0.0709xh&resize=1200:*" tvg-name="24/7 Cine Terror 2" group-title="⍟24/7 | CANALES",24/7 Cine Terror 2
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525978
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://png.pngtree.com/png-vector/20201030/ourmid/pngtree-comedy-vector-text-effects-with-transparent-background-png-image_103054.jpg" tvg-name="24/7 Peliculas de Comedia" group-title="⍟24/7 | CANALES",24/7 Peliculas de Comedia
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525980
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/69/Mision_Imposible_Repercusion_V07_Por_Rka1200_AMP_-_carteles.jpg/revision/latest?cb=20220911204306&path-prefix=es" tvg-name="24/7 Saga Misión Imposible" group-title="⍟24/7 | CANALES",24/7 Saga Misión Imposible
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525981
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/302614206/s332/temporada-8" tvg-name="24/7 El señor de los cielos 9" group-title="⍟24/7 | CANALES",24/7 El señor de los cielos 9
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525990
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/302614206/s332/temporada-8" tvg-name="24/7 El señor de los cielos 9  cap 31 - 74" group-title="⍟24/7 | CANALES",24/7 El señor de los cielos 9  cap 31 - 74
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525991
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/74/45/6c/74456c2bd47666329b9dee5dcad4ece7.png" tvg-name="24/7 Naruto" group-title="⍟24/7 | CANALES",24/7 Naruto
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525960
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pngfre.com/wp-content/uploads/ben-10-85-236x300.png" tvg-name="24/7 Ben 10" group-title="⍟24/7 | CANALES",24/7 Ben 10
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525961
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/03/06214225/garfield-1.jpg" tvg-name="24/7 Garfield" group-title="⍟24/7 | CANALES",24/7 Garfield
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525964
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://mx.web.img3.acsta.net/pictures/20/02/28/10/37/4738802.jpg" tvg-name="24/7 Palazuelos mi rey" group-title="⍟24/7 | CANALES",24/7 Palazuelos mi rey
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525835
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWMxZDE1YTMtY2UyMi00OTQ1LWE2YWYtZWEwMjAyNTVmMmE5XkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_.jpg" tvg-name="24/7 Resistiré" group-title="⍟24/7 | CANALES",24/7 Resistiré
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525838
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/fJWg3YTZRAcGSEPmF1Hzwi5LrP2.jpg" tvg-name="24/7 La venganza de los Ex caribe" group-title="⍟24/7 | CANALES",24/7 La venganza de los Ex caribe
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525839
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjEwNjRiYjgtNTlkYS00ZmQxLTg2MTgtMDc0MjdmMjIxYmEwXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" tvg-name="24/7 La venganza de los Ex VIP" group-title="⍟24/7 | CANALES",24/7 La venganza de los Ex VIP
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525840
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/289932354/s592/la-venganza-de-los-ex" tvg-name="24/7 La venganza de los Ex" group-title="⍟24/7 | CANALES",24/7 La venganza de los Ex
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525842
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/00/85/20076552.jpg" tvg-name="24/7 La Familia Addams" group-title="⍟24/7 | CANALES",24/7 La Familia Addams
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525844
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ep00.epimg.net/elpais/imagenes/2017/09/21/fotorrelato/1506004325_686220_1506008048_album_normal.jpg" tvg-name="24/7 | Los Simpsons 2" group-title="⍟24/7 | CANALES",24/7 | Los Simpsons 2
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525846
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://artworks.thetvdb.com/banners/posters/5b10a08c1bbb4.jpg" tvg-name="24/7 A Corazon abierto" group-title="⍟24/7 | CANALES",24/7 A Corazon abierto
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525850
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngitem.com/pimgs/m/153-1532681_adventure-time-png-hd-adventure-time-cartoon-png.png" tvg-name="24/7 Adventure Time" group-title="⍟24/7 | CANALES",24/7 Adventure Time
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525851
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.kindpng.com/picc/m/29-295638_futurama-logo-png-futurama-png-transparent-png.png" tvg-name="24/7 Futurama" group-title="⍟24/7 | CANALES",24/7 Futurama
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525856
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e4/%C3%89lite_poster.png/revision/latest?cb=20210615041636&path-prefix=es" tvg-name="24/7 Elite" group-title="⍟24/7 | CANALES",24/7 Elite
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525857
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://flxt.tmsimg.com/assets/p184487_b_v8_bg.jpg" tvg-name="24/7 The Sopranos" group-title="⍟24/7 | CANALES",24/7 The Sopranos
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525858
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/5/58/Patito_Feo_-_DVD_cover_(Latin_American_Spanish).jpg/revision/latest?cb=20230123205802" tvg-name="24/7 Patito feo" group-title="⍟24/7 | CANALES",24/7 Patito feo
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525859
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/arrow/images/d/d8/The-flash-season-8-poster.webp/revision/latest?cb=20221127152059&path-prefix=es" tvg-name="24/7 Flash" group-title="⍟24/7 | CANALES",24/7 Flash
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525860
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/15/09/40/3782519.jpg" tvg-name="24/7 Superman & Lois" group-title="⍟24/7 | CANALES",24/7 Superman & Lois
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525861
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk3YzgxNDQtNTEzOS00NDMyLWFlYmYtYTZlMDk1NDkxNmMyXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_.jpg" tvg-name="24/7 The Vampire Diaries" group-title="⍟24/7 | CANALES",24/7 The Vampire Diaries
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525862
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/0e/7c/18/0e7c1806e54f2579f509a959ca17e2a1.jpg" tvg-name="24/7 La pantera rosa 2" group-title="⍟24/7 | CANALES",24/7 La pantera rosa 2
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525865
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngall.com/wp-content/uploads/4/The-Last-of-Us-PNG-Photo.png" tvg-name="24/7 The Last Of Us" group-title="⍟24/7 | CANALES",24/7 The Last Of Us
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525872
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/death-battle-en-espanol/images/4/4c/He-Man.png/revision/latest?cb=20151005134503&path-prefix=es" tvg-name="24ʜ/7 He-Man" group-title="⍟24/7 | CANALES",24ʜ/7 He-Man
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525874
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.vogue.mx/photos/629e76caf43557e41117a3d8/master/w_2000,h_3000,c_limit/jenna-ortega-merlina-addams.jpg" tvg-name="24/7 Merlina" group-title="⍟24/7 | CANALES",24/7 Merlina
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525875
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/220px-TBBT_logo.svg.png" tvg-name="24/7 The Big Bang Theory" group-title="⍟24/7 | CANALES",24/7 The Big Bang Theory
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525876
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/84/The_Transporter.jpg/revision/latest?cb=20110624045945&path-prefix=es" tvg-name="24/7 El transportador" group-title="⍟24/7 | CANALES",24/7 El transportador
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525877
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Terminator-2-judgement-day.jpg/220px-Terminator-2-judgement-day.jpg" tvg-name="24/7 Terminator" group-title="⍟24/7 | CANALES",24/7 Terminator
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525878
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.clipartmax.com/png/middle/76-765128_im%C3%A1genes-de-la-peppa-pig-con-fondo-transparente-descarga-peppa-pig-png.png" tvg-name="24/7 Pepa Pig" group-title="⍟24/7 | CANALES",24/7 Pepa Pig
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525879
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_628166-MCO43222205877_082020-V.jpg" tvg-name="24/7 Mazinger Z" group-title="⍟24/7 | CANALES",24/7 Mazinger Z
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525880
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_bf8739ba.jpeg" tvg-name="24/7 Toy Story" group-title="⍟24/7 | CANALES",24/7 Toy Story
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525881
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Pinky-And-The-Brain-Transparent-Image.png" tvg-name="24/7 Pinky y cerebro 2" group-title="⍟24/7 | CANALES",24/7 Pinky y cerebro 2
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525882
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Pinky-And-The-Brain-Transparent-Image.png" tvg-name="24/7 Pinky y cerebro" group-title="⍟24/7 | CANALES",24/7 Pinky y cerebro
+http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/525883
+#EXTINF:-1 tvg-id="" t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 variedades (400xx)
 
@@ -6346,6 +6677,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
