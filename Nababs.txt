@@ -790,44 +790,6 @@ https://cdn.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd?|referer=https
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=", NEFLIX_01
-https://stream-cdn-iad3.vaughnsoft.net/play/live_a_neflix01.flv
-
-#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  TERROR_MANIA
-https://stream-cdn-iad3.vaughnsoft.net/play/live_terror_mania.flv
-
-#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  PELICULAS_MANIA
-https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_mania.flv
-
-
-#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=", BETO_7HD
-https://stream-cdn-iad3.vaughnsoft.net/play/live_beto_7hd.flv
-
-#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=", ZONAFILMSTV
-https://stream-cdn-iad3.vaughnsoft.net/play/live_zonafilmstv.flv
-
-#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  GOKU TV
-https://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_oficial.flv
-
-#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CIENCIAFICCION01
-https://stream-cdn-iad3.vaughnsoft.net/play/live_cienciaficcion01.flv
-
-#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  TUFORTUNATV
-https://stream-cdn-iad3.vaughnsoft.net/play/live_tufortunatv.flv
-
-#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CRITICANDO_PELIS3
-https://stream-cdn-iad3.vaughnsoft.net/play/live_criticando_pelis3.flv
-
-
-#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  JUANCINE
-https://stream-cdn-iad3.vaughnsoft.net/play/live_juancine_tv.flv
-
-#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CINE PELIS
-https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="24/7 P | Cinema VIP 11 HD" group-title="⍟NETFLIX CINEMA",24/7 P | Cinema VIP 11 HD
 http://tv.experiencetv.fun:8080/Spayder89/nFPtVjEyRN7c/340221
 
@@ -6717,6 +6679,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
