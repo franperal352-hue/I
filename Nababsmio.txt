@@ -1651,6 +1651,42 @@ http://190.104.67.111:234/play/a06z/index.m3u8
 
 #EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 10 http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200989.ts
 
+#EXTINF:-1,✨24/7 Cinema Comedia (01)
+http://185.215.166.58:80/play/K6QEpQGiBHv-JuRSrbrOofSZSMROmRCcFZCLC4OKvxk/ts
+
+#EXTINF:-1,✨24/7 Cinema Comedia (02)
+http://185.215.166.58:80/play/K6QEpQGiBHv-JuRSrbrOof98Klz1QQOqsqGbw3nzcco/ts
+
+#EXTINF:-1,✨24/7 Cinema Comedia (03)
+http://185.215.166.58:80/play/K6QEpQGiBHv-JuRSrbrOoTgKPs3bkSvqo9mppqRWDG8/ts
+
+#EXTINF:-1,✨24/7 Cinema Comedia (04)
+http://185.215.166.58:80/play/K6QEpQGiBHv-JuRSrbrOoScgqrZsmpOAxfp-SzD2uWI/ts
+
+#EXTINF:-1,✨24/7 Cinema Comedia (05)
+http://185.215.166.58:80/play/K6QEpQGiBHv-JuRSrbrOoW2BT4SQa8baA4Lky5FLCos/ts
+
+#EXTINF:-1,✨24/7 Cinema Comedia (06)
+http://185.215.166.58:80/play/K6QEpQGiBHv-JuRSrbrOoYjxdV8int5na-9mirEcwkk/ts
+
+#EXTINF:-1,✨24/7 Cinema Comedia (07)
+http://185.215.166.58:80/play/K6QEpQGiBHv-JuRSrbrOofHG4LHFLvMi1bYQJHm-uE4/ts
+
+#EXTINF:-1,✨24/7 Cinema Comedia (08)
+http://185.215.166.58:80/play/K6QEpQGiBHv-JuRSrbrOoXtrpw0LB8K4ACZeT4RB0VY/ts
+
+#EXTINF:-1,✨24/7 Cinema Comedia (09)
+http://185.215.166.58:80/play/K6QEpQGiBHv-JuRSrbrOoe5-q6vDVX1myP3IdCIu9SU/ts
+
+#EXTINF:-1,✨24/7 Cinema Comedia (10)
+http://185.215.166.58:80/play/K6QEpQGiBHv-JuRSrbrOobYjK2jFbQRn_AduWZC8HpA/ts
+
+#EXTINF:-1,✨24/7 Vivos EC
+http://185.215.166.58:80/play/K6QEpQGiBHv-JuRSrbrOodrmPG8hFweZucg9uv-FvUs/ts
+
+#EXTINF:-1,✨24/7 Mis Adorables Entenados EC
+http://185.215.166.58:80/play/K6QEpQGiBHv-JuRSrbrOoczOYiNfZsQBSXhkc2CKBFs/ts
+
 
 
 #EXTINF:-1,✨24/7 Viuda Negra (S01)
@@ -6326,6 +6362,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
