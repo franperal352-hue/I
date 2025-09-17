@@ -772,116 +772,6 @@ https://cdn.sensa.com.ar/live/eds/USANetwork/live_dash_cld/USANetwork.mpd?|refer
 #EXTINF:-1 ch-number="349" tvg-id="Warner HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/160/160/0/0/14633187073787.png" group-title="Cine, Novelas y Series", Warner TV
 https://cdn.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="" xui-id="579252" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || PELICULAS NAVIDAD 1" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || PELICULAS NAVIDAD 1
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY14kf7Q-Dp_GlcmFUmzk3fz/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579253" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || PELICULAS NAVIDAD 2" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || PELICULAS NAVIDAD 2
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0ZfjMxxXzJUbplLYsIgquP/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579254" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA CABALLEROS DEL ZODIACO" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA CABALLEROS DEL ZODIACO
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY30pvCPxYANjkFCCOcrZSoQ/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579255" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA DRAGON BALL" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA DRAGON BALL
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1CwUzM54MET9OFVg51mSS_/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579256" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA HARRY POTTER" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA HARRY POTTER
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY20E4MA2TdpbT-iCGqFogYc/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579257" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA PIRATAS DEL CARIBE" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA PIRATAS DEL CARIBE
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1IcYP9ZEmhfQZArJ7OSoRg/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579258" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA SAW" group-title="TV || 24/7 PELICULAS 
-EXCLUSIVAS",24/7 || SAGA SAW
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0kLpX1KlJ6XA_wlyxK4JCs/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579259" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA TRANSFORMERS" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA TRANSFORMERS
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY19cQqMZSZ0PRZXicIaBPCF/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579260" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || PELICULAS MARVEL 1" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || PELICULAS MARVEL 1
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1nGA_XkTtLdWtOHWnmv7WM/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579261" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || PELICULAS MARVEL 2" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || PELICULAS MARVEL 2
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1uNB8eANpE2uA2__kgk5Xl/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579262" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || PELICULAS DC COMICS 1" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || PELICULAS DC COMICS 1
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY2RZ3qNkjE9f_iihuImZzBl/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579263" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || PELICULAS DC COMICS 2" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || PELICULAS DC COMICS 2
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1_afYkIsCFJnjX0MDOkt7b/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579274" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA RAMBO" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA RAMBO
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY3esUVBZPjI8IIo7JYbYlJP/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579275" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || PELICULAS MARVEL 3" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || PELICULAS MARVEL 3
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0_SuJmb1g8KzZ3YDPGN0pg/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579276" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA JUEGOS DEL HAMBRE" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA JUEGOS DEL HAMBRE
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1rRVxCROazmPhTjU27_jan/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579281" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || CLASICOS DISNEY 1" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || CLASICOS DISNEY 1
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY2MUHiNzqTzACwRY5iEZqkN/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579282" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || CLASICOS DISNEY 2" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || CLASICOS DISNEY 2
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY2XqDx6ZYvTMpyKfnYwyHxk/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579283" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || CLASICOS DISNEY 3" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || CLASICOS DISNEY 3
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY3gP2I5eBNIek5Xq4jyO-FA/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579336" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA DESTINO FINAL" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA DESTINO FINAL
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0Ld8-9O653QyT-8_RgnCJo/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579337" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA EL EXORCISTA" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA EL EXORCISTA
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0TNJzy2Of31U-lf9nAGmzw/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579338" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA RAPIDOS Y FURIOSOS" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA RAPIDOS Y FURIOSOS
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY3aW2tlIZgzmRft8QMsEIFE/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579339" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA JURASSIC PARK" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA JURASSIC PARK
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0XJF3U1ROUgwOlx_M4_wY8/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579340" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA CREPUSCULO" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA CREPUSCULO
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1AdTaYy6CvX4fl3ZB1Ivgm/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579341" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA DURO DE MATAR" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA DURO DE MATAR
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY3UuxaVAUTAMQmK4_oxWHmp/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579342" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA EL ARO" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA EL ARO
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1uMs_2dWVQNNN7zZg7h3RR/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579343" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA MATRIX" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA MATRIX
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY2tU7wGkp6Y22N6o49QP4Df/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579344" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA ROCKY BALBOA" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA ROCKY BALBOA
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0FRYN9kAC2YErBCGCXNvK9/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579345" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA TERMINATOR" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA TERMINATOR
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY2w_b6Q2LCw7mH2BtuT6SvA/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579393" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA RESIDENT EVIL" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA RESIDENT EVIL
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1HZ1-IuAsoR4O6DEnbpfkz/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579395" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA CAZAFANTASMAS" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA CAZAFANTASMAS
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY3x6ekh8_CNp4X7HRW-YBaj/ts
-
-#EXTINF:-1 tvg-id="" xui-id="579396" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA SCARY MOVIE" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA SCARY MOVIE
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY3KDLLn-_c-HWNxh4ZIVZaH/ts
-#EXTINF:-1 tvg-id="" xui-id="580487" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA LA PURGA" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA LA PURGA
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY1L8PZFEbjGvdRG8n9-RFL7/ts
-
-#EXTINF:-1 tvg-id="" xui-id="580488" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA FREDDY KRUEGER" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA FREDDY KRUEGER
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0DMU4AkbAbTAIufkFJCc9m/ts
-
-#EXTINF:-1 tvg-id="" xui-id="580489" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA CHUCKY" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA CHUCKY
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY2ICwnXgMzx7PUxMJBf_jac/ts
-
-#EXTINF:-1 tvg-id="" xui-id="580490" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA PICARDIA MEXICANA" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA PICARDIA MEXICANA
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0ZcC5xDZsDPHUlXqGroDJU/ts
-
-#EXTINF:-1 tvg-id="" xui-id="580491" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || SAGA ACTIVIDAD PARANORMAL" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || SAGA ACTIVIDAD PARANORMAL
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY0fq9y1MA-i_egGnDdESb_g/ts
-
-#EXTINF:-1 tvg-id="" xui-id="580492" tvg-logo="http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" tvg-name="24/7 || TERROR BAJO LA TIERRA" group-title="TV || 24/7 PELICULAS EXCLUSIVAS",24/7 || TERROR BAJO LA TIERRA
-http://alfatv.lat:2082/play/ct3TKG6JIpS1orgUldNNZIwZoZmhvYWAG1hP6B8cxY2e_-gdVggbmmJukv7Y3Dgb/ts
 
 
 #EXTINF:-1 tvg-id="" xui-id="333938" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE156c8vJxQ8HoNHSVCQtyESRrRk655oF6uysUhe2BWqix.png" tvg-name="NETFLIX TV 01" group-title="24-7 NETFLIX | LAT",NETFLIX TV 02
@@ -1833,16 +1723,6 @@ http://190.104.67.111:234/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" tvg-name="MIX HITS " group-title="EVENTOS 24/7",MIX HITS
 http://vmi1839636.contaboserver.net:2082/live/luissegundo/luis83821/48306.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="⭐24/7⭐",NETFLIX1
-http://104.238.222.251:8989/168559_.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⭐24/7⭐",NETFLIX2
-http://104.238.222.251:8989/168564_.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⭐24/7⭐",NETFLIX3
-http://104.238.222.251:8989/168567_.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⭐24/7⭐",NETFLIX4
-http://104.238.222.251:8989/168568_.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⭐24/7⭐",NETFLIX5
-http://104.238.222.251:8989/168570_.m3u8
 
 
 #EXTINF:-1 ,24/7 La Hija de Dios: Dalma Maradona
@@ -1866,145 +1746,13 @@ http://gzytv.vip:8880/Mario0123/246813579/428
 http://gzytv.vip:8880/Mario0123/246813579/401
 
 
-#EXTINF:-1,The Big Bang Theory
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/563082.ts
-
-#EXTINF:-1,Looney Tunes
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/563080.ts
-
-#EXTINF:-1,Pajaro Loco
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/563076.ts
-
-#EXTINF:-1,Los Picapiedras
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/563075.ts
-
-#EXTINF:-1,Las Chicas Superpoderosas 24/7
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/563074.ts
-
-#EXTINF:-1,La Pantera Rosa 24/7
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/563073.ts
-
-#EXTINF:-1,Hey Arnold 24/7
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/563071.ts
-
-#EXTINF:-1,Cinema Lego Movies HD 24/7
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/563068.ts
-
-#EXTINF:-1,Rocky 24/7
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/563063.ts
-
-#EXTINF:-1,Master Chef Latino 24/7
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562995.ts
-
-#EXTINF:-1,DISNEY NUEVOS 24-7
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562962.ts
-
-#EXTINF:-1,Disney Nostalgia 2 24-7
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562961.ts
-
-#EXTINF:-1,Disney Nostalgia 24-7
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562960.ts
-
-#EXTINF:-1,DISNEY EXITOS 24-7
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562959.ts
-
-#EXTINF:-1,DISNEY EMOTIVOS 24-7
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562958.ts
-
-#EXTINF:-1,Disney Avengers 24-7
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562957.ts
-
-#EXTINF:-1,Disney 3 24-7
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562956.ts
-
-#EXTINF:-1,FBI HD
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562906.ts
-
-#EXTINF:-1,Caso Cerrado Familia 3
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562903.ts
-
-#EXTINF:-1,Caso Cerrado Familia 2
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562902.ts
-
-#EXTINF:-1,Caso Cerrado Familia Hd
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562900.ts
-
-#EXTINF:-1,Caso Cerado Inmigracion hd
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562886.ts
-
-#EXTINF:-1,DORA LA EXPLORADORA
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562885.ts
-
-#EXTINF:-1,Super Mario Bross 3
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562884.ts
 
 
-#EXTINF:-1 tvg-id="" xui-id="563019" tvg-logo="http://icomplay.net:80/images/ES-ZnjfvvGBS-v8DriSJrKkgT3zZLiMAGOsN4w--cgxe9d7duhXEtRkbpaFAWgHMt7VxIorSweMdD02Ik5vKu9X9AK-1VcprfgTnJISb0DesUJcadajDaWRISXcTmkji.jpeg" tvg-name="24/7 Alerta Aeropuerto" group-title="24-7 CINEMA -ECD-",24/7 Alerta Aeropuerto
-http://iptvglobal.site:80/play/dcebj2v2n-kxtOmNOgDcJvTqJnOpuYKbbBWfmWPkxgstLQHehcT95GThWxBzxHvk/ts
 
-#EXTINF:-1 tvg-id="" xui-id="563006" tvg-logo="http://icomplay.net:80/images/ES-ZnjfvvGBS-v8DriSJrKkgT3zZLiMAGOsN4w--cgxe9d7duhXEtRkbpaFAWgHMnT0U1filaSvacrmk6wI-36XcUJNAKkXA1fj38ILN2klAhi9GgcPu0s2Ct6NArDTF.jpeg" tvg-name="24/7 Supervivencia al desnudo" group-title="24-7 CINEMA -ECD-",24/7 Supervivencia al desnudo
-http://iptvglobal.site:80/play/dcebj2v2n-kxtOmNOgDcJvTqJnOpuYKbbBWfmWPkxgu_iFbWEkiLnlCJFzJM_W_V/ts
-
-
-#EXTINF:-1,PLAY! DRAGON BALL GT
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562876.ts
-
-#EXTINF:-1,PINKI & CEREBRO
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562874.ts
-
-
-#EXTINF:-1,PLAY! CINEMA DRAGON BALL 2 HD
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562865.ts
-
-#EXTINF:-1,DRAGON BALL Z
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562864.ts
-
-#EXTINF:-1,DRAGON BALL SUPER
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562863.ts
-
-#EXTINF:-1,CINEMA DC COMICS
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562862.ts
-
-#EXTINF:-1,CINEMA DISNEY
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562859.ts
-
-#EXTINF:-1,CINEMA LEGO MOVIES
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562858.ts
 
 
 #EXTINF:-1 tvg-id="" xui-id="562853" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw-0254W9HJakXLwminTH0dj5eQJugs3aEYHUYCk16spv7IH-YT0kevFfZFLUTWKKPYbWfvjHxYclPXivYdNyrQ0.png" tvg-name="24/7 | EXPONIENDO INFIELES BADABU" group-title="24-7 CINEMA -ECD-",24/7 | EXPONIENDO INFIELES BADABU
 http://iptvglobal.site:80/play/dcebj2v2n-kxtOmNOgDcJnlmnqaVkv8pDKjXAqtZ07HDgq_2PJ7-PD0N-3_LCliX/ts
-
-
-
-
-#EXTINF:-1 tvg-id="" xui-id="562852" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw44iHtnld3K8SlM6ReHTovSoiq2thBTxI_aD_kzRjCSnCNFEy713GXlPJKLM34tchLlfVKToSv-ZXgsudtJRrfA.jpg" tvg-name="24/7 Luisito Comunica (Mexico) HD" group-title="24-7 CINEMA -ECD-",24/7 Luisito Comunica (Mexico) HD
-http://iptvglobal.site:80/play/dcebj2v2n-kxtOmNOgDcJnlmnqaVkv8pDKjXAqtZ07G3ERAwnLUwDoxIfjkyXvQD/ts/Legazy/GHoRXksJZc/562852.ts
-
-
-
-#EXTINF:-1,El Bilardo El Doctor Del Futbol
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562850.ts
-
-#EXTINF:-1,Seleccion Argentina La Serie - Camino A Qatar
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562849.ts
-
-#EXTINF:-1,La Era De Escaloni
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562848.ts
-
-
-#EXTINF:-1,Arcane
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/562821.ts
-
-#EXTINF:-1,Paranormal Activity 24/7 http://iptvglobal.site:80/Legazy/GHoRXksJZc/562787.ts
-
-#EXTINF:-1,CONCIERTOS
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/637838.ts
-
-
-#EXTINF:-1,ROSA DE GUADALUPE
-http://iptvglobal.site:80/Legazy/GHoRXksJZc/533430.ts
-
 
 
 
@@ -2025,8 +1773,6 @@ http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235579.ts
 #EXTINF:-1,NETFLIX 24/7 PELICULAS
 http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235580.ts
 
-#EXTINF:-1, PARAMOUNT 24/7 PELICULAS
-http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235589.tsa
 
 #EXTINF:-1,STAR + PELICULAS 24/7
 http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235575.ts
@@ -2034,8 +1780,8 @@ http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235575.ts
 http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235588.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVm4H7A3EJjytLLTumli9Pyuw51AAnP974A&s" tvg-name="CINEMA VIP 02 FHD" group-title="EXTRA CINE",CINEMA VIP 02 FHD
 http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235574.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVm4H7A3EJjytLLTumli9Pyuw51AAnP974A&s" tvg-name="CINEMA VIP 03 FHD" group-title="EXTRA CINE",CINEMA VIP 03 FHD
-http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235584.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVm4H7A3EJjytLLTumli9Pyuw51AAnP974A&s" tvg-name="CINEMA VIP 04 FHD" group-title="EXTRA CINE",CINEMA VIP 04 FHD
 http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235583.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVm4H7A3EJjytLLTumli9Pyuw51AAnP974A&s" tvg-name="CINEMA VIP 05 FHD" group-title="EXTRA CINE",CINEMA VIP 05 FHD
@@ -2058,7 +1804,7 @@ http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235585.ts
 http://weib-tv.com:80/ang689liz/hZQcRqEK7fBd/235567.ts
 
 
-#EXTINF:-1,Escobar El Patron del Mal24/7
+#EXTINF:-1,Escobar El Patron del Mal 24/7
 http://latinostvhd.club:25461/8642755377/437ca16994/43146
 
 #EXTINF:-1,Vis a Vis 24/7
@@ -2066,24 +1812,6 @@ http://latinostvhd.club:25461/8642755377/437ca16994/117807
 
 #EXTINF:-1,CINE Cl4ro Cinema 24/7
 http://latinostvhd.club:25461/8642755377/437ca16994/283008
-
-#EXTINF:-1,CINE Cl4ro Cinema 24/7
-http://latinostvhd.club:25461/8642755377/437ca16994/283009
-
-#EXTINF:-1,CINE Cl4ro Cinema 24/7
-http://latinostvhd.club:25461/8642755377/437ca16994/283010
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1,Hannah Montana 24/7
@@ -2133,172 +1861,11 @@ http://planettvweb.com:8091/JavierHndez/AFur2741a/101814
 
 
 
-#EXTINF:-1 tvg-id="" xui-id="243525" tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG.png" tvg-name="PAW Patrol Patrulla de Cachorros" group-title="24/7 II",PAW Patrol Patrulla de Cachorros
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8394d4kmLskxFbNxUEHyfBtFBOGa8EPuq32W_C_fQyQ4
-
-
-#EXTINF:-1 tvg-id="" xui-id="243402" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png" tvg-name="Los Simpson 29-34" group-title="24/7",Los Simpson 29-34
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668etSSKxrNJKINIBR3XZoHUT
-
-
-
-#EXTINF:-1 tvg-id="" xui-id="243556" tvg-logo="https://www.themoviedb.org/t/p/original/aitL0Fs9RjnNjqCI5Wdt5eZvDWT.jpg" tvg-name="Barbie: Dreamhouse Adventures" group-title="24/7 III",Barbie: Dreamhouse Adventures
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8394d4kmLskxFbNxUEHyfBtKcEkyy5bAfSEgF5-vq5Ox
-
-#EXTINF:-1 tvg-id="" xui-id="243450" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="BOB ESPONJA 24-7" group-title="24/7 II",BOB ESPONJA 24-7
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668e2JQPYjEDaxghjKa6HqUSg
-
-#EXTINF:-1 tvg-id="" xui-id="243451" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" tvg-name="Bob Esponja Pantalones Cuadrados" group-title="24/7 II",Bob Esponja Pantalones Cuadrados
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668duFBZ_01Ye53p72DRKmyip
-
-#EXTINF:-1 tvg-id="" xui-id="243320" tvg-logo="https://basededatos.atrae.org/media/works/rEkUpvQWa4jy5C2VmYzHCb7W1AK.jpg" tvg-name="Caso Cerrado (parte 1)" group-title="24/7",Caso Cerrado (parte 1)
-https://tv.nube-x.xyz:8443/play/uMICfGVjmLsvMFWqCzJRAuIxRxH7UVxc2QtD-aXluwZwlD5Yjqu3hRGkDzrKVN_r
-
-
-#EXTINF:-1 tvg-id="" xui-id="243321" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmZjOWI1YjQtZGEwYy00YWE5LWIyZWMtMDBkYmE2ODA3Nzg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-name="Caso Cerrado (parte 2)" group-title="24/7",Caso Cerrado (parte 2)
-https://tv.nube-x.xyz:8443/play/uMICfGVjmLsvMFWqCzJRAuIxRxH7UVxc2QtD-aXluwZfsSSnBqppXviAVmClNlRO
-
-
-#EXTINF:-1 tvg-id="" xui-id="243322" tvg-logo="http://wolkplay.com:80/images/qw9Sd5JnDX2uSQDrGmMcugeG0DAN4W4iFrRUz09lGDUu1UQpwaB_isO3N3CB6Ag_HaaDnatKwAYYRwlTa2YWog.jpg" tvg-name="Caso Cerrado - Crímenes Pasionales" group-title="24/7",Caso Cerrado - Crímenes Pasionales
-https://tv.nube-x.xyz:8443/play/uMICfGVjmLsvMFWqCzJRAuIxRxH7UVxc2QtD-aXluwbNW-vnHLCdiZq0SWBOxoBO
-
-
-#EXTINF:-1 tvg-id="" xui-id="243426" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5Yiep9EwcQgLolg013ETBVqHxuD.jpg" tvg-name="Ricky Morty" group-title="24/7",Ricky Morty
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668eTEIoe9S131sCaiaLgJU--
-
-#EXTINF:-1 tvg-id="" xui-id="243359" tvg-logo="http://boxdigital.xyz:8080/images/07ba43345a4d99f3718440aab6feae5f.png" tvg-name="Ed Edd y Eddy" group-title="24/7",Ed Edd y Eddy
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e80thUSB2ZTspK7Jm6DugSvsHYVaQPHwLORzDCNBW524r
-
-#EXTINF:-1 tvg-id="" xui-id="243441" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" tvg-name="Baby Shark TV" group-title="24/7 II",Baby Shark TV
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668dhmKjRE22U_8iZQVB1WgaQ
-
-
-#EXTINF:-1 tvg-id="" xui-id="243443" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" tvg-name="Barney" group-title="24/7 II",Barney
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668emZ9xeRPQtiinCi0b7UXHS
-
-#EXTINF:-1 tvg-id="" xui-id="243458" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="CANAL DISNEY 24-7" group-title="24/7 II",CANAL DISNEY 24-7
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668f0gRa4ESNo1x4LgaUu_1J-
-
-#EXTINF:-1 tvg-id="" xui-id="243457" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="CANAL DISNEY 2 24-7" group-title="24/7 II",CANAL DISNEY 2 24-7
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e8_OgWAj_mQy7rVHURTn668ePw3ye1d-H-KbNNdxneXD6
-
-#EXTINF:-1 tvg-id="" xui-id="243645" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Aes6nbECN7j61PEnPmz3eQKE0x.jpg" tvg-name="The Boys" group-title="24/7 III",The Boys
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e84dbaa4GeEGfQJJOAssPUi4cBN6zFmsoljg9aMP0CXO_
-
-
-#EXTINF:-1 tvg-id="" xui-id="243412" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/1/11/Merlina_-_Poster.jpg/revision/latest?cb=20220923182223&path-prefix=es" tvg-name="Merlina" group-title="24/7",Merlina
-https://tv.nube-x.xyz:8443/play/uMICfGVjmLsvMFWqCzJRAifSk_nYezuWda_BRV41TCm9lPNep10k4QLIwlREjxlq
-
-
-#EXTINF:-1 tvg-id="" xui-id="243592" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw8TxUHkeQH8GzSygewHkx05sQe.jpg" tvg-name="High School Musical: El Musical: La Serie" group-title="24/7 III",High School Musical: El Musical: La Serie
-https://tv.nube-x.xyz:8443/play/uMICfGVjmLsvMFWqCzJRAvR-TNxJ9jVs9Oslye8Ec6PM7wD_hJetxtrITuIxhzL5
-
-
-#EXTINF:-1 tvg-id="" xui-id="243636" tvg-logo="https://www.themoviedb.org/t/p/w500/uf0JXBxRRzp3r3jReOKrz9llYv8.jpg" tvg-name="Rápidos y furiosos: Espías al volante" group-title="24/7 III",Rápidos y furiosos: Espías al volante
-https://tv.nube-x.xyz:8443/play/uMICfGVjmLsvMFWqCzJRAk4hqn3wHP95wf1TM3CJqV5EtHMjJWCxl3h1MnKKF2kv
-
-
-#EXTINF:-1 tvg-id="" xui-id="262152" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png?resize=696,392&ssl=1" tvg-name="Rapido y furioso" group-title="24/7 Películas",Rapido y furioso
-https://tv.nube-x.xyz:8443/play/uMICfGVjmLsvMFWqCzJRAsxpcGkVx-bOvd2hQacW1PkkqcZwmegJ1A0CA_sP03rG
-
-
-#EXTINF:-1 tvg-id="" xui-id="243423" tvg-logo="https://i.ibb.co/ZRrwNgS/resize.png" tvg-name="Rapido y Furioso (1-5)" group-title="24/7",Rapido y Furioso (1-5)
-https://tv.nube-x.xyz:8443/play/uMICfGVjmLsvMFWqCzJRAifSk_nYezuWda_BRV41TClNsDnv-Ir3nc4JT1i-E1hm
-
-
-#EXTINF:-1 tvg-id="" xui-id="243424" tvg-logo="https://i.ibb.co/ZRrwNgS/resize.png" tvg-name="Rapido y Furioso (6-10)" group-title="24/7",Rapido y Furioso (6-10)
-https://tv.nube-x.xyz:8443/play/uMICfGVjmLsvMFWqCzJRAifSk_nYezuWda_BRV41TCk09L5pVXRTewxcxI2c5nk0
-
-
-#EXTINF:-1 tvg-id="" xui-id="262151" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png?resize=696,392&ssl=1" tvg-name="CREPUSCULO" group-title="24/7 Películas",CREPUSCULO
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e81s-xJ9lEat8i_zQlD4iwtuWbCUH1Lc78PpQpbwq0O2_
-
-
-#EXTINF:-1 tvg-id="" xui-id="262153" tvg-logo="" tvg-name="CINE 2025" group-title="24/7 Películas",CINE 2025
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e81s-xJ9lEat8i_zQlD4iwtsHnmJvmsyfF_70amvDmfaI
-
-#EXTINF:-1 tvg-id="" xui-id="243374" tvg-logo="https://logos-world.net/wp-content/uploads/2020/04/Harry-Potter-Logo.png" tvg-name="Harry Potter" group-title="24/7",Harry Potter
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e80thUSB2ZTspK7Jm6DugSvvwsUs5gMcL9awtoUYWlSVl
-
-
-#EXTINF:-1 tvg-id="" xui-id="120848" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Logo.png" tvg-name="AMAZON 3" group-title="Amazon - Netflix 24/7",AMAZON 3
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e88qxrEv7lNFbRgkfV58g8Q0OZMrycl35J0uOASvc2ldg
-
-#EXTINF:-1 tvg-id="" xui-id="144990" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="NETFLIX KIDS 1" group-title="Amazon - Netflix 24/7",NETFLIX KIDS 1
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAE9Lb183HPif0m3ASyzetmi
-
-#EXTINF:-1 tvg-id="" xui-id="144991" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="NETFLIX KIDS 2" group-title="Amazon - Netflix 24/7",NETFLIX KIDS 2
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAEZDEygSguEy5MK5wAPifeg
-
-#EXTINF:-1 tvg-id="" xui-id="144992" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="NETFLIX KIDS 3" group-title="Amazon - Netflix 24/7",NETFLIX KIDS 3
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAGlMEPgg73gOptyf5z6R98l
-
-#EXTINF:-1 tvg-id="" xui-id="144993" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 1" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 1
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAH2SPVMayHOMGJ1azxtsrQ2
-
-
-#EXTINF:-1 tvg-id="" xui-id="144994" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 2" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 2
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAFa_fzvaI-KbaUnmhLLG-TV
-
-
-#EXTINF:-1 tvg-id="" xui-id="144995" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 3" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 3
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAGRyg3KjTXp7wmI0DysovM_
-
-#EXTINF:-1 tvg-id="" xui-id="144996" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 4" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 4
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAHradI9O6KYIx3m6pRWApSc
-
-
-
-#EXTINF:-1 tvg-id="" xui-id="144997" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 5" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 5
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAHv8bdtfj0QFvlftxaKhwo9
-
-
-#EXTINF:-1 tvg-id="" xui-
-id="144998" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 6" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 6
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAGdOaSXjjPUOFhEG_iPTxiV
-
-
-
-#EXTINF:-1 tvg-id="" xui-id="144999" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 7" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 7
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89ITMjpmjc3RwBBigdcIXAH_qEii3I7AIsy4jjAblwMs
-
-
-#EXTINF:-1 tvg-id="" xui-id="145000" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 8" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 8
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89h6ucOz4Ak5bhCXr16zwhL6sWFNJfwpkXjorlODxNy2
-
-
-#EXTINF:-1 tvg-id="" xui-id="145001" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 9" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 9
-https://tv.nube-x.xyz:8443/play/QddbYl1EofZgDQz_kW1e89h6ucOz4Ak5bhCXr16zwhKUx-UqZ3dgvFaWO5f5fwpl
-
-
-#EXTINF:-1,LOS SIMPSONS 24/7
-https://user.tvcluboficial.com/live/m/m/357.m3u8
-
-
-
-EXTINF:-1,EL CHAVO 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-208219/playlist.m3u8
-
-
-
 #EXTINF:-1,DRAGON BALL SUPER
 https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
 
-#EXTINF:-1,DRAGON BALL super
-http://172.93.102.119:8989/279025_.m3u8
-
-#EXTINF:-1,DRAGON BALL
-http://172.93.102.119:8989/279024_.m3u8
-
-#EXTINF:-1,COBRA KAI 24/7
-http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94813
-
-#EXTINF:-1,ALIAS JJ 24
-http://tv.zapping.life:8080/live/MarlyTobonIPTVCLUB/EsXeUfvwQs/112428.m3u8
 
 
- #EXTINF:-1,SEX AND THE CITY 24/7
-http://tv.zapping.life:8080/live/MarlyTobonIPTVCLUB/EsXeUfvwQs/94864.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/c4k0DZqr/Proyectox-24-7seri3s-9.png" tvg-name="24/ The Walking Dead Daryl Dixon" group-title="24/7 SERIES",24/ The Walking Dead Daryl Dixon
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94829
@@ -2321,11 +1888,6 @@ http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94917
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Jhnphcy6/Proyectox-Cinemax-18.png" tvg-name="24/7 Boardwalk Empire (e)" group-title="24/7 SERIES",24/7 Boardwalk Empire (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94918
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/g0TNLX8Y/Proyectox-Cinemax-19.png" tvg-name="24/7 Bones (e)" group-title="24/7 SERIES",24/7 Bones (e)
-http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94919
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RFJG7SLw/Proyectox-Cinemax-20.png" tvg-name="24/7 Breaking Bad (e)" group-title="24/7 SERIES",24/7 Breaking Bad (e)
-http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94920
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Gt0KzWXV/Proyectox-Cinemax-21.png" tvg-name="24/7 Chicago Fire (e)" group-title="24/7 SERIES",24/7 Chicago Fire (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94921
@@ -2336,8 +1898,7 @@ http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94922
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/L4fNhsXp/Proyectox-Cinemax-23.png" tvg-name="24/7 Chicago P.D (e)" group-title="24/7 SERIES",24/7 Chicago P.D (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94987
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/gkW4hPX6/Proyectox-Cinemax-24.png" tvg-name="24/7 Cobra Kai" group-title="24/7 SERIES",24/7 Cobra Kai
-http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94813
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSZzCcB0/Proyectox-Cinemax-26.png" tvg-name="24/7 Criminal Minds (e)" group-title="24/7 SERIES",24/7 Criminal Minds (e)
 http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/95604
@@ -2549,10 +2110,6 @@ http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94867
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vZm4WkMk/Proyectox-24-7-series-Animacion3-29.png" tvg-name="24/7 The Fresh Prince of Bel Air (e)" group-title="24/7 SERIES COMEDIAS",24/7 The Fresh Prince of Bel Air (e)
 http://tv.zapping.lif
 
-
-#EXTINF:-1,LOS SIMPSONS 24/7
-http://tv.zapping.life:8080/live/MarlyTobonIPTVCLUB/EsXeUfvwQs/94883.m3u8
-http://tv.zapping.life:8080/MarlyTobonIPTVCLUB/EsXeUfvwQs/94883
 
 
 #EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png",Los Tres Chiflados
@@ -6299,6 +5856,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
