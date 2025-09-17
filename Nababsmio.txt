@@ -103,11 +103,6 @@ https://cdn.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_C/MixTV.mpd|referer=
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0839729159fd400250f90532f41b65f3:992972a1b89982c359c4b4a5f8034eed
-#EXTINF:-1 tvg-id="E!.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/312/CH_LOGO/800/542/0/0/477606810750.png" group-title="Variedades" ch-number="409" type="channel",E! Entertainment
-https://cdn.sensa.com.ar/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
 #EXTINF:-1 tvg-id="721#IP Noticias HD" tvg-name="721#IP Noticias HD" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/IPNOT.png?raw=true" group-title="Argentina" ch-number="29" type="channel",IP Noticias
 https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd
@@ -6308,6 +6303,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
