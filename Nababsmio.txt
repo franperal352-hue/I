@@ -1632,6 +1632,27 @@ http://190.104.67.111:234/play/a086/index.m3u8
 http://190.104.67.111:234/play/a06z/index.m3u8
 
 
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 1 http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200985.ts #EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 2 http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200986.ts
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 3 http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200992.ts
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 4 http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200990.ts
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 5 http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200995.ts
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 6 http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200993.ts
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 7 http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200988.ts
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 8 http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200996.ts
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 9 http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200987.ts
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 10 http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200989.ts
+
+
+
 #EXTINF:-1,✨24/7 Viuda Negra (S01)
 http://185.215.166.58:80/play/K6QEpQGiBHv-JuRSrbrOoXfi9Ol_xpl1pjw6BJp0Fjk/ts
 
@@ -6305,6 +6326,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
