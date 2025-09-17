@@ -945,11 +945,951 @@ http://fivetv.org:25461/santiago248/baez249/339997
 http://fivetv.org:25461/santiago248/baez249/339998
 
 
+#EXTINF:-1 tvg-id="" xui-id="120737" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Cinema 1" group-title="Cine PPV 24/7",24/7 Cinema 1
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNXhmWlhFVRSu-ELHhR4kaKp
+
+#EXTINF:-1 tvg-id="" xui-id="120738" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Cinema 2" group-title="Cine PPV 24/7",24/7 Cinema 2
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNXGq48r0Cdld0qx_Vz3oO7C
+
+#EXTINF:-1 tvg-id="" xui-id="120739" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Cinema 3" group-title="Cine PPV 24/7",24/7 Cinema 3
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNVOgV1a_Eqf1srMvCZfH97x
+
+#EXTINF:-1 tvg-id="" xui-id="120740" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Cinema 4" group-title="Cine PPV 24/7",24/7 Cinema 4
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNXH3jozmfW2HRY1_lQnM2Sl
+
+#EXTINF:-1 tvg-id="" xui-id="120741" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Cinema 5" group-title="Cine PPV 24/7",24/7 Cinema 5
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNWrvQFaanKZQZ_61YfQV1o6
+
+#EXTINF:-1 tvg-id="" xui-id="120742" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Cinema 6" group-title="Cine PPV 24/7",24/7 Cinema 6
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNVpkchp1Co56nC8KWvV2SXg
+
+#EXTINF:-1 tvg-id="" xui-id="120743" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Cinema 7" group-title="Cine PPV 24/7",24/7 Cinema 7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNWkrc0BijdybxjwUUC4ztud
+
+#EXTINF:-1 tvg-id="" xui-id="120744" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Cinema 8" group-title="Cine PPV 24/7",24/7 Cinema 8
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNWKHaFiaeutljWnF9NLcS1c
+
+#EXTINF:-1 tvg-id="" xui-id="120745" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Cinema 9" group-title="Cine PPV 24/7",24/7 Cinema 9
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNVih6cooUBSzzcPzCiNfQnH
+
+#EXTINF:-1 tvg-id="" xui-id="120746" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Cinema 10" group-title="Cine PPV 24/7",24/7 Cinema 10
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNW9BH6G_uEXoeadEaGOS9uX
+
+#EXTINF:-1 tvg-id="" xui-id="120747" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Cinema 11" group-title="Cine PPV 24/7",24/7 Cinema 11
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNVpU5aPjnhotUF3EQ7UUm0O
+
+#EXTINF:-1 tvg-id="" xui-id="120748" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Cinema 12" group-title="Cine PPV 24/7",24/7 Cinema 12
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNVMC31mhJNsMd8HQ9Tqk8WX
+
+#EXTINF:-1 tvg-id="" xui-id="120749" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Cinema 13" group-title="Cine PPV 24/7",24/7 Cinema 13
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNUaOBKvFUkIQZ22hyH8TnbW
+
+#EXTINF:-1 tvg-id="" xui-id="120750" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Cinema 14" group-title="Cine PPV 24/7",24/7 Cinema 14
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNXsVCOdjxo7II-JbduyRFJK
+
+#EXTINF:-1 tvg-id="" xui-id="120751" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Cinema 15" group-title="Cine PPV 24/7",24/7 Cinema 15
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNWkVtdVClzovhGFW4pD86AF
+
+#EXTINF:-1 tvg-id="" xui-id="120736" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Zombies" group-title="Cine PPV 24/7",24/7 Zombies
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNUcLE1mdDLVZCgT1xayJLqo
+
+#EXTINF:-1 tvg-id="" xui-id="120735" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Terror" group-title="Cine PPV 24/7",24/7 Terror
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNViWBiO_vGrPnzyba2SNBSi
+
+#EXTINF:-1 tvg-id="" xui-id="120734" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Sagas" group-title="Cine PPV 24/7",24/7 Sagas
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNWGvxvWq3G-0yzC6yYBIrki
+
+#EXTINF:-1 tvg-id="" xui-id="120733" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Romances" group-title="Cine PPV 24/7",24/7 Romances
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNXnLTV2k1SRA1c0vKqaDSRj
+
+#EXTINF:-1 tvg-id="" xui-id="120732" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Marvel" group-title="Cine PPV 24/7",24/7 Marvel
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNUBo4_0TMY95Aa4kgK5ml45
+
+#EXTINF:-1 tvg-id="" xui-id="120731" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Familiar" group-title="Cine PPV 24/7",24/7 Familiar
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNXh3MwRr124HoigD0y2yBck
+
+#EXTINF:-1 tvg-id="" xui-id="120730" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Drama" group-title="Cine PPV 24/7",24/7 Drama
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNWLOj_EUyc5o2N2Bpn9uz5G
+
+#EXTINF:-1 tvg-id="" xui-id="120729" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Comedia" group-title="Cine PPV 24/7",24/7 Comedia
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNWWQn4mR-3bH5E4PQe4JYzL
+
+#EXTINF:-1 tvg-id="" xui-id="120728" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" tvg-name="24/7 Aventura" group-title="Cine PPV 24/7",24/7 Aventura
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpZrYwtgAJYFvawGLlhUCNW0VZqzqph0ow9SRVAhi6UO
+
+#EXTINF:-1 tvg-id="" xui-id="243721" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="Cinema VIP 01 HD" group-title="Cine PPV 24/7",Cinema VIP 01 HD
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpyW8ieu6g2YgR8RtW2JIWpkoD5-D_dQYqqhkwPVIcBH
+
+#EXTINF:-1 tvg-id="" xui-id="243722" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="Cinema VIP 02 HD" group-title="Cine PPV 24/7",Cinema VIP 02 HD
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpyW8ieu6g2YgR8RtW2JIWqD9nnjpNYchmM3ubtk5vIC
+
+#EXTINF:-1 tvg-id="" xui-id="243723" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="Cinema VIP 04 HD" group-title="Cine PPV 24/7",Cinema VIP 04 HD
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpyW8ieu6g2YgR8RtW2JIWrQq5-slJtm-Zi9LQFzxVG4
+
+#EXTINF:-1 tvg-id="" xui-id="243724" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="Cinema VIP 06 HD" group-title="Cine PPV 24/7",Cinema VIP 06 HD
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpyW8ieu6g2YgR8RtW2JIWpiNhmq0xckF-ifh3pv_ffx
+
+#EXTINF:-1 tvg-id="" xui-id="243725" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="Cinema VIP 07 HD" group-title="Cine PPV 24/7",Cinema VIP 07 HD
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpyW8ieu6g2YgR8RtW2JIWqfcYf9BHy4FskAQWP1YaPk
+
+#EXTINF:-1 tvg-id="" xui-id="243726" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="Cinema VIP 08 HD" group-title="Cine PPV 24/7",Cinema VIP 08 HD
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpyW8ieu6g2YgR8RtW2JIWqQhuHJMNJtgmns1NAlZZrT
+
+#EXTINF:-1 tvg-id="" xui-id="243727" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="Cinema VIP 09 HD" group-title="Cine PPV 24/7",Cinema VIP 09 HD
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpyW8ieu6g2YgR8RtW2JIWpQPZWEBqleinH_coxkAwIg
+
+#EXTINF:-1 tvg-id="" xui-id="243728" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="Cinema VIP 11 HD" group-title="Cine PPV 24/7",Cinema VIP 11 HD
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpyW8ieu6g2YgR8RtW2JIWotaetOJK8KpPlPFlPyLRYM
+
+#EXTINF:-1 tvg-id="" xui-id="243729" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" tvg-name="Cinema VIP 12 HD" group-title="Cine PPV 24/7",Cinema VIP 12 HD
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpyW8ieu6g2YgR8RtW2JIWqPg2WRaqP8tTusg7k02u2t
+
+#EXTINF:-1 tvg-id="" xui-id="120846" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Logo.png" tvg-name="AMAZON 1" group-title="Amazon - Netflix 24/7",AMAZON 1
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wshpdGX9Ezq6Gywe58WiQp9gsD7PGbLlOsdk6gYahxW5
+
+#EXTINF:-1 tvg-id="" xui-id="120847" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Logo.png" tvg-name="AMAZON 2" group-title="Amazon - Netflix 24/7",AMAZON 2
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wshpdGX9Ezq6Gywe58WiQp-ftyX9N7PJqWw4cYkvMtIh
+
+#EXTINF:-1 tvg-id="" xui-id="120848" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Logo.png" tvg-name="AMAZON 3" group-title="Amazon - Netflix 24/7",AMAZON 3
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wshpdGX9Ezq6Gywe58WiQp8TheNPEdukoRJlC_D0GyRp
+
+#EXTINF:-1 tvg-id="" xui-id="120849" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Logo.png" tvg-name="AMAZON 4" group-title="Amazon - Netflix 24/7",AMAZON 4
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wshpdGX9Ezq6Gywe58WiQp_w69zAKkJsfP3RlMpmqqr5
+
+#EXTINF:-1 tvg-id="" xui-id="120850" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Logo.png" tvg-name="AMAZON 5" group-title="Amazon - Netflix 24/7",AMAZON 5
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wshpdGX9Ezq6Gywe58WiQp9tqw1gcviBqz-pafkvK4PU
+
+#EXTINF:-1 tvg-id="" xui-id="144990" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="NETFLIX KIDS 1" group-title="Amazon - Netflix 24/7",NETFLIX KIDS 1
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wvnIDnQ2s5tOq7pUfbiTVPUefx5tEWPjmgYKNjkzFa-8
+
+#EXTINF:-1 tvg-id="" xui-id="144991" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="NETFLIX KIDS 2" group-title="Amazon - Netflix 24/7",NETFLIX KIDS 2
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wvnIDnQ2s5tOq7pUfbiTVPW0d7vhXx-jxDuTM3fabyEa
+
+#EXTINF:-1 tvg-id="" xui-id="144992" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="NETFLIX KIDS 3" group-title="Amazon - Netflix 24/7",NETFLIX KIDS 3
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wvnIDnQ2s5tOq7pUfbiTVPWnkGJNqZieHSD2_zKbg2m9
+
+#EXTINF:-1 tvg-id="" xui-id="144993" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 1" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 1
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wvnIDnQ2s5tOq7pUfbiTVPUGv4KF0S4l5rLmcGTtv3Nk
+
+#EXTINF:-1 tvg-id="" xui-id="144994" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 2" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 2
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wvnIDnQ2s5tOq7pUfbiTVPXxALhH312qfsRIB-IIehj-
+
+#EXTINF:-1 tvg-id="" xui-id="144995" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 3" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 3
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wvnIDnQ2s5tOq7pUfbiTVPWPvF4bQFPHr1OmKcjH9O24
+
+#EXTINF:-1 tvg-id="" xui-id="144996" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 4" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 4
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wvnIDnQ2s5tOq7pUfbiTVPUaUGqDqeit2Gjr-X71ytLI
+
+#EXTINF:-1 tvg-id="" xui-id="144997" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 5" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 5
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wvnIDnQ2s5tOq7pUfbiTVPVQ-Qvgqb2tjNYmdZLoB14B
+
+#EXTINF:-1 tvg-id="" xui-id="144998" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 6" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 6
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wvnIDnQ2s5tOq7pUfbiTVPUfBIoG52SXK2jcTTisXNui
+
+#EXTINF:-1 tvg-id="" xui-id="144999" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 7" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wvnIDnQ2s5tOq7pUfbiTVPVe5mcbjXc7k2zyJK3A9_0X
+
+#EXTINF:-1 tvg-id="" xui-id="145000" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 8" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 8
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wlWJSH1sLMiuOwIMQLGHEOhw6roROantT9HzYNvmVbhw
+
+#EXTINF:-1 tvg-id="" xui-id="145001" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" tvg-name="MOVIES NETFLIX 9" group-title="Amazon - Netflix 24/7",MOVIES NETFLIX 9
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wlWJSH1sLMiuOwIMQLGHEOgcOjo0Ps-q1to1dDRPvn4_
+
+#EXTINF:-1 tvg-id="" xui-id="243301" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/The-purge-anarchy-logo.jpg/220px-The-purge-anarchy-logo.jpg" tvg-name="12 Horas para sobrevivir" group-title="24/7",12 Horas para sobrevivir
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabzwL6fv6ekONUvJIv795KcX
+
+#EXTINF:-1 tvg-id="" xui-id="243302" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_31_Minutos.jpg/1200px-Logo_de_31_Minutos.jpg" tvg-name="31 Minutos" group-title="24/7",31 Minutos
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabw9R2jQUDyiXY4YucVH6VAv
+
+#EXTINF:-1 tvg-id="" xui-id="243303" tvg-logo="https://www.ecranlarge.com/content/uploads/2016/06/alf-saison-1-affiche-958302.png" tvg-name="Alf" group-title="24/7",Alf
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyrTwZMrJU8DmHcdXlbtV08
+
+#EXTINF:-1 tvg-id="" xui-id="243304" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/bvW6xP8gu9Bo6AiIeHHQOFKSTmQ.jpg" tvg-name="American Dad" group-title="24/7",American Dad
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabweSo9pa2NRZDZ-Kuos71sl
+
+#EXTINF:-1 tvg-id="" xui-id="243305" tvg-logo="https://pictures.abebooks.com/isbn/9781405319638-us.jpg" tvg-name="Art Attack" group-title="24/7",Art Attack
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyVwr8wRrm3zo_qWn9OM92M
+
+#EXTINF:-1 tvg-id="" xui-id="243306" tvg-logo="https://i.pinimg.com/564x/51/40/23/514023d8d28830f1daeb02001604ae8d.jpg" tvg-name="Art Attack 2000" group-title="24/7",Art Attack 2000
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabzwh-u-k_gDi4C81ZHtFIrD
+
+#EXTINF:-1 tvg-id="" xui-id="243307" tvg-logo="https://moviepostermexico.com/cdn/shop/products/JPEGImagen_474x675pixeles_-Escalado_92_451fe6af-768c-4416-af32-cf0f03eb090e_300x300.jpg?v=1613399958" tvg-name="Attack On Titan (parte 1)" group-title="24/7",Attack On Titan (parte 1)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabxuv_6B7DJLCD1pfKuwH7P5
+
+#EXTINF:-1 tvg-id="" xui-id="243308" tvg-logo="https://i.pinimg.com/236x/7f/45/2f/7f452fe1d8bec4d468a958e20b1bb0ff.jpg" tvg-name="Barbie" group-title="24/7",Barbie
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabxSr4KY2JWSFIXJ2VENDSvg
+
+#EXTINF:-1 tvg-id="" xui-id="243309" tvg-logo="https://images.justwatch.com/poster/319617676/s332/" tvg-name="BeetleJuice Serie Animada" group-title="24/7",BeetleJuice Serie Animada
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabxZYn4RfYvMeTjcKySgMK7l
+
+#EXTINF:-1 tvg-id="" xui-id="243311" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Ben-10-Logo.png" tvg-name="Ben 10" group-title="24/7",Ben 10
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabxuCmrynLn98zTZh1R9S0Za
+
+#EXTINF:-1 tvg-id="" xui-id="243312" tvg-logo="http://boxdigital.xyz:8080/images/2d1c94789be04f08dc87101c2139662e.png" tvg-name="Bob Esponja" group-title="24/7",Bob Esponja
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabwtfeeVWZ649tU3-sScNYe1
+
+#EXTINF:-1 tvg-id="" xui-id="243313" tvg-logo="https://ih1.redbubble.net/image.1774176061.0546/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" tvg-name="Bojack Horseman" group-title="24/7",Bojack Horseman
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyZAfmB5jtcx6znA2KPL9X2
+
+#EXTINF:-1 tvg-id="" xui-id="243315" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5xBZf79KRD3cQjOkkwdS1IDmuyX.jpg" tvg-name="Bugs Bunny" group-title="24/7",Bugs Bunny
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabwD1mVhACCCDx31yOsbxM8P
+
+#EXTINF:-1 tvg-id="" xui-id="243316" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/zqhO44oc0pWM32seJeXMcjPLvwV.jpg" tvg-name="Caballeros Del Zodiaco" group-title="24/7",Caballeros Del Zodiaco
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabzfAeRHkmY1rVUZj9QEgb8e
+
+#EXTINF:-1 tvg-id="" xui-id="243317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Captain_Tsubasa_2018_international_logo.png" tvg-name="Capitan Tsubasa" group-title="24/7",Capitan Tsubasa
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabxH63iR4VTUgJRLBWOXNTND
+
+#EXTINF:-1 tvg-id="" xui-id="243318" tvg-logo="https://pics.filmaffinity.com/Capitaan_Cavernaicola_Serie_de_TV-749464933-mmed.jpg" tvg-name="Capitán Cavernicola" group-title="24/7",Capitán Cavernicola
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabytH6xyx5uFfqCI4iK_1mr4
+
+#EXTINF:-1 tvg-id="" xui-id="243319" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/lxG5Tlor3KT3IBPEw9ftzdm2TWC.jpg" tvg-name="Casa De Los Dibujos" group-title="24/7",Casa De Los Dibujos
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyZrhDn0C6YSYLNFB1dqbSb
+
+#EXTINF:-1 tvg-id="" xui-id="243320" tvg-logo="https://basededatos.atrae.org/media/works/rEkUpvQWa4jy5C2VmYzHCb7W1AK.jpg" tvg-name="Caso Cerrado (parte 1)" group-title="24/7",Caso Cerrado (parte 1)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabwKGAXT49sHyCeZd0AQz7Ad
+
+#EXTINF:-1 tvg-id="" xui-id="243321" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmZjOWI1YjQtZGEwYy00YWE5LWIyZWMtMDBkYmE2ODA3Nzg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-name="Caso Cerrado (parte 2)" group-title="24/7",Caso Cerrado (parte 2)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-8
+
+#EXTINF:-1 tvg-id="" xui-id="243322" tvg-logo="http://wolkplay.com:80/images/qw9Sd5JnDX2uSQDrGmMcugeG0DAN4W4iFrRUz09lGDUu1UQpwaB_isO3N3CB6Ag_HaaDnatKwAYYRwlTa2YWog.jpg" tvg-name="Caso Cerrado - Crímenes Pasionales" group-title="24/7",Caso Cerrado - Crímenes Pasionales
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabzDQCJ0dR9hwf91MsyHs4IF
+#EXTINF:-1 tvg-id="" xui-id="243323" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Sc_Catdog.svg/revision/latest/scale-to-width-down/250?cb=20230211002320" tvg-name="CatDog" group-title="24/7",CatDog
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabxcFqFJwgnAJar_v7Rd291A
+#EXTINF:-1 tvg-id="" xui-id="243324" tvg-logo="http://boxdigital.xyz:8080/images/9d9fca05a3f3e474672f1ae098116f19.jpg" tvg-name="Cazador X" group-title="24/7",Cazador X
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabxbqtcwIsZLPsUw1ALb3Bnf
+#EXTINF:-1 tvg-id="" xui-id="243325" tvg-logo="http://boxdigital.xyz:8080/images/9d9fca05a3f3e474672f1ae098116f19.jpg" tvg-name="Cazador X 2" group-title="24/7",Cazador X 2
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabySFfcfyLVszoAzAeTd9gA5
+#EXTINF:-1 tvg-id="" xui-id="243326" tvg-logo="http://boxdigital.xyz:8080/images/9d9fca05a3f3e474672f1ae098116f19.jpg" tvg-name="Cazador X 3" group-title="24/7",Cazador X 3
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabw3QX7AzwSW4Qa-xZ7JZxSs
+#EXTINF:-1 tvg-id="" xui-id="243327" tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2023/03/26/642101977e55a5095f5810cb.jpg" tvg-name="Chavo del 8" group-title="24/7",Chavo del 8
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabxG9oaV_C76IHrZY5Znyz_9
+#EXTINF:-1 tvg-id="" xui-id="243328" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE6YMRTJj9kFwcfZXh_h7OR4XCJApX73JNR1sckfCDxAl1rb6H&usqp=CAU" tvg-name="Chespirito" group-title="24/7",Chespirito
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyafTkfpS_7T_qqufemEhDM
+#EXTINF:-1 tvg-id="" xui-id="243329" tvg-logo="https://www.arra.mx/cdn/shop/collections/banner--chespirito--brand-web.png?v=1650498304" tvg-name="Chespirito 1" group-title="24/7",Chespirito 1
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyO34oy-7q5pFto6xsiQH_Q
+#EXTINF:-1 tvg-id="" xui-id="243330" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/2iGvVnhvIpzyPLqK18LvgQ3PgPk.jpg" tvg-name="Chicago Party Aunt" group-title="24/7",Chicago Party Aunt
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabybKp36JI1RYsymSvsyD1UN
+#EXTINF:-1 tvg-id="" xui-id="243331" tvg-logo="https://c3.klipartz.com/pngpicture/364/209/sticker-png-chucky.png" tvg-name="Chucky" group-title="24/7",Chucky
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabx3XmNg7khwhJcMk2gvN4jN
+#EXTINF:-1 tvg-id="" xui-id="243332" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/76rz994icSRNHBZuAHmsRwVROsy.jpg" tvg-name="Coyote" group-title="24/7",Coyote
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcaby_fmXXTJR5yeFMgp66NNmP
+#EXTINF:-1 tvg-id="" xui-id="243333" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a36c2f94-9e2f-4d20-a10f-0e899e69494a/d9xye0t-55fd5ce2-f253-450f-bdea-0cfea7f8e1a8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EzNmMyZjk0LTllMmYtNGQyMC1hMTBmLTBlODk5ZTY5NDk0YVwvZDl4eWUwdC01NWZkNWNlMi1mMjUzLTQ1MGYtYmRlYS0wY2ZlYTdmOGUxYTgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VyCVAks_duyra_eEwdf7UxZk-v-tQ4Mbttj3CYarTvo" tvg-name="Daniel el Travieso" group-title="24/7",Daniel el Travieso
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabwfSvfpXZ5w7U4jx5cJRaJG
+#EXTINF:-1 tvg-id="" xui-id="243334" tvg-logo="https://picfiles.alphacoders.com/918/91885.png" tvg-name="Destino Final" group-title="24/7",Destino Final
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyOk5mkW2NNdcqlSgfQTI0_
+#EXTINF:-1 tvg-id="" xui-id="243335" tvg-logo="https://media.themoviedb.org/t/p/w116_and_h174_face/wDhnCDQJwBNZAXJN0jWHLdAODpq.jpg" tvg-name="Dinamita Show - Cementerio pal Pito 1" group-title="24/7",Dinamita Show - Cementerio pal Pito 1
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabx9Wc3kAA3-cQk6trWkeoy5
+#EXTINF:-1 tvg-id="" xui-id="243336" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/8h0c4eP9QWn2BvI1N9uYTQqW09a.jpg" tvg-name="Don Gato" group-title="24/7",Don Gato
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabwYkHmEXx0HePw5SLkvP4Ut
+#EXTINF:-1 tvg-id="" xui-id="243337" tvg-logo="http://boxdigital.xyz:8080/images/c8dba2c3c31b830e6bb8b942630f42ea.jpg" tvg-name="Don Quijote de la Mancha" group-title="24/7",Don Quijote de la Mancha
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabwrO_ceYhlf2k2cya813IdN
+#EXTINF:-1 tvg-id="" xui-id="243338" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3Lyc5VqhTqq76vmKUn1an8rlnP7.jpg" tvg-name="Dos perros tontos" group-title="24/7",Dos perros tontos
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyAoDVUX_hhR15w8hwDuChN
+#EXTINF:-1 tvg-id="" xui-id="243339" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7880b2d6-6d4c-40fa-a5c3-b0c6df558613/dedqj8e-0ac9006b-f8c5-4351-b38e-984a572b0443.png/v1/fill/w_1280,h_720/dr_stone_logo_by_jacko_2026_dedqj8e-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc4ODBiMmQ2LTZkNGMtNDBmYS1hNWMzLWIwYzZkZjU1ODYxM1wvZGVkcWo4ZS0wYWM5MDA2Yi1mOGM1LTQzNTEtYjM4ZS05ODRhNTcyYjA0NDMucG5nIiwiaGVpZ2h0IjoiPD03MjAiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC83ODgwYjJkNi02ZDRjLTQwZmEtYTVjMy1iMGM2ZGY1NTg2MTNcL2phY2tvLTIwMjYtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.v2CnekaPKi-9iNG2Kj3YHZa_Ag_yST7ZRIWckgZR57I" tvg-name="DR Stone | S03" group-title="24/7",DR Stone | S03
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabzrv3nYQlzIUo_UqQm1Dolm
+#EXTINF:-1 tvg-id="" xui-id="243340" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/n7FeFLG1DK8LpXYVYEMHNhzRyuu.jpg" tvg-name="Dragon Ball" group-title="24/7",Dragon Ball
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabxMQ4DTV4ho_qR4eE5TekFp
+#EXTINF:-1 tvg-id="" xui-id="243341" tvg-logo="https://image.tmdb.org/t/p/original/dJlS1BsXxGEemIxs1uv4jqisJFQ.jpg" tvg-name="Dragon Ball 1 al 76" group-title="24/7",Dragon Ball 1 al 76
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabwfySc4mXDkCeTugffL-nm4
+#EXTINF:-1 tvg-id="" xui-id="243342" tvg-logo="https://image.tmdb.org/t/p/original/dJlS1BsXxGEemIxs1uv4jqisJFQ.jpg" tvg-name="Dragon Ball 77 al 153" group-title="24/7",Dragon Ball 77 al 153
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabxSgPqBAsWi1F32RgfzB43Y
+#EXTINF:-1 tvg-id="" xui-id="243344" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/mTPrYo1GspMcF7unmGdXg0DvJwk.jpg" tvg-name="Dragon Ball GT" group-title="24/7",Dragon Ball GT
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyuYBoMs4mjF36MpOpFrFGU
+#EXTINF:-1 tvg-id="" xui-id="243345" tvg-logo="https://static.wikia.nocookie.net/dragonball/images/4/41/Super_Dragon_Ball_Heroes.png/revision/latest?cb=20161118225715&path-prefix=es" tvg-name="Dragon Ball Heroes" group-title="24/7",Dragon Ball Heroes
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabwwv0Rk9WzA0G8CGNRNYZGd
+#EXTINF:-1 tvg-id="" xui-id="243346" tvg-logo="http://boxdigital.xyz:8080/images/1e118ffd516d62adb015c86c3ea0d57b.png" tvg-name="Dragon ball Super 1-14" group-title="24/7",Dragon ball Super 1-14
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabz_ZevC9tCPlQAeAQFuywMb
+#EXTINF:-1 tvg-id="" xui-id="243347" tvg-logo="" tvg-name="Dragon ball Super 15-27" group-title="24/7",Dragon ball Super 15-27
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabwrr83dgnWl4rYtOTbS5PdF
+#EXTINF:-1 tvg-id="" xui-id="243348" tvg-logo="" tvg-name="Dragon ball Super 28-46" group-title="24/7",Dragon ball Super 28-46
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabzXtjPizLZXy51XUrw7VCJ-
+#EXTINF:-1 tvg-id="" xui-id="243349" tvg-logo="" tvg-name="Dragon ball Super 47-76" group-title="24/7",Dragon ball Super 47-76
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabzdG33UuSslxuNDFH2i_pjc
+#EXTINF:-1 tvg-id="" xui-id="243350" tvg-logo="http://wolkplay.com:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qundGSTrqKSOhGjwE_NR7tGW4yu2k7fT3QuqTT9M6JY-_GMwltdM9_NR3SWFH9VEryErl2KLEqoym03CiCPf6dcvlCdnjS9DxoA0Dc3T1OJuUWhRF9bMbYHjGNtpMEKZ_c8.png" tvg-name="Dragon Ball Z" group-title="24/7",Dragon Ball Z
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabz3cYeVI0vrmzzYNXML4Jbd
+#EXTINF:-1 tvg-id="" xui-id="243351" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5efd1182-6241-4ccf-98e8-fdaae8d38109/dekn46d-26e0a1ca-5abb-4ded-b952-5d8f74b594a4.jpg/v1/fill/w_1024,h_1536,q_75,strp/dragon_ball_z_android_saga_by_raydash30_dekn46d-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTUzNiIsInBhdGgiOiJcL2ZcLzVlZmQxMTgyLTYyNDEtNGNjZi05OGU4LWZkYWFlOGQzODEwOVwvZGVrbjQ2ZC0yNmUwYTFjYS01YWJiLTRkZWQtYjk1Mi01ZDhmNzRiNTk0YTQuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.YP9NqbgW2FFfco3n1p17uqEn-8vPiX-Mp_VFE_DJ9sM" tvg-name="Dragon Ball Z - Arco de los Androides" group-title="24/7",Dragon Ball Z - Arco de los Androides
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabxgOf1fkTkNLDE9JjV7-y6S
+#EXTINF:-1 tvg-id="" xui-id="243352" tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/tvs/poster/4b/a36f2a757f661fe5af341de8949dfaed_300x442.jpg?t=1697113801" tvg-name="Dragon Ball Z - Saga de Cell" group-title="24/7",Dragon Ball Z - Saga de Cell
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabxq05MYc6Mqr0LmxJ_PE-S_
+#EXTINF:-1 tvg-id="" xui-id="243353" tvg-logo="https://i.pinimg.com/736x/0f/1c/48/0f1c488c01b1c3255ff8df637e6c76a6.jpg" tvg-name="Dragon Ball Z - Saga de Garlic" group-title="24/7",Dragon Ball Z - Saga de Garlic
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyN9U3Km0FZzI42qp5NFYYa
+#EXTINF:-1 tvg-id="" xui-id="243354" tvg-logo="https://xl.movieposterdb.com/11_02/1996/214341/xl_214341_867af9a4.jpg" tvg-name="Dragon Ball Z - Saga De Majin Boo" group-title="24/7",Dragon Ball Z - Saga De Majin Boo
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabylxPJCoRn5vw4x6Hz0Mnws
+#EXTINF:-1 tvg-id="" xui-id="243355" tvg-logo="https://static.wikia.nocookie.net/dragonball/images/4/4c/Dragon_Ball_Z_Season_2_Blu-ray_Cover.png/revision/latest/scale-to-width-down/250?cb=20231106182950" tvg-name="Dragon Ball Z - Saga Namek" group-title="24/7",Dragon Ball Z - Saga Namek
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabw0Yp8_QCSkA06JHUjOSPiu
+#EXTINF:-1 tvg-id="" xui-id="243356" tvg-logo="https://pm1.aminoapps.com/6891/44cc2440b235455072f88aa8ce342e8052908d2cr1-187-270v2_00.jpg" tvg-name="Dragon Ball Z - Saga Saiyajin" group-title="24/7",Dragon Ball Z - Saga Saiyajin
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabzeP7sv6I1nbkWGJeDy1UE-
+#EXTINF:-1 tvg-id="" xui-id="243357" tvg-logo="https://image.tmdb.org/t/p/original/jQwNaqvgNyJAIL6y28bDqDl5TRF.jpg" tvg-name="Dragon Ball Z - Torneo de Cell" group-title="24/7",Dragon Ball Z - Torneo de Cell
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabzRd6ARJX1KB8qKVF0IxPnK
+#EXTINF:-1 tvg-id="" xui-id="243358" tvg-logo="https://www.ninefiction.com/wp-content/uploads/2013/01/duro_de_matar_un_buen_dia_para_morir_logo.jpg" tvg-name="Duro de matar" group-title="24/7",Duro de matar
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabwMKrlTHut_CrBlfmH_AKlA
+#EXTINF:-1 tvg-id="" xui-id="243359" tvg-logo="http://boxdigital.xyz:8080/images/07ba43345a4d99f3718440aab6feae5f.png" tvg-name="Ed Edd y Eddy" group-title="24/7",Ed Edd y Eddy
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabz68WZ_jsVSLoJXuCuIfFg5
+#EXTINF:-1 tvg-id="" xui-id="243360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" tvg-name="El Chapulín Colorado" group-title="24/7",El Chapulín Colorado
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabywquWwTsV02RkDRpQ3Guwl
+#EXTINF:-1 tvg-id="" xui-id="243361" tvg-logo="https://www.eltiempo.com/files/image_640_428/files/crop/uploads/2022/01/07/61d87225e2222.r_1648615324217.0-1-730-365.jpeg" tvg-name="El Chavo 24/7" group-title="24/7",El Chavo 24/7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyfhtvaOodvfFqo5aGFcwD5
+#EXTINF:-1 tvg-id="" xui-id="243362" tvg-logo="http://boxdigital.xyz:8080/images/67a529ae8a8f18c34e7f387b5c06bbe7.png" tvg-name="El Chavo Animado" group-title="24/7",El Chavo Animado
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyzfi5oaMaX1IMCGKkr3cgP
+#EXTINF:-1 tvg-id="" xui-id="243363" tvg-logo="http://boxdigital.xyz:8080/images/a4b00dd851a42ff78872ae731222feeb.jpg" tvg-name="El Chavo del 8" group-title="24/7",El Chavo del 8
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyqn-GXqYctXVrzC5T1v6hI
+#EXTINF:-1 tvg-id="" xui-id="243365" tvg-logo="http://boxdigital.xyz:8080/images/649486ccb81b9fdc5ad132b278654706.png" tvg-name="El Laboratorio de Dexter" group-title="24/7",El Laboratorio de Dexter
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabxSGm2OfMBG8H22CaUQcxPX
+#EXTINF:-1 tvg-id="" xui-id="243366" tvg-logo="http://boxdigital.xyz:8080/images/239bb46af6400edf7977d226d5cc0462.jpg" tvg-name="El Pájaro Loco" group-title="24/7",El Pájaro Loco
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyRSnHAfE7NyK74tVZuY0qC
+#EXTINF:-1 tvg-id="" xui-id="243367" tvg-logo="http://boxdigital.xyz:8080/images/2e93cc6779d681e1769ee8832f2479c4.jpg" tvg-name="El Señor de los Cielos - Temporada 8" group-title="24/7",El Señor de los Cielos - Temporada 8
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyZkzeVWa40hsNvmv5Wj9el
+#EXTINF:-1 tvg-id="" xui-id="243368" tvg-logo="https://i.pinimg.com/1200x/ac/90/35/ac9035610508f61c3a394070f5c6e3eb.jpg" tvg-name="El Vengador" group-title="24/7",El Vengador
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyGVZjazyhmwFp8KPtEuL9K
+#EXTINF:-1 tvg-id="" xui-id="243369" tvg-logo="http://boxdigital.xyz:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" tvg-name="Estrenos 2023" group-title="24/7",Estrenos 2023
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabxDy8exmCM1nfMqT5toutHZ
+#EXTINF:-1 tvg-id="" xui-id="243370" tvg-logo="http://wolkplay.com:80/images/L0xFAecFZYNwTKY1ONLENHRn1HdctF9RCl6HoeHNRDRRK0Gi2YPy_TUhVlbahqh6LwmVHZCLH9tNlvluGFBOAQlDJho1HoCbmVPgk6wG84v1fvh6IOEWj0DYHbwPkuVLESXV3OexIdesmKNMTCFukA.jpg" tvg-name="Friends (T1 a T3)" group-title="24/7",Friends (T1 a T3)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabzBgRd9BHSuGrD25761ywJ7
+#EXTINF:-1 tvg-id="" xui-id="243371" tvg-logo="http://wolkplay.com:80/images/L0xFAecFZYNwTKY1ONLENHRn1HdctF9RCl6HoeHNRDRRK0Gi2YPy_TUhVlbahqh6LwmVHZCLH9tNlvluGFBOAQlDJho1HoCbmVPgk6wG84v1fvh6IOEWj0DYHbwPkuVLESXV3OexIdesmKNMTCFukA.jpg" tvg-name="Friends (T4 a T6)" group-title="24/7",Friends (T4 a T6)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyqWuXHYa8ve_I7UmQkoFNT
+#EXTINF:-1 tvg-id="" xui-id="243372" tvg-logo="http://wolkplay.com:80/images/L0xFAecFZYNwTKY1ONLENHRn1HdctF9RCl6HoeHNRDRRK0Gi2YPy_TUhVlbahqh6LwmVHZCLH9tNlvluGFBOAQlDJho1HoCbmVPgk6wG84v1fvh6IOEWj0DYHbwPkuVLESXV3OexIdesmKNMTCFukA.jpg" tvg-name="Friends (T7 a T10)" group-title="24/7",Friends (T7 a T10)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabygsnbg06cn6jPPixcP3QBo
+#EXTINF:-1 tvg-id="" xui-id="243373" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/tiPTf3JY4x6aM2cYM1s4esWCiH1.jpg" tvg-name="Futurama" group-title="24/7",Futurama
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabysKbyfJLdBhafDBEv_5Mru
+#EXTINF:-1 tvg-id="" xui-id="243374" tvg-logo="https://logos-world.net/wp-content/uploads/2020/04/Harry-Potter-Logo.png" tvg-name="Harry Potter" group-title="24/7",Harry Potter
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabw0dlt2-bdMyj8qifISae7b
+#EXTINF:-1 tvg-id="" xui-id="243375" tvg-logo="" tvg-name="hayat S1E1-S1E21" group-title="24/7",hayat S1E1-S1E21
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabzbs6HnU2NUKf4BqZqSnEFD
+#EXTINF:-1 tvg-id="" xui-id="243376" tvg-logo="http://boxdigital.xyz:8080/images/3705a48bee002a2abbf67016b87b8e28.jpg" tvg-name="hayat S1E22-S1E42" group-title="24/7",hayat S1E22-S1E42
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabxiTgFVMhcyyTL0NvYTMh-X
+#EXTINF:-1 tvg-id="" xui-id="243377" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1aHnP8oed54UMLEvTlY7VBl069q.jpg" tvg-name="Hey Arnold" group-title="24/7",Hey Arnold
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyjiTXiYPOisI7p7WqkxNOP
+#EXTINF:-1 tvg-id="" xui-id="243378" tvg-logo="http://boxdigital.xyz:8080/images/c1d9d8df3668a45522bb228ef9b34857.png" tvg-name="Hey Arnold!" group-title="24/7",Hey Arnold!
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabwr5PTxihhltP8v_kQGGxUY
+#EXTINF:-1 tvg-id="" xui-id="243379" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Men_In_Black_logo.png" tvg-name="Hombres de negro" group-title="24/7",Hombres de negro
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyZQHMGAZJke8qCQr2t4cAD
+#EXTINF:-1 tvg-id="" xui-id="243380" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkyMjJjZGUtNzQ3Zi00MGZmLWJkYzYtYTJmNjYxNjE3MGUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-name="Humor - Just For Lughs Gags" group-title="24/7",Humor - Just For Lughs Gags
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcaby1RP66AgdjDcYQb0jupRMZ
+#EXTINF:-1 tvg-id="" xui-id="243381" tvg-logo="https://www.ps4wallpapers.com/wp-content/uploads/2022/04/2022-04-12_6255a93ebd927_Jackass2.png" tvg-name="Jackass" group-title="24/7",Jackass
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcaby2Nnld8vFfb0eZbbgMnTPM
+#EXTINF:-1 tvg-id="" xui-id="243382" tvg-logo="https://pics.filmaffinity.com/jappening_con_ja_tv_series-404830733-large.jpg" tvg-name="Jappening Con Ja" group-title="24/7",Jappening Con Ja
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcaby1srM1sc968tkCo5V-PzU5
+#EXTINF:-1 tvg-id="" xui-id="243383" tvg-logo="https://pics.filmaffinity.com/johnny_bravo-618723014-large.jpg" tvg-name="Johnny Bravo" group-title="24/7",Johnny Bravo
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabwPGzlOi2rUniCZWikaHPhh
+#EXTINF:-1 tvg-id="" xui-id="243384" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/kung_fu_panda_logo_freelogovectors.net_.png" tvg-name="Kung Fu Panda" group-title="24/7",Kung Fu Panda
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyhGAtw-iUJfWbU00sHbIbG
+#EXTINF:-1 tvg-id="" xui-id="243385" tvg-logo="https://www.pngkey.com/png/full/299-2996712_la-casa-de-mickey-mouse-mickey-mouse-clubhouse.png" tvg-name="La casa de Mickey Mouse" group-title="24/7",La casa de Mickey Mouse
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabwHUcrXfmXbwXPl2-Vb00hZ
+#EXTINF:-1 tvg-id="" xui-id="243386" tvg-logo="" tvg-name="La casa del dragon (Temp 1)" group-title="24/7",La casa del dragon (Temp 1)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabx5XplzWro2iUFX_lEhFQgK
+#EXTINF:-1 tvg-id="" xui-id="243387" tvg-logo="http://boxdigital.xyz:8080/images/d6e7f32b16e16ecd6ca65feb0fb0f473.png" tvg-name="La Mascara Animada" group-title="24/7",La Mascara Animada
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyQ0F79Qe760izTkgTEXRnO
+#EXTINF:-1 tvg-id="" xui-id="243388" tvg-logo="https://pics.filmaffinity.com/la_rosa_de_guadalupe-557657891-large.jpg" tvg-name="La Rosa De Guadalupe" group-title="24/7",La Rosa De Guadalupe
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabxGd0eZX42zy0V1qZ9i7n1G
+#EXTINF:-1 tvg-id="" xui-id="243389" tvg-logo="https://static.wikia.nocookie.net/yatoroba/images/e/e7/La_vaca_y_el_pollito.webp/revision/latest/thumbnail/width/360/height/360?cb=20231011183050&path-prefix=es" tvg-name="La Vaca y El Pollito" group-title="24/7",La Vaca y El Pollito
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabwCWifaHZ6etC99bwiCTltQ
+#EXTINF:-1 tvg-id="" xui-id="243390" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAz92gu9nmdupxb6vsW1ifLynwIyNcXb2aVsczsufr85xZBOWpMPAwlh8548ZZDPcd3ZI&usqp=CAU" tvg-name="Los 3 Chiflados" group-title="24/7",Los 3 Chiflados
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabxwMgnCbuX1l1KwYWa_MFF7
+#EXTINF:-1 tvg-id="" xui-id="243391" tvg-logo="http://boxdigital.xyz:8080/images/ff564aeaf35ce7c3f1bc238875e13b7e.png" tvg-name="Los Anillos de Poder" group-title="24/7",Los Anillos de Poder
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabwHBqJM7RNJIRpcxQAgVcOa
+#EXTINF:-1 tvg-id="" xui-id="243392" tvg-logo="http://boxdigital.xyz:8080/images/76873c5d898cb69feefa043adc7d02a2.png" tvg-name="Los Padrinos Mágicos" group-title="24/7",Los Padrinos Mágicos
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyijMpxU8OpTVCeydleozC-
+#EXTINF:-1 tvg-id="" xui-id="243393" tvg-logo="http://boxdigital.xyz:8080/images/66505204af0bff0e71328a07dc614857.png" tvg-name="Los Pitufos" group-title="24/7",Los Pitufos
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyVEaZRq0z0JGVUFJaaGt5o
+#EXTINF:-1 tvg-id="" xui-id="243394" tvg-logo="https://logo.iptveditor.com/lessimpsons1.png" tvg-name="LOS SIMPSONS" group-title="24/7",LOS SIMPSONS
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabwjRQOnU7knVia3rmoUorrS
+#EXTINF:-1 tvg-id="" xui-id="243395" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png" tvg-name="Los simpson 1-7" group-title="24/7",Los simpson 1-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabxuoDSRR69Ff28Vqcb3DlFc
+#EXTINF:-1 tvg-id="" xui-id="243396" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png" tvg-name="Los Simpson 8-14" group-title="24/7",Los Simpson 8-14
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabw3K55iyhVql2wGQDXSGN5X
+#EXTINF:-1 tvg-id="" xui-id="243397" tvg-logo="https://logo.iptveditor.com/lossimpsons24horas.png" tvg-name="LOS SIMPSONS T11" group-title="24/7",LOS SIMPSONS T11
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabyZGZPmiQJ-xleAgF3lyJYp
+#EXTINF:-1 tvg-id="" xui-id="243398" tvg-logo="https://holatelcel.com/wp-content/uploads/2021/03/simpsons.jpg" tvg-name="LOS SIMPSONS T12" group-title="24/7",LOS SIMPSONS T12
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabxg3_ElZHGX-UOFd6HZtJIM
+#EXTINF:-1 tvg-id="" xui-id="243399" tvg-logo="https://holatelcel.com/wp-content/uploads/2021/03/simpsons.jpg" tvg-name="LOS SIMPSONS 12-17" group-title="24/7",LOS SIMPSONS 12-17
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wqhlYIP-83RPp4WNTbKcabwizOruKr5oGSzy3Rk0jkRc
+#EXTINF:-1 tvg-id="" xui-id="243400" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png" tvg-name="Los Simpson 15-21" group-title="24/7",Los Simpson 15-21
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5Hzn1w2756py_6huUkkh5xY
+#EXTINF:-1 tvg-id="" xui-id="243401" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png" tvg-name="Los Simpson 22-28" group-title="24/7",Los Simpson 22-28
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5HCdT4U7NG1219yEmuQ_ykG
+#EXTINF:-1 tvg-id="" xui-id="243402" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png" tvg-name="Los Simpson 29-34" group-title="24/7",Los Simpson 29-34
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5ENkvBWv6URhU82c2-ml2Ou
+#EXTINF:-1 tvg-id="" xui-id="243403" tvg-logo="https://playmax.xyz/img/c/400/214/1584010258/106764.jpg" tvg-name="Los Simpsons - Treehouse of Horror" group-title="24/7",Los Simpsons - Treehouse of Horror
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5E5kVmlN22o-xfFD9whsRsz
+#EXTINF:-1 tvg-id="" xui-id="243404" tvg-logo="http://boxdigital.xyz:8080/images/865daa7ec999074a90d5705f8e24222a.jpg" tvg-name="Love is in the air" group-title="24/7",Love is in the air
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5H1ukEvfjOl96DP1tpeX5Lg
+#EXTINF:-1 tvg-id="" xui-id="243405" tvg-logo="https://es.rollingstone.com/wp-content/uploads/2024/12/%C2%BFQue-sabemos-del-regreso-de-Malcolm-In-The-Middle-min.jpg" tvg-name="MALCOLM" group-title="24/7",MALCOLM
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5EmrAm8n7_24VdH-Ge5i01t
+#EXTINF:-1 tvg-id="" xui-id="243406" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Marvel_Studios_2016_logo.svg/1280px-Marvel_Studios_2016_logo.svg.png" tvg-name="Marvel 1" group-title="24/7",Marvel 1
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5EIUwYHfBUBEk7q3EnPX715
+#EXTINF:-1 tvg-id="" xui-id="243407" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Marvel_Studios_2016_logo.svg/1280px-Marvel_Studios_2016_logo.svg.png" tvg-name="Marvel 2" group-title="24/7",Marvel 2
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5H3guKfiql8bK_-UDjOxp0N
+#EXTINF:-1 tvg-id="" xui-id="243408" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Marvel_Studios_2016_logo.svg/1280px-Marvel_Studios_2016_logo.svg.png" tvg-name="Marvel 3" group-title="24/7",Marvel 3
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5Gb6CG1BFCP3qEBHXb1jmyX
+#EXTINF:-1 tvg-id="" xui-id="243409" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Marvel_Studios_2016_logo.svg/1280px-Marvel_Studios_2016_logo.svg.png" tvg-name="Marvel 4" group-title="24/7",Marvel 4
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5GyU31qPQ8BwvtxReoaOgLC
+#EXTINF:-1 tvg-id="" xui-id="243410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Marvel_Studios_2016_logo.svg/1280px-Marvel_Studios_2016_logo.svg.png" tvg-name="Marvel 5" group-title="24/7",Marvel 5
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5EWXP8wItvlYeUVEsilbgJR
+#EXTINF:-1 tvg-id="" xui-id="243412" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/1/11/Merlina_-_Poster.jpg/revision/latest?cb=20220923182223&path-prefix=es" tvg-name="Merlina" group-title="24/7",Merlina
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5FSiWqYsAM9cHFSZRlJtHZA
+#EXTINF:-1 tvg-id="" xui-id="243413" tvg-logo="http://wolkplay.com:80/images/omwMHyL8myScyNmiLfD5GrVaCQfiLZ6LDI97fZc7OiE9sKi8VTKlKT1IrIBjl-gv501xHt6VLC-gO8A-f4Z8Aflr-cSIkzMAqN_v8O9Jf8U.jpg" tvg-name="Naruto Shippuden (T1-T4)" group-title="24/7",Naruto Shippuden (T1-T4)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5G1Yl1IZk8KcuDu95URuvxG
+#EXTINF:-1 tvg-id="" xui-id="243414" tvg-logo="http://wolkplay.com:80/images/omwMHyL8myScyNmiLfD5GrVaCQfiLZ6LDI97fZc7OiE9sKi8VTKlKT1IrIBjl-gv501xHt6VLC-gO8A-f4Z8Aflr-cSIkzMAqN_v8O9Jf8U.jpg" tvg-name="Naruto Shippuden (T5-T8)" group-title="24/7",Naruto Shippuden (T5-T8)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5FxlWD9dju2P7VMeD5erP8F
+#EXTINF:-1 tvg-id="" xui-id="243415" tvg-logo="http://wolkplay.com:80/images/omwMHyL8myScyNmiLfD5GrVaCQfiLZ6LDI97fZc7OiE9sKi8VTKlKT1IrIBjl-gv501xHt6VLC-gO8A-f4Z8Aflr-cSIkzMAqN_v8O9Jf8U.jpg" tvg-name="Naruto Shippuden (T9-T13)" group-title="24/7",Naruto Shippuden (T9-T13)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5FENdZb7cn7blmTYvJ4P6iE
+#EXTINF:-1 tvg-id="" xui-id="243416" tvg-logo="" tvg-name="Padre de Fmilia" group-title="24/7",Padre de Fmilia
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5EbkS40PKte2qMhTvqXNJo0
+#EXTINF:-1 tvg-id="" xui-id="243417" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Patoaventuras_Logo.png" tvg-name="Pato Aventura**" group-title="24/7",Pato Aventura**
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5E7M_dkk1ehKk4TSeA2nPWG
+#EXTINF:-1 tvg-id="" xui-id="243418" tvg-logo="https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/peliculas/pesadilla-en-elm-street-el-origen/3884242-4-esl-ES/Pesadilla-en-Elm-Street-El-origen.jpg" tvg-name="Pesadilla en Elm Street" group-title="24/7",Pesadilla en Elm Street
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5FCBCUYIb6lqMcIhIHfhiE7
+#EXTINF:-1 tvg-id="" xui-id="243419" tvg-logo="http://boxdigital.xyz:8080/images/6acc6c5e0d7da67c628b85280b28a0eb.png" tvg-name="Popeye el Marino" group-title="24/7",Popeye el Marino
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5ETyLSWUV0voiFy5lhGT2B0
+#EXTINF:-1 tvg-id="" xui-id="243420" tvg-logo="https://i.ebayimg.com/images/g/UEwAAOSwNK5fJHqw/s-l1200.jpg" tvg-name="Princesas Disney" group-title="24/7",Princesas Disney
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5F0feQTdENeIoFuSSER8m4G
+#EXTINF:-1 tvg-id="" xui-id="243421" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xQjSUOEQTrCqDoBiEYIrNlajCD.jpg" tvg-name="Puca" group-title="24/7",Puca
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5ENc2CJ3P21xu7hbKQCItTa
+#EXTINF:-1 tvg-id="" xui-id="243422" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzBjYjk0MDMtNmUyYi00MjJlLWEwZmMtMGZlYWI1OTEwMjdkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-name="Rambo" group-title="24/7",Rambo
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5GfX6o--GyOZS-caUGlNXN0
+#EXTINF:-1 tvg-id="" xui-id="243423" tvg-logo="https://i.ibb.co/ZRrwNgS/resize.png" tvg-name="Rapido y Furioso (1-5)" group-title="24/7",Rapido y Furioso (1-5)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5GRbY1zhlAAxtadlaH4-6D-
+#EXTINF:-1 tvg-id="" xui-id="243424" tvg-logo="https://i.ibb.co/ZRrwNgS/resize.png" tvg-name="Rapido y Furioso (6-10)" group-title="24/7",Rapido y Furioso (6-10)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5HDMivuk5DP_nVzm1jsHUo_
+#EXTINF:-1 tvg-id="" xui-id="243425" tvg-logo="http://wolkplay.com:80/images/hW6eGVQy4zjJjF_uJB3njqQOWwOKAZWu_3mf-MPryV5Ur8i_A2XS7yUHQq5o_FkOjldXY5S9D4nn_-PgkKQfQS2e8DYxsO8IGiVh3xcvmGLoF5ROJQJaVrlWa3xmiTcA.png" tvg-name="Rastro CO" group-title="24/7",Rastro CO
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5Fd6NtMbmMxFbtr1AnZYZSA
+#EXTINF:-1 tvg-id="" xui-id="243426" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5Yiep9EwcQgLolg013ETBVqHxuD.jpg" tvg-name="Ricky Morty" group-title="24/7",Ricky Morty
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5GgAkGrdnEVdECn4rVMchKe
+#EXTINF:-1 tvg-id="" xui-id="243427" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRmNzE3NDAtNWMzNy00MTdiLWE0YjMtNWViNmI1YThhNDFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-name="Rocky" group-title="24/7",Rocky
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5HkygnWV8IFbcCUIKLc2MNb
+#EXTINF:-1 tvg-id="" xui-id="243428" tvg-logo="http://boxdigital.xyz:8080/images/07dfbd161d5a933cf8bfd3e68e6c31a1.png" tvg-name="Rugrats Aventuras en Pañales" group-title="24/7",Rugrats Aventuras en Pañales
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5FTQTXX67GIfVj_W13IoZml
+#EXTINF:-1 tvg-id="" xui-id="243429" tvg-logo="https://png.pngtree.com/png-vector/20240829/ourmid/pngtree-spooky-3d-halloween-logo-with-carved-pumpkin-gothic-banner-text-and-png-image_13655367.png" tvg-name="Saga Halloween" group-title="24/7",Saga Halloween
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5HkrkLcKRfm34fTaFe5NvkA
+#EXTINF:-1 tvg-id="" xui-id="243430" tvg-logo="http://boxdigital.xyz:8080/images/cb5951c66e3eeebe4dc8afe403a2b334.png" tvg-name="Scooby y Scraapy Doo" group-title="24/7",Scooby y Scraapy Doo
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5EATQgCikfPb_GtIe3hLkPe
+#EXTINF:-1 tvg-id="" xui-id="243431" tvg-logo="https://pics.filmaffinity.com/the_adventures_of_super_mario_bros_3-439373383-large.jpg" tvg-name="Super Mario Bros 3" group-title="24/7",Super Mario Bros 3
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5EUjYP5mcJ56t95GJqMZGuH
+#EXTINF:-1 tvg-id="" xui-id="243432" tvg-logo="http://wolkplay.com:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX79W9TYqYrMgeiHKrXwMLzY_O9Oms2Hju8ZTFsBQoCs2ZYU5lXj779mcdZXbKoKu3j.jpeg" tvg-name="Séptimo Día CO" group-title="24/7",Séptimo Día CO
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5EI6bEh1Wct9w0ZNV_J9sh5
+#EXTINF:-1 tvg-id="" xui-id="243434" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/The_Last_of_Us_(2013)_game_logo.png" tvg-name="The Last Of Us" group-title="24/7",The Last Of Us
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5EpxHhEo2skZKoJBLPJvvE_
+#EXTINF:-1 tvg-id="" xui-id="243435" tvg-logo="https://i.pinimg.com/originals/7a/9c/ac/7a9caccd78fa6600f2c3d6626f16f27a.jpg" tvg-name="Tom y Jerry" group-title="24/7",Tom y Jerry
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5EaSY1BXNCeyYGDqn8ytboz
+#EXTINF:-1 tvg-id="" xui-id="243436" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/18Mmri8vmBKbGbiymFPlSHlg71o.jpg" tvg-name="Vampirina" group-title="24/7",Vampirina
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5G8PZDrqutIMfCR3ufWwbns
+#EXTINF:-1 tvg-id="" xui-id="243437" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWAtnpcIWMulGmHIiCJwjU58vzXjBiNKdnvv1YQZewwU8-Bl4COEF2QZdwlGLqnotu8Xv4tRhIJY3KLPf-JMrh6U-f-uVF2-hxLrKQjLBtQmHT7-lp3JNFpDsk_7rFciFqNnhOzQNTef0/s1600/viernes-13-5-1985-poster.png" tvg-name="Viernes 13" group-title="24/7",Viernes 13
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5GnpoZ7WFUvU93XOJOO8khr
+#EXTINF:-1 tvg-id="" xui-id="243438" tvg-logo="https://www.themoviedb.org/t/p/original/sKXlWh2hWpLzSeDmKLMg0ekUUa1.jpg" tvg-name="ALF" group-title="24/7 II",ALF
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5FDblZqhrCf_Q98bh1oiLyU
+#EXTINF:-1 tvg-id="" xui-id="243439" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jvJWDEua3tKWY4M87PHDpdAFtfS.jpg" tvg-name="Aquellos maravillosos 70 (1998)" group-title="24/7 II",Aquellos maravillosos 70 (1998)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5HKpMS_yaAphg4aR4ih8uVO
+#EXTINF:-1 tvg-id="" xui-id="243440" tvg-logo="" tvg-name="AVISPON VERDE" group-title="24/7 II",AVISPON VERDE
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5FKnQ6I3ZGRVtLpem5BTzLs
+#EXTINF:-1 tvg-id="" xui-id="243441" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" tvg-name="Baby Shark TV" group-title="24/7 II",Baby Shark TV
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5FqQU0uBXEutTUKj8WpmdoQ
+#EXTINF:-1 tvg-id="" xui-id="243442" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" tvg-name="Babyfirst" group-title="24/7 II",Babyfirst
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5GBwbLmWUDrgMS8d82R5pmn
+#EXTINF:-1 tvg-id="" xui-id="243443" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" tvg-name="Barney" group-title="24/7 II",Barney
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5FiHWzyjzI8e8Gd6GINjb86
+#EXTINF:-1 tvg-id="" xui-id="243444" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/1ZEJuuDh0Zpi5ELM3Zev0GBhQ3R.jpg" tvg-name="Batman (1966)" group-title="24/7 II",Batman (1966)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5E4UE1yZ_Bt2frehSP4T7W8
+#EXTINF:-1 tvg-id="" xui-id="243445" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg" tvg-name="BAYWATCH RETRO" group-title="24/7 II",BAYWATCH RETRO
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5Hp5XFnK_sxtYWww1tZesBC
+#EXTINF:-1 tvg-id="" xui-id="243446" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="beetlejuice 24-7" group-title="24/7 II",beetlejuice 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5GEku_it4XUzRPryG0YYgBe
+#EXTINF:-1 tvg-id="" xui-id="243447" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="BEN 10 24-7" group-title="24/7 II",BEN 10 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5HXa3rDAet-qBKlmu94QpwZ
+#EXTINF:-1 tvg-id="" xui-id="243448" tvg-logo="" tvg-name="Blanco y negro (1978)" group-title="24/7 II",Blanco y negro (1978)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5FmsGUvgVCqyd7TcUcYbvHY
+#EXTINF:-1 tvg-id="" xui-id="243449" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="BLUEY" group-title="24/7 II",BLUEY
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5EZJW5-qe6r67q_R-5kBkgu
+#EXTINF:-1 tvg-id="" xui-id="243450" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="BOB ESPONJA 24-7" group-title="24/7 II",BOB ESPONJA 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5H6iNga9uPF-ry8ivzJOMcJ
+#EXTINF:-1 tvg-id="" xui-id="243451" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" tvg-name="Bob Esponja Pantalones Cuadrados" group-title="24/7 II",Bob Esponja Pantalones Cuadrados
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5GUTn4fPSUoe3R6tsoLk9Sb
+#EXTINF:-1 tvg-id="" xui-id="243453" tvg-logo="https://i.ytimg.com/vi/R89Q8qj-2mU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDbvl-xIpw6NK2_v2lLrGMPi7-6Rw" tvg-name="Bonanza" group-title="24/7 II",Bonanza
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5EhG5ch_kCzFKiJhMBUi8Nr
+#EXTINF:-1 tvg-id="" xui-id="243454" tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" tvg-name="Boruto: Naruto Next Generations" group-title="24/7 II",Boruto: Naruto Next Generations
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5EARCHiAHZ5BIftQd0Zf8CJ
+#EXTINF:-1 tvg-id="" xui-id="243455" tvg-logo="https://i.ibb.co/NfQF4yV/2-20250429-232603-0001.png" tvg-name="CABALLEROS DEL ZODIACO" group-title="24/7 II",CABALLEROS DEL ZODIACO
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5FAlqG60hHFud3b0r7S17jz
+#EXTINF:-1 tvg-id="" xui-id="243456" tvg-logo="" tvg-name="Camino al cielo (1984)" group-title="24/7 II",Camino al cielo (1984)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5ErrDVV5D0rkksX2a3rJSTu
+#EXTINF:-1 tvg-id="" xui-id="243457" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="CANAL DISNEY 2 24-7" group-title="24/7 II",CANAL DISNEY 2 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5GmFpDOlrMO0trAxbB4KWca
+#EXTINF:-1 tvg-id="" xui-id="243458" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="CANAL DISNEY 24-7" group-title="24/7 II",CANAL DISNEY 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5G0bv6q6eXm3ivQAV4pF6Nh
+#EXTINF:-1 tvg-id="" xui-id="243459" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="canuto 24-7" group-title="24/7 II",canuto 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5G2tb-OZ1jAOGYdWAp9X_bU
+#EXTINF:-1 tvg-id="" xui-id="243460" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" tvg-name="Captain Tsubasa" group-title="24/7 II",Captain Tsubasa
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5GExMLCVvgnCo1pRcYZbGbQ
+#EXTINF:-1 tvg-id="" xui-id="243461" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="caricaturas 24-7" group-title="24/7 II",caricaturas 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5FEv3Szo9SllVmkiuLKZ1cC
+#EXTINF:-1 tvg-id="" xui-id="243462" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="Cat-Dog 24-7" group-title="24/7 II",Cat-Dog 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5FPdey6DFhRrtWGqTc399ZC
+#EXTINF:-1 tvg-id="" xui-id="243463" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="chespirito 24-7" group-title="24/7 II",chespirito 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5HgAKSOLtIPe7tEqJLF-aLY
+#EXTINF:-1 tvg-id="" xui-id="243464" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="CINE TERROR" group-title="24/7 II",CINE TERROR
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5Ezdwv1wwyzBU0HGVkmcen3
+#EXTINF:-1 tvg-id="" xui-id="243465" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="Cinema Accion 24-7" group-title="24/7 II",Cinema Accion 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5EZOJT5blKN0zX8iRrjQ73Q
+#EXTINF:-1 tvg-id="" xui-id="243466" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="CONDE PATULA 24-7" group-title="24/7 II",CONDE PATULA 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5GLZXYUHNunX_5FlLyxFZLF
+#EXTINF:-1 tvg-id="" xui-id="243467" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="CORRECAMINOS 24-7" group-title="24/7 II",CORRECAMINOS 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5GMIUCqiZCLtVVE2tUdnsW3
+#EXTINF:-1 tvg-id="" xui-id="243468" tvg-logo="https://i.ibb.co/LzvpGZ9s/6-20250429-232603-0005.png" tvg-name="CSI MIAMI" group-title="24/7 II",CSI MIAMI
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5F8_sKQh_6y-Uy04ut_5VL-
+#EXTINF:-1 tvg-id="" xui-id="243469" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" tvg-name="Death Note" group-title="24/7 II",Death Note
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5GdRmn5wLX7IQBMZbZ5GGnB
+#EXTINF:-1 tvg-id="" xui-id="243470" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="DEXTER 24-7" group-title="24/7 II",DEXTER 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5GDAUtR4aP43SOEZNRicvFb
+#EXTINF:-1 tvg-id="" xui-id="243471" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="Disney 24-7" group-title="24/7 II",Disney 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5H-fCO0knhIlb3EsodQP50u
+#EXTINF:-1 tvg-id="" xui-id="243472" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="Disney 3 24-7" group-title="24/7 II",Disney 3 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5EZqY2NOU8o2OcWDH_mAN-5
+#EXTINF:-1 tvg-id="" xui-id="243473" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="Disney Avengers 24-7" group-title="24/7 II",Disney Avengers 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5EJyVAL4VhqlOWN9IJdJ0-K
+#EXTINF:-1 tvg-id="" xui-id="243474" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="DISNEY EMOTIVOS 24-7" group-title="24/7 II",DISNEY EMOTIVOS 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5ElbDMaK0P0u2SOuWRezEul
+#EXTINF:-1 tvg-id="" xui-id="243475" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="DISNEY EXITOS 24-7" group-title="24/7 II",DISNEY EXITOS 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5F1xymnWDWBpIfrQPbevx7S
+#EXTINF:-1 tvg-id="" xui-id="243476" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="Disney Nostalgia 2 24-7" group-title="24/7 II",Disney Nostalgia 2 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5HlyXRl-J0HgbwC38NkLflk
+#EXTINF:-1 tvg-id="" xui-id="243477" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="Disney Nostalgia 24-7" group-title="24/7 II",Disney Nostalgia 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5G05f8Xji89OQNOVqouerSJ
+#EXTINF:-1 tvg-id="" xui-id="243478" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="DISNEY NUEVOS 24-7" group-title="24/7 II",DISNEY NUEVOS 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5HF8EgI0hKcGl4ARXSRmosX
+#EXTINF:-1 tvg-id="" xui-id="243479" tvg-logo="https://images.pluto.tv/channels/656e28a2954b020008ed133a/colorLogoPNG.png" tvg-name="Dora La Exploradora" group-title="24/7 II",Dora La Exploradora
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5EFMqPrTJhZrzoriZzc094f
+#EXTINF:-1 tvg-id="" xui-id="243480" tvg-logo="https://i.ibb.co/jP3rLgLg/18-20250429-232604-0017.png" tvg-name="DORA LA EXPLORADORA" group-title="24/7 II",DORA LA EXPLORADORA
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5HcKb03uc7qwIS8GhdcuqTy
+#EXTINF:-1 tvg-id="" xui-id="243481" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="DOS PERROS TONTOS 24-7" group-title="24/7 II",DOS PERROS TONTOS 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5HMqTnBay2SvGSZAb76gPX2
+#EXTINF:-1 tvg-id="" xui-id="243482" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n7FeFLG1DK8LpXYVYEMHNhzRyuu.jpg" tvg-name="Dragon Ball" group-title="24/7 II",Dragon Ball
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5FsszlZJR_8AWpprlp1teDI
+#EXTINF:-1 tvg-id="" xui-id="243483" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" tvg-name="Dragon Ball GT" group-title="24/7 II",Dragon Ball GT
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5EUrJxLUXMdGOwMRT7nvQAD
+#EXTINF:-1 tvg-id="" xui-id="243484" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jGSNVbTNbRqbkXrbhXSdT8dhT5f.jpg" tvg-name="Dragon Ball Super" group-title="24/7 II",Dragon Ball Super
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5F4ST4OAxv_-5avGqkU1dAo
+#EXTINF:-1 tvg-id="" xui-id="243485" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f2zhRLqwRLrKhEMeIM7Z5buJFo3.jpg" tvg-name="Dragon ball Z" group-title="24/7 II",Dragon ball Z
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5FR3rbCKOgyqMcyvbuYct1H
+#EXTINF:-1 tvg-id="" xui-id="243486" tvg-logo="https://i.ibb.co/x85pXhGw/34-20250429-232604-0033.png" tvg-name="DRAGON BALL Z" group-title="24/7 II",DRAGON BALL Z
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5HIfRGwpGzxWB0mR0oPOXAE
+#EXTINF:-1 tvg-id="" xui-id="243487" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sDt5jfNCfdeIbVyEoKXnosDwy03.jpg" tvg-name="El Auto Fantastico" group-title="24/7 II",El Auto Fantastico
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5E1W0pVvcFvPpoWDQctHJei
+#EXTINF:-1 tvg-id="" xui-id="243488" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/qF8NDpVBSTDhdLlEjVAhNhfqB8K.jpg" tvg-name="El Chapulín Colorado (1973)" group-title="24/7 II",El Chapulín Colorado (1973)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5Ei-sD8b-vGh0Jh3q_4aPti
+#EXTINF:-1 tvg-id="" xui-id="243489" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/13MqGrDjk9KfCSt7emHf1nUsZyz.jpg" tvg-name="El gran Chaparral (1967)" group-title="24/7 II",El gran Chaparral (1967)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5HZkUDYvKyZGw7N3gpN-fyg
+#EXTINF:-1 tvg-id="" xui-id="243490" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" tvg-name="El Reino Infantil" group-title="24/7 II",El Reino Infantil
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5HamcbV6EvbGqqhUXhH2U0S
+#EXTINF:-1 tvg-id="" xui-id="243491" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/z8UlaXPb4L5bYZWhH9Ocq3w0HDr.jpg" tvg-name="El Superagente 86 (1965)" group-title="24/7 II",El Superagente 86 (1965)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5G5H_WRi321k5-RKzR5MK7-
+#EXTINF:-1 tvg-id="" xui-id="243492" tvg-logo="https://i.ibb.co/d4sxcQFy/futurama.png" tvg-name="FUTURAMA" group-title="24/7 II",FUTURAMA
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5EyFI73iFkmyQaKmgq5iApO
+#EXTINF:-1 tvg-id="" xui-id="243493" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="Jorge el Curioso 24-7" group-title="24/7 II",Jorge el Curioso 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5Fd3AwPzHWsp8kuxFQmP3i_
+#EXTINF:-1 tvg-id="" xui-id="243494" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ftRkgMhF1CofVSLMeonh9Hjz7a4.jpg" tvg-name="Kenan & Kel" group-title="24/7 II",Kenan & Kel
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5FOz0xk3jAF39o0MMPqdVhB
+#EXTINF:-1 tvg-id="" xui-id="243495" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" tvg-name="Kenan y Kel" group-title="24/7 II",Kenan y Kel
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5FigBl2kYoyNvisy4Jsc6yh
+#EXTINF:-1 tvg-id="" xui-id="243496" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="KIT VSKAT 24-7" group-title="24/7 II",KIT VSKAT 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5HO6Gr_UVhKumiuHizVsP3Q
+#EXTINF:-1 tvg-id="" xui-id="243497" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dRQ1B9nSsbtcLiMFSJDmX5MDsV3.jpg" tvg-name="La familia Ingalls (1974)" group-title="24/7 II",La familia Ingalls (1974)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5F1yw_T-8nbY8a_I3aSetbU
+#EXTINF:-1 tvg-id="" xui-id="243498" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dF4P2k9XgeFUT3OetAJqJJ0uQUj.jpg" tvg-name="La familia Monster (1964)" group-title="24/7 II",La familia Monster (1964)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5G7xwIMYtp_6UZMwfDVoVBM
+#EXTINF:-1 tvg-id="" xui-id="243499" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7vHxWO6ahByDWzWufFL48MXaktT.jpg" tvg-name="La mujer maravilla (1975)" group-title="24/7 II",La mujer maravilla (1975)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wiucAVYMNL8E5kUr_0Eg-5E46CX8VNyltu6lwHjUwfrR
+#EXTINF:-1 tvg-id="" xui-id="243500" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" tvg-name="Las Pistas de Blue" group-title="24/7 II",Las Pistas de Blue
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr9kJ-Xh9JYmC73l6ntnGnBV
+#EXTINF:-1 tvg-id="" xui-id="243501" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" tvg-name="Las Tortugas Ninja" group-title="24/7 II",Las Tortugas Ninja
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr8H9fgU1SFAZTHXCqkFm8dn
+#EXTINF:-1 tvg-id="" xui-id="243502" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="LOONEY TUNES 24-7" group-title="24/7 II",LOONEY TUNES 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr8iF1k2qHSPxNW-S3C2G-ck
+#EXTINF:-1 tvg-id="" xui-id="243503" tvg-logo="https://static.sky.it/images/skytg24/it/spettacolo/cinema/approfondimenti/highlander/highlander_webphoto.jpg" tvg-name="Los inmortales" group-title="24/7 II",Los inmortales
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_EpeeIQpySSDB0Xj_Rp7Nu
+#EXTINF:-1 tvg-id="" xui-id="243504" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" tvg-name="Los Padrinos Mágicos" group-title="24/7 II",Los Padrinos Mágicos
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_qdzHef_nBnCWrxMPLo9o-
+#EXTINF:-1 tvg-id="" xui-id="243505" tvg-logo="https://i.ibb.co/ZRjT5ZQs/14-20250429-232604-0013.png" tvg-name="LOS PICAPIEDRA" group-title="24/7 II",LOS PICAPIEDRA
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-Nf34U2PsXlFiw8SRdS5wX
+#EXTINF:-1 tvg-id="" xui-id="243506" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="LOS SIMPSONS" group-title="24/7 II",LOS SIMPSONS
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr911tRKSPXoXXEkJJsOpd0r
+#EXTINF:-1 tvg-id="" xui-id="243507" tvg-logo="https://i.ibb.co/qLpqTgQT/19-20250429-232604-0018.png" tvg-name="LOS SUPER CAMPEONES" group-title="24/7 II",LOS SUPER CAMPEONES
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr8pwWbVssEO8fFWh6Zkkr5W
+#EXTINF:-1 tvg-id="" xui-id="243508" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="Masha y el Oso 24-7" group-title="24/7 II",Masha y el Oso 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr8cbjtaJ-PO5Z7WjV_W3srE
+#EXTINF:-1 tvg-id="" xui-id="243509" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rJLPacKrjWUqjZrxiG8xTCMfGj.jpg" tvg-name="Mi Bella Genio" group-title="24/7 II",Mi Bella Genio
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr91m9oeq-FcyhpRlE1342U5
+#EXTINF:-1 tvg-id="" xui-id="243510" tvg-logo="" tvg-name="Mr.Bean" group-title="24/7 II",Mr.Bean
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_3bim_7FpSiIKhqLSQkRcr
+#EXTINF:-1 tvg-id="" xui-id="243511" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" tvg-name="Naruto" group-title="24/7 II",Naruto
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr8AqPh4nqxQP0Ix4IWHdSC3
+#EXTINF:-1 tvg-id="" xui-id="243512" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" tvg-name="Naruto Shippuden" group-title="24/7 II",Naruto Shippuden
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr89ORUBrFI7AnIKjtrYjSoW
+#EXTINF:-1 tvg-id="" xui-id="243513" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" tvg-name="Nick Jr. Club" group-title="24/7 II",Nick Jr. Club
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr9JW8abbq1a8v8fMtL7oYAT
+#EXTINF:-1 tvg-id="" xui-id="243514" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" tvg-name="Nick Teen" group-title="24/7 II",Nick Teen
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-pHGXXprvzIxJPE8BUIZEO
+#EXTINF:-1 tvg-id="" xui-id="243515" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" tvg-name="Nickelodeon Clásico" group-title="24/7 II",Nickelodeon Clásico
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr8pSE8-6kBv0ZtDY3fIQRbb
+#EXTINF:-1 tvg-id="" xui-id="243516" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" tvg-name="Nickelodeon iCarly" group-title="24/7 II",Nickelodeon iCarly
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr93b8mNxcFbFYmL8zJ1K3hm
+#EXTINF:-1 tvg-id="" xui-id="243517" tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png" tvg-name="Nickelodeon Pluto TV" group-title="24/7 II",Nickelodeon Pluto TV
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr9ShI5LVGAdFniXI6l1DtF0
+#EXTINF:-1 tvg-id="" xui-id="243518" tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" tvg-name="Nickelodeon Rocket Power" group-title="24/7 II",Nickelodeon Rocket Power
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-nwooyjcb0XmpPiTOdai92
+#EXTINF:-1 tvg-id="" xui-id="243519" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png" tvg-name="One Piece" group-title="24/7 II",One Piece
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr8Tgdv-HhQZgpuVvmgSLLTq
+#EXTINF:-1 tvg-id="" xui-id="243520" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="padre 24-7" group-title="24/7 II",padre 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_ToN8x6wySHSBD7vyx439O
+#EXTINF:-1 tvg-id="" xui-id="243521" tvg-logo="https://i.ibb.co/1jLSY9p/37-20250429-232605-0036.png" tvg-name="PAJARO LOCO" group-title="24/7 II",PAJARO LOCO
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr9MBGNZ4bU-1FHApTq2zho_
+#EXTINF:-1 tvg-id="" xui-id="243522" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="pajaroloco24-7" group-title="24/7 II",pajaroloco24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr9jZfhHNQArKRQwqqTFPQ_D
+#EXTINF:-1 tvg-id="" xui-id="243523" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="PANTERA ROSA 24-7" group-title="24/7 II",PANTERA ROSA 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-3Vt2cuRn1Wr4rtpFZvn_m
+#EXTINF:-1 tvg-id="" xui-id="243524" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="Pato Donald 24-7" group-title="24/7 II",Pato Donald 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_OwbZ6n7Mc0Sr-07wlyNCd
+#EXTINF:-1 tvg-id="" xui-id="243525" tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG.png" tvg-name="PAW Patrol Patrulla de Cachorros" group-title="24/7 II",PAW Patrol Patrulla de Cachorros
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_SX6iuVfNoBvtWqNvC5wb-
+#EXTINF:-1 tvg-id="" xui-id="243526" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="phineas y ferb 24-7" group-title="24/7 II",phineas y ferb 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-NJcFXyfocI5VTRxBZmy4t
+#EXTINF:-1 tvg-id="" xui-id="243527" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="PJ Masks 24-7" group-title="24/7 II",PJ Masks 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr9YIFf2kgjMhv2cOC6M-wEX
+#EXTINF:-1 tvg-id="" xui-id="243528" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" tvg-name="Pluto TV Anime" group-title="24/7 II",Pluto TV Anime
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr8dHkcMkmumQ7NOLBB0GoIK
+#EXTINF:-1 tvg-id="" xui-id="243529" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" tvg-name="Pluto TV Animé Acción" group-title="24/7 II",Pluto TV Animé Acción
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_0bm8UQPQd4CWlycskhQVr
+#EXTINF:-1 tvg-id="" xui-id="243530" tvg-logo="https://i.ibb.co/gZBnrdNj/41-20250429-232605-0040.png" tvg-name="POKEMON" group-title="24/7 II",POKEMON
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-NVMSb9ihS96Qbhd6DuFLo
+#EXTINF:-1 tvg-id="" xui-id="243531" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="porky 24-7" group-title="24/7 II",porky 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_z1PO3FozwWFWN9BgGAhKl
+#EXTINF:-1 tvg-id="" xui-id="243532" tvg-logo="https://i.ibb.co/Vp26MpW3/35-20250429-232604-0034.png" tvg-name="RANMA 1/2" group-title="24/7 II",RANMA 1/2
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_xKhR6iahkDGtA0wEEnKNI
+#EXTINF:-1 tvg-id="" xui-id="243533" tvg-logo="https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png" tvg-name="RetroX" group-title="24/7 II",RetroX
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_5a_XoJZyK_BOlfUWgx2Ba
+#EXTINF:-1 tvg-id="" xui-id="243534" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="RICK AND MORTY | 24/7" group-title="24/7 II",RICK AND MORTY | 24/7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr8Etb3M7G8ob0bdoz6uluNx
+#EXTINF:-1 tvg-id="" xui-id="243535" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" tvg-name="Rugrats" group-title="24/7 II",Rugrats
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-xMJ8DHbKiOB4lri2RF6T7
+#EXTINF:-1 tvg-id="" xui-id="243536" tvg-logo="https://i.ibb.co/zVzBGv6v/10-20250429-232603-0009.png" tvg-name="RUGRATS" group-title="24/7 II",RUGRATS
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr8K9NshvR0__gv5qkmvSMEc
+#EXTINF:-1 tvg-id="" xui-id="243537" tvg-logo="https://i.ibb.co/zTfS9pCv/39-20250429-232605-0038.png" tvg-name="SCOOBY DOO Y SUS AMIGOS" group-title="24/7 II",SCOOBY DOO Y SUS AMIGOS
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-TK_Am2FmTLQbiDq8cOk8G
+#EXTINF:-1 tvg-id="" xui-id="243538" tvg-logo="https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoPNG.png" tvg-name="South Park: Colección Cartman" group-title="24/7 II",South Park: Colección Cartman
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr9f_xDGpM8uf1GIQ37QiNio
+#EXTINF:-1 tvg-id="" xui-id="243539" tvg-logo="https://images.pluto.tv/channels/65df7272ec9fda0008b7a970/colorLogoPNG.png" tvg-name="South Park: Colección Kenny" group-title="24/7 II",South Park: Colección Kenny
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr86BFRIyuLimauwPJOih9Cm
+#EXTINF:-1 tvg-id="" xui-id="243540" tvg-logo="https://images.pluto.tv/channels/65df73520d4561000817c29b/colorLogoPNG.png" tvg-name="South Park: Colección Kyle" group-title="24/7 II",South Park: Colección Kyle
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-E18yOygfNejAZCrdhG_s0
+#EXTINF:-1 tvg-id="" xui-id="243541" tvg-logo="https://images.pluto.tv/channels/65df72db18036500081a8292/colorLogoPNG.png" tvg-name="South Park: Colección Stan" group-title="24/7 II",South Park: Colección Stan
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr8SPT1tNPXI3OWbog2OYJ-5
+#EXTINF:-1 tvg-id="" xui-id="243542" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="supersonicos 24-7" group-title="24/7 II",supersonicos 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_ZQPGC3LHKtL-AmP25OxuQ
+#EXTINF:-1 tvg-id="" xui-id="243543" tvg-logo="https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/c8ea8e19-cae7-4683-9b62-cdbbed744784/85c5146fee333e2752e80dd23edef3310636fe39.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom" tvg-name="Teoría del Big Bang" group-title="24/7 II",Teoría del Big Bang
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-ryC5vtH5ZraNturauFaj-
+#EXTINF:-1 tvg-id="" xui-id="243544" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="thundercast 24-7" group-title="24/7 II",thundercast 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr8zGN1ZDzVcpl-mZW8wGK0K
+#EXTINF:-1 tvg-id="" xui-id="243545" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" tvg-name="Tokusato" group-title="24/7 II",Tokusato
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr9V1Q7VWxV_nEP7bge_INa8
+#EXTINF:-1 tvg-id="" xui-id="243546" tvg-logo="https://i.ibb.co/8D2GDPw/images-5.jpg" tvg-name="TOM Y JERRI 24/7" group-title="24/7 II",TOM Y JERRI 24/7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_4IGddh4C8R8fzrZMlYIZu
+#EXTINF:-1 tvg-id="" xui-id="243547" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" tvg-name="TV E-Sports" group-title="24/7 II",TV E-Sports
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_yZcWhrLXKBrSXqcFvHXr5
+#EXTINF:-1 tvg-id="" xui-id="243548" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" tvg-name="TV Junior" group-title="24/7 II",TV Junior
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-zfj8k8JrLxJnPhix0S1z5
+#EXTINF:-1 tvg-id="" xui-id="243549" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" tvg-name="TV Kids" group-title="24/7 II",TV Kids
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_Y1Q7lEJyUvoOc9dhG3qbi
+#EXTINF:-1 tvg-id="" xui-id="243550" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" tvg-name="TV Teen" group-title="24/7 II",TV Teen
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr9kmqfGcuczhsKibryTEUeo
+#EXTINF:-1 tvg-id="" xui-id="243551" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" tvg-name="Yu-Gi-Oh" group-title="24/7 II",Yu-Gi-Oh
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr9Y0OS_FZT84q9pp1jC53LK
+#EXTINF:-1 tvg-id="" xui-id="243552" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hi1alcvK7Dg4TmJglJuLhYR0S4p.jpg" tvg-name="YU-GI-OH" group-title="24/7 II",YU-GI-OH
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr8W3lSyoMQgl-W_3ab3jJTJ
+#EXTINF:-1 tvg-id="" xui-id="243553" tvg-logo="https://www.themoviedb.org/t/p/w500/dj6GNnIV7eNFO9nc4tqcc8yWiNb.jpg" tvg-name="Acapulco Shore" group-title="24/7 III",Acapulco Shore
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr9k-yAK7gKLC-DyUamjA8lp
+#EXTINF:-1 tvg-id="" xui-id="243555" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tNtSk46s3f1ePr59p0JG6uacc8.jpg" tvg-name="Ash vs Evil Dead" group-title="24/7 III",Ash vs Evil Dead
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr9kDUKPTdrM_MngHV2lP2Zg
+#EXTINF:-1 tvg-id="" xui-id="243556" tvg-logo="https://www.themoviedb.org/t/p/original/aitL0Fs9RjnNjqCI5Wdt5eZvDWT.jpg" tvg-name="Barbie: Dreamhouse Adventures" group-title="24/7 III",Barbie: Dreamhouse Adventures
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr8Ps-EfzFcNF5Tbc10o0tJa
+#EXTINF:-1 tvg-id="" xui-id="243557" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nU2xfSxdhOnp8oc9t1kwFmT42Cj.jpg" tvg-name="Barry" group-title="24/7 III",Barry
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr9VHXXUu_1SJ7tb3uv2WQNb
+#EXTINF:-1 tvg-id="" xui-id="243558" tvg-logo="https://www.themoviedb.org/t/p/w500/52DGvCSbyKfprQ9OwPcxpBMdpv6.jpg" tvg-name="Birdman and the Galaxy Trio" group-title="24/7 III",Birdman and the Galaxy Trio
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-nle0fsIRz8mupmDpDAhKf
+#EXTINF:-1 tvg-id="" xui-id="243559" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/4DJzxxqshVst18BxQDSyTRe1wPF.jpg" tvg-name="Cantinflas" group-title="24/7 III",Cantinflas
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr87gv1UG8Jm_3LS7Qn-9Umm
+#EXTINF:-1 tvg-id="" xui-id="243560" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEkUpvQWa4jy5C2VmYzHCb7W1AK.jpg" tvg-name="Caso Cerrado" group-title="24/7 III",Caso Cerrado
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr92eOnUcG7cb2dRVNtF-_xn
+#EXTINF:-1 tvg-id="" xui-id="243561" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlPYAJYkSfvVYAXK1a3gZqpWwda.jpg" tvg-name="Digimon Adventure" group-title="24/7 III",Digimon Adventure
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_Kx7TrVk1N9lNFL8cOcyC9
+#EXTINF:-1 tvg-id="" xui-id="243562" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzlkYzk0YzItM2I0ZC00NmE5LTljMGYtNTY2ZTVhMzA5OWJjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" tvg-name="Disenchantment" group-title="24/7 III",Disenchantment
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-rZOfuZvmmRuNDbUhcr39r
+#EXTINF:-1 tvg-id="" xui-id="243564" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3TYLMAVxRGNVCqHpaq3bQ6JldA.jpg" tvg-name="Dragon Ball" group-title="24/7 III",Dragon Ball
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-9ZoeSPgX-7faTsRlEVVNZ
+#EXTINF:-1 tvg-id="" xui-id="243566" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0yIE4NRNJJq81okHHEmMytOznU.jpg" tvg-name="Dragon Ball Super" group-title="24/7 III",Dragon Ball Super
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_qzJtgdBx9CVwTYHfXit0n
+#EXTINF:-1 tvg-id="" xui-id="243567" tvg-logo="https://www.themoviedb.org/t/p/w500/tfifgKMWPCtEebp7wH9vBKkDpcx.jpg" tvg-name="El barco" group-title="24/7 III",El barco
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-iTDDClqul81_mihK5kNPx
+#EXTINF:-1 tvg-id="" xui-id="243568" tvg-logo="https://www.themoviedb.org/t/p/w500/nO9Ik4eH7RTX9r11qPtUWfMsWJA.jpg" tvg-name="El Chapulín Colorado animado" group-title="24/7 III",El Chapulín Colorado animado
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_uW0O9C4_pUH6wPkwzY0LF
+#EXTINF:-1 tvg-id="" xui-id="243570" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2xJ6xmrchmnVL0S9gsbiGHskxp.jpg" tvg-name="El Chavo" group-title="24/7 III",El Chavo
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-4cW1cn8Ytn-tbFF1tbZPf
+#EXTINF:-1 tvg-id="" xui-id="243571" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B2upXyWC74tRmg6UEtuvIm08rQ.jpg" tvg-name="El final del paraíso" group-title="24/7 III",El final del paraíso
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr9k2KAvlTDtQA-YskM_os8J
+#EXTINF:-1 tvg-id="" xui-id="243572" tvg-logo="https://www.themoviedb.org/t/p/w500/zwFwdFn7ZZc5HZ94frJiyg8CZot.jpg" tvg-name="El maravilloso mundo de Mickey Mouse" group-title="24/7 III",El maravilloso mundo de Mickey Mouse
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_fAngqm3fIiejvKieBYMcP
+#EXTINF:-1 tvg-id="" xui-id="243574" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agYZXD9iChdxxv0eVHlZjeGRXaY.jpg" tvg-name="El príncipe del Rap en Bel-Air" group-title="24/7 III",El príncipe del Rap en Bel-Air
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_m21_fm4omfoLHybdjNvBY
+#EXTINF:-1 tvg-id="" xui-id="243575" tvg-logo="https://www.themoviedb.org/t/p/original/6tsJ7nIcB5OdoyRS1hOJLwGjpBe.jpg" tvg-name="El Pájaro Loco y sus amigos" group-title="24/7 III",El Pájaro Loco y sus amigos
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-1-xtszsXNjR0dXESiBYy-
+#EXTINF:-1 tvg-id="" xui-id="243576" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCCtTjSyRBNW7oVdgmEfbwxaE4u.jpg" tvg-name="Falling Skies" group-title="24/7 III",Falling Skies
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_AcfxCuxVbb7X_LIF0jpjG
+#EXTINF:-1 tvg-id="" xui-id="243577" tvg-logo="https://www.themoviedb.org/t/p/w500/6VkfNmndCnWJJr7wA5utv5JAiiW.jpg" tvg-name="Familia en venta" group-title="24/7 III",Familia en venta
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_RcbnhjtxxM-83JQUeYCXG
+#EXTINF:-1 tvg-id="" xui-id="243578" tvg-logo="https://www.themoviedb.org/t/p/w500/fCJx7cCXKOEkmCVIIyP8qk0Pb7Y.jpg" tvg-name="Farscape" group-title="24/7 III",Farscape
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-FLIOn9NFWg30dF9lGrbHi
+#EXTINF:-1 tvg-id="" xui-id="243579" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j00juJOffNdhkpkIaayQjcgvK2n.jpg" tvg-name="Fear the Walking Dead" group-title="24/7 III",Fear the Walking Dead
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr8iaIjn-BMBBWSfv5YErRkq
+#EXTINF:-1 tvg-id="" xui-id="243581" tvg-logo="https://www.themoviedb.org/t/p/w500/zT6tXWsJoBOWJT1PeUEKLTFOoHh.jpg" tvg-name="Final Space" group-title="24/7 III",Final Space
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr9evA31sz6rpWFe_j1OFNAk
+#EXTINF:-1 tvg-id="" xui-id="243582" tvg-logo="https://www.themoviedb.org/t/p/original/qQZxmevYmuyehvARKxoaHSxanoK.jpg" tvg-name="Frontier" group-title="24/7 III",Frontier
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr_-13HdoDQ1RvViDqSkEy54
+#EXTINF:-1 tvg-id="" xui-id="243583" tvg-logo="https://www.themoviedb.org/t/p/w500/zvl4RYK5OHo2d9V1aUkHkxhh9Zv.jpg" tvg-name="Gang Related" group-title="24/7 III",Gang Related
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr9u3YpaZXo3Fv5LTaN9lr2g
+#EXTINF:-1 tvg-id="" xui-id="243585" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HyTfZ9sSCoZPYrYHMffhRVm3Af.jpg" tvg-name="Garfield y sus amigos" group-title="24/7 III",Garfield y sus amigos
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-4AVDN_MMim5MN3UVMZDRl
+#EXTINF:-1 tvg-id="" xui-id="243586" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1yqOSVVskSYpYreNT0VeD1S3Dq.jpg" tvg-name="Ginny y Georgia" group-title="24/7 III",Ginny y Georgia
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-LmOt51W1mRbl37yuLiA5E
+#EXTINF:-1 tvg-id="" xui-id="243587" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hl0C8p29Kr6pca17BHbDnFAsAcG.jpg" tvg-name="Goles en contra" group-title="24/7 III",Goles en contra
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr9RO2ih7cLTYdWoAr7mVSx9
+#EXTINF:-1 tvg-id="" xui-id="243589" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJLRVnmg2hr9tlEQG0NSbYPNW2L.jpg" tvg-name="Gravity Falls" group-title="24/7 III",Gravity Falls
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr87W9umYfk_jsaSR867PTka
+#EXTINF:-1 tvg-id="" xui-id="243590" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg" tvg-name="Hawaii Five-0" group-title="24/7 III",Hawaii Five-0
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr-UPtyQ2XoJzchrFAik4_Fo
+#EXTINF:-1 tvg-id="" xui-id="243592" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw8TxUHkeQH8GzSygewHkx05sQe.jpg" tvg-name="High School Musical: El Musical: La Serie" group-title="24/7 III",High School Musical: El Musical: La Serie
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr8ErQpMXbYWYeTI3Y4Ir4ZS
+#EXTINF:-1 tvg-id="" xui-id="243594" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpnV0g2VOounP0kHNi86oBPceMY.jpg" tvg-name="Hora de aventuras" group-title="24/7 III",Hora de aventuras
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr--xIsOoPXsU6TuBGK6W5zt
+#EXTINF:-1 tvg-id="" xui-id="243595" tvg-logo="https://www.themoviedb.org/t/p/original/wbTJ0nHhk4RqTXtzlIVCU4g688q.jpg" tvg-name="Hotel Transylvania" group-title="24/7 III",Hotel Transylvania
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr8VhYtQ7s_uEonE2PxYbBmN
+#EXTINF:-1 tvg-id="" xui-id="243597" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kP8Z51s9D8tiGnoRbL88db0e2jv.jpg" tvg-name="iCarly" group-title="24/7 III",iCarly
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr8OuvRiHwEEcw0iuFoYKrh5
+#EXTINF:-1 tvg-id="" xui-id="243598" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9gCSwIObDOD2BEtmUwfasar3xs.jpg" tvg-name="Juego de tronos" group-title="24/7 III",Juego de tronos
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1whzOdj3AM-N6fTuB1pk7Vr80PCz1Sr7d_3d6ArddshQ5
+#EXTINF:-1 tvg-id="" xui-id="243600" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftRkgMhF1CofVSLMeonh9Hjz7a4.jpg" tvg-name="Kenan y Kel" group-title="24/7 III",Kenan y Kel
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrqYmiRjtKBECXGzyIN-_daN
+#EXTINF:-1 tvg-id="" xui-id="243601" tvg-logo="https://www.themoviedb.org/t/p/w500/5T3VJOF4ti3ep6JXqSgyzSGdv0h.jpg" tvg-name="Knightfall" group-title="24/7 III",Knightfall
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrrpzHvYKPElM2An8lxQuRkt
+#EXTINF:-1 tvg-id="" xui-id="243603" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9vNcoJvQNLWkF4t1bbXM6y83tD.jpg" tvg-name="Kung Fu Panda: El caballero del dragón" group-title="24/7 III",Kung Fu Panda: El caballero del dragón
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOro0WVmCLu1fGm-wkPeCYyjJ
+#EXTINF:-1 tvg-id="" xui-id="243604" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiB0hsxMpgxpJehYxUDhiUkg2w.jpg" tvg-name="La casa del dragón" group-title="24/7 III",La casa del dragón
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrpHruRGVGiPWLH22Ct_vViF
+#EXTINF:-1 tvg-id="" xui-id="243606" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBajkGhOB2FsVVhp4uagcy5dyLn.jpg" tvg-name="La familia P. Luche" group-title="24/7 III",La familia P. Luche
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrolXTXiRm218SPU3X1NFoUW
+#EXTINF:-1 tvg-id="" xui-id="243607" tvg-logo="https://www.themoviedb.org/t/p/w500/3wzStuL7pfDZAwAhzv11pMhjF6V.jpg" tvg-name="La princesa Sofía:" group-title="24/7 III",La princesa Sofía:
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrpPajxa3DXcFhlOlPtQOtmo
+#EXTINF:-1 tvg-id="" xui-id="243609" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqejByfJ0oJqXbRtvwcCq0C9mdf.jpg" tvg-name="Las aventuras de Ladybug" group-title="24/7 III",Las aventuras de Ladybug
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrpwRwEQTMUx1ott0E6lYSPA
+#EXTINF:-1 tvg-id="" xui-id="243611" tvg-logo="https://www.themoviedb.org/t/p/w500/fqb9X4th2p2voefRLqdv1xoZQmC.jpg" tvg-name="Lego Ninjago: Maestros del Spinjitzu" group-title="24/7 III",Lego Ninjago: Maestros del Spinjitzu
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrqb11551xcMExi-SWuphh4B
+#EXTINF:-1 tvg-id="" xui-id="243612" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PY0OZ1xUbguPipb0a1uL6mg5Ka.jpg" tvg-name="Liga de la Justicia Ilimitada" group-title="24/7 III",Liga de la Justicia Ilimitada
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrovblZfU-UnoOJzq9SQp_0s
+#EXTINF:-1 tvg-id="" xui-id="243614" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgRLZ95mibXMb6UjPhly0W92IUs.jpg" tvg-name="Los Caballeros del Zodiaco" group-title="24/7 III",Los Caballeros del Zodiaco
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrpaNlt6-djCBGAQ91_z8xb7
+#EXTINF:-1 tvg-id="" xui-id="243617" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" tvg-name="Los Simpson" group-title="24/7 III",Los Simpson
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrqk7U_JOUAld6M5tZdB7U0X
+#EXTINF:-1 tvg-id="" xui-id="243618" tvg-logo="https://www.themoviedb.org/t/p/w500/uC43MeBEgjWC6aMdf4IyoM6KhCW.jpg" tvg-name="Los supersónicos" group-title="24/7 III",Los supersónicos
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrowQWnPSpnnnjUv84eFY522
+#EXTINF:-1 tvg-id="" xui-id="243619" tvg-logo="https://www.themoviedb.org/t/p/original/jvYAdIQ9f1HwlutyFW8ZXWbcmFe.jpg" tvg-name="Lost" group-title="24/7 III",Lost
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrpGQ5LgJinQGhZWX8xkBOqz
+#EXTINF:-1 tvg-id="" xui-id="243621" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUjsvpfWQ0OuKWPpbsfFHZhLGiK.jpg" tvg-name="Malcolm" group-title="24/7 III",Malcolm
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOroHMgz3DtDOqRNwvwuhZPxn
+#EXTINF:-1 tvg-id="" xui-id="243622" tvg-logo="https://www.themoviedb.org/t/p/original/d9vNtGoHapDPZl3srMqT1Vf7ddR.jpg" tvg-name="Merlin" group-title="24/7 III",Merlin
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrrrMKwP0Mlq9w30VGVCSdsY
+#EXTINF:-1 tvg-id="" xui-id="243623" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFvfqUNUSxjT3zDOKhryKiV9YEt.jpg" tvg-name="Merlina" group-title="24/7 III",Merlina
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrqrLyfJyhxR8rLeAC0hy6Cp
+#EXTINF:-1 tvg-id="" xui-id="243625" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1V2PSez4pNZ9a4Bbomm7KZiQJ44.jpg" tvg-name="Mr. Bean Animado" group-title="24/7 III",Mr. Bean Animado
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrrUv9EihIXL1breboiOeIzA
+#EXTINF:-1 tvg-id="" xui-id="243626" tvg-logo="https://www.themoviedb.org/t/p/w500/TIIgcznwNfNr3KOZvxn26eKV99.jpg" tvg-name="NCIS: Los Angeles" group-title="24/7 III",NCIS: Los Angeles
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOro5J9ZeWpXVgS37Q_ANczGC
+#EXTINF:-1 tvg-id="" xui-id="243627" tvg-logo="https://www.themoviedb.org/t/p/original/kAanFeXI2fddHCWStwNiLQINol2.jpg" tvg-name="PAW Patrol: Patrulla de cachorros" group-title="24/7 III",PAW Patrol: Patrulla de cachorros
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOroEWatXktY4vPhrj7VMr4LA
+#EXTINF:-1 tvg-id="" xui-id="243628" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycf1ZqisXs8ZCGmw0reD1pI2Zlp.jpg" tvg-name="Peppa Pig" group-title="24/7 III",Peppa Pig
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOro9RZ1JKDXsjuVpULxn-6Xp
+#EXTINF:-1 tvg-id="" xui-id="243630" tvg-logo="https://www.themoviedb.org/t/p/original/z5gYsl7KOynKmoJ2ZSfegLQb2zT.jpg" tvg-name="Phineas y Ferb" group-title="24/7 III",Phineas y Ferb
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrqlIx40sTnAf5zCGYN7Z_Fr
+#EXTINF:-1 tvg-id="" xui-id="243632" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j70XnYdkUnssVZRiiH7ybDbh4pV.jpg" tvg-name="Pokémon" group-title="24/7 III",Pokémon
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrol6FMZWMKV7Za7Pkdc4ukt
+#EXTINF:-1 tvg-id="" xui-id="243633" tvg-logo="https://www.themoviedb.org/t/p/w500/5IMzZOdPZKeOwiJZomiGk6c7Bwn.jpg" tvg-name="Power Rangers" group-title="24/7 III",Power Rangers
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrqm6KqKzhvMT3KVQzXZkLaI
+#EXTINF:-1 tvg-id="" xui-id="243634" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEZSM0pRHDqslA0rG4DBFvWD64u.jpg" tvg-name="Prison Break" group-title="24/7 III",Prison Break
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrpaf2TmmqsxhMV7j8yi2jFw
+#EXTINF:-1 tvg-id="" xui-id="243635" tvg-logo="https://www.themoviedb.org/t/p/w500/sEIL7DQGGqgY9rs6MDbnvS2kOcT.jpg" tvg-name="Run Coyote Run" group-title="24/7 III",Run Coyote Run
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrrAYxt-iV9tnnYzv5w0TMxf
+#EXTINF:-1 tvg-id="" xui-id="243636" tvg-logo="https://www.themoviedb.org/t/p/w500/uf0JXBxRRzp3r3jReOKrz9llYv8.jpg" tvg-name="Rápidos y furiosos: Espías al volante" group-title="24/7 III",Rápidos y furiosos: Espías al volante
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOroNxG5YyjtV9BRYQQ-cY4aV
+#EXTINF:-1 tvg-id="" xui-id="243637" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Bttz4hEspKlpU0Me57dkHNR3nf.jpg" tvg-name="S.W.A.T." group-title="24/7 III",S.W.A.T.
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrr05xdG1itdwdfGV-Hu83Kd
+#EXTINF:-1 tvg-id="" xui-id="243638" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh7GLsorxecv0D8d7QAVkQUe1ju.jpg" tvg-name="Star Trek: Discovery" group-title="24/7 III",Star Trek: Discovery
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrrFY2AwGIStjxgNYyLkpMOy
+#EXTINF:-1 tvg-id="" xui-id="243639" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxqMWKi7Sk00Iq4Fz43y6UrwmEL.jpg" tvg-name="Star Wars: El libro de Boba Fett" group-title="24/7 III",Star Wars: El libro de Boba Fett
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrowd2_wO6r5r7F-HtKPyHQa
+#EXTINF:-1 tvg-id="" xui-id="243641" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylTQ8kWL2Ln5aS4W7r8ajFB5kcp.jpg" tvg-name="Super Campeones" group-title="24/7 III",Super Campeones
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrr0bishxO9PM2yCpZTTvas2
+#EXTINF:-1 tvg-id="" xui-id="243643" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxe4wIp3kYfw4QSkLMt99HfLkok.jpg" tvg-name="Teen Titans" group-title="24/7 III",Teen Titans
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOroMDfQtzJAtQOXyPg4GXj8Q
+#EXTINF:-1 tvg-id="" xui-id="243644" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTg3YjU0NGUtMTFhYi00OWMwLThmOGYtYTg5MDJhMTdmMWIwXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg" tvg-name="Teenage Bounty Hunters" group-title="24/7 III",Teenage Bounty Hunters
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrrxYQ9h2jARR5iDh2t34O0c
+#EXTINF:-1 tvg-id="" xui-id="243645" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Aes6nbECN7j61PEnPmz3eQKE0x.jpg" tvg-name="The Boys" group-title="24/7 III",The Boys
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrqHFP0IK6qW5C0OTBchpQFO
+#EXTINF:-1 tvg-id="" xui-id="243646" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmJllM0RuSisyMm34G8XAp7KqD.jpg" tvg-name="The Last of Us" group-title="24/7 III",The Last of Us
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrrRU_6zPUmx2oR2Xsue7nTZ
+#EXTINF:-1 tvg-id="" xui-id="243647" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzzZKJ4fvwib8Fty1tv4Vtp9R0b.jpg" tvg-name="The Mandalorian" group-title="24/7 III",The Mandalorian
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOroOk3J4YUZy_Sc79dEGCG-W
+#EXTINF:-1 tvg-id="" xui-id="243650" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prMr01vuNZc42SAuaa1Kzyh9iyd.jpg" tvg-name="The New Looney Tunes" group-title="24/7 III",The New Looney Tunes
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOroZqCNrnBZLIkKW0RPjYR
+
+#EXTINF:-1 tvg-id="" xui-id="243651" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg" tvg-name="The Walking Dead" group-title="24/7 III",The Walking Dead
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrpkBqmkkP5jHPEFaCYAhvel
+
+#EXTINF:-1 tvg-id="" xui-id="243652" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvn0m0LCIslrURjSo7UG5Rx6mV2.jpg" tvg-name="The Witcher" group-title="24/7 III",The Witcher
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrrBBQXVKVBYUTC544ifEi4l
+
+#EXTINF:-1 tvg-id="" xui-id="243653" tvg-logo="https://www.themoviedb.org/t/p/original/laXukV4q9YOoiwutWPePrXgS5yN.jpg" tvg-name="Timeless" group-title="24/7 III",Timeless
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrpsu0YqGMsf0qT2OK_u6lYB
+
+#EXTINF:-1 tvg-id="" xui-id="243654" tvg-logo="https://www.themoviedb.org/t/p/w500/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg" tvg-name="Transformers: Prime" group-title="24/7 III",Transformers: Prime
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrqJvUrtsuij-326oUpOwE9z
+
+#EXTINF:-1 tvg-id="" xui-id="243656" tvg-logo="https://www.themoviedb.org/t/p/original/qLokbVpFLno5eooxhrySUbC2oyJ.jpg" tvg-name="Victorious" group-title="24/7 III",Victorious
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrq4sbwx3mSMwej-YIfRqnGH
+
+#EXTINF:-1 tvg-id="" xui-id="243657" tvg-logo="https://www.themoviedb.org/t/p/w500/aW9mbHCdsI0b9UJ7o8Teq9RzL9L.jpg" tvg-name="Young Sheldon" group-title="24/7 III",Young Sheldon
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrrZ91qX-PfQfYi9_dqQiFjc
+
+#EXTINF:-1 tvg-id="" xui-id="243659" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajAJ0QHSEKRvONx3sjEzhQxZTo4.jpg" tvg-name="Yu-Gi-Oh!" group-title="24/7 III",Yu-Gi-Oh!
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrpmxbN-q1lIgJEZx1EP3mlw
+
+#EXTINF:-1 tvg-id="" xui-id="243661" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XEcajr0EPf3Daaq7PST5flG6ql.jpg" tvg-name="¡Enróllate Scooby-Doo!" group-title="24/7 III",¡Enróllate Scooby-Doo!
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrpf2grWpA6jCRYdbO71UTXP
+
+#EXTINF:-1 tvg-id="" xui-id="243702" tvg-logo="http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtoXUwUdfXGJq0jlzC9KRlvbFC3rsgmdvCf1-bSV4mSncAfCpD2rQBHZCFZLSLm862SHL16g8keBDTMASBGbjixoZ1njq8RjDbyB9cr_40SUqI4zWffQvN77enmswBaFRJ3AVvAL22t2xgdxbCnqBl6aAiuJcvs8TDd7zfrfLDEcE.jpg" tvg-name="ANIME (ANIME JAPONES)" group-title="24/7 III",ANIME (ANIME JAPONES)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpyW8ieu6g2YgR8RtW2JIWrec6KROAFzMNe4ZHNBBR9G
+
+#EXTINF:-1 tvg-id="" xui-id="243704" tvg-logo="http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtoXUwUdfXGJq0jlzC9KRlvbFC3rsgmdvCf1-bSV4mSncAfCpD2rQBHZCFZLSLm862SHL16g8keBDTMASBGbjixoZ1njq8RjDbyB9cr_40SUqI4zWffQvN77enmswBaFRJ3AVvAL22t2xgdxbCnqBl6aAiuJcvs8TDd7zfrfLDEcE.jpg" tvg-name="ANIME (Dragon Ball Z)" group-title="24/7 III",ANIME (Dragon Ball Z)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpyW8ieu6g2YgR8RtW2JIWrUGgHnI8C7d9zXtqJ8lywb
+
+#EXTINF:-1 tvg-id="" xui-id="243706" tvg-logo="http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtoXUwUdfXGJq0jlzC9KRlvbFC3rsgmdvCf1-bSV4mSncAfCpD2rQBHZCFZLSLm862SHL16g8keBDTMASBGbjixoZ1njq8RjDbyB9cr_40SUqI4zWffQvN77enmswBaFRJ3AVvAL22t2xgdxbCnqBl6aAiuJcvs8TDd7zfrfLDEcE.jpg" tvg-name="ANIME (Gensōki)" group-title="24/7 III",ANIME (Gensōki)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpyW8ieu6g2YgR8RtW2JIWrxz4A0AHlFigNyIUxL9LAf
+
+#EXTINF:-1 tvg-id="" xui-id="243708" tvg-logo="http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtoXUwUdfXGJq0jlzC9KRlvbFC3rsgmdvCf1-bSV4mSncAfCpD2rQBHZCFZLSLm862SHL16g8keBDTMASBGbjixoZ1njq8RjDbyB9cr_40SUqI4zWffQvN77enmswBaFRJ3AVvAL22t2xgdxbCnqBl6aAiuJcvs8TDd7zfrfLDEcE.jpg" tvg-name="ANIME (Kumichou Musume)" group-title="24/7 III",ANIME (Kumichou Musume)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpyW8ieu6g2YgR8RtW2JIWq07FxvsRWnVgkqu3FsgFM2
+
+#EXTINF:-1 tvg-id="" xui-id="243710" tvg-logo="http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtoXUwUdfXGJq0jlzC9KRlvbFC3rsgmdvCf1-bSV4mSncAfCpD2rQBHZCFZLSLm862SHL16g8keBDTMASBGbjixoZ1njq8RjDbyB9cr_40SUqI4zWffQvN77enmswBaFRJ3AVvAL22t2xgdxbCnqBl6aAiuJcvs8TDd7zfrfLDEcE.jpg" tvg-name="ANIME (Mi Habilidad Única me Convierte en un DIOS)" group-title="24/7 III",ANIME (Mi Habilidad Única me Convierte en un DIOS)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpyW8ieu6g2YgR8RtW2JIWpt2OwukCNS1hdU-aRFv5fE
 
 
+#EXTINF:-1 tvg-id="" xui-id="243712" tvg-logo="http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtoXUwUdfXGJq0jlzC9KRlvbFC3rsgmdvCf1-bSV4mSncAfCpD2rQBHZCFZLSLm862SHL16g8keBDTMASBGbjixoZ1njq8RjDbyB9cr_40SUqI4zWffQvN77enmswBaFRJ3AVvAL22t2xgdxbCnqBl6aAiuJcvs8TDd7zfrfLDEcE.jpg" tvg-name="ANIME (ROKKANOYUUSHA)" group-title="24/7 III",ANIME (ROKKANOYUUSHA)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpyW8ieu6g2YgR8RtW2JIWoawLzHvs-8MxfzQNP9jbTq
 
 
+#EXTINF:-1 tvg-id="" xui-id="243714" tvg-logo="http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtoXUwUdfXGJq0jlzC9KRlvbFC3rsgmdvCf1-bSV4mSncAfCpD2rQBHZCFZLSLm862SHL16g8keBDTMASBGbjixoZ1njq8RjDbyB9cr_40SUqI4zWffQvN77enmswBaFRJ3AVvAL22t2xgdxbCnqBl6aAiuJcvs8TDd7zfrfLDEcE.jpg" tvg-name="ANIME (SaijakuTamer)" group-title="24/7 III",ANIME (SaijakuTamer)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpyW8ieu6g2YgR8RtW2JIWqL9iwl5tiELk-8R29ATjwR
 
+#EXTINF:-1 tvg-id="" xui-id="243716" tvg-logo="http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtoXUwUdfXGJq0jlzC9KRlvbFC3rsgmdvCf1-bSV4mSncAfCpD2rQBHZCFZLSLm862SHL16g8keBDTMASBGbjixoZ1njq8RjDbyB9cr_40SUqI4zWffQvN77enmswBaFRJ3AVvAL22t2xgdxbCnqBl6aAiuJcvs8TDd7zfrfLDEcE.jpg" tvg-name="ANIME (Yuusha)" group-title="24/7 III",ANIME (Yuusha)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpyW8ieu6g2YgR8RtW2JIWq2-F2Z44MxT364_xBNT8JW
+
+#EXTINF:-1 tvg-id="" xui-id="243718" tvg-logo="http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtoXUwUdfXGJq0jlzC9KRlvbFC3rsgmdvCf1-bSV4mSncAfCpD2rQBHZCFZLSLm862SHL16g8keBDTMASBGbjixoZ1njq8RjDbyB9cr_40SUqI4zWffQvN77enmswBaFRJ3AVvAL22t2xgdxbCnqBl6aAiuJcvs8TDd7zfrfLDEcE.jpg" tvg-name="ANIME (ZONA ANIME)" group-title="24/7 III",ANIME (ZONA ANIME)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpyW8ieu6g2YgR8RtW2JIWpCbEHPi0Vkdu9Y-95WtJjO
+
+#EXTINF:-1 tvg-id="" xui-id="243720" tvg-logo="http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtoXUwUdfXGJq0jlzC9KRlvbFC3rsgmdvCf1-bSV4mSncAfCpD2rQBHZCFZLSLm862SHL16g8keBDTMASBGbjixoZ1njq8RjDbyB9cr_40SUqI4zWffQvN77enmswBaFRJ3AVvAL22t2xgdxbCnqBl6aAiuJcvs8TDd7zfrfLDEcE.jpg" tvg-name="ANIME(24 HORAS ANIME)" group-title="24/7 III",ANIME(24 HORAS ANIME)
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wpyW8ieu6g2YgR8RtW2JIWrEdNFGh79xTCwengk7D-ey
+
+#EXTINF:-1 tvg-id="" xui-id="243663" tvg-logo="https://media.themoviedb.org/t/p/w500/hIg45bQ1nmKuAeCQhnz3Tpbu2g7.jpg" tvg-name="BUSQUEDA IMPLACABLE" group-title="24/7 Películas",BUSQUEDA IMPLACABLE
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrp-bZi2eRmuJ0s53Hr0Oenn
+
+#EXTINF:-1 tvg-id="" xui-id="243665" tvg-logo="http://wolkplay.com:80/images/iN3cS84FGCN7g9zhUZ5XcWUvVak6AS5I8KKOW1M0GTOa-Mw_XEaBI70m_fIi4kdxJNrEFi1XBfjSnBpfP1BRJl6qJcNDVo6qzkNHL-QtYDcYiIvAEA1t2Hn0y7rMEj3H.jpg" tvg-name="Cantinflas" group-title="24/7 Películas",Cantinflas
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrocoYcd9U6pEnAaM9fnDNgk
+
+#EXTINF:-1 tvg-id="" xui-id="243666" tvg-logo="https://purepng.com/public/uploads/large/mario-moreno-cantinflas-png-rgp.png" tvg-name="Cantinflas 3" group-title="24/7 Películas",Cantinflas 3
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOroDT9G66SA14O697fJWC65o
+
+#EXTINF:-1 tvg-id="" xui-id="243667" tvg-logo="https://purepng.com/public/uploads/large/mario-moreno-cantinflas-png-rgp.png" tvg-name="Cantinflas*" group-title="24/7 Películas",Cantinflas*
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrrP1zBSGL50gaPdKXQWHSu5
+
+#EXTINF:-1 tvg-id="" xui-id="243669" tvg-logo="https://logo.iptveditor.com/cineaccion.png" tvg-name="CINE ACCION" group-title="24/7 Películas",CINE ACCION
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrpCdQKhkwE0sxkpid4tuuNQ
+
+#EXTINF:-1 tvg-id="" xui-id="243670" tvg-logo="http://icomplay.net:80/images/NJm04iTE0uSySZl3eddru0dah8gz5teTlMAHcKod3JFhH9iJifVgdcUAsrh18NpP4pqaapq6WLXKcyQqKi-ZC_hr7RlonoswdNQ3RYEuP5ui6C3X86QXpmi5zollndPo9rT_Sf65KHK5F_mm36mGukPoH2dhD53wcX24o-YciE3f0qb94SP2_6BiJXNIbojL.png" tvg-name="Cine Accion 3" group-title="24/7 Películas",Cine Accion 3
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrpChi_S0ynSCIpoad0Y2q6F
+
+#EXTINF:-1 tvg-id="" xui-id="243672" tvg-logo="http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhthE1XcbDQ5_pd08Rj8wc4vZ1lqoDbJvqksRdADUILdmkLB9Gl3a2fywe911JMS41ef2csiW6qkm0hWczShJj5QV7rB1_1o_IpWZURPBqqeKE_6oIfpl-rWz-Ib20ENcQ94fPpk8jmkoCD6qrHVMCaglDr9Egfn6UBz3XlgehvkMa3sPh8RnHBq62uoVHykP_b5JQqHOcwYGKD04I_BZdmvU.png" tvg-name="Cine Comedia 1" group-title="24/7 Películas",Cine Comedia 1
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOroJNaSazKmG4WjnS6UUDt_s
+
+#EXTINF:-1 tvg-id="" xui-id="243674" tvg-logo="http://icomplay.net:80/images/NJm04iTE0uSySZl3eddru0dah8gz5teTlMAHcKod3JFhH9iJifVgdcUAsrh18NpP4pqaapq6WLXKcyQqKi-ZC_hr7RlonoswdNQ3RYEuP5ui6C3X86QXpmi5zollndPo9rT_Sf65KHK5F_mm36mGukPoH2dhD53wcX24o-YciE3f0qb94SP2_6BiJXNIbojL.png" tvg-name="Cine Ficcion/Fantasia Sagas" group-title="24/7 Películas",Cine Ficcion/Fantasia Sagas
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrqpXFtdipikr40GsuvtOhQR
+
+#EXTINF:-1 tvg-id="" xui-id="243675" tvg-logo="http://51.159.211.207:25461/24-7/logo24-7.png" tvg-name="CINE TERROR" group-title="24/7 Películas",CINE TERROR
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOroiPCoIiToQasykCyH8V--R
+
+#EXTINF:-1 tvg-id="" xui-id="243676" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/peliculas-terror-hbo-coronavirus-1584445749.jpg?crop=0.530xw:1.00xh;0.236xw,0&resize=640:*" tvg-name="Cine Terror 3" group-title="24/7 Películas",Cine Terror 3
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrpEuQzdMnB2i_k82FHz3EyI
+
+#EXTINF:-1 tvg-id="" xui-id="243677" tvg-logo="http://51.159.211.207:25461/24-7/logo24-7.png" tvg-name="Cinema Accion 24-7" group-title="24/7 Películas",Cinema Accion 24-7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOroRtq5T0_EZd5ixLeMIkqkK
+
+
+#EXTINF:-1 tvg-id="" xui-id="243678" tvg-logo="http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtgKcLdXF8P234pG3H0dIP7B4pdFQz6JRUUJPAqNUxrfdHy9Cyssw29TtUYnMoT1lHaNf34ARYxWQQXKUU4j_fH63_TiMFOFEWutGOEtP0v9Yb8PDONfLnzlx-GKGLM8GmPUsiQHi6anLVtgwNug_J4p4knkeVn4NM41PYjHnMhl2.png" tvg-name="CINEMA DC COMICS HD" group-title="24/7 Películas",CINEMA DC COMICS HD
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrr32xsrvxYligY5quopX7WO
+
+#EXTINF:-1 tvg-id="" xui-id="243679" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc5zZlk2knZaWQxMafc0OQp5ENt1Y-bzlrZBHBlHzTreXXbUvMWCKD6L5E_aYMsbwkb4Q&usqp=CAU" tvg-name="Cinema DC Universe ⁽ᴴᴰ⁾" group-title="24/7 Películas",Cinema DC Universe ⁽ᴴᴰ⁾
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOroC4mZqGxRpymOebruGCd9z
+
+#EXTINF:-1 tvg-id="" xui-id="243680" tvg-logo="https://i.ya-webdesign.com/images/oixar-coco-png-2.png" tvg-name="CINEMA DISNEY PIXAR 1 HD" group-title="24/7 Películas",CINEMA DISNEY PIXAR 1 HD
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrpWXpYKOFg01VW1O-Jlk3iJ
+
+#EXTINF:-1 tvg-id="" xui-id="243681" tvg-logo="http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtnBlkpJ7tSEGla5xE1f2ZUFd9uduGbF5YzCGgDQohFg6lqNxUDyWWxiySPcmJUS5RM7CitAaoDXb5Ag7ouT0i0b3SmDnz141Via9jCCdPLA5iZEPCI13OhpC0zk7Wl1g2FofcrJE4o_LZm60JYGSDAJ5zWDSRL3GlNYNXUhOw0Ed.png" tvg-name="CINEMA LEGO MOVIES HD" group-title="24/7 Películas",CINEMA LEGO MOVIES HD
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOro0vtbs9d96HxNlhWtn0h8O
+
+#EXTINF:-1 tvg-id="" xui-id="243682" tvg-logo="http://icomplay.net:80/images/NJm04iTE0uSySZl3eddru0dah8gz5teTlMAHcKod3JFhH9iJifVgdcUAsrh18NpP4pqaapq6WLXKcyQqKi-ZC_hr7RlonoswdNQ3RYEuP5ui6C3X86QXpmi5zollndPo9rT_Sf65KHK5F_mm36mGukPoH2dhD53wcX24o-YciE3f0qb94SP2_6BiJXNIbojL.png" tvg-name="COMEDIA TO*HD" group-title="24/7 Películas",COMEDIA TO*HD
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrpQRodWKn_fL1T2whkCOjKo
+
+#EXTINF:-1 tvg-id="" xui-id="262151" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png?resize=696,392&ssl=1" tvg-name="CREPUSCULO" group-title="24/7 Películas",CREPUSCULO
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wr2EzjUxHF5f2xtOQT-CGQvUS3J0jS60V6nf1dD-wKEM
+
+#EXTINF:-1 tvg-id="" xui-id="243685" tvg-logo="https://i.pinimg.com/originals/d0/61/4f/d0614f2031f43c1594c312e2df8381d1.png" tvg-name="Disney Live Action ⁽ᴴᴰ⁾" group-title="24/7 Películas",Disney Live Action ⁽ᴴᴰ⁾
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrorBKAbOv4yUUda7KZYJrGu
+
+#EXTINF:-1 tvg-id="" xui-id="243686" tvg-logo="http://1000marcas.net/wp-content/uploads/2021/04/Disney-Princess-Logo-2008.jpg" tvg-name="Disney Princess ⁽ᴴᴰ⁾" group-title="24/7 Películas",Disney Princess ⁽ᴴᴰ⁾
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrqpGpRKYS3BxgDA3nWSMjJX
+
+#EXTINF:-1 tvg-id="" xui-id="243688" tvg-logo="http://skytvpluzz.xyz:80/images/pq4dUiharjHbJ_yyPLv4lkRiJTiLLry-2ifJAL6xC7A8c6QKr5EeG1L-qZksy16s9Oow1jWeNzpYEkCb7LG9Gkpep8Rf-vafS8Mn2TFXbmE.png" tvg-name="HARRY POTTER 24/7" group-title="24/7 Películas",HARRY POTTER 24/7
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOroHvyKjIjJNMCbd9QWGd1Iu
+
+#EXTINF:-1 tvg-id="" xui-id="243694" tvg-logo="https://i.pinimg.com/originals/ca/12/61/ca126140511710bd58effae0339c3eb6.jpg" tvg-name="PIRATAS DEL CARIBE" group-title="24/7 Películas",PIRATAS DEL CARIBE
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOrobt_6R2RcqABBYDSDdWKsd
+
+#EXTINF:-1 tvg-id="" xui-id="243699" tvg-logo="https://i.imgur.com/jdnHci0.png" tvg-name="TVS RETRO" group-title="24/7 Películas",TVS RETRO
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wtmpYGO_-fwzkPQnK3zEOro6wnTYmVEDDLXzZrF4PPYL
+
+#EXTINF:-1 tvg-id="" xui-id="262146" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/e4fiJmy9YHCpCpQwgWtvv6uoUWb.jpg" tvg-name="Alien Saga" group-title="24/7 Películas",Alien Saga
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wr2EzjUxHF5f2xtOQT-CGQsxBxz-vsLRb_MyePUM-Cs3
+
+#EXTINF:-1 tvg-id="" xui-id="262147" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/bYqTd2nxqwpESH2VAR9LNJ5y3zP.jpg" tvg-name="Arma Mortal 24" group-title="24/7 Películas",Arma Mortal 24
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wr2EzjUxHF5f2xtOQT-CGQvNXQbzI16IaGQ1pf38CH3q
+
+#EXTINF:-1 tvg-id="" xui-id="262148" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png?resize=696,392&ssl=1" tvg-name="Chucky" group-title="24/7 Películas",Chucky
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wr2EzjUxHF5f2xtOQT-CGQsGrGDUE2mJR4Zfo8O1FNbO
+
+#EXTINF:-1 tvg-id="" xui-id="262149" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png?resize=696,392&ssl=1" tvg-name="Rocky" group-title="24/7 Películas",Rocky
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wr2EzjUxHF5f2xtOQT-CGQt9Fv6A1eTkT7W5QuqSUQG3
+
+#EXTINF:-1 tvg-id="" xui-id="262150" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png?resize=696,392&ssl=1" tvg-name="El duende maldito" group-title="24/7 Películas",El duende maldito
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wr2EzjUxHF5f2xtOQT-CGQu0sHuesmi-ePd31YfuUBfn
+
+#EXTINF:-1 tvg-id="" xui-id="262152" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png?resize=696,392&ssl=1" tvg-name="Rapido y furioso" group-title="24/7 Películas",Rapido y furioso
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wr2EzjUxHF5f2xtOQT-CGQvGj-xztZLSLrTsTjzRwThi
+
+#EXTINF:-1 tvg-id="" xui-id="262153" tvg-logo="" tvg-name="CINE 2025" group-title="24/7 Películas",CINE 2025
+https://tv.nube-x.xyz:8443/play/cl-KpRb4lcAJiGsFlJD1wr2EzjUxHF5f2xtOQT-CGQvJeBPR5hf3x_Ra1ziZz86-
 
 
 
@@ -6136,6 +7076,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
