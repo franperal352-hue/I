@@ -363,6 +363,10 @@ https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd?|ref
 #EXTINF:-1 tvg- logo="https://raw.githubusercontent.com/franperal352-hue/I/refs/heads/main/2_20250923_172142_0000.png" group-title="Deportes", Claro Sports 2
 http://190.61.117.35:8000/play/a02n
 
+#EXTINF:-1 tvg- logo=https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Deportes", Claro Sports 3
+http://200.12.41.194:8000/play/a089/index.m3u8
+
+
 
 
 
@@ -8307,6 +8311,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
