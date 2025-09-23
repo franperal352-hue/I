@@ -368,6 +368,9 @@ http://200.12.41.194:8000/play/a089/index.m3u8
 
 
 
+#EXTINF:-1 tvg- logo=https://e7.pngegg.com/pngimages/379/825/png-clipart-logo-sky-sports-premier-league-graphics-premier-league-text-rectangle.png" group-title="Deportes", SKY SPORTS
+http://190.14.10.19:16000/play/a09u/index.m3u8
+
 
 
 
@@ -8312,6 +8315,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
