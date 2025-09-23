@@ -422,10 +422,10 @@ http://planettvweb.com:8091/JavierHndez/AFur2741a/16967
 
 
 #EXTINF:-1,DAZN 1 FHD
-http://planettvweb.com:8091/JavierHndez/AFur2741a/12043
+http://195.66.210.10:80/Cta001/KfTwnUFGRD/33523.m3u8
 
 #EXTINF:-1,DAZN 2 FHD
-http://planettvweb.com:8091/JavierHndez/AFur2741a/11975
+http://195.66.210.10:80/Cta001/KfTwnUFGRD/199536.m3u8
 
 #EXTINF:-1 DAZN 4 FHD
 http://planettvweb.com:8091/JavierHndez/AFur2741a/19995
@@ -433,7 +433,8 @@ http://planettvweb.com:8091/JavierHndez/AFur2741a/19995
 #EXTINF:-1,USA: UFC FIGHT PASS
 http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/9bb343b5-5c9d-4fbf-966e-5e0953f8fbef.m3u
 
-
+#EXTINF:-1, GOL TV
+http://179.63.6.15:8000/play/a014
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -8311,6 +8312,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
