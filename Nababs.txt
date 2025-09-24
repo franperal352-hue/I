@@ -2,6 +2,7 @@
 
 
 
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
 #EXTINF:-1 ch-number="502" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FMEVT.png?raw=true" group-title="Música", Flow Music Eventos
@@ -138,17 +139,6 @@ https://streamlky.alsolnet.com/fmshow
 #KODIPROP:inputstream.adaptive.license_key=695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
 #EXTINF:-1 tvg-id="199#KZO" tvg-name="199#KZO" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjDcEftxHSDqjmbRp_AmsP6jXlMfUUvvrTzRZZbNq-kGf1XhqB795jNAXWnFFEdCJPUMHQjHroAsauEZzGAl-YEmMHUe_aVTCh_08dUrag2ycjSRHL1KqCspurZr_tQF7XZmjjGcWAgJKjIuFCFk2hHpcF1a1KN_RFZHrSyyotJ3Fz8lMYo0vKrs1sx=s336" group-title="Argentina" ch-number="17" type="channel",KZO Entertaiment
 http://francope.elementfx.com/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd?|Origin=https://portal.app.flow.com.ar
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ea5121a9e3552ca221b5ad04f7f9631:0a4c2c76e86f11e71f3365b1b54fcaf9
-#EXTINF:-1 group-title="Argentina" tvg-id="[EXTTV] Extra! TV", tvg-logo="https://i.ibb.co/BLpHBq6/extra.png", EXTRA TV
-#EXTVLCOPT:http-origin=https://www.telecentroplay.com.ar
-http://m.mtd.llc:2082/extratv/index_fkr.mpd?|origin=https://www.telecentroplay.com.ar
-
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -425,6 +415,90 @@ http://francope.elementfx.com/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/
 
 #EXTINF:-1 ch-number="108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Deportes", ESPN Premium 2 CHAMPIONS Y LIBERTADORES 
 http://38.56.113.170:8000/play/a01u/index.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , EVENTOS 1 http://205.235.6.29:8000/play/a0ve/index.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 2 http://38.41.8.1:8000/play/a06r
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 3 http://a4d2f927.amazzin.pw/iptv/LN73B6Q5U2R39M/9289/index.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 4 http://a4d2f927.amazzin.pw/iptv/LN73B6Q5U2R39M/9308/index.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 5 http://a4d2f927.amazzin.pw/iptv/LN73B6Q5U2R39M/7339/index.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 6 http://a4d2f927.amazzin.pw/iptv/LN73B6Q5U2R39M/30063/index.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 7 http://a4d2f927.amazzin.pw/iptv/LN73B6Q5U2R39M/19113/index.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 8 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 9 http://78.130.250.2:8023/play/a02w/index.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 10 http://38.56.113.170:8000/play/a05t/index.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 11 http://38.56.113.170:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 12 http://38.56.113.170:8000/play/a01u/index.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 13 http://38.56.113.170:8000/play/a04f/index.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 14 http://38.56.113.170:8000/play/a06q/index.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 15 http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/10641.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 16 http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/10639.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 17 http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/10640.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 18 http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/8489.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 19 http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/8511.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 20 http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/8130.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 21 http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/9557.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 22 http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/9560.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 23 http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/9561.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 24 http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/9566.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 25 http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/9599.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 26 http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/9601.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 27 http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/9553.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 28 http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200695.ts
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 29 http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200585.ts
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV DEPORTES http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200585.ts
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 30 http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200600.ts
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 31 http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200578.ts
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 32 http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/4336.ts
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 33 http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/1078.ts
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 34 http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/1079.ts
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 35 http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/1027.ts
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 36 http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/1094.ts
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 38 http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/352.ts
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 39 http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3845.ts
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 40
+
+
+
 
 #EXTINF:-1 tvg-id="DAZN EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/2560px-DAZN_F1_logo.svg.png" tvg-name="DAZN" group-title="DEPORTES",DAZN F1
 http://planettvweb.com:8091/JavierHndez/AFur2741a/16967
@@ -8321,6 +8395,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
