@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/miEPG.xml
+
+
+
 #EXTINF:-1 tvg-id="TVG 2" tvg-name="ESPAÑA | TVG2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVG2.png" group-title="ESPAÑA ",ESPAÑA | TVG2
 http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/524155.m3u
 #EXTINF:-1 tvg-id="AndaluciaTV" tvg-name="ESPAÑA | ANDALUCIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/1200px-Andaluc%C3%ADa_TV_2018_logo.svg.png" group-title="ESPAÑA ",ESPAÑA | ANDALUCIA TV
@@ -411,3 +415,4 @@ http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/746015.m3u
 http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/746584.m3u
 #EXTINF:-1 tvg-name="ESPAÑA | CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="ESPAÑA ",ESPAÑA | CGTN Español
 http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/746585.m3u
+
