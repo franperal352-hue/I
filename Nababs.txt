@@ -409,14 +409,18 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_U
 http://planettvweb.com:8091/JavierHndez/AFur2741a/16967
 
 
+#EXTINF:-1 tvg-id="ESPN PREMIUM 2"tvg- logo="https://i.ibb.co/xdZrSq0/espnpremium.png" , ESPN PREMIUM 2 LIBERTADORES CHAMPIONS F1
+http://190.108.89.228:8000/play/a0cy/index.m3u8
+
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 #EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="Deportes" ch-number="110" type="channel",ESPN Premium
 http://francope.elementfx.com/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd?|Origin=https://portal.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xdZrSq0/espnpremium.png" , ESPN PREMIUM 2 LIBERTADORES CHAMPIONS F1
-http://190.108.89.228:8000/play/a0cy/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , EVENTOS 1 
@@ -9126,6 +9130,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
