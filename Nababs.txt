@@ -416,7 +416,7 @@ http://planettvweb.com:8091/JavierHndez/AFur2741a/16967
 http://francope.elementfx.com/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd?|Origin=https://portal.app.flow.com.ar
 
 
-#EXTINF:-1 ch-number="108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Deportes", ESPN Premium 2 CHAMPIONS Y LIBERTADORES 
+#EXTINF:-1,tvg logo="https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Deportes", ESPN Premium 2 CHAMPIONS Y LIBERTADORES 
 http://190.108.89.228:8000/play/a0cy/index.m3u8
 
 
@@ -9127,6 +9127,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
