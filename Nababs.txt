@@ -399,6 +399,11 @@ http://195.66.210.10:80/Cta001/KfTwnUFGRD/33523.m3u8
 #EXTINF:-1,DAZN 2 FHD
 http://195.66.210.10:80/Cta001/KfTwnUFGRD/199536.m3u8
 
+#EXTINF:-1,DAZN 3 FHD
+http://serviciosvisuales.net:80/live/edwinto/4U6gTQh/278213.m3u8
+
+
+
 #EXTINF:-1 DAZN 4 FHD
 http://planettvweb.com:8091/JavierHndez/AFur2741a/19995
 
@@ -8653,6 +8658,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
