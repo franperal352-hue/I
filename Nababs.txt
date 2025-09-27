@@ -451,25 +451,9 @@ http://planettvweb.com:8091/JavierHndez/AFur2741a/16967
 #EXTINF:-1,DAZN MOTO GP
 http://serviciosvisuales.net:80/live/edwinto/4U6gTQh/67526.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/569wj9v/DAZN1.png" group-title="DEPORTES", DAZN 1 ES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/DAZN_5_FHD.png" group-title="DEPORTES", DAZN 1
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/94464
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="DEPORTES", DAZN 1
+http://vipdwzv.top:8080/VIP014521741010038361/96a2bb36708d/247
 
 
 
@@ -489,6 +473,15 @@ http://planettvweb.com:8091/JavierHndez/AFur2741a/19995
 
 #EXTINF:-1,USA: UFC FIGHT PASS
 http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/9bb343b5-5c9d-4fbf-966e-5e0953f8fbef.m3u
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Real_Madrid_TV.png" group-title="DEPORTES", REAL MADRID TV
+http://vipdwzv.top:8080/VIP014521741010038361/96a2bb36708d/724
+
+
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/RallyTv.png" group-title="DEPORTES", RALLY TV
+http://vipdwzv.top:8080/VIP014521741010038361/96a2bb36708d/128955	
+
 
 #EXTINF:-1, GOL TV
 http://179.63.6.15:8000/play/a014
@@ -1401,6 +1394,8 @@ https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.
 https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc/Flow_Music_2.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Resistencia.png" group-title="Música", LA RESISTENCIA
+http://vipdwzv.top:8080/VIP014521741010038361/96a2bb36708d/788
 
 
 
@@ -8738,6 +8733,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
