@@ -334,29 +334,19 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_U
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png.png" ,ESPN+ DEPORTES 
 http://cplay.club:2086/Javier0124/vdXJW9JnXP/38921
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="Deportes" ch-number="110" type="channel",ESPN Premium
-http://francope.elementfx.com/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd?|Origin=https://portal.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="ESPN PREMIUM 2"tvg- logo="https://i.ibb.co/xdZrSq0/espnpremium.png" , ESPN PREMIUM 2 LIBERTADORES CHAMPIONS F1
-http://190.108.89.228:8000/play/a0cy/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Deportes" ch-number="109" type="channel",TNT Sports Premium
-http://francope.elementfx.com/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd?|Origin=https://portal.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=08fe89bb41ac5f4825bbaa358b3458c7:c1ea85d94fb80f64d53747529e488a75
-#EXTINF:-1 ch-number="109" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Deportes", TNT Sports Premium
-https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
 #EXTINF:-1 ch-number="108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Deportes", ESPN Premium
 https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 tvg-id="ESPN PREMIUM 2"tvg- logo="https://i.ibb.co/xdZrSq0/espnpremium.png" , ESPN PREMIUM 2 LIBERTADORES CHAMPIONS F1
+http://190.108.89.228:8000/play/a0cy/index.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=08fe89bb41ac5f4825bbaa358b3458c7:c1ea85d94fb80f64d53747529e488a75
+#EXTINF:-1 ch-number="109" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Deportes", TNT Sports Premium
+https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -8699,6 +8689,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
