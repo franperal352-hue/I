@@ -1,10 +1,30 @@
 #EXTM3U  refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/ar.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/generate/duMu5WNPC9.xml.gz,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,http://francope.elementfx.com/espn/epg.php,https://raw.githubusercontent.com/dvds1151/AR-TV/refs/heads/main/epg/artv-guide.xml,https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/miEPG.xml"
 
+#EXTINF:-1 tvg-id="Canal 9 Snt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/SNT_2013.png/revision/latest?cb=20220908172855&path-prefix=es" group-title="MUNDIAL",SNT Paraguay
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
+https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd?|origin=https://web.app.flow.com.py
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="646700eeb14cadfa0543a20cf413d37e:4fc037c462023764624d8446442cbbca
-#EXTINF:-1 tvg-id="Net TV.ar" tvg-name="Net TV.ar" tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png" group-title="C9N Paraguay" ype="channel",C9N Paraguay
-https://ics-ex.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd
+#EXTINF:-1 tvg-id="Telefuturo" tvg-logo="https://dl.dropbox.com/scl/fi/xnaun7uexdhmd5qsdlztc/telefuturo.png?rlkey=1xxtfxvcnruu45o4y94ot5svd&dl=1" group-title="MUNDIAL",Telefuturo Paraguay
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
+https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd?|origin=https://web.app.flow.com.py
+
+#EXTINF:-1 tvg-id="GenTVPy" tvg-logo="https://dl.dropbox.com/scl/fi/voc1uulutjp06zsd5qs5q/gen-py.png?rlkey=6rqkkc62l9c18y60r7buu4bn4&dl=1" group-title="EVENTOS", Gen TV Paraguay
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd?|origin=https://web.app.flow.com.py
+
+#EXTINF:-1 tvg-id="trece.py" tvg-logo="https://i.ibb.co/bNM6g8N/trecepy.png" group-title="EVENTOS", Trece Paraguay
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
+https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd?|origin=https://web.app.flow.com.py
+
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg" group-title="EVENTOS", Unicanal Paraguay
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
+https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?|origin=https://web.app.flow.com.py
 
 
 
@@ -8667,6 +8687,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
