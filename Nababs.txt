@@ -4,8 +4,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
 #EXTINF:-1 tvg-id="Paraguay" tvg-name="SNT Paraguay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/SNT_2013.png/revision/latest?cb=20220908172855&path-prefix=es" group-title="Paraguay" ch-number="90" type="channel",Canal 9 Snt
-https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NjAyMTY1Iiwic2lwIjoiMTkwLjEyMi4xMzguMjAwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL1RlbGVmZUhEL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjZmM3ZWMxYmM2MDQxZTBlIiwic2Vzc2lvbl9pZCI6IjgzNjYyMDEzLTE3NTg0MjkzNjUtNTgxIiwiY2xpZW50X2lkIjoiNDE1NjE5NSIsImRldmljZV9pZCI6IjgzNjYyMDEzIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.MV83b84TR1aKO0jSJtCKZLgrKJLHyoVz5CSM3VLv0qMqpaZ1uR1ZiUCL3x9Lq0T0MCfPhPH6-cflq3_LxyPbTw==/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd?|Origin=https://portal.app.flow.com.ar
-
+https://edge-live11-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd?|Origin=https://portal.app.flow.com.ar
 
 
 
@@ -8672,6 +8671,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
