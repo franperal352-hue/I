@@ -1,32 +1,5 @@
 #EXTM3U  refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/ar.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/generate/duMu5WNPC9.xml.gz,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,http://francope.elementfx.com/espn/epg.php,https://raw.githubusercontent.com/dvds1151/AR-TV/refs/heads/main/epg/artv-guide.xml,https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/miEPG.xml"
 
-#EXTINF:-1 tvg-id="Canal 9 Snt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/SNT_2013.png/revision/latest?cb=20220908172855&path-prefix=es" group-title="MUNDIAL",SNT Paraguay
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
-https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd?|origin=https://web.app.flow.com.py
-
-#EXTINF:-1 tvg-id="Telefuturo" tvg-logo="https://dl.dropbox.com/scl/fi/xnaun7uexdhmd5qsdlztc/telefuturo.png?rlkey=1xxtfxvcnruu45o4y94ot5svd&dl=1" group-title="MUNDIAL",Telefuturo Paraguay
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
-https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd?|origin=https://web.app.flow.com.py
-
-#EXTINF:-1 tvg-id="GenTVPy" tvg-logo="https://dl.dropbox.com/scl/fi/voc1uulutjp06zsd5qs5q/gen-py.png?rlkey=6rqkkc62l9c18y60r7buu4bn4&dl=1" group-title="EVENTOS", Gen TV Paraguay
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd?|origin=https://web.app.flow.com.py
-
-#EXTINF:-1 tvg-id="trece.py" tvg-logo="https://i.ibb.co/bNM6g8N/trecepy.png" group-title="EVENTOS", Trece Paraguay
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
-https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd?|origin=https://web.app.flow.com.py
-
-#EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg" group-title="EVENTOS", Unicanal Paraguay
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
-https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?|origin=https://web.app.flow.com.py
-
-
 
 #EXTINF:-1,CANAL 12 
 https://g2.vxral-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
@@ -214,13 +187,72 @@ https://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd?|referer=https://player
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/10017/CH_LOGO/600/400/0/0/96357727079072.png" ,Mix TV 
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=mixtv&token=3534067578
 
-
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png" group-title="PARAGUAY", Sur TV.py
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ea5121a9e3552ca221b5ad04f7f9631:0a4c2c76e86f11e71f3365b1b54fcaf9
-#EXTINF:-1 group-title="" tvg-id="", tvg-logo="https://i.ibb.co/BLpHBq6/extra.png", EXTRA TV
-#EXTVLCOPT:http-origin=https://www.telecentroplay.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-http://m.mtd.llc:2082/extratv/index.mpd?|origin=https://www.telecentroplay.com.ar
+#KODIPROP:inputstream.adaptive.license_key=988ae4e8408981609ded9f8b23bbf79d:b867c66791bcad67ee142be1e21c2577
+https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd?|origin=https://web.app.flow.com.py
+
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.popular.com.py/wp-content/themes/popular/images/new-popu-tv-2.png" group-title="PARAGUAY", Popu TV.py
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41ca5477db3048dbf731fc12604c7504:6c7e8e96a86333cbfb4771cbfe9f6b4b
+https://chromecast.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc_C/Universo.mpd?|origin=https://web.app.flow.com.py
+
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png"  group-title="PARAGUAY", Telefuturo.py
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
+https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd?|origin=https://web.app.flow.com.py
+
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png" C9N group-title="PARAGUAY", C9N.py
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=646700eeb14cadfa0543a20cf413d37e:4fc037c462023764624d8446442cbbca
+https://cdn.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd?|origin=https://web.app.flow.com.py
+
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png"  group-title="PARAGUAY", Unicanal.py
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
+https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?|origin=https://web.app.flow.com.py
+
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://grupovierci.brightspotcdn.com/dims4/default/d5c3ad0/2147483647/strip/true/crop/1665x1152+0+0/resize/400x277!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F62%2F0d%2F757573ac4c0bba7301c7a61a424d%2Flogo-latele.png"  group-title="PARAGUAY", latele.py
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c6a481adf6a080ec09637d3f25989cf:036e343d636b821ab81838de387b62cb
+https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd?|origin=https://web.app.flow.com.py
+
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png"  group-title="PARAGUAY", NTPY.py
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f66fe15735b2b1b3d5eb3646caa405e:404b93fd7b499b1061c9a714e1cdb2d0
+https://chromecast.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd?|origin=https://web.app.flow.com.py
+
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png"  group-title="PARAGUAY", Paraguay TV.py
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68a5bd6c58e6c05bacfd18d3feec31f2:ae23f8357512df2dfabcb8104b078182
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://chromecast.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd?|origin=https://web.app.flow.com.py
+
+#EXTINF:-1 tvg-id="Paravision.py" tvg-name=""  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png"  group-title="PARAGUAY", PARAVISION.py
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd8e8c9b32ef027e8ff4ff0cfce855a4:2918e9893b570c3fa1f215b52a12cc91
+https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd?|origin=https://web.app.flow.com.py
+
+#EXTINF:-1  group-logo="https://png.pngtree.com/png-clipart/20230220/ourmid/pngtree-paraguay-flag-pin-badge-png-image_6610303.png"  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/01/Canal-Trece-Paraguay-en-vivo-Online-1.png"   group-title="PARAGUAY", El Trece.py
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
+https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd?|origin=https://web.app.flow.com.py
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg" group-title="PARAGUAY", MEGA TV.py
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80196dfcb7852e2b5e1165b3b17030e1:58face97c908502f17549eb62459bd80
+https://cdn.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd?|origin=https://web.app.flow.com.py
+
+#EXTINF:-1 tvg-id="" tvg-name="SNT.py"  tvg-logo="https://www.snt.com.py/wp-content/themes/albavision-theme/parts-web/0aae71cf/logo.png"  group-title="PARAGUAY", , SNT.py
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
+https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd?|origin=https://web.app.flow.com.py
+
+#EXTINF:-1 tvg-id="GEN.py" tvg-name=""  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png"  group-title="PARAGUAY", GEN.py
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
+https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd?|origin=https://web.app.flow.com.py
+
 
 
 
@@ -8689,6 +8721,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
