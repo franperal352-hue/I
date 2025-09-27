@@ -1,5 +1,18 @@
 #EXTM3U  refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/ar.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/generate/duMu5WNPC9.xml.gz,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,http://francope.elementfx.com/espn/epg.php,https://raw.githubusercontent.com/dvds1151/AR-TV/refs/heads/main/epg/artv-guide.xml,https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/miEPG.xml"
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
+#EXTINF:-1 tvg-id="Paraguay" tvg-name="SNT Paraguay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/SNT_2013.png/revision/latest?cb=20220908172855&path-prefix=es" group-title="Paraguay" ch-number="90" type="channel",Canal 9 Snt
+https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NjAyMTY1Iiwic2lwIjoiMTkwLjEyMi4xMzguMjAwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL1RlbGVmZUhEL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjZmM3ZWMxYmM2MDQxZTBlIiwic2Vzc2lvbl9pZCI6IjgzNjYyMDEzLTE3NTg0MjkzNjUtNTgxIiwiY2xpZW50X2lkIjoiNDE1NjE5NSIsImRldmljZV9pZCI6IjgzNjYyMDEzIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.MV83b84TR1aKO0jSJtCKZLgrKJLHyoVz5CSM3VLv0qMqpaZ1uR1ZiUCL3x9Lq0T0MCfPhPH6-cflq3_LxyPbTw==/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd?|Origin=https://portal.app.flow.com.ar
+
+
+
+
+
+
+
+
 #EXTINF:-1,CANAL 12 
 https://g2.vxral-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
 
@@ -329,6 +342,7 @@ https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd?|referer=https://pla
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 #EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="Deportes" ch-number="110" type="channel",ESPN Premium
 http://francope.elementfx.com/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd?|Origin=https://portal.app.flow.com.ar
+
 
 
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-name="TyC Sports.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="ARGENTINA FULL" ch-number="114" type="channel",TyC Sports
@@ -8658,6 +8672,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
