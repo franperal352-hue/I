@@ -419,6 +419,8 @@ http://planettvweb.com:8091/JavierHndez/AFur2741a/16967
 #EXTINF:-1,DAZN MOTO GP
 http://serviciosvisuales.net:80/live/edwinto/4U6gTQh/67526.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/DAZN_5_FHD.png" group-title="DEPORTES", DAZN 1
+http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/94464
 
 
 
@@ -8687,6 +8689,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
