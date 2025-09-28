@@ -403,8 +403,22 @@ http://francope.elementfx.com/tycsportsplay/tyc.php?mode=play&channel=TyCInterna
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="DSPORTS", DSPORTS
 http://172.93.102.112:8989/279390_.m3u8
 
+
+#EXTINF:-1,tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="DSPORTS", DSPORTS OP2
+http://181.78.106.127:9000/play/ca026/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1751613120479" tvg-name="DIRECTVSPORT" group-title="DEPORTES",DSPORTS 2 DIRECTV
 http://serviciosvisuales.net:80/edwinto/4U6gTQh/192358
+
+#EXTINF:-1, DSPORTS 2 🇦🇷
+http://181.78.106.127:9000/play/ca026/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://raw.githubusercontent.com/franperal352-hue/I/refs/heads/main/DSports_%2B_2022.png" tvg-name="DIRECTVSPORT" group-title="DEPORTES",DSPORTS+ DIRECTV
@@ -8733,6 +8747,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
