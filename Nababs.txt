@@ -493,6 +493,18 @@ http://201.217.246.177:8000/play/a02s/index.m3u8
 https://cdn.sensa.com.ar/bpk-tv/SenalEventos/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
+EXTINF:-1 tvg-id="" tvg-name="D SPORTS HD (Arg)" tvg-logo="https://i.postimg.cc/05KHcNMm/DIRECTV-1.jpg" group-title="DEPORTES",DSPORTS HD (Arg)
+http://mastvapp.com:80/live/Jimmy1/Jimmy1/73c9d55c-5599-4c78-afd8-fcf055ddf88f.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="D SPORTS 2 HD (Arg)" tvg-logo="https://i.postimg.cc/k4zYq0ZB/DIRECTV-2.jpg" group-title="DEPORTES",DSPORTS 2 HD (Arg)
+http://mastvapp.com:80/live/Jimmy1/Jimmy1/14837c4b-eff1-4e2d-96fb-ad95939c3ac3.m3u
+
+
+#EXTINF:-1 tvg-id="" tvg-name="D SPORTS + HD (Arg)" tvg-logo="https://i.postimg.cc/BQW7yGHz/DIRECTV-MAS.jpg" group-title="DEPORTES",DSPORTS + HD (Arg)
+http://mastvapp.com:80/live/Jimmy1/Jimmy1/c8da34fe-c08c-4c77-8fb6-50243ed605f8.m3u
+
+
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="DSPORTS", DSPORTS
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
@@ -512,11 +524,11 @@ http://200.60.41.205:8000/play/a09a
 
 
 
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1751613120479" tvg-name="DIRECTVSPORT" group-title="DEPORTES",DSPORTS 2 DIRECTV
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1751613120479" tvg-name="DIRECTVSPORT" group-title="DEPORTES",DSPORTS 2 DIRECTV OP2
 http://serviciosvisuales.net:80/edwinto/4U6gTQh/192358
 
 
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://raw.githubusercontent.com/franperal352-hue/I/refs/heads/main/DSports_%2B_2022.png" tvg-name="DIRECTVSPORT" group-title="DEPORTES",DSPORTS+ DIRECTV
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://raw.githubusercontent.com/franperal352-hue/I/refs/heads/main/DSports_%2B_2022.png" tvg-name="DIRECTVSPORT" group-title="DEPORTES",DSPORTS+ DIRECTV OP2
 http://38.199.6.1:17001/play/a0vx/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -9041,6 +9053,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
