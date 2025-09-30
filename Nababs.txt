@@ -493,7 +493,7 @@ http://201.217.246.177:8000/play/a02s/index.m3u8
 https://cdn.sensa.com.ar/bpk-tv/SenalEventos/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
-EXTINF:-1 tvg-id="" tvg-name="D SPORTS HD (Arg)" tvg-logo="https://i.postimg.cc/05KHcNMm/DIRECTV-1.jpg" group-title="DEPORTES",DSPORTS HD (Arg)
+EXTINF:-1 tvg-logo="https://i.postimg.cc/05KHcNMm/DIRECTV-1.jpg" group-title="DEPORTES",DSPORTS HD (Arg)
 http://fultv.me:80/yuri/12345/45963
 
 #EXTINF:-1 tvg-id="" tvg-name="D SPORTS 2 HD (Arg)" tvg-logo="https://i.postimg.cc/k4zYq0ZB/DIRECTV-2.jpg" group-title="DEPORTES",DSPORTS 2 HD (Arg)
@@ -9053,6 +9053,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
