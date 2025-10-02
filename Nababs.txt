@@ -931,6 +931,24 @@ https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd?|referer=h
 https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
+ANIME ONEGAI TV PLUS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ANIME - TEEN", ANIME ONEGAI TV PLUS 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ANIME - TEEN", ANIME ONEGAI TV PLUS 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ANIME - TEEN", ANIME ONEGAI TV PLUS 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ANIME - TEEN", ANIME ONEGAI TV PLUS 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
+
+
+
+
 cine, novelas y series (300xx)
 
 
@@ -8986,6 +9004,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
