@@ -698,201 +698,120 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_U
 #EXTINF:-1 ch-number="143" tvg-id="Eventos3.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Deportes", Eventos 3
 https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 1" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 1
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/4ad94a33-b121-4711-9400-09c77efec227.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 2" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 2
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/755367cf-cbc6-4a2c-bfb4-1352dc3fee41.m3u
+#EXTINF:-1 tvg-name="DISNEY 1" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 1
+http://mastvapp.com:80/live/yuri/12345/4ad94a33-b121-4711-9400-09c77efec227.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 3" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 3
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/a9434fb8-4d4e-4b7d-9b75-9a090763706a.m3u
+#EXTINF:-1 tvg-name="DISNEY 2" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 2
+http://mastvapp.com:80/live/yuri/12345/755367cf-cbc6-4a2c-bfb4-1352dc3fee41.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 4" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 4
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/ba80993a-487e-4d55-a1fb-a8ace7c4df44.m3u
+#EXTINF:-1 tvg-name="DISNEY 3" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 3
+http://mastvapp.com:80/live/yuri/12345/a9434fb8-4d4e-4b7d-9b75-9a090763706a.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 5" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 5
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/0af3e57a-d472-42a4-a4c8-05a503fa0701.m3u
+#EXTINF:-1 tvg-name="DISNEY 4" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 4
+http://mastvapp.com:80/live/yuri/12345/ba80993a-487e-4d55-a1fb-a8ace7c4df44.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 6" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 6
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/eec1c872-f2f7-4c67-99af-e13fda57c8bd.m3u
+#EXTINF:-1 tvg-name="DISNEY 5" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 5
+http://mastvapp.com:80/live/yuri/12345/0af3e57a-d472-42a4-a4c8-05a503fa0701.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 7" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 7
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/a7ce5870-d4bb-4202-a9f0-587a71fce5e4.m3u
+#EXTINF:-1 tvg-name="DISNEY 6" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 6
+http://mastvapp.com:80/live/yuri/12345/eec1c872-f2f7-4c67-99af-e13fda57c8bd.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 8" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 8
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/945dcb9c-a882-40ba-be45-8b7f9d608b6d.m3u
+#EXTINF:-1 tvg-name="DISNEY 7" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 7
+http://mastvapp.com:80/live/yuri/12345/a7ce5870-d4bb-4202-a9f0-587a71fce5e4.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 9" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 9
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/dbf4686c-4c1e-4c73-993d-5094654795c0.m3u
+#EXTINF:-1 tvg-name="DISNEY 8" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 8
+http://mastvapp.com:80/live/yuri/12345/945dcb9c-a882-40ba-be45-8b7f9d608b6d.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 10" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 10
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/e0052d3f-de29-4052-bdec-dcc1d7a07281.m3u
+#EXTINF:-1 tvg-name="DISNEY 9" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 9
+http://mastvapp.com:80/live/yuri/12345/dbf4686c-4c1e-4c73-993d-5094654795c0.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 11" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 11
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/1cb985ba-dfa7-481a-8ade-0485feba0f14.m3u
+#EXTINF:-1 tvg-name="DISNEY 10" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 10
+http://mastvapp.com:80/live/yuri/12345/e0052d3f-de29-4052-bdec-dcc1d7a07281.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 12" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 12
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/b2c0d53f-fe73-4dd1-8af2-4c3ed28d919d.m3u
+#EXTINF:-1 tvg-name="DISNEY 11" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 11
+http://mastvapp.com:80/live/yuri/12345/1cb985ba-dfa7-481a-8ade-0485feba0f14.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 13" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 13
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/2944c6e0-4973-4bba-9a31-51bd2f833069.m3u
+#EXTINF:-1 tvg-name="DISNEY 12" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 12
+http://mastvapp.com:80/live/yuri/12345/b2c0d53f-fe73-4dd1-8af2-4c3ed28d919d.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 14" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 14
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/fa5c15a0-61bc-4628-8ebf-63e40b242e53.m3u
+#EXTINF:-1 tvg-name="DISNEY 13" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 13
+http://mastvapp.com:80/live/yuri/12345/2944c6e0-4973-4bba-9a31-51bd2f833069.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 15" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 15
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/bb993b52-f9b2-4dd0-a839-e248108ea2fe.m3u
+#EXTINF:-1 tvg-name="DISNEY 14" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 14
+http://mastvapp.com:80/live/yuri/12345/fa5c15a0-61bc-4628-8ebf-63e40b242e53.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 16" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 16
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/4461941f-d49e-47c1-b4a9-4a3a72a520ab.m3u
+#EXTINF:-1 tvg-name="DISNEY 15" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 15
+http://mastvapp.com:80/live/yuri/12345/bb993b52-f9b2-4dd0-a839-e248108ea2fe.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 17" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 17
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/c5224e42-e172-480f-aea4-774e75a13c14.m3u
+#EXTINF:-1 tvg-name="DISNEY 16" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 16
+http://mastvapp.com:80/live/yuri/12345/4461941f-d49e-47c1-b4a9-4a3a72a520ab.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 18" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 18
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/79b9a1c1-270c-495e-b2bc-08568ddd125f.m3u
+#EXTINF:-1 tvg-name="DISNEY 17" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 17
+http://mastvapp.com:80/live/yuri/12345/c5224e42-e172-480f-aea4-774e75a13c14.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 19" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 19
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/df87fd21-98cb-4820-b743-01317a08f208.m3u
+#EXTINF:-1 tvg-name="DISNEY 18" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 18
+http://mastvapp.com:80/live/yuri/12345/79b9a1c1-270c-495e-b2bc-08568ddd125f.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 20" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 20
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/ce05c973-92e3-481b-aa77-32fe1a4ad286.m3u
+#EXTINF:-1 tvg-name="DISNEY 19" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 19
+http://mastvapp.com:80/live/yuri/12345/df87fd21-98cb-4820-b743-01317a08f208.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 21" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 21
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/250019d8-6088-4311-9961-0525577e8a99.m3u
+#EXTINF:-1 tvg-name="DISNEY 20" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 20
+http://mastvapp.com:80/live/yuri/12345/ce05c973-92e3-481b-aa77-32fe1a4ad286.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS PPV 1" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 1
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/a71fcefc-e019-4a4b-b517-92f7a8578990.m3u
+#EXTINF:-1 tvg-name="DISNEY 21" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 21
+http://mastvapp.com:80/live/yuri/12345/250019d8-6088-4311-9961-0525577e8a99.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS PPV 2" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 2
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/7c9d81fa-75db-4533-8b24-72b245677081.m3u
+#EXTINF:-1 tvg-name="EVENTOS PPV 1" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 1
+http://mastvapp.com:80/live/yuri/12345/a71fcefc-e019-4a4b-b517-92f7a8578990.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS PPV 3" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 3
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/9442832f-a18d-4c49-9885-2dbd9b77f792.m3u
+#EXTINF:-1 tvg-name="EVENTOS PPV 2" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 2
+http://mastvapp.com:80/live/yuri/12345/7c9d81fa-75db-4533-8b24-72b245677081.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS PPV 4" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 4
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/cb3534e7-d7fd-427b-8600-a85f76040cbb.m3u
+#EXTINF:-1 tvg-name="EVENTOS PPV 3" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 3
+http://mastvapp.com:80/live/yuri/12345/9442832f-a18d-4c49-9885-2dbd9b77f792.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS PPV 5" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 5
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/6b60683a-03ff-42ac-b173-25b7338704ff.m3u
+#EXTINF:-1 tvg-name="EVENTOS PPV 4" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 4
+http://mastvapp.com:80/live/yuri/12345/cb3534e7-d7fd-427b-8600-a85f76040cbb.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="X-MLS SEASON PASS" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JL5JsNJ_E_9J-v00U8mWd7oKWiXUpTrZgh134nLXHywy.png" group-title="EVENTOS DEPORTIVOS",X-MLS SEASON PASS
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/70b59717-b646-4ebb-8ade-e5efb848b793.m3u
+#EXTINF:-1 tvg-name="EVENTOS PPV 5" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 5
+http://mastvapp.com:80/live/yuri/12345/6b60683a-03ff-42ac-b173-25b7338704ff.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="X-MLS SEASON PASS 2" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JL5JsNJ_E_9J-v00U8mWd7oKWiXUpTrZgh134nLXHywy.png" group-title="EVENTOS DEPORTIVOS",X-MLS SEASON PASS 2
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/e8ec98bb-c977-4ff8-b4cc-02dd658a9433.m3u
+#EXTINF:-1 tvg-name="X-MLS SEASON PASS" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JL5JsNJ_E_9J-v00U8mWd7oKWiXUpTrZgh134nLXHywy.png" group-title="EVENTOS DEPORTIVOS",X-MLS SEASON PASS
+http://mastvapp.com:80/live/yuri/12345/70b59717-b646-4ebb-8ade-e5efb848b793.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 Solo EVENTOS" tvg-logo="https://i.postimg.cc/nVqH0wXB/FORMULA-1.jpg" group-title="EVENTOS DEPORTIVOS",FORMULA 1 Solo EVENTOS
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/f6915181-6f66-41b8-8003-1bfa43fed324.m3u
+#EXTINF:-1 tvg-name="X-MLS SEASON PASS 2" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JL5JsNJ_E_9J-v00U8mWd7oKWiXUpTrZgh134nLXHywy.png" group-title="EVENTOS DEPORTIVOS",X-MLS SEASON PASS 2
+http://mastvapp.com:80/live/yuri/12345/e8ec98bb-c977-4ff8-b4cc-02dd658a9433.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="BASQUET 1 - NBA Eventos" tvg-logo="https://i.postimg.cc/SNmPb6hM/NBAEVENTOS.png" group-title="EVENTOS DEPORTIVOS",BASQUET 1 - NBA Eventos
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/0688ff53-4dee-48ca-9e2f-3a79e2fd74c6.m3u
+#EXTINF:-1 tvg-name="FORMULA 1 Solo EVENTOS" tvg-logo="https://i.postimg.cc/nVqH0wXB/FORMULA-1.jpg" group-title="EVENTOS DEPORTIVOS",FORMULA 1 Solo EVENTOS
+http://mastvapp.com:80/live/yuri/12345/f6915181-6f66-41b8-8003-1bfa43fed324.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="BASQUET 2 - LIBOBASQUET" tvg-logo="https://i.postimg.cc/NF9H3M04/basquetpass.png" group-title="EVENTOS DEPORTIVOS",BASQUET 2 - LIBOBASQUET
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/42315b3f-9d8b-4a9c-a1d0-64a5038d516d.m3u
+#EXTINF:-1 tvg-name="BASQUET 1 - NBA Eventos" tvg-logo="https://i.postimg.cc/SNmPb6hM/NBAEVENTOS.png" group-title="EVENTOS DEPORTIVOS",BASQUET 1 - NBA Eventos
+http://mastvapp.com:80/live/yuri/12345/0688ff53-4dee-48ca-9e2f-3a79e2fd74c6.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="UFC 1 (Solo Eventos)" tvg-logo="https://i.postimg.cc/15ZCHr8c/ufc.png" group-title="EVENTOS DEPORTIVOS",UFC 1 (Solo Eventos)
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/a75760a4-dd38-4ae6-b82a-6a6953ee136f.m3u
+#EXTINF:-1 tvg-name="BASQUET 2 - LIBOBASQUET" tvg-logo="https://i.postimg.cc/NF9H3M04/basquetpass.png" group-title="EVENTOS DEPORTIVOS",BASQUET 2 - LIBOBASQUET
+http://mastvapp.com:80/live/yuri/12345/42315b3f-9d8b-4a9c-a1d0-64a5038d516d.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK Solo EVENTOS 1" tvg-logo="https://i.postimg.cc/C51NzSxB/WWE.png" group-title="EVENTOS DEPORTIVOS",WWE NETWORK Solo EVENTOS 1
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/f0fe0a23-9308-45c4-9cc8-a25acdb9e451.m3u
+#EXTINF:-1 tvg-name="UFC 1 (Solo Eventos)" tvg-logo="https://i.postimg.cc/15ZCHr8c/ufc.png" group-title="EVENTOS DEPORTIVOS",UFC 1 (Solo Eventos)
+http://mastvapp.com:80/live/yuri/12345/a75760a4-dd38-4ae6-b82a-6a6953ee136f.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="UFC 2 (Solo Eventos)" tvg-logo="https://i.postimg.cc/C5C4t9RC/ufc2.png" group-title="EVENTOS DEPORTIVOS",UFC 2 (Solo Eventos)
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/6106241a-7c4c-461f-a313-f8b18a65faea.m3u
+#EXTINF:-1 tvg-name="WWE NETWORK Solo EVENTOS 1" tvg-logo="https://i.postimg.cc/C51NzSxB/WWE.png" group-title="EVENTOS DEPORTIVOS",WWE NETWORK Solo EVENTOS 1
+http://mastvapp.com:80/live/yuri/12345/f0fe0a23-9308-45c4-9cc8-a25acdb9e451.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="RALLY TV - WRC" tvg-logo="https://i.postimg.cc/QxwHzQmS/RALLYTV.png" group-title="EVENTOS DEPORTIVOS",RALLY TV - WRC
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/89602cf5-5164-4dd2-b953-5fb816ef8f8e.m3u
+#EXTINF:-1 tvg-name="UFC 2 (Solo Eventos)" tvg-logo="https://i.postimg.cc/C5C4t9RC/ufc2.png" group-title="EVENTOS DEPORTIVOS",UFC 2 (Solo Eventos)
+http://mastvapp.com:80/live/yuri/12345/6106241a-7c4c-461f-a313-f8b18a65faea.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name=".EVENTO 1" tvg-logo="" group-title="EVENTOS DEPORTIVOS",.EVENTO 1
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/6bf903d7-9661-4bfb-ab88-40cf9dfa989c.m3u
+#EXTINF:-1 tvg-name="RALLY TV - WRC" tvg-logo="https://i.postimg.cc/QxwHzQmS/RALLYTV.png" group-title="EVENTOS DEPORTIVOS",RALLY TV - WRC
+http://mastvapp.com:80/live/yuri/12345/89602cf5-5164-4dd2-b953-5fb816ef8f8e.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name=".EVENTO 2" tvg-logo="" group-title="EVENTOS DEPORTIVOS",.EVENTO 2
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/c4dca060-4961-43e4-bd96-25ddd071b891.m3u
+#EXTINF:-1 tvg-name=".EVENTO 1" group-title="EVENTOS DEPORTIVOS",.EVENTO 1
+http://mastvapp.com:80/live/yuri/12345/6bf903d7-9661-4bfb-ab88-40cf9dfa989c.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name=".EVENTO 3" tvg-logo="" group-title="EVENTOS DEPORTIVOS",.EVENTO 3
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/b25d0296-885c-4324-ae27-1aac8eef5112.m3u
+#EXTINF:-1 tvg-name=".EVENTO 2" group-title="EVENTOS DEPORTIVOS",.EVENTO 2
+http://mastvapp.com:80/live/yuri/12345/c4dca060-4961-43e4-bd96-25ddd071b891.m3u
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-name=".EVENTO 3" group-title="EVENTOS DEPORTIVOS",.EVENTO 3
+http://mastvapp.com:80/live/yuri/12345/b25d0296-885c-4324-ae27-1aac8eef5112.m3u
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -9091,6 +9010,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
