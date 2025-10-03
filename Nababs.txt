@@ -268,6 +268,47 @@ https://cdn.sensa.com.ar/bpk-tv/Argentinisima/default/index.mpd?|referer=https:/
 https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
+#EXTINF:-1   group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://television-libre.online/img/genpy.png" group-title="CANALES FLOW"  ,GenTV Paraguay
+https://chromecast.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c6a481adf6a080ec09637d3f25989cf:036e343d636b821ab81838de387b62cb
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ltlcolor.png/1200px-Ltlcolor.png" group-title="CANALES FLOW"  ,LaTeleParaguay
+https://chromecast.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f66fe15735b2b1b3d5eb3646caa405e:404b93fd7b499b1061c9a714e1cdb2d0
+#EXTINF:-1   group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/NPY_Logo2023.png" group-title="CANALES FLOW"  ,NoticiasParaguay
+https://chromecast.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68a5bd6c58e6c05bacfd18d3feec31f2:ae23f8357512df2dfabcb8104b078182
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png" group-title="CANALES FLOW"  ,Paraguay TV
+https://chromecast.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc_2A/Paraguay_TV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd8e8c9b32ef027e8ff4ff0cfce855a4:2918e9893b570c3fa1f215b52a12cc91
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Paravision.jpg" group-title="CANALES FLOW"   ,ParavisionParaguay
+https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png" group-title="CANALES FLOW"  ,SNTParaguay
+https://chromecast.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TelefuturoLogo2022.png" group-title="CANALES FLOW"   ,Telefuturo Paraguay
+https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd
+
+
+
 deportes (100xx)
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -9030,6 +9071,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
