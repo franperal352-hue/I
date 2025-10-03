@@ -169,6 +169,15 @@ https://stitcher.pluto.tv/stitch/hls/channel/613237a1c9e0db0007a91350/master.m3u
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="Eltrece" tvg-logo="https://static.flow.com.ar/images/75/CH_LOGO/60/40/0/0/59037504071341.png" group-title="Argentina TV" type="channel",  El Trece
 http://200.80.230.123:8000/play/a06d/index.m3u8
 
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e1327b5b1f4dfe767aec622c9ef64ce:60c64a922af0121bf73261c825e33f18
+#EXTINF:-1 tvg-id="MIX TV" tvg-name="MIX TV" tvg-logo="https://static.flow.com.ar/images/10017/CH_LOGO/600/400/0/0/96357727079072.png" group-title="🇦🇷 SERVIDOR FLOW 2 🇦🇷"      ch-number="18" type="channel",Mix TV
+https://cdn.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_C/MixTV.mpd
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
 #EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/7457/CH_LOGO/60/40/0/0/96867739074646.png" group-title="CANALES FLOW"  ,Net TV
@@ -9021,6 +9030,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
