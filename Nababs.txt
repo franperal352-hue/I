@@ -314,6 +314,10 @@ https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEF
 #EXTINF:-1 tvg-id="Univeso Tv" tvg-name="Univeso Tv" tvg-logo="https://www.popular.com.py/wp-content/themes/popular/images/new-popu-tv.png" group-title="🇦🇷 SERVIDOR FLOW 2 🇦🇷"      ch-number="96" type="channel",Popu TV Paraguay
 https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd
 
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/49/3e/493e7428-f8e3-4372-9c4b-908792723aa6.jpg" group-title="PARAGUAY", FARRA TV 
+http://playtv44.com:8080/981518903/123456/384231
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0bef75733b2645452432bd4e76f36f5:ea16243367d814c1d53f1eaf21f005ff
@@ -321,15 +325,8 @@ https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd
 https://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd
 
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/49/3e/493e7428-f8e3-4372-9c4b-908792723aa6.jpg" FARRA TV 
-http://playtv44.com:8080/981518903/123456/384231
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3OhwisfLNLoewQ4Wx2j8GSlJWwPf4S8m9rRmrnTBCdhV_O8cErjF8i3LZ&s=10" MOTORSUR PY SATELITAL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3OhwisfLNLoewQ4Wx2j8GSlJWwPf4S8m9rRmrnTBCdhV_O8cErjF8i3LZ&s=10" group-title="PARAGUAY", MOTORSUR PY SATELITAL
 http://playtv44.com:8080/981518903/123456/384232
-
 
 
 deportes (100xx)
@@ -9094,6 +9091,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
