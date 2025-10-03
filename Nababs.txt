@@ -309,6 +309,12 @@ https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEF
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=41ca5477db3048dbf731fc12604c7504:6c7e8e96a86333cbfb4771cbfe9f6b4b
+#EXTINF:-1 tvg-id="Univeso Tv" tvg-name="Univeso Tv" tvg-logo="https://www.popular.com.py/wp-content/themes/popular/images/new-popu-tv.png" group-title="🇦🇷 SERVIDOR FLOW 2 🇦🇷"      ch-number="96" type="channel",Popu TV Paraguay
+https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd
+
+
 deportes (100xx)
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -9071,6 +9077,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
