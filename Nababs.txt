@@ -327,7 +327,7 @@ http://playtv44.com:8080/981518903/123456/384231
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_qNRd_JGsotqOhc3JewaKVgKnwRQEE_rJMVY39pp72g&s=10" MOTORSUR PY SATELITAL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3OhwisfLNLoewQ4Wx2j8GSlJWwPf4S8m9rRmrnTBCdhV_O8cErjF8i3LZ&s=10" MOTORSUR PY SATELITAL
 http://playtv44.com:8080/981518903/123456/384232
 
 
@@ -9094,6 +9094,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
