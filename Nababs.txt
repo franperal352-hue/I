@@ -700,7 +700,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.
 
 
 #EXTINF:-1 tvg-name="DISNEY 1" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 1
-http://mastvapp.com:80/live/yuri/12345/4ad94a33-b121-4711-9400-09c77efec227.m3u
+http://fultv.me:80/yuri/12345/48824
 
 #EXTINF:-1 tvg-name="DISNEY 2" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 2
 http://mastvapp.com:80/live/yuri/12345/755367cf-cbc6-4a2c-bfb4-1352dc3fee41.m3u
@@ -9010,6 +9010,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
