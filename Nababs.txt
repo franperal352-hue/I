@@ -608,6 +608,11 @@ http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/9bb343b5-5c9d-4fbf-96
 http://vipdwzv.top:8080/VIP014521741010038361/96a2bb36708d/724
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRcR36Ge_99-X91OT3gdWloyA4HvjY1lUbBMdo_bdNdQ&s=10"  group-title="DEPORTES", SKY LA LIGA ESP
+http://190.14.10.19:16000/play/a09u/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/RallyTv.png" group-title="DEPORTES", RALLY TV
 http://vipdwzv.top:8080/VIP014521741010038361/96a2bb36708d/128955	
@@ -9191,6 +9196,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
