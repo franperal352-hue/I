@@ -317,10 +317,12 @@ https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RevGear/logo/master/Countries/PY/Farra-Play.png" group-title="PARAGUAY", FARRA TV 
 http://159.203.148.226/live/farra.m3u8
 
+#EXTINF:-1 tvg-
 logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Mix_TV_logo.svg" group-title="CHILE", MIX TV CHILE MUSIC
 http://38.252.213.12:8000/play/a01t
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCiO9nfEkXHhX0bteaexZt56g8sp0jc9J7A&s" group-title="CHILE", EXA TV CHILE MUSIC
+http://190.14.10.19:16000/play/a06j/index.m3u8
 
 
 
@@ -9189,6 +9191,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
