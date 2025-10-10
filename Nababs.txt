@@ -1268,7 +1268,7 @@ http://francope.elementfx.com/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6
 #EXTINF:-1 tvg-id="HBO POP HD.uy" tvg-name="HBO Pop" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPP.png?raw=true" group-title="Cine, Novelas y Series" ch-number="324" type="channel",HBO Pop
-http://francope.elementfx.com/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd?|Origin=https://portal.app.flow.com.ar
+http://138.99.179.229:8000/play/a0pq/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e866499fbc1149f49989672075aa3a68:d2dd5c95623c6343240981c2202fc311
@@ -9196,6 +9196,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
