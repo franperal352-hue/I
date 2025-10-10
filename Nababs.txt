@@ -733,6 +733,25 @@ https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_U
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e54e9ea87a634658fbba0e380aa701a7:4e486d25d7d0e7d131743b285963c643
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/543/CH_LOGO/60/40/0/0/13690842071359.png" group-title="CANALES FLOW"  ,Eventos 2 AR SOLO EVENTOS 
+https://chromecast.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_C/Eventos_2_HD.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=87bfded2bdfbd3ad9dce4d30b2739fd1:e80b0d66d60fa0a2d24d8b36055a6fef
 #EXTINF:-1 ch-number="142" tvg-id="Eventos2.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Deportes", Eventos 2
 https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_UY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -743,112 +762,112 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_U
 #EXTINF:-1 ch-number="143" tvg-id="Eventos3.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Deportes", Eventos 3
 https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-#EXTINF: -1 tvg-id="48824" tvg-name="DISNEY 1" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 1
+#EXTINF: -1 tvg-id="48824" tvg-name="DISNEY 1" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 1 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/48824
 
-#EXTINF: -1 tvg-id="48825" tvg-name="DISNEY 2" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 2
+#EXTINF: -1 tvg-id="48825" tvg-name="DISNEY 2" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 2 SOLO EVENTOS 
 http://fultv.me:80/yuri/12345/48825
 
-#EXTINF: -1 tvg-id="48826" tvg-name="DISNEY 3" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 3
+#EXTINF: -1 tvg-id="48826" tvg-name="DISNEY 3" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 3 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/48826
 
-#EXTINF: -1 tvg-id="48827" tvg-name="DISNEY 4" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 4
+#EXTINF: -1 tvg-id="48827" tvg-name="DISNEY 4" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 4 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/48827
 
-#EXTINF: -1 tvg-id="48828" tvg-name="DISNEY 5" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 5
+#EXTINF: -1 tvg-id="48828" tvg-name="DISNEY 5" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 5 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/48828
 
-#EXTINF: -1 tvg-id="61087" tvg-name="DISNEY 6" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 6
+#EXTINF: -1 tvg-id="61087" tvg-name="DISNEY 6" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 6 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/61087
 
-#EXTINF: -1 tvg-id="310101" tvg-name="DISNEY 7" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 7
+#EXTINF: -1 tvg-id="310101" tvg-name="DISNEY 7" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 7 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/310101
 
-#EXTINF: -1 tvg-id="310102" tvg-name="DISNEY 8" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 8
+#EXTINF: -1 tvg-id="310102" tvg-name="DISNEY 8" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 8 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/310102
 
-#EXTINF: -1 tvg-id="310103" tvg-name="DISNEY 9" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 9
+#EXTINF: -1 tvg-id="310103" tvg-name="DISNEY 9" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 9 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/310103
 
-#EXTINF: -1 tvg-id="310104" tvg-name="DISNEY 10" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 10
+#EXTINF: -1 tvg-id="310104" tvg-name="DISNEY 10" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 10 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/310104
 
-#EXTINF: -1 tvg-id="349569" tvg-name="DISNEY 11" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 11
+#EXTINF: -1 tvg-id="349569" tvg-name="DISNEY 11" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 11 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/349569
 
-#EXTINF: -1 tvg-id="349570" tvg-name="DISNEY 12" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 12
+#EXTINF: -1 tvg-id="349570" tvg-name="DISNEY 12" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 12 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/349570
 
-#EXTINF: -1 tvg-id="363817" tvg-name="DISNEY 13" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 13
+#EXTINF: -1 tvg-id="363817" tvg-name="DISNEY 13" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 13 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/363817
 
-#EXTINF: -1 tvg-id="363818" tvg-name="DISNEY 14" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 14
+#EXTINF: -1 tvg-id="363818" tvg-name="DISNEY 14" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 14 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/363818
 
-#EXTINF: -1 tvg-id="363819" tvg-name="DISNEY 15" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 15
+#EXTINF: -1 tvg-id="363819" tvg-name="DISNEY 15" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 15 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/363819
 
-#EXTINF: -1 tvg-id="363820" tvg-name="DISNEY 16" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 16
+#EXTINF: -1 tvg-id="363820" tvg-name="DISNEY 16" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 16 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/363820
 
-#EXTINF: -1 tvg-id="363821" tvg-name="DISNEY 17" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 17
+#EXTINF: -1 tvg-id="363821" tvg-name="DISNEY 17" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 17 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/363821
 
-#EXTINF: -1 tvg-id="363822" tvg-name="DISNEY 18" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 18
+#EXTINF: -1 tvg-id="363822" tvg-name="DISNEY 18" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 18 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/363822
 
-#EXTINF: -1 tvg-id="388411" tvg-name="DISNEY 19" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 19
+#EXTINF: -1 tvg-id="388411" tvg-name="DISNEY 19" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 19 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/388411
 
-#EXTINF: -1 tvg-id="388412" tvg-name="DISNEY 20" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 20
+#EXTINF: -1 tvg-id="388412" tvg-name="DISNEY 20" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 20 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/388412
 
-#EXTINF: -1 tvg-id="388413" tvg-name="DISNEY 21" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 21
+#EXTINF: -1 tvg-id="388413" tvg-name="DISNEY 21" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 21 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/388413
 
-#EXTINF: -1 tvg-id="496856" tvg-name="DISNEY 22" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 22
+#EXTINF: -1 tvg-id="496856" tvg-name="DISNEY 22" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 22 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/496856
 
-#EXTINF: -1 tvg-id="496857" tvg-name="DISNEY 23" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 23
+#EXTINF: -1 tvg-id="496857" tvg-name="DISNEY 23" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 23 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/496857
 
-#EXTINF: -1 tvg-id="496858" tvg-name="DISNEY 24" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 24
+#EXTINF: -1 tvg-id="496858" tvg-name="DISNEY 24" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 24 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/496858
 
-#EXTINF: -1 tvg-id="46607" tvg-name="EVENTOS PPV 1" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 1
+#EXTINF: -1 tvg-id="46607" tvg-name="EVENTOS PPV 1" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 1 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/46607
 
-#EXTINF: -1 tvg-id="46608" tvg-name="EVENTOS PPV 2" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 2
+#EXTINF: -1 tvg-id="46608" tvg-name="EVENTOS PPV 2" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 2 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/46608
 
-#EXTINF: -1 tvg-id="46609" tvg-name="EVENTOS PPV 3" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 3
+#EXTINF: -1 tvg-id="46609" tvg-name="EVENTOS PPV 3" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 3 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/46609
 
-#EXTINF: -1 tvg-id="46610" tvg-name="EVENTOS PPV 4" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 4
+#EXTINF: -1 tvg-id="46610" tvg-name="EVENTOS PPV 4" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 4 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/46610
 
-#EXTINF: -1 tvg-id="61086" tvg-name="EVENTOS PPV 5" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 5
+#EXTINF: -1 tvg-id="61086" tvg-name="EVENTOS PPV 5" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 5 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/61086
 
-#EXTINF: -1 tvg-id="168014" tvg-name="X-MLS SEASON PASS" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JL5JsNJ_E_9J-v00U8mWd7oKWiXUpTrZgh134nLXHywy.png" group-title="EVENTOS DEPORTIVOS",X-MLS SEASON PASS
+#EXTINF: -1 tvg-id="168014" tvg-name="X-MLS SEASON PASS" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JL5JsNJ_E_9J-v00U8mWd7oKWiXUpTrZgh134nLXHywy.png" group-title="EVENTOS DEPORTIVOS",X-MLS SEASON PASS SOLO EVENTOS
 http://fultv.me:80/yuri/12345/168014
 
-#EXTINF: -1 tvg-id="168015" tvg-name="X-MLS SEASON PASS 2" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JL5JsNJ_E_9J-v00U8mWd7oKWiXUpTrZgh134nLXHywy.png" group-title="EVENTOS DEPORTIVOS",X-MLS SEASON PASS 2
+#EXTINF: -1 tvg-id="168015" tvg-name="X-MLS SEASON PASS 2" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JL5JsNJ_E_9J-v00U8mWd7oKWiXUpTrZgh134nLXHywy.png" group-title="EVENTOS DEPORTIVOS",X-MLS SEASON PASS 2 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/168015
 
 #EXTINF: -1 tvg-id="109941" tvg-name="FORMULA 1 Solo EVENTOS" tvg-logo="https://i.postimg.cc/nVqH0wXB/FORMULA-1.jpg" group-title="EVENTOS DEPORTIVOS",FORMULA 1 Solo EVENTOS
 http://fultv.me:80/yuri/12345/109941
 
-#EXTINF: -1 tvg-id="48831" tvg-name="BASQUET 1 - NBA Eventos" tvg-logo="https://i.postimg.cc/SNmPb6hM/NBAEVENTOS.png" group-title="EVENTOS DEPORTIVOS",BASQUET 1 - NBA Eventos
+#EXTINF: -1 tvg-id="48831" tvg-name="BASQUET 1 - NBA Eventos" tvg-logo="https://i.postimg.cc/SNmPb6hM/NBAEVENTOS.png" group-title="EVENTOS DEPORTIVOS",BASQUET 1 - NBA Eventos SOLO EVENTOS
 http://fultv.me:80/yuri/12345/48831
 
-#EXTINF: -1 tvg-id="433734" tvg-name="BASQUET 2 - LIBOBASQUET" tvg-logo="https://i.postimg.cc/NF9H3M04/basquetpass.png" group-title="EVENTOS DEPORTIVOS",BASQUET 2 - LIBOBASQUET
+#EXTINF: -1 tvg-id="433734" tvg-name="BASQUET 2 - LIBOBASQUET" tvg-logo="https://i.postimg.cc/NF9H3M04/basquetpass.png" group-title="EVENTOS DEPORTIVOS",BASQUET 2 - LIBOBASQUET SOLO EVENTOS
 http://fultv.me:80/yuri/12345/433734
 
 #EXTINF: -1 tvg-id="49003" tvg-name="UFC 1 (Solo Eventos)" tvg-logo="https://i.postimg.cc/15ZCHr8c/ufc.png" group-title="EVENTOS DEPORTIVOS",UFC 1 (Solo Eventos)
 http://fultv.me:80/yuri/12345/49003
 
-#EXTINF: -1 tvg-id="48830" tvg-name="WWE NETWORK Solo EVENTOS 1" tvg-logo="https://i.postimg.cc/C51NzSxB/WWE.png" group-title="EVENTOS DEPORTIVOS",WWE NETWORK Solo EVENTOS 1
+#EXTINF: -1 tvg-id="48830" tvg-name="WWE NETWORK Solo EVENTOS 1" tvg-logo="https://i.postimg.cc/C51NzSxB/WWE.png" group-title="EVENTOS DEPORTIVOS",WWE NETWORK Solo EVENTOS 1 
 http://fultv.me:80/yuri/12345/48830
 
 #EXTINF: -1 tvg-id="399162" tvg-name="UFC 2 (Solo Eventos)" tvg-logo="https://i.postimg.cc/C5C4t9RC/ufc2.png" group-title="EVENTOS DEPORTIVOS",UFC 2 (Solo Eventos)
@@ -857,167 +876,14 @@ http://fultv.me:80/yuri/12345/399162
 #EXTINF: -1 tvg-id="488066" tvg-name="RALLY TV - WRC" tvg-logo="https://i.postimg.cc/QxwHzQmS/RALLYTV.png" group-title="EVENTOS DEPORTIVOS",RALLY TV - WRC
 http://fultv.me:80/yuri/12345/488066
 
-#EXTINF: -1 tvg-id="42734" tvg-name=".EVENTO 1" tvg-logo="" group-title="EVENTOS DEPORTIVOS",.EVENTO 1
+#EXTINF: -1 tvg-id="42734" tvg-name=".EVENTO 1" tvg-logo="" group-title="EVENTOS DEPORTIVOS",.EVENTO 1 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/42734
 
-#EXTINF: -1 tvg-id="42733" tvg-name=".EVENTO 2" tvg-logo="" group-title="EVENTOS DEPORTIVOS",.EVENTO 2
+#EXTINF: -1 tvg-id="42733" tvg-name=".EVENTO 2" tvg-logo="" group-title="EVENTOS DEPORTIVOS",.EVENTO 2 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/42733
 
-#EXTINF: -1 tvg-id="159855" tvg-name=".EVENTO 3" tvg-logo="" group-title="EVENTOS DEPORTIVOS",.EVENTO 3
+#EXTINF: -1 tvg-id="159855" tvg-name=".EVENTO 3" tvg-logo="" group-title="EVENTOS DEPORTIVOS",.EVENTO 3 SOLO EVENTOS
 http://fultv.me:80/yuri/12345/159855
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -9216,6 +9082,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
