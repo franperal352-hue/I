@@ -472,9 +472,9 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 http://cplay.club:2086/Javier0124/vdXJW9JnXP/38921
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
-#EXTINF:-1 ch-number="108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Deportes", ESPN Premium
-https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/60/40/0/0/92564610073951.png" group-title="CANALES FLOW"  ,ESPN Premium
+https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
 #EXTINF:-1 tvg-id="ESPN PREMIUM 2"tvg- logo="https://i.ibb.co/xdZrSq0/espnpremium.png" , ESPN PREMIUM 2 LIBERTADORES CHAMPIONS F1
 http://38.252.213.12:8000/play/a02r
@@ -9202,6 +9202,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
