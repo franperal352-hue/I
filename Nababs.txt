@@ -20,7 +20,7 @@ https://g2.vxral-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Pl
 
 
 #EXTINF:-1 tvg-logo="https://misionescuatro.com/wp-content/themes/misiones-cuatro-2018/img/logo.svg?x19163" group-title="MISIONES", MISIONES CUATRO MISIONES
-https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
+https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---4PO.png"  group-title="MISIONES", Canal 4 Posadas 
@@ -9124,6 +9124,7 @@ http://newoneblack.site:80/0147657/8433224/829016
 http://newoneblack.site:80/0147657/8433224/828078
 #EXTINF:-1 tvg-id="" tvg-logo="http://newoneblack.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png" tvg-name="BAHIA X FLUMINENSE 19H30" group-title="⭐ JOGOS DO DIA",BAHIA X FLUMINENSE 19H30
 http://newoneblack.site:80/0147657/8433224/829017
+
 
 
 
