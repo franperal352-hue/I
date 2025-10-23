@@ -3315,3 +3315,358 @@ http://mastvapp.com:80/movie/mauricio/mauricio/868da385-4024-45d9-a6e2-4fce54912
 
 #EXTINF:-1 tvg-name="Mantis 4K 2025" tvg-logo="https://image.tmdb.org/t/p/original/vqfjsj762z6SXVWHbnqz2iLWDxT.jpg" group-title="4K PELICULAS",Mantis 4K 2025
 http://mastvapp.com:80/movie/mauricio/mauricio/70614094-b8db-4755-8b2f-e48842edc88b.mp4
+
+NOVELAS 24/7
+
+#EXTINF:-1 tvg-id="19dcb43a-4b4c-449d-ad36-113992e8e353" tvg-name="LO QUE CALLAMOS LAS MUJERES" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JCnpqOknsrqTiw__gdtGuwO3Hl7ilmZROBFpxarjDry2.jpg" group-title="24/7 NOVELAS",LO QUE CALLAMOS LAS MUJERES
+http://mastvapp.com:80/live/mauricio/mauricio/19dcb43a-4b4c-449d-ad36-113992e8e353.ts
+
+#EXTINF:-1 tvg-id="ac23cb5d-29d2-47d5-97ea-5503aadda05b" tvg-name="PABLO ESCOBAR: EL PATRÓN DEL MAL" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JACsrSIcqFNAKvPFnyPAGnOuUDAasBc-64N3RhGUisbwqmo6_Rdf0QKE0hl2sWP7i4bqRiLUb6804vPiDG81kcU.jpg" group-title="24/7 NOVELAS",PABLO ESCOBAR: EL PATRÓN DEL MAL
+http://mastvapp.com:80/live/mauricio/mauricio/ac23cb5d-29d2-47d5-97ea-5503aadda05b.ts
+
+#EXTINF:-1 tvg-id="adb56683-0ab7-41f4-8f10-a85fc031864c" tvg-name="A QUE NO ME DEJAS" tvg-logo="https://i.postimg.cc/ryBHkVYF/a-que-no-me-dejas.png" group-title="24/7 NOVELAS",A QUE NO ME DEJAS
+http://mastvapp.com:80/live/mauricio/mauricio/adb56683-0ab7-41f4-8f10-a85fc031864c.ts
+
+#EXTINF:-1 tvg-id="de1a62e9-39dd-4403-b834-294bb4e820c5" tvg-name="EL SEÑOR DE LOS CIELOS 1-4 TEMP" tvg-logo="https://i.postimg.cc/nVWs2zc2/el-se-or-de-los-cielos.pngng" group-title="24/7 NOVELAS",EL SEÑOR DE LOS CIELOS 1-4 TEMP
+http://mastvapp.com:80/live/mauricio/mauricio/de1a62e9-39dd-4403-b834-294bb4e820c5.ts
+
+#EXTINF:-1 tvg-id="a1940c76-04e4-4a06-a51b-42f382c5dbd1" tvg-name="EL SEÑOR DE LOS CIELOS 5-8 TEMP" tvg-logo="https://i.postimg.cc/nVWs2zc2/el-se-or-de-los-cielos.png" group-title="24/7 NOVELAS",EL SEÑOR DE LOS CIELOS 5-8 TEMP
+http://mastvapp.com:80/live/mauricio/mauricio/a1940c76-04e4-4a06-a51b-42f382c5dbd1.ts
+
+#EXTINF:-1 tvg-id="b600a338-1997-4a97-9d3b-95bec82ebba9" tvg-name="ROSA DE GUADALUPE 1-250" tvg-logo="https://i.postimg.cc/2jxzGSym/rosa-de-guadalupe.png" group-title="24/7 NOVELAS",ROSA DE GUADALUPE 1-250
+http://mastvapp.com:80/live/mauricio/mauricio/b600a338-1997-4a97-9d3b-95bec82ebba9.ts
+
+#EXTINF:-1 tvg-id="47938769-ba69-4916-bb10-2f0ecc02ff6e" tvg-name="ROSA DE GUADALUPE 251-500" tvg-logo="https://i.postimg.cc/2jxzGSym/rosa-de-guadalupe.png" group-title="24/7 NOVELAS",ROSA DE GUADALUPE 251-500
+
+http://mastvapp.com:80/live/mauricio/mauricio/47938769-ba69-4916-bb10-2f0ecc02ff6e.ts
+#EXTINF:-1 tvg-id="139907c3-de50-4821-886a-59ea244bcdc8" tvg-name="CAMALEONES" tvg-logo="https://i.postimg.cc/ZqD525hs/camaleones.png" group-title="24/7 NOVELAS",CAMALEONES
+http://mastvapp.com:80/live/mauricio/mauricio/139907c3-de50-4821-886a-59ea244bcdc8.ts
+
+#EXTINF:-1 tvg-id="1626f9e6-92a5-4df7-b6b9-e39444dbd517" tvg-name="CORAZON INDOMABLE" tvg-logo="https://i.postimg.cc/gjcDtsqP/corazon-indomable.png" group-title="24/7 NOVELAS",CORAZON INDOMABLE
+http://mastvapp.com:80/live/mauricio/mauricio/1626f9e6-92a5-4df7-b6b9-e39444dbd517.ts
+
+#EXTINF:-1 tvg-id="7fefd3ee-77bc-49b1-81ca-022fb4f9aaf6" tvg-name="CUIDADO CON EL ANGEL" tvg-logo="https://i.postimg.cc/P5F1dhW9/cuidado-con-el-angel.png" group-title="24/7 NOVELAS",CUIDADO CON EL ANGEL
+http://mastvapp.com:80/live/mauricio/mauricio/7fefd3ee-77bc-49b1-81ca-022fb4f9aaf6.ts
+
+#EXTINF:-1 tvg-id="0f0da18f-ba9a-4cab-88b6-18c0d9835c83" tvg-name="DINERO SUCIO Y AMOR" tvg-logo="https://i.postimg.cc/d0DCS0fD/dinero-sucio-y-amor.png" group-title="24/7 NOVELAS",DINERO SUCIO Y AMOR
+http://mastvapp.com:80/live/mauricio/mauricio/0f0da18f-ba9a-4cab-88b6-18c0d9835c83.ts
+
+#EXTINF:-1 tvg-id="6138940d-3f3b-4bc3-b6a5-97013c7c589b" tvg-name="EL CUERPO DEL DESEO" tvg-logo="https://i.postimg.cc/L8Vd09Pd/el_cuerpo_del_deseo.png" group-title="24/7 NOVELAS",EL CUERPO DEL DESEO
+http://mastvapp.com:80/live/mauricio/mauricio/6138940d-3f3b-4bc3-b6a5-97013c7c589b.ts
+
+#EXTINF:-1 tvg-id="ab8e2b45-31de-4a5a-b3e9-2914f72365a6" tvg-name="EL PREMIO MAYOR" tvg-logo="https://i.postimg.cc/zvDHKXTJ/el_premio_mayor.png" group-title="24/7 NOVELAS",EL PREMIO MAYOR
+http://mastvapp.com:80/live/mauricio/mauricio/ab8e2b45-31de-4a5a-b3e9-2914f72365a6.ts
+
+#EXTINF:-1 tvg-id="c7ca92fc-39c7-4610-9fac-096d31dc6273" tvg-name="16 HASTA QUE EL DINERO NOS SEPARE" tvg-logo="https://i.postimg.cc/qgHMMZ1P/hasta_que_el_dinero_nos_separe.png" group-title="24/7 NOVELAS",16 HASTA QUE EL DINERO NOS SEPARE
+http://mastvapp.com:80/live/mauricio/mauricio/c7ca92fc-39c7-4610-9fac-096d31dc6273.ts
+
+#EXTINF:-1 tvg-id="e4026484-4aaf-4ff9-adb1-e0f6df627988" tvg-name="IMPERIO DE MENTIRAS" tvg-logo="https://i.postimg.cc/wj6md07t/imperio_de_mentiras.png" group-title="24/7 NOVELAS",IMPERIO DE MENTIRAS
+http://mastvapp.com:80/live/mauricio/mauricio/e4026484-4aaf-4ff9-adb1-e0f6df627988.ts
+
+#EXTINF:-1 tvg-id="51a81485-f4b1-4e3c-81f4-63c45f0e41eb" tvg-name="LA FEA MAS BELLA PARTE 1" tvg-logo="https://i.postimg.cc/0jycJDS0/LA-FEA-MAS-BELLA.png" group-title="24/7 NOVELAS",LA FEA MAS BELLA PARTE 1
+http://mastvapp.com:80/live/mauricio/mauricio/51a81485-f4b1-4e3c-81f4-63c45f0e41eb.ts
+
+#EXTINF:-1 tvg-id="1800fc55-a8ed-4788-8eea-25f06de45698" tvg-name="LA FEA MAS BELLA PARTE 2" tvg-logo="https://i.postimg.cc/0jycJDS0/LA-FEA-MAS-BELLA.png" group-title="24/7 NOVELAS",LA FEA MAS BELLA PARTE 2
+http://mastvapp.com:80/live/mauricio/mauricio/1800fc55-a8ed-4788-8eea-25f06de45698.ts
+
+#EXTINF:-1 tvg-id="12a3882b-0da2-4038-8544-43ce09cb546e" tvg-name="LA REINA DEL FLOW" tvg-logo="https://i.postimg.cc/BbLp9sQB/la_reina_del_flow.png" group-title="24/7 NOVELAS",LA REINA DEL FLOW
+http://mastvapp.com:80/live/mauricio/mauricio/12a3882b-0da2-4038-8544-43ce09cb546e.ts
+
+#EXTINF:-1 tvg-id="65167fab-1dd0-4b09-b227-ff66c6bfd5b8" tvg-name="LAS TONTAS NO VAN AL CIELO" tvg-logo="https://i.postimg.cc/h4Yg90kk/las_tontas_no_van_al_cielo.png" group-title="24/7 NOVELAS",LAS TONTAS NO VAN AL CIELO
+http://mastvapp.com:80/live/mauricio/mauricio/65167fab-1dd0-4b09-b227-ff66c6bfd5b8.ts
+
+#EXTINF:-1 tvg-id="f89d230c-3744-4cba-817b-f2a4e37824b7" tvg-name="LA GATA" tvg-logo="https://i.postimg.cc/C1hTbNqL/la_gata.png" group-title="24/7 NOVELAS",LA GATA
+http://mastvapp.com:80/live/mauricio/mauricio/f89d230c-3744-4cba-817b-f2a4e37824b7.ts
+
+#EXTINF:-1 tvg-id="07b29bd3-de70-487c-8076-c322e99d110c" tvg-name="LA QUE NO PODIA AMAR" tvg-logo="https://i.postimg.cc/SR4BmGyp/la_que_no_podia_amar.png" group-title="24/7 NOVELAS",LA QUE NO PODIA AMAR
+http://mastvapp.com:80/live/mauricio/mauricio/07b29bd3-de70-487c-8076-c322e99d110c.ts
+
+#EXTINF:-1 tvg-id="9c320f73-6f54-4380-8864-87bf67b28589" tvg-name="LO QUE LA VIDA ME ROBO" tvg-logo="https://i.postimg.cc/7ZbtSRhL/lo_que_la_vida_me_robo.png" group-title="24/7 NOVELAS",LO QUE LA VIDA ME ROBO
+http://mastvapp.com:80/live/mauricio/mauricio/9c320f73-6f54-4380-8864-87bf67b28589.ts
+
+#EXTINF:-1 tvg-id="16952b3b-1eae-4cd0-8e9a-9aeb86fde5cf" tvg-name="MADRE" tvg-logo="https://i.postimg.cc/hGZpfsN9/madre.png" group-title="24/7 NOVELAS",MADRE
+http://mastvapp.com:80/live/mauricio/mauricio/16952b3b-1eae-4cd0-8e9a-9aeb86fde5cf.ts
+
+#EXTINF:-1 tvg-id="b25d98ef-2538-47af-b6c3-d783ac02d56c" tvg-name="MARIA ISABEL" tvg-logo="https://i.postimg.cc/j5Q2M3Kf/maria_isabel.png" group-title="24/7 NOVELAS",MARIA ISABEL
+
+http://mastvapp.com:80/live/mauricio/mauricio/b25d98ef-2538-47af-b6c3-d783ac02d56c.ts
+#EXTINF:-1 tvg-id="bd3da6c9-dc60-48b9-9375-628883763bc9" tvg-name="MARIA LA DEL BARRIO" tvg-logo="https://i.postimg.cc/VNtWkwBc/maria_la_del_barrio.png" group-title="24/7 NOVELAS",MARIA LA DEL BARRIO
+http://mastvapp.com:80/live/mauricio/mauricio/bd3da6c9-dc60-48b9-9375-628883763bc9.ts
+
+#EXTINF:-1 tvg-id="4c242dbc-c7ff-44b9-ba8f-2347a5e67b81" tvg-name="MARIA MERCEDES" tvg-logo="https://i.postimg.cc/RZ3XSXR6/maria_mercedes.png" group-title="24/7 NOVELAS",MARIA MERCEDES
+http://mastvapp.com:80/live/mauricio/mauricio/4c242dbc-c7ff-44b9-ba8f-2347a5e67b81.ts
+
+#EXTINF:-1 tvg-id="4f60a2be-cf3c-4d93-94a7-e3f786b0e9c4" tvg-name="MARIMAR" tvg-logo="https://i.postimg.cc/1tMVgQWM/marimar.png" group-title="24/7 NOVELAS",MARIMAR
+http://mastvapp.com:80/live/mauricio/mauricio/4f60a2be-cf3c-4d93-94a7-e3f786b0e9c4.ts
+
+#EXTINF:-1 tvg-id="9a207f98-881f-473e-8eaf-3bd731d3d017" tvg-name="MUJERES ENGAÑADAS" tvg-logo="https://i.postimg.cc/Dyb0s2Gz/mujeres_engañadas.png" group-title="24/7 NOVELAS",MUJERES ENGAÑADAS
+http://mastvapp.com:80/live/mauricio/mauricio/9a207f98-881f-473e-8eaf-3bd731d3d017.ts
+
+#EXTINF:-1 tvg-id="7e54543a-418f-4dcf-bd2a-bf78ba090b51" tvg-name="CARRUSEL DE NIÑOS" tvg-logo="https://i.postimg.cc/BbQ5Q6Dn/carrusel_de_niños.png" group-title="24/7 NOVELAS",CARRUSEL DE NIÑOS
+http://mastvapp.com:80/live/mauricio/mauricio/7e54543a-418f-4dcf-bd2a-bf78ba090b51.ts
+
+#EXTINF:-1 tvg-id="9d9d352a-eb43-459a-a613-bf6601475dc7" tvg-name="ABRAZAME MUY FUERTE" tvg-logo="https://i.postimg.cc/Sx1zqM91/abrzame_muy_fuerte.png" group-title="24/7 NOVELAS",ABRAZAME MUY FUERTE
+http://mastvapp.com:80/live/mauricio/mauricio/9d9d352a-eb43-459a-a613-bf6601475dc7.ts
+
+#EXTINF:-1 tvg-id="152560df-42da-4d94-8a1b-95495dfcc442" tvg-name="33 LA HIJA DEL MARIACHI" tvg-logo="https://i.postimg.cc/HsP3VK6w/la_hija_del_mariachi.png" group-title="24/7 NOVELAS",33 LA HIJA DEL MARIACHI
+http://mastvapp.com:80/live/mauricio/mauricio/152560df-42da-4d94-8a1b-95495dfcc442.ts
+
+#EXTINF:-1 tvg-id="8c608500-18f3-4bfb-b299-f5c0e32996e9" tvg-name="VIVAN LOS NIÑOS" tvg-logo="https://i.postimg.cc/HxSThQpw/vivan_los_niños.png" group-title="24/7 NOVELAS",VIVAN LOS NIÑOS
+http://mastvapp.com:80/live/mauricio/mauricio/8c608500-18f3-4bfb-b299-f5c0e32996e9.ts
+
+#EXTINF:-1 tvg-id="56364d7c-bd66-4afe-8ef7-e013fb4ead69" tvg-name="35 MAS SABE EL DIABLO" tvg-
+logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JBU2k1WlTLo8n7Z6RPkWT8hXA6pQtoBGcLUuTly6tjq3Qliy_ZGqbQeXh8Kcq1PVdQ.png" group-title="24/7 NOVELAS",35 MAS SABE EL DIABLO
+http://mastvapp.com:80/live/mauricio/mauricio/56364d7c-bd66-4afe-8ef7-e013fb4ead69.ts
+
+#EXTINF:-1 tvg-id="699146e2-127a-4282-b3c1-868196d5bc0e" tvg-name="REGLAS DEL JUEGO" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JDGeOxIJhynbjMJ1VZQzAUEJwYJPDoN-YF8AC8cJn1cnHZ9NyFZs7mjLg5Us3ztXaQ.png" group-title="24/7 NOVELAS",REGLAS DEL JUEGO
+http://mastvapp.com:80/live/mauricio/mauricio/699146e2-127a-4282-b3c1-868196d5bc0e.ts
+
+#EXTINF:-1 tvg-id="f0c71410-9d23-410d-b0a4-3dcf84cdacf6" tvg-name="DULCE AMBICION" tvg-logo="https://i.postimg.cc/XJx8Gyht/dulce-ambicion.png" group-title="24/7 NOVELAS",DULCE AMBICION
+http://mastvapp.com:80/live/mauricio/mauricio/f0c71410-9d23-410d-b0a4-3dcf84cdacf6.ts
+
+#EXTINF:-1 tvg-id="4ba3cfd9-1554-44ff-b11b-99f06537876b" tvg-name="FLOR DEL CARIBE" tvg-logo="https://i.postimg.cc/k5JRVhmX/flor-de-caribe.png" group-title="24/7 NOVELAS",FLOR DEL CARIBE
+http://mastvapp.com:80/live/mauricio/mauricio/4ba3cfd9-1554-44ff-b11b-99f06537876b.ts
+
+#EXTINF:-1 tvg-id="83d5e6d1-455c-4920-ad55-996ffc022df4" tvg-name="GABRIELA" tvg-logo="https://i.postimg.cc/TwyjkY34/gabriela.png" group-title="24/7 NOVELAS",GABRIELA
+http://mastvapp.com:80/live/mauricio/mauricio/83d5e6d1-455c-4920-ad55-996ffc022df4.ts
+
+#EXTINF:-1 tvg-id="e8e24af1-2fd7-4448-91a1-92e142eeeb1f" tvg-name="LABERINTOS DE CORAZON" tvg-logo="https://i.postimg.cc/26BvQcHp/laberintos-del-corazon.png" group-title="24/7 NOVELAS",LABERINTOS DE CORAZON
+http://mastvapp.com:80/live/mauricio/mauricio/e8e24af1-2fd7-4448-91a1-92e142eeeb1f.ts
+
+#EXTINF:-1 tvg-id="20a822c7-ed60-4302-b220-6df2fcf86392" tvg-name="LADO A LADO" tvg-logo="https://i.postimg.cc/J4RD0zWC/lado-a-lado.png" group-title="24/7 NOVELAS",LADO A LADO
+http://mastvapp.com:80/live/mauricio/mauricio/20a822c7-ed60-4302-b220-6df2fcf86392.ts
+
+#EXTINF:-1 tvg-id="064fb61c-db24-4b3c-9862-5fb14f723cd6" tvg-name="MUJERES APASIONADAS" tvg-logo="https://i.postimg.cc/1tZRdvm1/mujeres-apasionadas.png" group-title="24/7 NOVELAS",MUJERES APASIONADAS
+http://mastvapp.com:80/live/mauricio/mauricio/064fb61c-db24-4b3c-9862-5fb14f723cd6.ts
+
+#EXTINF:-1 tvg-id="16af7bac-36ee-4444-9239-2bc07a76fea6" tvg-name="NUEVO SOL" tvg-logo="https://i.postimg.cc/1X3SxTb2/nuevo-sol.png" group-title="24/7 NOVELAS",NUEVO SOL
+http://mastvapp.com:80/live/mauricio/mauricio/16af7bac-36ee-4444-9239-2bc07a76fea6.ts
+
+#EXTINF:-1 tvg-id="6a835758-6159-4eb5-bed4-3e1b99655cba" tvg-name="PECADO MORTAL" tvg-logo="https://i.postimg.cc/DfpkJx9f/pecado-mortal.png" group-title="24/7 NOVELAS",PECADO MORTAL
+http://mastvapp.com:80/live/mauricio/mauricio/6a835758-6159-4eb5-bed4-3e1b99655cba.ts
+
+#EXTINF:-1 tvg-id="a59a459d-9d92-4b19-a0d5-01ab6fe768df" tvg-name="PRECIOSA PERLAS" tvg-logo="https://i.postimg.cc/nrBPP1hg/preciosa-perla.png" group-title="24/7 NOVELAS",PRECIOSA PERLAS
+http://mastvapp.com:80/live/mauricio/mauricio/a59a459d-9d92-4b19-a0d5-01ab6fe768df.ts
+
+#EXTINF:-1 tvg-id="c1435ca3-26c3-4793-b2e4-ecca48711834" tvg-name="46 RASTROS DE MENTIRAS" tvg-logo="https://i.postimg.cc/BvCZdxX8/rastros-de-mentiras.png" group-title="24/7 NOVELAS",46 RASTROS DE MENTIRAS
+http://mastvapp.com:80/live/mauricio/mauricio/c1435ca3-26c3-4793-b2e4-ecca48711834.ts
+
+#EXTINF:-1 tvg-id="e4e6aa84-8d8f-42db-a31f-e44c9e4f750b" tvg-name="47 ROCK STORY" tvg-logo="https://i.postimg.cc/pTpTzmLp/rock-story.png" group-title="24/7 NOVELAS",47 ROCK STORY
+http://mastvapp.com:80/live/mauricio/mauricio/e4e6aa84-8d8f-42db-a31f-e44c9e4f750b.ts
+
+#EXTINF:-1 tvg-id="f75d8cd9-41a1-443f-9270-81141378382f" tvg-name="SALVE AL REY" tvg-logo="https://i.postimg.cc/8zzVjq5C/salve-al-rey.png" group-title="24/7 NOVELAS",SALVE AL REY
+http://mastvapp.com:80/live/mauricio/mauricio/f75d8cd9-41a1-443f-9270-81141378382f.ts
+
+#EXTINF:-1 tvg-id="bd46f834-0c1a-423c-b12f-e4f7ef0bb84e" tvg-name="SOL NACIENTE" tvg-logo="https://i.postimg.cc/SQf5CDHY/sol-naciente.png" group-title="24/7 NOVELAS",SOL NACIENTE
+http://mastvapp.com:80/live/mauricio/mauricio/bd46f834-0c1a-423c-b12f-e4f7ef0bb84e.ts
+
+#EXTINF:-1 tvg-id="9e610fa7-3098-4b7d-81e8-d28e693534d4" tvg-name="TOTALMENTE DIVA" tvg-logo="https://i.postimg.cc/dQ6HLDT8/totalmente-diva.png" group-title="24/7 NOVELAS",TOTALMENTE DIVA
+http://mastvapp.com:80/live/mauricio/mauricio/9e610fa7-3098-4b7d-81e8-d28e693534d4.ts
+
+#EXTINF:-1 tvg-id="90800027-27fe-491f-a3ff-da0adb128d8f" tvg-name="ANA CRISTINA" tvg-logo="https://i.postimg.cc/fbzyKp9x/ana-cristina.png" group-title="24/7 NOVELAS",ANA CRISTINA
+http://mastvapp.com:80/live/mauricio/mauricio/90800027-27fe-491f-a3ff-da0adb128d8f.ts
+
+#EXTINF:-1 tvg-id="cae8fd29-185f-49f8-beca-b3a37c870585" tvg-name="CORAZON DE FUEGO" tvg-logo="https://i.postimg.cc/J4h9NWKN/corazon-de-fuego.png" group-title="24/7 NOVELAS",CORAZON DE FUEGO
+http://mastvapp.com:80/live/mauricio/mauricio/cae8fd29-185f-49f8-beca-b3a37c870585.ts
+
+#EXTINF:-1 tvg-id="705ab099-e3c8-49be-a0fc-bbda5dbf2708" tvg-name="PANTANAL" tvg-logo="https://i.postimg.cc/26sgrqnr/pantanal.png" group-title="24/7 NOVELAS",PANTANAL
+http://mastvapp.com:80/live/mauricio/mauricio/705ab099-e3c8-49be-a0fc-bbda5dbf2708.ts
+
+#EXTINF:-1 tvg-id="01ab16e2-1b2b-49fe-b053-3a79eb0de354" tvg-name="UN AMOR INDOMABLE" tvg-logo="https://i.postimg.cc/VkFStnNZ/un-amor-indomable.png" group-title="24/7 NOVELAS",UN AMOR INDOMABLE
+http://mastvapp.com:80/live/mauricio/mauricio/01ab16e2-1b2b-49fe-b053-3a79eb0de354.ts
+
+#EXTINF:-1 tvg-id="997acc9a-58ea-4be2-a5d1-fa1454bd92c1" tvg-name="40 y 20" tvg-logo="https://i.postimg.cc/YqVNCvb0/40-y-20.png" group-title="24/7 NOVELAS",40 y 20
+http://mastvapp.com:80/live/mauricio/mauricio/997acc9a-58ea-4be2-a5d1-fa1454bd92c1.ts
+
+#EXTINF:-1 tvg-id="aa472885-e2f2-4bca-8e55-25322f3800d8" tvg-name="63 MARIA BELEN" tvg-logo="https://i.postimg.cc/85pr86PK/maria-belen.png" group-title="24/7 NOVELAS",63 MARIA BELEN
+http://mastvapp.com:80/live/mauricio/mauricio/aa472885-e2f2-4bca-8e55-25322f3800d8.ts
+
+#EXTINF:-1 tvg-id="4465aaf2-1f72-4386-b959-6591d328ebbb" tvg-name="JOSUE Y LA TIERRA PROMETIDA" tvg-logo="https://i.postimg.cc/j5Qn4cQT/josue-y-la-tierra-prometida.png" group-title="24/7 NOVELAS",JOSUE Y LA TIERRA PROMETIDA
+http://mastvapp.com:80/live/mauricio/mauricio/4465aaf2-1f72-4386-b959-6591d328ebbb.ts
+
+#EXTINF:-1 tvg-id="c82b3f4c-e089-4067-a59f-9e7fedeaac53" tvg-name="56 LA SELECCION" group-title="24/7 NOVELAS",56 LA SELECCION
+http://mastvapp.com:80/live/mauricio/mauricio/c82b3f4c-e089-4067-a59f-9e7fedeaac53.ts
+
+#EXTINF:-1 tvg-id="88acd188-a270-4e5e-b2ca-a9664799b886" tvg-name="57 SEÑOR DE LOS CIELOS TEMP 9" group-title="24/7 NOVELAS",57 SEÑOR DE LOS CIELOS TEMP 9
+http://mastvapp.com:80/live/mauricio/mauricio/88acd188-a270-4e5e-b2ca-a9664799b886.ts
+
+#EXTINF:-1 tvg-id="e8687234-bf42-4651-865e-8803cae307a3" tvg-name="58 OSHIN" group-title="24/7 NOVELAS",58 OSHIN
+http://mastvapp.com:80/live/mauricio/mauricio/e8687234-bf42-4651-865e-8803cae307a3.ts
+
+#EXTINF:-1 tvg-id="685f22ea-114e-480a-9e8c-60075089cad3" tvg-name="59 SIN SENOS NO HAY PARAISO" group-title="24/7 NOVELAS",59 SIN SENOS NO HAY PARAISO
+http://mastvapp.com:80/live/mauricio/mauricio/685f22ea-114e-480a-9e8c-60075089cad3.ts
+
+#EXTINF:-1 tvg-id="1d1443f8-3e88-4863-8319-54ae320ebc4a" tvg-name="60 UN GANCHO EN EL CORAZON" group-title="24/7 NOVELAS",60 UN GANCHO EN EL CORAZON
+http://mastvapp.com:80/live/mauricio/mauricio/1d1443f8-3e88-4863-8319-54ae320ebc4a.ts
+
+#EXTINF:-1 tvg-id="9f4c954e-1bfc-452b-8bd5-2ada4e9fc230" tvg-name="61 LA MADRASTRA" group-title="24/7 NOVELAS",61 LA MADRASTRA
+http://mastvapp.com:80/live/mauricio/mauricio/9f4c954e-1bfc-452b-8bd5-2ada4e9fc230.ts
+
+#EXTINF:-1 tvg-id="f8f5d1a3-c79a-461f-89d0-6a74c5af5a99" tvg-name="62 CORAZON SALVAJE" group-title="24/7 NOVELAS",62 CORAZON SALVAJE
+http://mastvapp.com:80/live/mauricio/mauricio/f8f5d1a3-c79a-461f-89d0-6a74c5af5a99.ts
+
+#EXTINF:-1 tvg-id="4bc5eec2-a8e8-4268-a483-9327472279fc" tvg-name="64 EL CHAPO" group-title="24/7 NOVELAS",64 EL CHAPO
+http://mastvapp.com:80/live/mauricio/mauricio/4bc5eec2-a8e8-4268-a483-9327472279fc.ts
+
+#EXTINF:-1 tvg-id="f0936430-56c1-4759-bc37-222bc5da2911" tvg-name="65 MUCHACHITAS PARTE1" group-title="24/7 NOVELAS",65 MUCHACHITAS PARTE1
+http://mastvapp.com:80/live/mauricio/mauricio/f0936430-56c1-4759-bc37-222bc5da2911.ts
+
+#EXTINF:-1 tvg-id="e236f330-3121-44d8-bd79-4c4554d6f303" tvg-name="66 MUCHACHITAS PARTE2" group-title="24/7 NOVELAS",66 MUCHACHITAS PARTE2
+http://mastvapp.com:80/live/mauricio/mauricio/e236f330-3121-44d8-bd79-4c4554d6f303.ts
+
+#EXTINF:-1 tvg-id="12ae030a-424c-42bd-9128-64f7d47ba2cd" tvg-name="67 MUJERES ASESINAS VIX" group-title="24/7 NOVELAS",67 MUJERES ASESINAS VIX
+http://mastvapp.com:80/live/mauricio/mauricio/12ae030a-424c-42bd-9128-64f7d47ba2cd.ts
+
+#EXTINF:-1 tvg-id="42c3468f-c3cc-44a2-9014-0da62a3e07be" tvg-name="68 MUJERES ASESINAS" group-title="24/7 NOVELAS",68 MUJERES ASESINAS
+http://mastvapp.com:80/live/mauricio/mauricio/42c3468f-c3cc-44a2-9014-0da62a3e07be.ts
+
+#EXTINF:-1 tvg-id="4f2b8857-4137-44b6-af12-ca873aa4abc2" tvg-name="69 POR ELLA SOY EVA" group-title="24/7 NOVELAS",69 POR ELLA SOY EVA
+http://mastvapp.com:80/live/mauricio/mauricio/4f2b8857-4137-44b6-af12-ca873aa4abc2.ts
+
+#EXTINF:-1 tvg-id="e262317b-0f82-4553-bb89-c0fdfa9c2285" tvg-name="70 EL ABUELO Y YO" group-title="24/7 NOVELAS",70 EL ABUELO Y YO
+http://mastvapp.com:80/live/mauricio/mauricio/e262317b-0f82-4553-bb89-c0fdfa9c2285.ts
+
+#EXTINF:-1 tvg-id="705933da-26d9-41be-a70e-88e6b3da2aa3" tvg-name="71 FLORICIENTA" group-title="24/7 NOVELAS",71 FLORICIENTA
+http://mastvapp.com:80/live/mauricio/mauricio/705933da-26d9-41be-a70e-88e6b3da2aa3.ts
+
+#EXTINF:-1 tvg-id="6001e50b-3358-4e51-bec8-5e5f2d37274f" tvg-name="72 MELISSA LA NIÑA DEL VALLE parte1" group-title="24/7 NOVELAS",72 MELISSA LA NIÑA DEL VALLE parte1
+http://mastvapp.com:80/live/mauricio/mauricio/6001e50b-3358-4e51-bec8-5e5f2d37274f.ts
+
+#EXTINF:-1 tvg-id="22e7322b-39f5-485b-9117-6e46628d0360" tvg-name="73 MELISSA LA NIÑA DEL VALLE parte2" group-title="24/7 NOVELAS",73 MELISSA LA NIÑA DEL VALLE parte2
+http://mastvapp.com:80/live/mauricio/mauricio/22e7322b-39f5-485b-9117-6e46628d0360.ts
+
+#EXTINF:-1 tvg-id="59a15341-7ceb-4f6b-9c58-b1116ba432e8" tvg-name="77 ESCALERA AL CIELO" group-title="24/7 NOVELAS",77 ESCALERA AL CIELO
+http://mastvapp.com:80/live/mauricio/mauricio/59a15341-7ceb-4f6b-9c58-b1116ba432e8.ts
+
+#EXTINF:-1 tvg-id="e6ae7474-fd44-4043-a3ee-ea31eda9ddc6" tvg-name="¿Quien mato a Patricia Soler?" tvg-logo="https://i.postimg.cc/RZCsmcsR/Qui-n-mat-a-Patricia-Soler.jpg" group-title="24/7 NOVELAS",¿Quien mato a Patricia Soler?
+http://mastvapp.com:80/live/mauricio/mauricio/e6ae7474-fd44-4043-a3ee-ea31eda9ddc6.ts
+
+#EXTINF:-1 tvg-id="1eaadf00-c570-4d6e-b589-22f2c7237666" tvg-name="78 Yo soy Betty la Fea" tvg-logo="https://i.postimg.cc/43mytHRV/yo-soy-betty-la-fea.png" group-title="24/7 NOVELAS",78 Yo soy Betty la Fea
+http://mastvapp.com:80/live/mauricio/mauricio/1eaadf00-c570-4d6e-b589-22f2c7237666.ts
+
+#EXTINF:-1 tvg-id="b0fa0445-2f36-45b4-adbc-06164127d6b5" tvg-name="74 Pasion de Gavilanes Cap 1 - 90" group-title="24/7 NOVELAS",74 Pasion de Gavilanes Cap 1 - 90
+http://mastvapp.com:80/live/mauricio/mauricio/b0fa0445-2f36-45b4-adbc-06164127d6b5.ts
+
+#EXTINF:-1 tvg-id="f58f068d-cb68-48fe-8089-970a44651490" tvg-name="74 Pasion de Gavilanes Cap 91 - 188" group-title="24/7 NOVELAS",74 Pasion de Gavilanes Cap 91 - 188
+http://mastvapp.com:80/live/mauricio/mauricio/f58f068d-cb68-48fe-8089-970a44651490.ts
+
+#EXTINF:-1 tvg-id="0c51bb3c-b1eb-4e3c-9f53-236f704e2112" tvg-name="79 Juego de Mentiras" tvg-logo="https://i.postimg.cc/SxYFQtFG/juego-de-mentiras-1.jpg" group-title="24/7 NOVELAS",79 Juego de Mentiras
+http://mastvapp.com:80/live/mauricio/mauricio/0c51bb3c-b1eb-4e3c-9f53-236f704e2112.ts
+
+#EXTINF:-1 tvg-id="40a86324-8a05-4b08-9f89-8c879e332a3d" tvg-name="80 juegos interrumpidos" tvg-logo="https://i.postimg.cc/d3cMwLzj/juegos-interrumpidos.webp" group-title="24/7 NOVELAS",80 juegos interrumpidos
+http://mastvapp.com:80/live/mauricio/mauricio/40a86324-8a05-4b08-9f89-8c879e332a3d.ts
+
+#EXTINF:-1 tvg-id="92081964-b008-43ac-950e-c20704faa936" tvg-name="81 Rosario Tijeras V-Colombiana" tvg-logo="https://i.postimg.cc/kMfW7ZKD/rosario-tijeras-colombiana.jpg" group-title="24/7 NOVELAS",81 Rosario Tijeras V-Colombiana
+http://mastvapp.com:80/live/mauricio/mauricio/92081964-b008-43ac-950e-c20704faa936.ts
+
+#EXTINF:-1 tvg-id="a5641912-f5ed-4e02-93d2-c6e3719dc652" tvg-name="75 Pasion de Gavilanes Cap 189 - 247" group-title="24/7 NOVELAS",75 Pasion de Gavilanes Cap 189 - 247
+http://mastvapp.com:80/live/mauricio/mauricio/a5641912-f5ed-4e02-93d2-c6e3719dc652.ts
+
+#EXTINF:-1 tvg-id="c9a403a6-267c-4e7c-803d-b9239f180e84" tvg-name="82 Prisionero-Mahkum" tvg-logo="https://i.postimg.cc/XJpDJF7h/prisionero-mahkum.jpg" group-title="24/7 NOVELAS",82 Prisionero-Mahkum
+http://mastvapp.com:80/live/mauricio/mauricio/c9a403a6-267c-4e7c-803d-b9239f180e84.ts
+
+#EXTINF:-1 tvg-id="f11ab5b4-370d-4ac7-9bc7-0c55015d6d37" tvg-name="79 Carita de Angel" tvg-logo="https://i.postimg.cc/dVKQVmZR/carita-de-angel.jpg" group-title="24/7 NOVELAS",79 Carita de Angel
+http://mastvapp.com:80/live/mauricio/mauricio/f11ab5b4-370d-4ac7-9bc7-0c55015d6d37.ts
+
+#EXTINF:-1 tvg-id="00ef7f68-214d-45ac-aa73-e2a3e50b6b9a" tvg-name="83 Amor y Pecado" tvg-logo="https://i.postimg.cc/3Rb0KTFP/amor-y-pecado-ask-gunah.jpg" group-title="24/7 NOVELAS",83 Amor y Pecado
+http://mastvapp.com:80/live/mauricio/mauricio/00ef7f68-214d-45ac-aa73-e2a3e50b6b9a.ts
+
+#EXTINF:-1 tvg-id="2e31d8d1-5722-4339-8e3e-bc004cc8a63f" tvg-name="86 Anne-Madre todo por mi hija" tvg-logo="https://i.postimg.cc/qgVJ4gBM/Anne-madre-todo-por-mi-hija.webp" group-title="24/7 NOVELAS",86 Anne-Madre todo por mi hija
+http://mastvapp.com:80/live/mauricio/mauricio/2e31d8d1-5722-4339-8e3e-bc004cc8a63f.ts
+
+#EXTINF:-1 tvg-id="c161eed2-5737-4da9-a498-1ea55c572ad1" tvg-name="87 Me Atrevo a Amarte" tvg-logo="https://i.postimg.cc/RV8MYKTx/me-atrevo-a-amarte.jpg" group-title="24/7 NOVELAS",87 Me Atrevo a Amarte
+http://mastvapp.com:80/live/mauricio/mauricio/c161eed2-5737-4da9-a498-1ea55c572ad1.ts
+
+#EXTINF:-1 tvg-id="ec8dd854-aae7-4666-aeaa-3582a36a3919" tvg-name="65 DRAMABOX PREMIUM 2025" tvg-logo="https://i.postimg.cc/7PBC8Ps8/Captura-de-pantalla-2025-06-29-084103.png" group-title="24/7 NOVELAS",65 DRAMABOX PREMIUM 2025
+http://mastvapp.com:80/live/mauricio/mauricio/ec8dd854-aae7-4666-aeaa-3582a36a3919.ts
+
+#EXTINF:-1 tvg-id="121c35e4-d81c-4da8-b8e4-37f4b769590b" tvg-name="Coleccion Doramas 24/7" tvg-logo="https://i.postimg.cc/MpzKvhrb/Captura-de-pantalla-2025-06-29-084713.png" group-title="24/7 NOVELAS",Coleccion Doramas 24/7
+http://mastvapp.com:80/live/mauricio/mauricio/121c35e4-d81c-4da8-b8e4-37f4b769590b.ts
+
+#EXTINF:-1 tvg-id="e8b99464-28b1-4782-b4cd-1882a802376f" tvg-name="Big Mouth-Dorama 24/7" tvg-logo="https://i.postimg.cc/mZQPkNg4/temporada-1.jpg" group-title="24/7 NOVELAS",Big Mouth-Dorama 24/7
+http://mastvapp.com:80/live/mauricio/mauricio/e8b99464-28b1-4782-b4cd-1882a802376f.ts
+
+#EXTINF:-1 tvg-id="83df6dd0-af0b-4983-8de5-f0d313836dd8" tvg-name="88 rubi 2020 24-7" tvg-logo="https://i.postimg.cc/4xrtKS5B/rubi-2020.webp" group-title="24/7 NOVELAS",88 rubi 2020 24-7
+http://mastvapp.com:80/live/mauricio/mauricio/83df6dd0-af0b-4983-8de5-f0d313836dd8.ts
+
+#EXTINF:-1 tvg-id="49503903-9a99-4792-8a77-e4faa425c239" tvg-name="89 rubi 2004 24-7" tvg-logo="https://i.postimg.cc/2S3kSGM0/rubi-2004.webp" group-title="24/7 NOVELAS",89 rubi 2004 24-7
+http://mastvapp.com:80/live/mauricio/mauricio/49503903-9a99-4792-8a77-e4faa425c239.ts
+
+#EXTINF:-1 tvg-id="d42900c5-814b-48d5-85f5-dbd2fe6111f7" tvg-name="90 camelia la texana" tvg-logo="https://i.postimg.cc/fyFb0g9w/camelia-la-texana.jpg" group-title="24/7 NOVELAS",90 camelia la texana
+http://mastvapp.com:80/live/mauricio/mauricio/d42900c5-814b-48d5-85f5-dbd2fe6111f7.ts
+
+#EXTINF:-1 tvg-id="837e3b13-b17e-43c1-8c02-71ef1efdf6e0" tvg-name="91 La historia de Juana 24-7" tvg-logo="https://i.postimg.cc/52PwwHPV/la-historia-de-juana.jpg" group-title="24/7 NOVELAS",91 La historia de Juana 24-7
+http://mastvapp.com:80/live/mauricio/mauricio/837e3b13-b17e-43c1-8c02-71ef1efdf6e0.ts
+
+#EXTINF:-1 tvg-id="f714bec1-04f3-43d8-8bd7-8317437c11e9" tvg-name="92 Grandes Secretos-Seni Kimler Aldi 24-7" tvg-
+logo="https://i.postimg.cc/fLYtgkvk/seni-kimler-aldi-grandes-secretos.jpg" group-title="24/7 NOVELAS",92 Grandes Secretos-Seni Kimler Aldi 24-7
+http://mastvapp.com:80/live/mauricio/mauricio/f714bec1-04f3-43d8-8bd7-8317437c11e9.ts
+
+#EXTINF:-1 tvg-id="5a0b8366-270c-4e7c-816a-75e4b54c4b74" tvg-name="93 juegos de amor y poder 24-7" tvg-logo="https://i.postimg.cc/nrXT1hPc/juegos-de-amor-y-poder-24-7.jpg" group-title="24/7 NOVELAS",93 juegos de amor y poder 24-7
+http://mastvapp.com:80/live/mauricio/mauricio/5a0b8366-270c-4e7c-816a-75e4b54c4b74.ts
+
+#EXTINF:-1 tvg-id="36ce5b54-a137-49f7-a6f6-03c7f3a0346f" tvg-name="94 sueño de amor-24-7" tvg-logo="https://i.postimg.cc/PxbMpxKv/sue-o-de-amor.webp" group-title="24/7 NOVELAS",94 sueño de amor-24-7
+http://mastvapp.com:80/live/mauricio/mauricio/36ce5b54-a137-49f7-a6f6-03c7f3a0346f.ts
+
+#EXTINF:-1 tvg-id="117deed7-2fc5-437d-b91a-6187fae2fc41" tvg-name="95 Carrusel brasil parte 1-24-7" tvg-logo="https://i.postimg.cc/Kz1Ph8Tk/carrusel-brasil.jpg" group-title="24/7 NOVELAS",95 Carrusel brasil parte 1-24-7
+http://mastvapp.com:80/live/mauricio/mauricio/117deed7-2fc5-437d-b91a-6187fae2fc41.ts
+
+#EXTINF:-1 tvg-id="56af06e3-514a-4f60-b7aa-bd66792179ad" tvg-name="96 carrusel brasil parte 2-24-7" tvg-logo="https://i.postimg.cc/Kz1Ph8Tk/carrusel-brasil.jpg" group-title="24/7 NOVELAS",96 carrusel brasil parte 2-24-7
+http://mastvapp.com:80/live/mauricio/mauricio/56af06e3-514a-4f60-b7aa-bd66792179ad.ts
+
+#EXTINF:-1 tvg-id="b63531ab-a349-4056-a3df-db4931c71721" tvg-name="98 La Esposa Virgen" tvg-logo="https://i.postimg.cc/s2cg6BKX/la-esposa-vuirgen.jpg" group-title="24/7 NOVELAS",98 La Esposa Virgen
+http://mastvapp.com:80/live/mauricio/mauricio/b63531ab-a349-4056-a3df-db4931c71721.ts
+
+#EXTINF:-1 tvg-id="47d3f5ef-6052-49ff-95b8-995f52ec3b49" tvg-name="97 Huerfanas" tvg-logo="https://i.postimg.cc/8zfyZ69y/huerfanas.jpg" group-title="24/7 NOVELAS",97 Huerfanas
+http://mastvapp.com:80/live/mauricio/mauricio/47d3f5ef-6052-49ff-95b8-995f52ec3b49.ts
+
+#EXTINF:-1 tvg-id="05954b23-946c-4c98-a33a-9fab1b2d4b04" tvg-name="99 Dulce Venganza" tvg-logo="https://i.postimg.cc/Y99KPtn5/Dulce-venganza-expectativa.webp" group-title="24/7 NOVELAS",99 Dulce Venganza
+http://mastvapp.com:80/live/mauricio/mauricio/05954b23-946c-4c98-a33a-9fab1b2d4b04.ts
+
+#EXTINF:-1 tvg-id="c3a319e8-0f89-4c54-8e5d-aa6bbb4b6726" tvg-name="101 Dorama-La Esposa que Quiero" tvg-logo="https://i.postimg.cc/T2nXvsFt/images-4.jpg" group-title="24/7 NOVELAS",101 Dorama-La Esposa que Quiero
+http://mastvapp.com:80/live/mauricio/mauricio/c3a319e8-0f89-4c54-8e5d-aa6bbb4b6726.ts
+
+#EXTINF:-1 tvg-id="b803fb6e-73f9-468b-af3e-bb4b1b16f060" tvg-name="102 La Heredera" tvg-logo="https://i.postimg.cc/053cGyHH/la-heredera.jpg" group-title="24/7 NOVELAS",102 La Heredera
+http://mastvapp.com:80/live/mauricio/mauricio/b803fb6e-73f9-468b-af3e-bb4b1b16f060.ts
+
+#EXTINF:-1 tvg-id="12db0129-4d05-41fe-b668-f8779edfdacd" tvg-name="103 cielo rojo 24-7" tvg-logo="https://i.postimg.cc/sxp6QQkq/cielo-rojo-24-7.jpg" group-title="24/7 NOVELAS",103 cielo rojo 24-7
+http://mastvapp.com:80/live/mauricio/mauricio/12db0129-4d05-41fe-b668-f8779edfdacd.ts
+
+#EXTINF:-1 tvg-id="a98c1f3e-5dc4-48c6-a212-bc7c96fdb30d" tvg-name="104 detras del escaparate 24-7" tvg-logo="https://i.postimg.cc/dtFvW8V7/detras-del-escaparate-24-7.jpg" group-title="24/7 NOVELAS",104 detras del escaparate 24-7
+http://mastvapp.com:80/live/mauricio/mauricio/a98c1f3e-5dc4-48c6-a212-bc7c96fdb30d.ts
+
+#EXTINF:-1 tvg-id="aeeb1160-1bb1-4084-944d-1be899bb7b08" tvg-name="105 te espere mucho-seni cok bekledim" tvg-logo="https://i.postimg.cc/FzKgtWZG/te-espere-mucho-24-7.jpg" group-title="24/7 NOVELAS",105 te espere mucho-seni cok bekledim
+http://mastvapp.com:80/live/mauricio/mauricio/aeeb1160-1bb1-4084-944d-1be899bb7b08.ts
+
+#EXTINF:-1 tvg-id="f03ec8e1-244a-43d6-be13-9e19e1be4fdd" tvg-name="106 Kara Ekmek" tvg-logo="https://i.postimg.cc/NGXr7cXt/kara-ekmek.jpg" group-title="24/7 NOVELAS",106 Kara Ekmek
+http://mastvapp.com:80/live/mauricio/mauricio/f03ec8e1-244a-43d6-be13-9e19e1be4fdd.ts
+
+#EXTINF:-1 tvg-id="28688149-eb51-46b2-8544-025e089b5531" tvg-name="107 En la Piel de Alicia 24-7" tvg-logo="https://i.postimg.cc/MZPPdGmN/en-la-piel-de-alicia-24-7.jpg" group-title="24/7 NOVELAS",107 En la Piel de Alicia 24-7
+http://mastvapp.com:80/live/mauricio/mauricio/28688149-eb51-46b2-8544-025e089b5531.ts
+
+#EXTINF:-1 tvg-id="1d57d8ab-bebe-4e26-a602-4854ed05f38e" tvg-name="85 DORAMA Principe Del Cafe" tvg-logo="https://i.postimg.cc/43Fd4gNt/MV5-BZDgy-Nm-Yy-OWEt-Zm-E2-MS00-MDJm-LTgz-MGUt-MTFm-ZWIy-Zj-A2-MGNi-Xk-Ey-Xk-Fqc-Gc-V1.jpg" group-title="24/7 NOVELAS",85 DORAMA Principe Del Cafe
+http://mastvapp.com:80/live/mauricio/mauricio/1d57d8ab-bebe-4e26-a602-4854ed05f38e.ts
+
+#EXTINF:-1 tvg-id="f489d9f8-5a34-4f11-a503-f3b09e15d4ae" tvg-name="108 el profeta 24-7" tvg-logo="https://i.postimg.cc/59CtyYBx/el-profeta-2006-24-7.jpg" group-title="24/7 NOVELAS",108 el profeta 24-7
+http://mastvapp.com:80/live/mauricio/mauricio/f489d9f8-5a34-4f11-a503-f3b09e15d4ae.ts
+
+#EXTINF:-1 tvg-id="0155f24f-5d5e-4970-89f8-72d45127b33b" tvg-name="109 vivir la vida" tvg-logo="https://i.postimg.cc/wT8MrL5b/vivir-la-vida.jpg" group-title="24/7 NOVELAS",109 vivir la vida
+http://mastvapp.com:80/live/mauricio/mauricio/0155f24f-5d5e-4970-89f8-72d45127b33b.ts
+
+#EXTINF:-1 tvg-id="13f4444b-bd4c-4273-a1c1-9fc8c07550af" tvg-name="110 Guzel Koylu-Hermosa Campesina 24-7" tvg-logo="https://i.postimg.cc/CLk43GwK/guzel-koylu-hermosa-campesina-24-7.jpg" group-title="24/7 NOVELAS",110 Guzel Koylu-Hermosa Campesina 24-7
+http://mastvapp.com:80/live/mauricio/mauricio/13f4444b-bd4c-4273-a1c1-9fc8c07550af.ts
+
+#EXTINF:-1 tvg-id="50149c67-2b27-48bb-ab79-a74bbda0d043" tvg-name="111 mi familia es un dibujo 24-7" tvg-logo="https://i.postimg.cc/0NBmMj93/mi-familia-es-un-dibujo-24-7.jpg" group-title="24/7 NOVELAS",111 mi familia es un dibujo 24-7
+http://mastvapp.com:80/live/mauricio/mauricio/50149c67-2b27-48bb-ab79-a74bbda0d043.ts
+
+#EXTINF:-1 tvg-id="f94bb733-5ba9-46af-83d6-539d0f1904ef" tvg-name="1 24-7 DRAMABOX 2025" tvg-logo="https://i.postimg.cc/5yGmCNnr/Haz-un-Banner-Vertic.png" group-title="24/7 NOVELAS",1 24-7 DRAMABOX 2025
+http://mastvapp.com:80/live/mauricio/mauricio/f94bb733-5ba9-46af-83d6-539d0f1904ef.ts
+
+#EXTINF:-1 tvg-id="1ba6ae82-d85c-4ea3-b049-1dc79a9251bb" tvg-name="112 Velvet el nuevo imperio 24-7" tvg-logo="https://i.postimg.cc/zBdY3FSj/ve-vet-e-nuevo-imperio-24-7.jpg" group-title="24/7 NOVELAS",112 Velvet el nuevo imperio 24-7
+http://mastvapp.com:80/live/mauricio/mauricio/1ba6ae82-d85c-4ea3-b049-1dc79a9251bb.ts
+
+#EXTINF:-1 tvg-id="67f794f4-d755-4c7d-a7f0-4db00ac1d00e" tvg-name="113 Evlat Kokusu-el olor de un niño 24-7" tvg-logo="https://i.postimg.cc/CKyZjSsZ/evlat-kokusu-24-7.jpg" group-title="24/7 NOVELAS",113 Evlat Kokusu-el olor de un niño 24-7
+http://mastvapp.com:80/live/mauricio/mauricio/67f794f4-d755-4c7d-a7f0-4db00ac1d00e.ts
+
+#EXTINF:-1 tvg-id="361aa26e-4c2d-4335-aca6-aa122ab124b1" tvg-name="114 tia alison" tvg-logo="https://i.postimg.cc/L6N6nVzy/tia-alison-24-7.jpg" group-title="24/7 NOVELAS",114 tia alison
+http://mastvapp.com:80/live/mauricio/mauricio/361aa26e-4c2d-4335-aca6-aa122ab124b1.ts
