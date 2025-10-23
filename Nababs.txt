@@ -279,6 +279,28 @@ https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd?|referer=https://pla
 https://chromecast.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc_2A/Diputados_TV.mpd
 
 
+#EXTINF:-1 group-title="NACIONALES" tvg-name="NEXT HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigvgaI92zjv6ac2PbBLtJFtRUr-du9_qUL8yzjZmEmu2389HYkpz4dsGrwK8viaPGV2JAtVz_p-p_c4Vls6sOfKVaj36HVMwoQXMWZsJGbJd4HvBD_idN9-RjpE6oHNKHKQ2Yap0e8R6-XXf3gDcuIbraMJIpZTyLkjzLQgourJvwmb7MijyXiVD8iJA/s587/logo%20CON%20CONTORNO%20NEXT.png", NEXT HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+#EXTINF:-1 group-title="NACIONALES" tvg-name="AC TV" tvg-logo="https://i2.paste.pics/0038e6a73f02576a0c251694a14acc41.png", Frutillar TV | PY
+https://live.enhdtv.com:19360/actv-capiata/actv-capiata.m3u8
+
+#EXTINF:-1 group-title="NACIONALES" tvg-name="Lim TV" tvg-logo="https://scontent.fasu9-1.fna.fbcdn.net/v/t39.30808-6/290433377_5849446228417002_1295232288420533377_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ZoQiNuVEyoEAX9ulB12&_nc_ht=scontent.fasu9-1.fna&oh=00_AfCJREsWKPWtc4CVqa8nTX4KQr1VRf9Bgu-CMRxmQ_Uh1g&oe=636AEFB0", Lim TV
+https://mitv.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="NACIONALES" tvg-name="Dismar TV" tvg-logo="https://lh3.googleusercontent.com/-GT3zuzkxAfw/YH9fJbWcd3I/AAAAAAABB0E/XiKNqrOnZroPtJCy_4UK4qH_IPEWBs7YACK8BGAsYHg/s512/2021-04-20.jpg", Dismar TV
+http://tigocloud.desdeparaguay.net:1935/dismartv/dismartv/playlist.m3u8
+
+#EXTINF:-28 group-title="NACIONALES" tvg-logo="https://latinartv.com/sites/default/files/logos/uga-radio.jpg" group-title="NACIONALES", UGA TV
+https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
+
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
 #EXTINF:-1   group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://television-libre.online/img/genpy.png" group-title="CANALES FLOW"  ,GenTV Paraguay
@@ -326,7 +348,7 @@ https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEF
 https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RevGear/logo/master/Countries/PY/Farra-Play.png" group-title="PARAGUAY", FARRA TV 
-http://159.203.148.226/live/farra.m3u8
+https://stream.farra.com.py/live/farra_src.m3u8
 
 #EXTINF:-1 tvg-
 logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Mix_TV_logo.svg" group-title="CHILE", MIX TV CHILE MUSIC
@@ -342,9 +364,6 @@ http://190.14.10.19:16000/play/a06j/index.m3u8
 #EXTINF:-1 tvg-id="Abc Tv" tvg-name="Abc Tv" group-title="🇦🇷 SERVIDOR FLOW 2 🇦🇷"      ch-number="80" type="channel",ABC TV Paraguay
 https://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3OhwisfLNLoewQ4Wx2j8GSlJWwPf4S8m9rRmrnTBCdhV_O8cErjF8i3LZ&s=10" group-title="PARAGUAY", MOTORSUR PY SATELITAL
-http://playtv44.com:8080/981518903/123456/384232
 
 
 deportes (100xx)
@@ -561,6 +580,15 @@ http://38.199.6.1:17001/play/a0vx/index.m3u8
 https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS",TIGO 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://sam-py-edge02.tigo.com.py
+#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+
+
 #EXTINF:-1  group-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg=w600-h300-pc0xffffff-pd" tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS",TIGO 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -570,13 +598,9 @@ https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd?|referer=htt
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS",TIGO 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://sam-py-edge02.tigo.com.py
-#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
-https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3OhwisfLNLoewQ4Wx2j8GSlJWwPf4S8m9rRmrnTBCdhV_O8cErjF8i3LZ&s=10" group-title="PARAGUAY", MOTORSUR PY SATELITAL
+http://playtv44.com:8080/981518903/123456/384232
 
 
 
@@ -1581,6 +1605,7 @@ https://cdn.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
 #EXTINF:-1 ch-number="" tvg-id="Futurock" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4384/CH_LOGO/160/160/0/0/18277879079297.png" group-title="Radios", Futuröck
 https://cdn.sensa.com.ar/output/SMT6/FTRd/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
 
 
 
