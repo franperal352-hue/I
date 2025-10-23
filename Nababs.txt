@@ -3088,3 +3088,230 @@ http://mastvapp.com:80/live/mauricio/mauricio/26df6d7f-858e-4586-a135-8ec18d33b8
 
 #EXTINF:-1 tvg-id="e16fdd0e-8145-414e-9e83-46a799de106d" tvg-name="46 Guerra De Containers" tvg-logo="https://i.postimg.cc/j5vcXRwJ/Guerradec.png" group-title="24/7 RETRO",46 Guerra De Containers
 http://mastvapp.com:80/live/mauricio/mauricio/e16fdd0e-8145-414e-9e83-46a799de106d.ts
+
+PELICULAS 4K
+
+#EXTINF:-1 tvg-name="Lilo y Stitch 4K HDR 7.1  2025" tvg-logo="https://image.tmdb.org/t/p/original/119fH6GVVhhNf1yjV7eaHUnefRw.jpg" group-title="4K PELICULAS",Lilo y Stitch 4K HDR 7.1  2025
+http://mastvapp.com:80/movie/mauricio/mauricio/ef655c31-7260-431c-b4a0-a1dfd35de296.mp4
+
+#EXTINF:-1 tvg-name="El Camino: Una pelicula de Breaking Bad (4k) (2019)" tvg-logo="https://image.tmdb.org/t/p/w400/hoWADuvXs3Ua4AXBAiZYnppTupO.jpg" group-title="4K PELICULAS",El Camino: Una pelicula de Breaking Bad (4k) (2019)
+http://mastvapp.com:80/movie/mauricio/mauricio/6ee283aa-c2b1-4452-a12e-aecf9b8e337a.mp4
+
+#EXTINF:-1 tvg-name="Equipaje de mano (4k) (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/xQzQIrVbwft9nICAt6S6BWkthF5.jpg" group-title="4K PELICULAS",Equipaje de mano (4k) (2024)
+http://mastvapp.com:80/movie/mauricio/mauricio/ab1a6f8b-8c98-4acd-8343-8afe4edc0041.mp4
+
+#EXTINF:-1 tvg-name="Gladiador II (4k) Gladiator II 4K (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title="4K PELICULAS",Gladiador II (4k) Gladiator II 4K (2024)
+http://mastvapp.com:80/movie/mauricio/mauricio/d3dcfcda-41ef-4836-81b2-00eec32c3e94.mp4
+
+#EXTINF:-1 tvg-name="Rapidos y furiosos 4 (4k) (2009)" tvg-logo="https://image.tmdb.org/t/p/w400/b4oE1Bw6KmON4qNIfjgJbVYkOWZ.jpg" group-title="4K PELICULAS",Rapidos y furiosos 4 (4k) (2009)
+http://mastvapp.com:80/movie/mauricio/mauricio/ba06e4dd-0819-4b82-98a8-4792e3699b4b.mp4
+
+#EXTINF:-1 tvg-name="Pasajeros - Passengers (4k) (2016)" tvg-logo="https://image.tmdb.org/t/p/w400/iLMtX4MGl8WjKCPfMgCdDuceOth.jpg" group-title="4K PELICULAS",Pasajeros - Passengers (4k) (2016)
+http://mastvapp.com:80/movie/mauricio/mauricio/78acb8ee-52d1-44c2-8e35-c0caf5f0faaf.mp4
+
+#EXTINF:-1 tvg-name="RED (4K) (2010)" tvg-logo="https://image.tmdb.org/t/p/w400/98L63uVsv71kFWeM4ECdQ0Ko44a.jpg" group-title="4K PELICULAS",RED (4K) (2010)
+http://mastvapp.com:80/movie/mauricio/mauricio/45740bf2-07a1-456b-8a2b-ed8a2be95c75.mp4
+
+#EXTINF:-1 tvg-name="RED 2 (4K) (2013)" tvg-logo="https://image.tmdb.org/t/p/w400/gXEj0UG7DBLXinlZrw83XdlolKP.jpg" group-title="4K PELICULAS",RED 2 (4K) (2013)
+http://mastvapp.com:80/movie/mauricio/mauricio/9ad532ec-f145-4feb-b190-2bff01851673.mp4
+
+#EXTINF:-1 tvg-name="Guerra sin reglas - El ministerio de las guerras (4K) (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/zhvyWzZii2SWpsrcUvLZJNaJyoG.jpg" group-title="4K PELICULAS",Guerra sin reglas - El ministerio de las guerras (4K) (2024)
+http://mastvapp.com:80/movie/mauricio/mauricio/6d9c3722-42c3-468b-a497-d75780eaf7d0.mp4
+
+#EXTINF:-1 tvg-name="Sed de Venganza 2 (4K) (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/sqS28Bpb8NTOsdLVOHDmIHU9nNY.jpg" group-title="4K PELICULAS",Sed de Venganza 2 (4K) (2024)
+http://mastvapp.com:80/movie/mauricio/mauricio/0cde419d-d3c5-46e8-929a-0d6945fccf87.mp4
+
+#EXTINF:-1 tvg-name="Wicked (4K) (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/hDQXqvmmikekQ15uxhisBDwEA63.jpg" group-title="4K PELICULAS",Wicked (4K) (2024)
+http://mastvapp.com:80/movie/mauricio/mauricio/16efdb8c-fab2-4e07-a6a9-27be291663a2.mp4
+
+#EXTINF:-1 tvg-name="Ghost Rider: el vengador fantasma (4K) (2007)" tvg-logo="https://image.tmdb.org/t/p/w400/5GHGotbrKQOj1z39hmOUHh8pYjP.jpg" group-title="4K PELICULAS",Ghost Rider: el vengador fantasma (4K) (2007)
+http://mastvapp.com:80/movie/mauricio/mauricio/2639477b-ea7a-4d48-83d2-1bb71d67d880.mp4
+
+#EXTINF:-1 tvg-name="Ghost Rider 2: EspIritu de Venganza (4K) (2011)" tvg-logo="https://image.tmdb.org/t/p/w400/gNk4q6f1sXRE8FEPpMiexCs5K20.jpg" group-title="4K PELICULAS",Ghost Rider 2: EspIritu de Venganza (4K) (2011)
+http://mastvapp.com:80/movie/mauricio/mauricio/4ca37880-cac1-4a4d-b85e-5849c0ba8b81.mp4
+
+#EXTINF:-1 tvg-name="Geo - Tormenta (4K) (2017)" tvg-logo="https://image.tmdb.org/t/p/w400/4rJGCqrO8MSPdokdMoJB5sxeZ4i.jpg" group-title="4K PELICULAS",Geo - Tormenta (4K) (2017)
+http://mastvapp.com:80/movie/mauricio/mauricio/8618ed03-9751-4329-b4ce-cd65670c8c2d.mp4
+
+#EXTINF:-1 tvg-name="Mi pobre angelito (4K) (1990)" tvg-logo="https://image.tmdb.org/t/p/w400/rjc2a9N5pro1xGsSvvnJ1JDXRGm.jpg" group-title="4K PELICULAS",Mi pobre angelito (4K) (1990)
+http://mastvapp.com:80/movie/mauricio/mauricio/98bdcc96-699a-4871-b9a9-5f2563976888.mp4
+
+#EXTINF:-1 tvg-name="Mi pobre angelito 2: Perdido en Nueva York (4K) (1992)" tvg-logo="https://image.tmdb.org/t/p/w400/7sdiRUyc0ANHJptPhsgb1KL6hoq.jpg" group-title="4K PELICULAS",Mi pobre angelito 2: Perdido en Nueva York (4K) (1992)
+http://mastvapp.com:80/movie/mauricio/mauricio/c0e34e79-1690-450b-b0f5-e39c2537de3c.mp4
+
+#EXTINF:-1 tvg-name="Hansel y Gretel: Cazadores de brujas (4K) (2013)" tvg-logo="https://image.tmdb.org/t/p/w400/cSoRQKVITESDpSCOdzgAyCy6xeE.jpg" group-title="4K PELICULAS",Hansel y Gretel: Cazadores de brujas (4K) (2013)
+http://mastvapp.com:80/movie/mauricio/mauricio/d58d058c-511b-4664-a0d4-1455e99bc5d0.mp4
+
+#EXTINF:-1 tvg-name="La hora del silencio (4K) (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/nOCPjP1kPxfn4PFwbpMlOzedjNW.jpg" group-title="4K PELICULAS",La hora del silencio (4K) (2024)
+http://mastvapp.com:80/movie/mauricio/mauricio/146456fa-8a9f-414a-bf74-892ddcb92e2f.mp4
+
+#EXTINF:-1 tvg-name="Aguas siniestras (4K) (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/bHy9CZdMeH1cnQnsTcyaGu7Yiz.jpg" group-title="4K PELICULAS",Aguas siniestras (4K) (2024)
+http://mastvapp.com:80/movie/mauricio/mauricio/9bc1ee02-2d03-4987-b855-7d2c0ecd4706.mp4
+
+#EXTINF:-1 tvg-name="Back to Black (4K) (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/jvyh8wjpFNiv5Jg3axoHz7jpJYU.jpg" group-title="4K PELICULAS",Back to Black (4K) (2024)
+http://mastvapp.com:80/movie/mauricio/mauricio/bc7560ef-e985-401a-8cdd-45d1b8c45aaa.mp4
+
+#EXTINF:-1 tvg-name="Calabozos y Dragones: Honor entre ladrones (4K) (2023)" tvg-logo="https://image.tmdb.org/t/p/w400/77XBzUUFX5aHI3Jz3ipJTtsDWzk.jpg" group-title="4K PELICULAS",Calabozos y Dragones: Honor entre ladrones (4K) (2023)
+http://mastvapp.com:80/movie/mauricio/mauricio/79fe8fc4-56a7-4f26-a299-4ae5b253cd4a.mp4
+
+#EXTINF:-1 tvg-name="Corazones De Hierro (4K) (2014)" tvg-logo="https://image.tmdb.org/t/p/w400/kbtH5G8L8REzy72LkLmKYoBVaGv.jpg" group-title="4K PELICULAS",Corazones De Hierro (4K) (2014)
+http://mastvapp.com:80/movie/mauricio/mauricio/9e324a49-5295-4b6b-ad3c-3c74195eb8a5.mp4
+
+#EXTINF:-1 tvg-name="Domakinstvo za pocetnici (4K) (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/fXg7Avh7eQzkeasMqwGiDxlQRqi.jpg" group-title="4K PELICULAS",Domakinstvo za pocetnici (4K) (2024)
+http://mastvapp.com:80/movie/mauricio/mauricio/685b8b0c-e9b3-40a1-ba52-310eea629088.mp4
+
+#EXTINF:-1 tvg-name="El astronauta (4K) (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/4WoFKGoh7NjuWaDilWre56BhXYO.jpg" group-title="4K PELICULAS",El astronauta (4K) (2024)
+http://mastvapp.com:80/movie/mauricio/mauricio/8cd0c961-4e3d-45a6-b814-427ebde4b386.mp4
+
+#EXTINF:-1 tvg-name="El exorcista: Creyentes (4K) (2023)" tvg-logo="https://image.tmdb.org/t/p/w400/f0N4Cx0XMbQIHnyAMByLLC0xovm.jpg" group-title="4K PELICULAS",El exorcista: Creyentes (4K) (2023)
+http://mastvapp.com:80/movie/mauricio/mauricio/b3ce2be3-b5ab-4159-a08f-0184149b31dd.mp4
+
+#EXTINF:-1 tvg-name="Francotirador: E.I.R.G. – Equipo de inteligencia y respuesta global (4K) (2023)" tvg-logo="https://image.tmdb.org/t/p/w400/unQIXieQFy3EqeD9eQZUZLq0JVu.jpg" group-title="4K PELICULAS",Francotirador: E.I.R.G. – Equipo de inteligencia y respuesta global (4K) (2023)
+http://mastvapp.com:80/movie/mauricio/mauricio/228c7671-3344-4dde-8aea-9075346a3558.mp4
+
+#EXTINF:-1 tvg-name="Ghostbusters: Apocalipsis fantasma (4K) (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/tx4VtdY13gid5hplO4qJSYf6Fi0.jpg" group-title="4K PELICULAS",Ghostbusters: Apocalipsis fantasma (4K) (2024)
+http://mastvapp.com:80/movie/mauricio/mauricio/c64266fd-24e1-4e6b-babb-08ffe1b404ee.mp4
+
+#EXTINF:-1 tvg-name="Gigi y Nate: Una gran amistad (4K) (2022)" tvg-logo="https://image.tmdb.org/t/p/w400/xP1GXV1gms9b5BpHZP7S8qs8FO.jpg" group-title="4K PELICULAS",Gigi y Nate: Una gran amistad (4K) (2022)
+http://mastvapp.com:80/movie/mauricio/mauricio/4cb9354f-b8d0-4b95-8f88-28749aae63ee.mp4
+
+#EXTINF:-1 tvg-name="Inmaculada (4K) (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/74VLJ09lDqNvJHeIgmwJHtualhR.jpg" group-title="4K PELICULAS",Inmaculada (4K) (2024)
+http://mastvapp.com:80/movie/mauricio/mauricio/1bdb780e-e2ca-4bae-87a3-1ae966796cf9.mp4
+
+#EXTINF:-1 tvg-name="La Momia (4K) (1999)" tvg-logo="https://image.tmdb.org/t/p/w400/aGRMxB5ve2nSKsq8ww6PyUwhWpP.jpg" group-title="4K PELICULAS",La Momia (4K) (1999)
+http://mastvapp.com:80/movie/mauricio/mauricio/6202d39f-cdde-4449-a7c3-c69f2b603186.mp4
+
+#EXTINF:-1 tvg-name="La Momia Regresa (4K) (2001)" tvg-logo="https://image.tmdb.org/t/p/w400/x5CeEQ2iq9A20LbU0K4Q1TMxFDs.jpg" group-title="4K PELICULAS",La Momia Regresa (4K) (2001)
+http://mastvapp.com:80/movie/mauricio/mauricio/3374fd6f-8d89-4ef3-bd6d-83bc76872372.mp4
+
+#EXTINF:-1 tvg-name="Los blancos no saben saltar (4K) (2023)" tvg-logo="https://image.tmdb.org/t/p/w400/6IRvcldz1q9beCRAHOJtHe7tN3.jpg" group-title="4K PELICULAS",Los blancos no saben saltar (4K) (2023)
+http://mastvapp.com:80/movie/mauricio/mauricio/db8b338e-0b0d-45b2-9ce9-f8c44b3074bf.mp4
+
+#EXTINF:-1 tvg-name="Megalodon (4K) (2018)" tvg-logo="https://image.tmdb.org/t/p/w400/hES2eVAbVt08JJTqgu3jmI34Yxx.jpg" group-title="4K PELICULAS",Megalodon (4K) (2018)
+http://mastvapp.com:80/movie/mauricio/mauricio/be729fc6-636f-4cf5-8392-c7de8818d13e.mp4
+
+#EXTINF:-1 tvg-name="Ole, el viaje de Ferdinand (4K) (2017)" tvg-logo="https://image.tmdb.org/t/p/w400/hC5FyR149ZOnXUuXdIHQN5LAozW.jpg" group-title="4K PELICULAS", el viaje de Ferdinand (4K) (2017)
+http://mastvapp.com:80/movie/mauricio/mauricio/b6d08ed5-fb68-4801-a75f-458e2bfc04f3.mp4
+
+#EXTINF:-1 tvg-name="Pantera Negra (4K) (2018)" tvg-logo="https://image.tmdb.org/t/p/w400/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg" group-title="4K PELICULAS",Pantera Negra (4K) (2018)
+http://mastvapp.com:80/movie/mauricio/mauricio/16e293a0-bdcb-4bef-aa9d-bd3747c351e9.mp4
+
+#EXTINF:-1 tvg-name="Pie pequeño (4K) (2018)" tvg-logo="https://image.tmdb.org/t/p/w400/8DIRqjOa2vjpLt8Ek8XIzjYggYM.jpg" group-title="4K PELICULAS",Pie pequeño (4K) (2018)
+http://mastvapp.com:80/movie/mauricio/mauricio/6040d71b-2272-40b3-a1e5-6d1041a399da.mp4
+
+#EXTINF:-1 tvg-name="Scream: Grita antes de morir (4K) (1996)" tvg-logo="https://image.tmdb.org/t/p/w400/jSyDHeFEGghtm624mWpuadcG6Gl.jpg" group-title="4K PELICULAS",Scream: Grita antes de morir (4K) (1996)
+http://mastvapp.com:80/movie/mauricio/mauricio/24fc5ea5-5ad4-4bc6-aa22-5c906db5a4e9.mp4
+
+#EXTINF:-1 tvg-name="Sonido de Libertad (4K) (2023)" tvg-logo="https://image.tmdb.org/t/p/w400/aKfNw4vqbI62HAMI04imwAPjC05.jpg" group-title="4K PELICULAS",Sonido de Libertad (4K) (2023)
+http://mastvapp.com:80/movie/mauricio/mauricio/6cfd2310-ac91-49cc-8d4a-ca7b4caf4b98.mp4
+
+#EXTINF:-1 tvg-name="Talentos ocultos-figuras ocultas (4K) (2016)" tvg-logo="https://image.tmdb.org/t/p/w400/yiufjE3kfM9e0qIlEdGEmkUcXky.jpg" group-title="4K PELICULAS",Talentos ocultos-figuras ocultas (4K) (2016)
+http://mastvapp.com:80/movie/mauricio/mauricio/e76db72e-e8fc-4ab8-a1eb-c475f24e2ce5.mp4
+
+#EXTINF:-1 tvg-name="Winnie the Pooh: Miel y Sangre (4K) (2023)" tvg-logo="https://image.tmdb.org/t/p/w400/xDnHQMLHpziWsU1htVwq429fvEE.jpg" group-title="4K PELICULAS",Winnie the Pooh: Miel y Sangre (4K) (2023)
+http://mastvapp.com:80/movie/mauricio/mauricio/89f25210-85aa-40dd-9836-1123b14ba3d4.mp4
+
+#EXTINF:-1 tvg-name="Exterminio: La evolucion 4K - 28 años despues" tvg-logo="https://i.ibb.co/d0HKKz7k/28a-os.jpg" group-title="4K PELICULAS",Exterminio: La evolucion 4K - 28 años despues
+http://mastvapp.com:80/movie/mauricio/mauricio/f022b253-59c9-4848-86f8-f0aac3f4e52e.mp4
+
+#EXTINF:-1 tvg-name="Happy Gilmore 2 4K" tvg-logo="https://image.tmdb.org/t/p/original/siD7Ds0qlSYf19ijda23lHgx2ak.jpg" group-title="4K PELICULAS",Happy Gilmore 2 4K
+http://mastvapp.com:80/movie/mauricio/mauricio/5e27015e-f2b1-4922-853e-f7141d8b6185.mp4
+
+#EXTINF:-1 tvg-name="Jurassic World: Renace 4K - Jurassic World Rebirth 2025" tvg-logo="https://image.tmdb.org/t/p/original/3fav5BsjVmMciy2JFtAGXuArBTQ.jpg" group-title="4K PELICULAS",Jurassic World: Renace 4K - Jurassic World Rebirth 2025
+http://mastvapp.com:80/movie/mauricio/mauricio/41ff47c0-b009-451f-bb60-d3f7d95ead50.mp4
+
+#EXTINF:-1 tvg-name="Mis 84 m² 4K HDR" tvg-logo="https://i.ibb.co/p6PRMZHG/84metros.jpg" group-title="4K PELICULAS",Mis 84 m² 4K HDR
+http://mastvapp.com:80/movie/mauricio/mauricio/95a58516-1113-4e76-93e0-59c221019adc.mp4
+
+#EXTINF:-1 tvg-name="El ultimo encargo 4K HDR 2025" tvg-logo="https://image.tmdb.org/t/p/original/rutYnkarMIJXobjMdUFxiWMhpey.jpg" group-title="4K PELICULAS",El ultimo encargo 4K HDR 2025
+http://mastvapp.com:80/movie/mauricio/mauricio/868b8ff6-0bbb-4aa1-8b63-2107d36a89ad.mp4
+
+#EXTINF:-1 tvg-name="Alcatraz: fuga imposible 4K 1979" tvg-logo="https://i.ibb.co/GvVC0kY9/alcatraz.jpg" group-title="4K PELICULAS",Alcatraz: fuga imposible 4K 1979
+http://mastvapp.com:80/movie/mauricio/mauricio/2ed93ccf-d4fd-4330-9b67-4d707f93ae7a.mp4
+
+#EXTINF:-1 tvg-name="Superman 4K HDR 2025" tvg-logo="https://image.tmdb.org/t/p/original/sjSNn8dSeuiNXU2LyBeweOIwT02.jpg" group-title="4K PELICULAS",Superman 4K HDR 2025
+http://mastvapp.com:80/movie/mauricio/mauricio/c86b59ee-79a0-4957-b9cd-d2eeb1babb13.mp4
+
+#EXTINF:-1 tvg-name="Pitufos 4K 2025" tvg-logo="https://image.tmdb.org/t/p/original/aRXuOk1CXWX4uaH7EKa8jI4B8Is.jpg" group-title="4K PELICULAS",Pitufos 4K 2025
+http://mastvapp.com:80/movie/mauricio/mauricio/50648f78-02c0-4c93-894f-2b1935a24179.mp4
+
+#EXTINF:-1 tvg-name="Mision imposible - La sentencia final 4K IMAX HDR" tvg-logo="https://image.tmdb.org/t/p/original/7EWhyR4u6Ywe4O6wnQAMSrHsuFT.jpg" group-title="4K PELICULAS",Mision imposible - La sentencia final 4K IMAX HDR
+http://mastvapp.com:80/movie/mauricio/mauricio/0f9e8ce2-7660-43db-ae36-4e4d4cc88697.mp4
+
+#EXTINF:-1 tvg-name="Amores materialistas 4K 2025" tvg-logo="https://i.ibb.co/Z1VgdJ46/amoresmat.jpg" group-title="4K PELICULAS",Amores materialistas 4K 2025
+http://mastvapp.com:80/movie/mauricio/mauricio/04a4ec95-ab42-4e4a-99c1-88a5fa74be99.mp4
+
+#EXTINF:-1 tvg-name="Una vida honrada 4K" tvg-logo="https://i.ibb.co/hJ7wr3M2/vidahonrr.jpg" group-title="4K PELICULAS",Una vida honrada 4K
+http://mastvapp.com:80/movie/mauricio/mauricio/c14fb748-4971-438b-945d-c3b413275237.mp4
+
+#EXTINF:-1 tvg-name="La noche siempre llega 4K" tvg-logo="https://i.ibb.co/9HG1ptKY/nochellega.jpg" group-title="4K PELICULAS",La noche siempre llega 4K
+http://mastvapp.com:80/movie/mauricio/mauricio/288c30d8-6da3-497e-92de-84da5a6695e8.mp4
+
+#EXTINF:-1 tvg-name="Los tipos malos 2 4K 2025" tvg-logo="https://i.ibb.co/SXxD24jT/badguys2.jpg" group-title="4K PELICULAS",Los tipos malos 2 4K 2025
+http://mastvapp.com:80/movie/mauricio/mauricio/02da7d00-1801-4fad-a2d6-add8b909e763.mp4
+
+#EXTINF:-1 tvg-name="Elio 4K 2025" tvg-logo="https://i.ibb.co/3X8TLkh/elio.jpg" group-title="4K PELICULAS",Elio 4K 2025
+http://mastvapp.com:80/movie/mauricio/mauricio/94c72ca4-e5e0-4e05-aa8d-cdc7cc38a0a9.mp4
+
+#EXTINF:-1 tvg-name="F1 la película 4K HDR 2025" tvg-logo="https://image.tmdb.org/t/p/original/c09fUvifQilIY7sGLnZctt4G0Rt.jpg" group-title="4K PELICULAS",F1 la película 4K HDR 2025
+http://mastvapp.com:80/movie/mauricio/mauricio/76a32583-4bee-4c0f-9136-f037fa0973b1.mp4
+
+#EXTINF:-1 tvg-name="Llamada a medianoche -Hallow Road - Camino Sagrado 4K 2025" tvg-logo="https://image.tmdb.org/t/p/w400/46xA2LvkRfnHSwe98dDHRdhRfst.jpg" group-title="4K PELICULAS",Llamada a medianoche -Hallow Road - Camino Sagrado 4K 2025
+http://mastvapp.com:80/movie/mauricio/mauricio/449900c1-d7ed-47b1-b23b-1481a4fcebdf.mp4
+
+#EXTINF:-1 tvg-name="Se lo que hicieron el verano pasado 4K 2025" tvg-logo="https://image.tmdb.org/t/p/original/1VFr9NRaKoc9PmkUeO1ep9uwfV7.jpg" group-title="4K PELICULAS",Se lo que hicieron el verano pasado 4K 2025
+http://mastvapp.com:80/movie/mauricio/mauricio/734e96ca-36cf-4cb8-9382-77f5852d68af.mp4
+
+#EXTINF:-1 tvg-name="Eenie meanie- Velocidad Salvaje-La conductora 4K 2025" tvg-logo="https://image.tmdb.org/t/p/original/v1Qn1cHNVzUCS9fwit3lb5KWCdB.jpg" group-title="4K PELICULAS",Eenie meanie- Velocidad Salvaje-La conductora 4K 2025
+http://mastvapp.com:80/movie/mauricio/mauricio/5aaafa4d-5a03-4f0e-89c1-c3cff5480fd9.mp4
+
+#EXTINF:-1 tvg-name="¿Y donde esta el policia? 4K 2025" tvg-logo="https://i.ibb.co/zTcBQcDZ/policia.jpg" group-title="4K PELICULAS",¿Y donde esta el policia? 4K 2025
+
+http://mastvapp.com:80/movie/mauricio/mauricio/032934ae-4899-40ac-a6db-8c0e6fb0bfc6.mp4
+#EXTINF:-1 tvg-name="Nadie 2 4K" tvg-logo="https://i.ibb.co/YT7P0VYP/nadies2.jpg" group-title="4K PELICULAS",Nadie 2 4K
+http://mastvapp.com:80/movie/mauricio/mauricio/1e90428c-9411-40da-85d8-8b6128dc0ec4.mp4
+
+#EXTINF:-1 tvg-name="Riesgo bajo cero Venganza-La carretera de hielo Venganza-ice road venganza 4K (2025)" tvg-logo="https://i.ibb.co/GQ15qyhg/ice.jpg" group-title="4K PELICULAS",Riesgo bajo cero Venganza-La carretera de hielo Venganza-ice road venganza 4K (2025)
+http://mastvapp.com:80/movie/mauricio/mauricio/8c174555-f2b1-4369-a8cc-f3c7cad73176.mp4
+
+#EXTINF:-1 tvg-name="Del cielo al infierno 4K" tvg-logo="https://i.ibb.co/v4wxMM2y/cielo.jpg" group-title="4K PELICULAS",Del cielo al infierno 4K
+http://mastvapp.com:80/movie/mauricio/mauricio/0d70aeec-5893-4e0c-8e41-472e172d1366.mp4
+
+#EXTINF:-1 tvg-name="La hora de la desaparicion 4K - Weapons 2025" tvg-logo="https://image.tmdb.org/t/p/original/1OazM9hltKrzAZSPdbKPHOkSljI.jpg" group-title="4K PELICULAS",La hora de la desaparicion 4K - Weapons 2025
+http://mastvapp.com:80/movie/mauricio/mauricio/b86e2490-5467-4b56-a1fe-399c706bee0e.mp4
+
+#EXTINF:-1 tvg-name="Cariño, no! 4K - Honey Don" tvg-logo="https://image.tmdb.org/t/p/original/FXVnbFzuIYngVs7yBFUdradamE.jpg" group-title="4K PELICULAS", no! 4K - Honey Don't! 2025
+http://mastvapp.com:80/movie/mauricio/mauricio/00ea0400-d7aa-4517-8dc0-59478d776ca0.mp4
+
+#EXTINF:-1 tvg-name="Together: Juntos hasta la muerte 4K 2025" tvg-logo="https://image.tmdb.org/t/p/original/j0gIhJVsYfGDSta5VcyIVx3edw3.jpg" group-title="4K PELICULAS",Together: Juntos hasta la muerte 4K 2025
+http://mastvapp.com:80/movie/mauricio/mauricio/e9a2c13b-b8b4-4611-b6c7-c95b6aafde3b.mp4
+
+#EXTINF:-1 tvg-name="Haz que regrese - Bring Her Back 4K" tvg-logo="https://image.tmdb.org/t/p/original/j15KnRRss5XAC6nxIku2vhTTVpH.jpg" group-title="4K PELICULAS",Haz que regrese - Bring Her Back 4K
+http://mastvapp.com:80/movie/mauricio/mauricio/a436b535-8eab-4d50-87c4-eae98ceb6801.mp4
+
+#EXTINF:-1 tvg-name="Los 4 Fantasticos: Primeros pasos 4K HDR 2025" tvg-logo="https://i.ibb.co/1G3TJnq8/4fantasticos.jpg" group-title="4K PELICULAS",Los 4 Fantasticos: Primeros pasos 4K HDR 2025
+http://mastvapp.com:80/movie/mauricio/mauricio/b630809e-be6b-46de-9db7-e736d2eeb204.mp4
+
+#EXTINF:-1 tvg-name="Otro viernes de locos 4K HDR - Freakier Friday" tvg-logo="https://i.ibb.co/jkjVfkrM/freakierf.jpg" group-title="4K PELICULAS",Otro viernes de locos 4K HDR - Freakier Friday
+http://mastvapp.com:80/movie/mauricio/mauricio/91dddd1a-4aab-43ae-b1b2-9d089c21abb4.mp4
+
+#EXTINF:-1 tvg-name="El Conjuro 4: Ultimos ritos 4K" tvg-logo="https://i.ibb.co/kW8rn7k/conjuro4.jpg" group-title="4K PELICULAS",El Conjuro 4: Ultimos ritos 4K
+http://mastvapp.com:80/movie/mauricio/mauricio/53dea3a0-65fb-4d80-a8a1-398689c9c871.mp4
+
+#EXTINF:-1 tvg-name="HIM: El elegido 4K" tvg-logo="https://i.ibb.co/TZqBVPB/him.jpg" group-title="4K PELICULAS",HIM: El elegido 4K
+http://mastvapp.com:80/movie/mauricio/mauricio/6a5922c4-0180-4098-ac4c-0accfb0d9c17.mp4
+
+#EXTINF:-1 tvg-name="Atrapado robando 4K" tvg-logo="https://i.ibb.co/Swz8kLqL/atrapado.jpg" group-title="4K PELICULAS",Atrapado robando 4K
+http://mastvapp.com:80/movie/mauricio/mauricio/3914cdbc-8a32-4bda-9adb-a4442e661b6a.mp4
+
+#EXTINF:-1 tvg-name="El gran viaje de tu vida 4K" tvg-logo="https://i.ibb.co/5WBRqPLp/viaje.jpg" group-title="4K PELICULAS",El gran viaje de tu vida 4K
+http://mastvapp.com:80/movie/mauricio/mauricio/1ee0b462-6d23-4da1-8bc2-be1f8e119261.mp4
+
+#EXTINF:-1 tvg-name="La casa de muñecas de Gabby: La pelicula 4K" tvg-logo="https://i.ibb.co/yF2nzNJF/gaby.jpg" group-title="4K PELICULAS",La casa de muñecas de Gabby: La pelicula 4K
+http://mastvapp.com:80/movie/mauricio/mauricio/e1bb36c5-1bbd-459a-a1dc-bfb3c877d7f7.mp4
+
+#EXTINF:-1 tvg-name="Juego sucio 4K 2025" tvg-logo="https://image.tmdb.org/t/p/w400/tFWFcc2DlAp02oyj3eCfxF220l3.jpg" group-title="4K PELICULAS",Juego sucio 4K 2025
+http://mastvapp.com:80/movie/mauricio/mauricio/868da385-4024-45d9-a6e2-4fce54912697.mp4
+
+#EXTINF:-1 tvg-name="Mantis 4K 2025" tvg-logo="https://image.tmdb.org/t/p/original/vqfjsj762z6SXVWHbnqz2iLWDxT.jpg" group-title="4K PELICULAS",Mantis 4K 2025
+http://mastvapp.com:80/movie/mauricio/mauricio/70614094-b8db-4755-8b2f-e48842edc88b.mp4
