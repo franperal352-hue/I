@@ -959,6 +959,11 @@ https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer
 
 infantiles (200xx)
 
+#EXTINF:-1 CANAL EXCLUSIVO DE ANIME 
+http://186.116.5.61:8000/play/a00m
+
+
+
 #EXTINF:-1 tvg-id="1b74bd11-1023-4080-a63a-4f655cc7bfd3" tvg-name="36 LOS SIMPSON 1-17 temp" tvg-logo="https://i.postimg.cc/4ypvNsRz/simpson1.png" group-title="24/7 INFANTILES",36 LOS SIMPSON 1-17 temp
 http://mastvapp.com:80/live/mauricio/mauricio/1b74bd11-1023-4080-a63a-4f655cc7bfd3.ts
 
@@ -4004,6 +4009,7 @@ http://mastvapp.com:80/live/mauricio/mauricio/67f794f4-d755-4c7d-a7f0-4db00ac1d0
 
 #EXTINF:-1 tvg-id="361aa26e-4c2d-4335-aca6-aa122ab124b1" tvg-name="114 tia alison" tvg-logo="https://i.postimg.cc/L6N6nVzy/tia-alison-24-7.jpg" group-title="24/7 NOVELAS",114 tia alison
 http://mastvapp.com:80/live/mauricio/mauricio/361aa26e-4c2d-4335-aca6-aa122ab124b1.ts
+
 
 
 
