@@ -392,7 +392,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
 #EXTINF:-1 ch-number="102" tvg-id="ESPN 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png" group-title="Deportes", ESPN 2
-https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+http://190.104.67.204:234/play/a098/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.postimg.cc/mksxWpNC/espn2-logo-white.png" group-title="Deportes", ESPN 2 🇨🇴
 #EXTVLCOPT:network-caching=1000
@@ -409,7 +409,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
 #EXTINF:-1 ch-number="103" tvg-id="ESPN 3 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/160/160/0/0/85904894074972.png" group-title="Deportes", ESPN 3
-https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+http://190.104.67.204:234/play/a09a/index.m3u8
 
 
 
@@ -428,7 +428,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
 #EXTINF:-1 ch-number="104" tvg-id="ESPN 4 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" group-title="Deportes", ESPN 4
-https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+http://190.104.67.204:234/play/a084/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN 4 HD.uy" group-title="Deportes" tvg-logo="https://i.postimg.cc/BvR9Mnjh/ESPN_Extra_new.png" ,ESPN 4 🇨🇴
@@ -444,7 +444,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" group-title="🇦🇷 FLOW",  ESPN 5 
-http://200.121.48.5:8000/play/a0lk/index.m3u8
+http://190.104.67.204:234/play/a0on/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-logo="https://i.postimg.cc/pdJDJ3xS/espn5.png" group-title="Deportes", ESPN 5 🇨🇴
 #EXTVLCOPT:network-caching=1000
@@ -458,7 +458,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/franperal352-hue/I/refs/heads/main/ESPN_6_logo.svg.png" group-title="🇦🇷 FLOW",  ESPN 6
-http://181.176.155.7:8090/play/a1kj/index.m3u8
+http://190.104.67.204:234/play/a0nu/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN 6 HD.uy" tvg-logo="https://i.postimg.cc/DfL7phRm/espn6.png" group-title="Deportes", ESPN 6 🇨🇴
@@ -3670,4 +3670,5 @@ http://mastvapp.com:80/live/mauricio/mauricio/67f794f4-d755-4c7d-a7f0-4db00ac1d0
 
 #EXTINF:-1 tvg-id="361aa26e-4c2d-4335-aca6-aa122ab124b1" tvg-name="114 tia alison" tvg-logo="https://i.postimg.cc/L6N6nVzy/tia-alison-24-7.jpg" group-title="24/7 NOVELAS",114 tia alison
 http://mastvapp.com:80/live/mauricio/mauricio/361aa26e-4c2d-4335-aca6-aa122ab124b1.ts
+
 
