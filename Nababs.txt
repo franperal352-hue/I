@@ -96,10 +96,8 @@ https://streamlky.alsolnet.com/fmshow
 https://www.dailymotion.com/cdn/live/video/x7zh5gd.m3u8?sec=6S7bKIuc_I61nv1iltGBVjmXGyIx1F_3qzZkl-5ZodawEAJ4WqFCSaY6ZluzDf-HzcyZLyDIeDVWDmz1yr7vQi73Klgn6IVizgROYFtZOPZm0qGNLqJvE_Mdg-aBINR9&dmTs=590107&dmV1st=23c21541-8bf8-e268-0587-e91ecc2fd14b
 
 
-#EXTINF:-1  tvg-id="C5N.ar.uy" tvg-name="C5NOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" tvg-group="Noticias", C5N
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="Nacionales", C5N
 http://143.0.67.75:8000/play/a01p/index.m3u8
 
 
@@ -5090,6 +5088,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u
 
 #EXTINF:-1 tvg-id="5f85cf621d6d2200079f1de0" tvg-name="Karaoke por Stingray" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Música" tvg-chno="1525", Karaoke por Stingray
 https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7f4a1004-3df9-11f0-90ac-1ee1ca4b8ae7
+
 
 
 
