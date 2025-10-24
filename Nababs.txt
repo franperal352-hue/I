@@ -376,7 +376,7 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=agenda&token=3576520243
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
 #EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Deportes", ESPN
-https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+http://190.104.67.204:234/play/a099/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.postimg.cc/v8rFtMbz/espn.png" group-title="Deportes", ESPN 🇨🇴
 #EXTVLCOPT:network-caching=1000
@@ -3670,3 +3670,4 @@ http://mastvapp.com:80/live/mauricio/mauricio/67f794f4-d755-4c7d-a7f0-4db00ac1d0
 
 #EXTINF:-1 tvg-id="361aa26e-4c2d-4335-aca6-aa122ab124b1" tvg-name="114 tia alison" tvg-logo="https://i.postimg.cc/L6N6nVzy/tia-alison-24-7.jpg" group-title="24/7 NOVELAS",114 tia alison
 http://mastvapp.com:80/live/mauricio/mauricio/361aa26e-4c2d-4335-aca6-aa122ab124b1.ts
+
