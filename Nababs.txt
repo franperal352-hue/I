@@ -350,6 +350,13 @@ https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RevGear/logo/master/Countries/PY/Farra-Play.png" group-title="PARAGUAY", FARRA TV 
 https://stream.farra.com.py/live/farra_src.m3u8
 
+#EXTINF:-1 tvg-id="ddc0cbdf-cafc-49ce-a10a-7d2652c6edb4" tvg-name="Cumbias 2025" tvg-logo="https://i.postimg.cc/y6PSg1Gm/videos-musicales.png" group-title="VIDEOS MUSICALES",Cumbias 2025
+http://mastvapp.com:80/live/mauricio/mauricio/ddc0cbdf-cafc-49ce-a10a-7d2652c6edb4.ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png" group-title="MUSICA", NICK MUSIC
+http://38.199.6.1:17001/play/a0pi/index.m3u8
+
 #EXTINF:-1 tvg-
 logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Mix_TV_logo.svg" group-title="CHILE", MIX TV CHILE MUSIC
 http://38.252.213.12:8000/play/a01t
@@ -536,15 +543,23 @@ https://cdn.sensa.com.ar/bpk-tv/SenalEventos/default/index.mpd?|referer=https://
 http://fastream.xyz:8080/993121907tv/zq28x2/60283
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LaLiga_TV_Por_M%2B_Logo.png" tvg-name="MOVISTAR LA LIGA" group-title=" MOVISTAR LA LIGA
+http://181.78.106.127:9000/play/ca027/index.m3u8
+
+#EXTINF:-1 tvg-name="D SPORTS HD (Arg)" tvg-logo="https://i.postimg.cc/05KHcNMm/DIRECTV-1.jpg" group-title="DEPORTES",D SPORTS HD (Arg)
+http://mastvapp.com:80/live/mauricio/mauricio/73c9d55c-5599-4c78-afd8-fcf055ddf88f.ts
+
 EXTINF:-1 tvg-logo="https://i.postimg.cc/05KHcNMm/DIRECTV-1.jpg" group-title="DEPORTES",DSPORTS HD (Arg)
-http://fultv.me:80/yuri/12345/45963
+http://38.199.6.1:17001/play/a0d0/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="D SPORTS 2 HD (Arg)" tvg-logo="https://i.postimg.cc/k4zYq0ZB/DIRECTV-2.jpg" group-title="DEPORTES",DSPORTS 2 HD (Arg)
-http://fultv.me:80/yuri/12345/45943
+http://181.78.106.127:9000/play/ca026/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="D SPORTS + HD (Arg)" tvg-logo="https://i.postimg.cc/BQW7yGHz/DIRECTV-MAS.jpg" group-title="DEPORTES",DSPORTS + HD (Arg)
-http://fultv.me:80/yuri/12345/45942
+http://38.199.6.1:17001/play/a0vx/index.m3u8
 
 
 
@@ -654,27 +669,27 @@ http://195.66.210.10:80/Cta001/KfTwnUFGRD/33523.m3u8
 http://serviciosvisuales.net:80/live/edwinto/4U6gTQh/67526.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="DEPORTES", DAZN 1
-http://vipdwzv.top:8080/VIP014521741010038361/96a2bb36708d/247
+#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-logo="https://i.postimg.cc/G3YNTvcx/DANZ-ESPA-A.jpg" group-title="DAZN Eventos",DAZN 1 HD
+http://mastvapp.com:80/live/mauricio/mauricio/982f209a-0fb6-4866-ad66-b25a17a3b0b4.ts
 
 
 
 #EXTINF:-1,DAZN 1 FHD
 http://195.66.210.10:80/Cta001/KfTwnUFGRD/33523.m3u8
 
-#EXTINF:-1,DAZN 2 FHD
+#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-logo="https://i.postimg.cc/Bb8Vm1D4/DAZN-LIGA-2.jpg" group-title="DAZN Eventos",DAZN 2 HD
+http://mastvapp.com:80/live/mauricio/mauricio/16c791ef-ace9-4eab-8772-bc5a98e5987c.ts
+
+
+#EXTINF:-1 tvg-name="DAZN 3" tvg-logo="https://i.postimg.cc/G3YNTvcx/DANZ-ESPA-A.jpg" group-title="DAZN Eventos",DAZN 3
+http://mastvapp.com:80/live/mauricio/mauricio/86234e24-645e-40ee-9e8a-aa6ff04a461f.ts
+
+#EXTINF:-1,DAZN 4 FHD
 http://195.66.210.10:80/Cta001/KfTwnUFGRD/199536.m3u8
 
-#EXTINF:-1,DAZN 3 FHD
-http://serviciosvisuales.net:80/live/edwinto/4U6gTQh/278213.m3u8
 
-
-
-#EXTINF:-1 DAZN 4 FHD
-http://planettvweb.com:8091/JavierHndez/AFur2741a/19995
-
-#EXTINF:-1,USA: UFC FIGHT PASS
-http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/9bb343b5-5c9d-4fbf-966e-5e0953f8fbef.m3u
+#EXTINF:-1 tvg-name="UFC FIGHT PASS" tvg-logo="https://i.postimg.cc/qvK3XB5n/UFC-PASS.jpg" group-title="DEPORTES",UFC FIGHT PASS
+http://mastvapp.com:80/live/mauricio/mauricio/b2719fbc-7585-4f0b-a2a9-d9faa5c5ef9c.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Real_Madrid_TV.png" group-title="DEPORTES", REAL MADRID TV
 http://vipdwzv.top:8080/VIP014521741010038361/96a2bb36708d/724
@@ -684,6 +699,9 @@ http://vipdwzv.top:8080/VIP014521741010038361/96a2bb36708d/724
 http://190.14.10.19:16000/play/a09u/index.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/L1_Max?file=Liga1Max.png"  group-title="DEPORTES", LA LIGA 1 MAX
+http://38.199.6.1:17001/play/a0ce/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/RallyTv.png" group-title="DEPORTES", RALLY TV
@@ -1934,6 +1952,322 @@ música
 
 #EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://1.bp.blogspot.com/-qxyuiw-51EA/X87iUEZLoPI/AAAAAAAA7i4/iUAmvdMqID0mUMlZnAiFiCgk359CtAyjgCLcBGAsYHQ/s0/musictop_logo.png" group-title="Nacionales", Music Top
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Clasicos 1" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Clasicos 1
+http://mastvapp.com:80/movie/mauricio/mauricio/3f801d43-f23a-4477-a3a6-c612ad1d1fb9.mp4
+
+#EXTINF:-1 tvg-name="Clasicos 2" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Clasicos 2
+http://mastvapp.com:80/movie/mauricio/mauricio/c32ed080-4e12-4cb7-b98f-5f6577d5c6e3.mp4
+
+#EXTINF:-1 tvg-name="Clasicos 3" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Clasicos 3
+http://mastvapp.com:80/movie/mauricio/mauricio/e4a5f9a4-dd75-4e65-a5cf-67fd875aec49.mp4
+
+#EXTINF:-1 tvg-name="Clasicos 4" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Clasicos 4
+http://mastvapp.com:80/movie/mauricio/mauricio/a30cf419-c36b-456e-bcd7-3e0baa7a9ac7.mp4
+
+#EXTINF:-1 tvg-name="Clasicos 5" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Clasicos 5
+http://mastvapp.com:80/movie/mauricio/mauricio/c530d67e-1dd1-4599-8b0e-180a7223447d.mp4
+
+#EXTINF:-1 tvg-name="Clasicos 6" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Clasicos 6
+http://mastvapp.com:80/movie/mauricio/mauricio/c9c353b4-c80f-4290-a064-08dc908c3c1b.mp4
+
+#EXTINF:-1 tvg-name="Clasicos 7" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Clasicos 7
+http://mastvapp.com:80/movie/mauricio/mauricio/e6c291a5-499e-428d-a97f-4b1a8669d4d8.mp4
+
+#EXTINF:-1 tvg-name="Clasicos 8" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Clasicos 8
+http://mastvapp.com:80/movie/mauricio/mauricio/299e3e72-5176-4ec3-b571-5cd2633f1b0e.mp4
+
+#EXTINF:-1 tvg-name="Clasicos 9" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Clasicos 9
+http://mastvapp.com:80/movie/mauricio/mauricio/4e5ae898-ed86-438b-8737-f8c6684eab6f.mp4
+
+#EXTINF:-1 tvg-name="Clasicos 10" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Clasicos 10
+http://mastvapp.com:80/movie/mauricio/mauricio/e6e9bc50-34f5-44a0-a3a4-2f178a15ca9b.mp4
+
+#EXTINF:-1 tvg-name="Clasicos 11" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Clasicos 11
+http://mastvapp.com:80/movie/mauricio/mauricio/7a5f5054-f754-4ba5-babb-5b924744bc86.mp4
+
+#EXTINF:-1 tvg-name="Clasicos 12" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Clasicos 12
+http://mastvapp.com:80/movie/mauricio/mauricio/be299a61-ced1-4538-a9c7-9f53f71bc746.mp4
+
+#EXTINF:-1 tvg-name="Clasicos 13" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Clasicos 13
+http://mastvapp.com:80/movie/mauricio/mauricio/f7f7d471-6f66-4015-8bc8-d43ef0ada4c0.mp4
+
+#EXTINF:-1 tvg-name="Clasicos 14" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Clasicos 14
+http://mastvapp.com:80/movie/mauricio/mauricio/1da55074-5558-4dd2-9830-0d56a125063b.mp4
+
+#EXTINF:-1 tvg-name="Clasicos 15" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Clasicos 15
+http://mastvapp.com:80/movie/mauricio/mauricio/4ec001de-7eae-46c9-bb16-f7a8e72fb753.mp4
+
+#EXTINF:-1 tvg-name="Clasicos 16" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Clasicos 16
+http://mastvapp.com:80/movie/mauricio/mauricio/13da749f-a476-45cf-8292-6fdb57d69f65.mp4
+
+#EXTINF:-1 tvg-name="Dance 1" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Dance 1
+http://mastvapp.com:80/movie/mauricio/mauricio/342bccbc-81c2-4be8-b815-192f64453ff0.mp4
+
+#EXTINF:-1 tvg-name="Dance 2" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Dance 2
+http://mastvapp.com:80/movie/mauricio/mauricio/32700ede-106d-43c4-8a65-90c3cb7d7cd9.mp4
+
+#EXTINF:-1 tvg-name="Dance 3" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Dance 3
+http://mastvapp.com:80/movie/mauricio/mauricio/80ee52ce-8db2-47db-90df-bfa4c43b9cf7.mp4
+
+#EXTINF:-1 tvg-name="Dance 4" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Dance 4
+http://mastvapp.com:80/movie/mauricio/mauricio/0d5d4eec-f998-4f48-b8d0-3fcd5a0758d7.mp4
+
+#EXTINF:-1 tvg-name="Dance 5" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Dance 5
+http://mastvapp.com:80/movie/mauricio/mauricio/546570d2-7f8c-4b1d-957b-c54ade518416.mp4
+
+#EXTINF:-1 tvg-name="Dance 6" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Dance 6
+http://mastvapp.com:80/movie/mauricio/mauricio/f7268faf-0f25-49e8-8582-a1f4b6abc861.mp4
+
+#EXTINF:-1 tvg-name="Dance 7" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Dance 7
+http://mastvapp.com:80/movie/mauricio/mauricio/a2abc1bb-6af4-4a61-8d17-40f7f508111a.mp4
+
+#EXTINF:-1 tvg-name="Dance 8" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Dance 8
+http://mastvapp.com:80/movie/mauricio/mauricio/37fe3349-3a25-4626-82fa-b8ea35f25619.mp4
+
+#EXTINF:-1 tvg-name="Dance 9" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Dance 9
+http://mastvapp.com:80/movie/mauricio/mauricio/432b5750-2922-45e0-b4a7-1c672d43b0c8.mp4
+
+#EXTINF:-1 tvg-name="Dicoteca 1" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Dicoteca 1
+http://mastvapp.com:80/movie/mauricio/mauricio/ab05d7f9-f2fb-48e7-ac5b-27c2d871dca1.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 2" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 2
+http://mastvapp.com:80/movie/mauricio/mauricio/c7fcad6f-665b-43d0-8096-e19d90209f59.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 3" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 3
+http://mastvapp.com:80/movie/mauricio/mauricio/aecf454b-6e9d-4968-8fda-64528709f629.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 4" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 4
+http://mastvapp.com:80/movie/mauricio/mauricio/431b3c69-7abc-445f-9dc4-09ddd8e8bd7c.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 5" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 5
+http://mastvapp.com:80/movie/mauricio/mauricio/3cf270c7-7213-4a91-a420-7c8e43bb9a56.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 6" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 6
+http://mastvapp.com:80/movie/mauricio/mauricio/6bc9753e-b762-4585-b129-56d0dcc099e3.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 7" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 7
+http://mastvapp.com:80/movie/mauricio/mauricio/7e15da62-137b-4ea4-bb53-078a9161186f.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 8" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 8
+http://mastvapp.com:80/movie/mauricio/mauricio/4ef7ca61-0c76-469f-a314-ed7fa57b2028.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 9" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 9
+http://mastvapp.com:80/movie/mauricio/mauricio/24b0f9cd-fc1e-493b-89e0-4e252aaefe19.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 10" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 10
+http://mastvapp.com:80/movie/mauricio/mauricio/4a22efc5-da2b-4cf6-a8d7-312b20f3f77a.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 11" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 11
+http://mastvapp.com:80/movie/mauricio/mauricio/75e86333-b00e-47a6-b5c9-35593825862f.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 12" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 12
+http://mastvapp.com:80/movie/mauricio/mauricio/bba6402e-13df-4235-97c7-185fd708ea53.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 13" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 13
+http://mastvapp.com:80/movie/mauricio/mauricio/d0c9a070-a9e7-49e6-9536-bd48c18d4c4d.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 14" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 14
+http://mastvapp.com:80/movie/mauricio/mauricio/f8d5b571-9d4b-4947-bb7f-db462e929e64.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 15" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 15
+http://mastvapp.com:80/movie/mauricio/mauricio/8f3078f4-b11c-4e91-8c3f-a301ae5c1228.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 16" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 16
+http://mastvapp.com:80/movie/mauricio/mauricio/d703263b-03d0-458e-b275-fcde3bcb988f.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 17" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 17
+http://mastvapp.com:80/movie/mauricio/mauricio/c1ca92e3-9bde-458a-abc9-392415e6e022.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 18" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 18
+http://mastvapp.com:80/movie/mauricio/mauricio/d5ddcbcb-ac75-4c71-a10b-c6319c263534.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 19" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 19
+http://mastvapp.com:80/movie/mauricio/mauricio/598aadc6-03f6-492b-bea4-c2156c99dc88.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 20" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 20
+http://mastvapp.com:80/movie/mauricio/mauricio/8c081ede-362b-4be1-8cba-61c24e07beda.mp4
+
+#EXTINF:-1 tvg-name="Discoteca 21" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Discoteca 21
+http://mastvapp.com:80/movie/mauricio/mauricio/c66b06ef-2f77-4fe7-8e56-605a10c016bc.mp4
+
+#EXTINF:-1 tvg-name="Euro - Beat 1" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Euro - Beat 1
+http://mastvapp.com:80/movie/mauricio/mauricio/c225e6bc-2546-43ab-865f-ae307ac1918a.mp4
+
+#EXTINF:-1 tvg-name="Latinos Hits 1" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Latinos Hits 1
+http://mastvapp.com:80/movie/mauricio/mauricio/5ebed90e-e1a5-4621-a0da-c27beb1458f8.mp4
+
+#EXTINF:-1 tvg-name="Latinos Hits 2" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Latinos Hits 2
+http://mastvapp.com:80/movie/mauricio/mauricio/6dacd4b0-6876-48ef-9ac1-1186b3c19eca.mp4
+
+#EXTINF:-1 tvg-name="Latinos Hits 3" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Latinos Hits 3
+http://mastvapp.com:80/movie/mauricio/mauricio/101d423c-e7b7-4028-b77b-7f36ef51fc65.mp4
+
+#EXTINF:-1 tvg-name="Latinos Hits 4" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Latinos Hits 4
+http://mastvapp.com:80/movie/mauricio/mauricio/ddf69523-4eb0-40da-8e6a-1005aedb6008.mp4
+
+#EXTINF:-1 tvg-name="Latinos Hits 5" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Latinos Hits 5
+http://mastvapp.com:80/movie/mauricio/mauricio/536b8595-7b55-4142-a7e1-c1c92ad6f29e.mp4
+
+#EXTINF:-1 tvg-name="Musicas de Peliculas 1" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Musicas de Peliculas 1
+http://mastvapp.com:80/movie/mauricio/mauricio/869dd994-438e-4e8b-be76-c17cbdb5d101.mp4
+
+#EXTINF:-1 tvg-name="Musicas de Peliculas 2" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Musicas de Peliculas 2
+http://mastvapp.com:80/movie/mauricio/mauricio/f748eb26-b6ad-4349-b86a-6f2219369fc3.mp4
+
+#EXTINF:-1 tvg-name="Musicas de peliculas 3" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Musicas de peliculas 3
+http://mastvapp.com:80/movie/mauricio/mauricio/d1dc7f02-d403-44a1-bcc5-487970e1faa4.mp4
+
+#EXTINF:-1 tvg-name="Musicas de peliculas 4" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Musicas de peliculas 4
+http://mastvapp.com:80/movie/mauricio/mauricio/c1b3eaed-7e1c-45da-9a16-830c60dbf9f8.mp4
+
+#EXTINF:-1 tvg-name="Old Skool 1" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Old Skool 1
+http://mastvapp.com:80/movie/mauricio/mauricio/a90c059d-21f4-475f-9933-505a5b9bb9b4.mp4
+
+#EXTINF:-1 tvg-name="Pop 1" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Pop 1
+http://mastvapp.com:80/movie/mauricio/mauricio/a3e6c46b-eb84-45cc-bea7-35d1bdfafbe2.mp4
+
+#EXTINF:-1 tvg-name="Pop 2" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Pop 2
+http://mastvapp.com:80/movie/mauricio/mauricio/aa52a6fa-47b5-4e8d-bff2-41d994bc79c3.mp4
+
+#EXTINF:-1 tvg-name="Pop 3" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Pop 3
+http://mastvapp.com:80/movie/mauricio/mauricio/2d9f2da6-b4b1-4539-b6ad-657225e919a7.mp4
+
+#EXTINF:-1 tvg-name="Pop 4" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Pop 4
+http://mastvapp.com:80/movie/mauricio/mauricio/f9ee17f1-2f51-402d-85aa-c52a1e86070b.mp4
+
+#EXTINF:-1 tvg-name="Pop 5" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Pop 5
+http://mastvapp.com:80/movie/mauricio/mauricio/3deef8d0-8b1b-422e-8035-b577f87bf3c6.mp4
+
+#EXTINF:-1 tvg-name="Pop 6" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Pop 6
+http://mastvapp.com:80/movie/mauricio/mauricio/24562c41-6ed5-4b7d-8287-621137478fe4.mp4
+
+#EXTINF:-1 tvg-name="Reloaded 1" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Reloaded 1
+
+http://mastvapp.com:80/movie/mauricio/mauricio/f4693101-ae28-461c-a3d6-45a8c42efb96.mp4
+#EXTINF:-1 tvg-name="Reloaded 2" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Reloaded 2
+
+http://mastvapp.com:80/movie/mauricio/mauricio/ea7b3f94-3ccf-4c21-9b07-26ce71f57f61.mp4
+#EXTINF:-1 tvg-name="Salsa 1" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Salsa 1
+
+http://mastvapp.com:80/movie/mauricio/mauricio/eaf5c250-83b9-4c70-8a68-6cec17548f74.mp4
+#EXTINF:-1 tvg-name="Tropical 1" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Tropical 1
+http://mastvapp.com:80/movie/mauricio/mauricio/288dbc7f-95fc-44a8-a015-23d3217d4740.mp4
+
+#EXTINF:-1 tvg-name="Tropical 2" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Tropical 2
+http://mastvapp.com:80/movie/mauricio/mauricio/3e18ebd1-4e1d-4313-9a3f-2ea636d4a10d.mp4
+
+#EXTINF:-1 tvg-name="Tropical 3" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Tropical 3
+http://mastvapp.com:80/movie/mauricio/mauricio/6cb22df0-ead3-4859-9d46-c652f8aedbbe.mp4
+
+#EXTINF:-1 tvg-name="Vinilo 1" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Vinilo 1
+http://mastvapp.com:80/movie/mauricio/mauricio/7cf0ee65-e463-43c1-a148-0726ba8847d5.mp4
+
+#EXTINF:-1 tvg-name="Vinilo 2" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Vinilo 2
+http://mastvapp.com:80/movie/mauricio/mauricio/16fceec1-6b94-43e2-8485-6da2a8bf243b.mp4
+
+#EXTINF:-1 tvg-name="Vinilo 3" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Vinilo 3
+http://mastvapp.com:80/movie/mauricio/mauricio/40343ee3-b9c3-47e9-9756-5a8ded436e07.mp4
+
+#EXTINF:-1 tvg-id="8ed963e2-d855-4040-bc37-a128116992b2" tvg-name="Clasicos" tvg-logo="https://i.postimg.cc/y6PSg1Gm/portada-pelicula-sin-bordes.png" group-title="VIDEOS MUSICALES",Clasicos
+http://mastvapp.com:80/live/mauricio/mauricio/8ed963e2-d855-4040-bc37-a128116992b2.ts
+
+#EXTINF:-1 tvg-id="2b635983-8a04-411d-a3f0-aee1c284d270" tvg-name="Dance" tvg-logo="https://i.postimg.cc/y6PSg1Gm/videos-musicales.png" group-title="VIDEOS MUSICALES",Dance
+http://mastvapp.com:80/live/mauricio/mauricio/2b635983-8a04-411d-a3f0-aee1c284d270.ts
+
+#EXTINF:-1 tvg-id="b21185ed-a708-478c-9cf9-86da3cda3d69" tvg-name="Discoteca" tvg-logo="https://i.postimg.cc/y6PSg1Gm/videos-musicales.png" group-title="VIDEOS MUSICALES",Discoteca
+http://mastvapp.com:80/live/mauricio/mauricio/b21185ed-a708-478c-9cf9-86da3cda3d69.ts
+
+#EXTINF:-1 tvg-id="cb4e6335-87d4-4e74-aabd-0a5e6a38cba6" tvg-name="Ingles Mix" tvg-logo="https://i.postimg.cc/y6PSg1Gm/videos-musicales.png" group-title="VIDEOS MUSICALES",Ingles Mix
+http://mastvapp.com:80/live/mauricio/mauricio/cb4e6335-87d4-4e74-aabd-0a5e6a38cba6.ts
+
+#EXTINF:-1 tvg-id="ce811a2d-8be8-4223-b9ad-5b6fea05c6e9" tvg-name="Latinos Hits" tvg-logo="https://i.postimg.cc/y6PSg1Gm/videos-musicales.png" group-title="VIDEOS MUSICALES",Latinos Hits
+http://mastvapp.com:80/live/mauricio/mauricio/ce811a2d-8be8-4223-b9ad-5b6fea05c6e9.ts
+
+#EXTINF:-1 tvg-id="7b48f115-6a5e-4112-8abe-cde7c70ea744" tvg-name="Pop" tvg-logo="https://i.postimg.cc/y6PSg1Gm/videos-musicales.png" group-title="VIDEOS MUSICALES",Pop
+http://mastvapp.com:80/live/mauricio/mauricio/7b48f115-6a5e-4112-8abe-cde7c70ea744.ts
+
+#EXTINF:-1 tvg-id="f4984b0f-183e-4856-96b6-5c05b69d099f" tvg-name="Tropical Mix" tvg-logo="https://i.postimg.cc/y6PSg1Gm/videos-musicales.png" group-title="VIDEOS MUSICALES",Tropical Mix
+http://mastvapp.com:80/live/mauricio/mauricio/f4984b0f-183e-4856-96b6-5c05b69d099f.ts
+
+#EXTINF:-1 tvg-id="97778cc4-9c9a-4482-8968-35c5a1693d27" tvg-name="Reggaeton Antiguo 2000 al 2010" tvg-logo="https://i.postimg.cc/y6PSg1Gm/videos-musicales.png" group-title="VIDEOS MUSICALES",Reggaeton Antiguo 2000 al 2010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3670,5 +4004,6 @@ http://mastvapp.com:80/live/mauricio/mauricio/67f794f4-d755-4c7d-a7f0-4db00ac1d0
 
 #EXTINF:-1 tvg-id="361aa26e-4c2d-4335-aca6-aa122ab124b1" tvg-name="114 tia alison" tvg-logo="https://i.postimg.cc/L6N6nVzy/tia-alison-24-7.jpg" group-title="24/7 NOVELAS",114 tia alison
 http://mastvapp.com:80/live/mauricio/mauricio/361aa26e-4c2d-4335-aca6-aa122ab124b1.ts
+
 
 
