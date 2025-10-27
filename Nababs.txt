@@ -241,9 +241,9 @@ https://cdn.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_C/MixTV.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/7457/CH_LOGO/60/40/0/0/96867739074646.png" group-title="CANALES FLOW"  ,Net TV
+#EXTINF:-1 tvg-id="Net TV.ar" tvg-name="Net TV.ar" tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png" group-title="Argentina" ch-number="15" type="channel",Net TV
 https://chromecast.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_2A/Net_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -439,7 +439,9 @@ deportes (100xx)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=agenda&token=3576520243
 
 
-#EXTINF:-1 tvg-id="ar#espn-2" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="Deportes" ch-number="111" type="channel",ESPN
 http://143.0.67.75:8000/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.postimg.cc/v8rFtMbz/espn.png" group-title="Deportes", ESPN 🇨🇴
@@ -452,8 +454,9 @@ http://143.0.67.75:8000/play/a05a/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com
 
-
-#EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn2.png" group-title="Deportes", ESPN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" group-title="Deportes" ch-number="112" type="channel",ESPN 2
 http://143.0.67.75:8000/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.postimg.cc/mksxWpNC/espn2-logo-white.png" group-title="Deportes", ESPN 2 🇨🇴
@@ -468,7 +471,10 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 
 
 
-#EXTINF:-1 tvg-id="ar#espn-3" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png" group-title="Deportes", ESPN 3
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
+#EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="Deportes" ch-number="113" type="channel",ESPN 3
 http://143.0.67.75:8000/play/a05b/index.m3u8
 
 
@@ -485,9 +491,10 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
-#EXTINF:-1 ch-number="104" tvg-id="ESPN 4 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" group-title="Deportes", ESPN 4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
+#EXTINF:-1 tvg-id="ESPN 4.ar" tvg-name="ESPN 4" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="114" type="channel",ESPN 4
 http://190.104.67.204:234/play/a084/index.m3u8
 
 
@@ -553,14 +560,19 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png.png" ,ESPN+ DEPORTES 
 http://cplay.club:2086/Javier0124/vdXJW9JnXP/38921
 
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-EspnPremium.png" group-title="Deportes", ESPN Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="Deportes" ch-number="110" type="channel",ESPN Premium
 http://143.0.67.75:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN PREMIUM 2"tvg- logo="https://i.ibb.co/xdZrSq0/espnpremium.png" , ESPN PREMIUM 2 LIBERTADORES CHAMPIONS F1
 http://38.252.213.12:8000/play/a02r
 
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="Deportes", TNT Sports
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Deportes" ch-number="109" type="channel",TNT Sports Premium
 http://143.0.67.75:8000/play/a0bc/index.m3u8
 
 
@@ -739,8 +751,9 @@ http://200.12.41.194:8000/play/a089/index.m3u8
 https://76eb25c25d284d038e4a785c7c982f9d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORB-LATAM-ES-FAST-FREELIVESPORTS/957/freelivesports/hls/master/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-id="DAZN EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/2560px-DAZN_F1_logo.svg.png" tvg-name="DAZN" group-title="DEPORTES",DAZN F1
-http://195.66.210.10:80/Cta001/KfTwnUFGRD/33523.m3u8
+http://planettvweb.com:8091/JavierHndez/AFur2741a/16967
 
 
 #EXTINF:-1,DAZN MOTO GP
@@ -748,7 +761,7 @@ http://serviciosvisuales.net:80/live/edwinto/4U6gTQh/67526.m3u8
 
 
 #EXTINF:-1 tvg-name="DAZN 1 HD" tvg-logo="https://i.postimg.cc/G3YNTvcx/DANZ-ESPA-A.jpg" group-title="DAZN Eventos",DAZN 1 HD
-http://mastvapp.com:80/live/mauricio/mauricio/982f209a-0fb6-4866-ad66-b25a17a3b0b4.ts
+http://planettvweb.com:8091/JavierHndez/AFur2741a/12043
 
 
 
@@ -756,7 +769,7 @@ http://mastvapp.com:80/live/mauricio/mauricio/982f209a-0fb6-4866-ad66-b25a17a3b0
 http://195.66.210.10:80/Cta001/KfTwnUFGRD/33523.m3u8
 
 #EXTINF:-1 tvg-name="DAZN 2 HD" tvg-logo="https://i.postimg.cc/Bb8Vm1D4/DAZN-LIGA-2.jpg" group-title="DAZN Eventos",DAZN 2 HD
-http://mastvapp.com:80/live/mauricio/mauricio/16c791ef-ace9-4eab-8772-bc5a98e5987c.ts
+http://planettvweb.com:8091/JavierHndez/AFur2741a/11975
 
 
 #EXTINF:-1 tvg-name="DAZN 3" tvg-logo="https://i.postimg.cc/G3YNTvcx/DANZ-ESPA-A.jpg" group-title="DAZN Eventos",DAZN 3
@@ -1764,16 +1777,17 @@ https://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd?|refer
 #EXTINF:-1 ch-number="318" tvg-id="Golden.py" tvg-logo="https://i.postimg.cc/L4QXnxHV/golden-plus.png" group-title="Cine, Novelas y Series", Golden Plus
 https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(GOLDEN_HD)/manifest.mpd?|referer=https://pylocalliveclarovideo.akamaized.net/
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
 #EXTINF:-1 tvg-id="HBO HD.uy" tvg-name="HBO" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="Cine, Novelas y Series" ch-number="319" type="channel",HBO
-http://138.99.179.229:8000/play/a0j3/index.m3u8
+http://francope.elementfx.com/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd?|Origin=https://portal.app.flow.com.ar
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
 #EXTINF:-1 tvg-id="HBO 2 HD.uy" tvg-name="HBO 2" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBO2P.png?raw=true" group-title="Cine, Novelas y Series" ch-number="320" type="channel",HBO 2
-http://138.99.179.229:8000/play/a0k2/index.m3u8
+http://francope.elementfx.com/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd?|Origin=https://portal.app.flow.com.ar
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
@@ -1788,20 +1802,24 @@ https://cdn.cvattv.com.ar///live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mp
 
 
 
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7821b2662148fe333d5191acbb8a5c1f:ae43f3e2545237ebda58b13813b5d328
 #EXTINF:-1 tvg-id="HBO Mundi HD.uy" tvg-name="HBO Mundi" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOMN.png?raw=true" group-title="Cine, Novelas y Series" ch-number="323" type="channel",HBO Mundi
-http://138.99.179.229:8000/play/a0pn/index.m3u8
+http://francope.elementfx.com/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd?|Origin=https://portal.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6
 #EXTINF:-1 tvg-id="HBO POP HD.uy" tvg-name="HBO Pop" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPP.png?raw=true" group-title="Cine, Novelas y Series" ch-number="324" type="channel",HBO Pop
-http://138.99.179.229:8000/play/a0pq/index.m3u8
+http://francope.elementfx.com/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd?|Origin=https://portal.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e866499fbc1149f49989672075aa3a68:d2dd5c95623c6343240981c2202fc311
 #EXTINF:-1 tvg-id="HBO Signature HD.uy" tvg-name="HBO Signature" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOSG.png?raw=true" group-title="Cine, Novelas y Series" ch-number="325" type="channel",HBO Signature
-http://138.99.179.229:8000/play/a0pm/index.m3u8
+http://francope.elementfx.com/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd?|Origin=https://portal.app.flow.com.ar
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d504011bbef467c0de3a7534e302a6d4:334103e2abe16faa7f9ab2e3097c5a58
@@ -5132,6 +5150,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u
 
 #EXTINF:-1 tvg-id="5f85cf621d6d2200079f1de0" tvg-name="Karaoke por Stingray" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Música" tvg-chno="1525", Karaoke por Stingray
 https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7f4a1004-3df9-11f0-90ac-1ee1ca4b8ae7
+
 
 
 
