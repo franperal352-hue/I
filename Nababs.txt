@@ -104,7 +104,7 @@ https://api.m3use.projectmoose.xyz/m3u/naruto420/naruto/6887d2069bd9a7cd3c08d8cf
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
 #EXTINF:-1 group-title="Argentina"  tvg-id="America 24.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/2944696007343.png" tvg-group="Noticias", A24
-http://143.0.67.75:8000/play/a01o/index.m3u8
+https://api.m3use.projectmoose.xyz/m3u/naruto420/naruto/67f86f2f8d4666c5caa7c058.m3u8?uid=naruto420&pkey=k5PvRSNT
 
 
 
@@ -5076,6 +5076,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u
 
 #EXTINF:-1 tvg-id="5f85cf621d6d2200079f1de0" tvg-name="Karaoke por Stingray" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Música" tvg-chno="1525", Karaoke por Stingray
 https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7f4a1004-3df9-11f0-90ac-1ee1ca4b8ae7
+
 
 
 
