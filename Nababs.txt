@@ -1053,6 +1053,86 @@ infantiles (200xx)
 #EXTINF:-1 CANAL EXCLUSIVO DE ANIME 
 http://186.116.5.61:8000/play/a00m
 
+#EXTINF:-1 tvg-id="1b74bd11-1023-4080-a63a-4f655cc7bfd3" tvg-name="36 LOS SIMPSON 1-17 temp" tvg-logo="https://i.postimg.cc/4ypvNsRz/simpson1.png" group-title="24/7 INFANTILES",36 LOS SIMPSON 1-17 temp
+http://vivetv.net:80/live/mauricio/mauricio/1b74bd11-1023-4080-a63a-4f655cc7bfd3.m3u
+
+#EXTINF:-1 tvg-id="9fe67da9-0d8a-4a39-9a73-1021c0b471ac" tvg-name="37 LOS SIMPSON 18-34 temp" tvg-logo="https://i.postimg.cc/2SZvTjyg/los-simpson.jpg" group-title="24/7 INFANTILES",37 LOS SIMPSON 18-34 temp
+http://vivetv.net:80/live/mauricio/mauricio/9fe67da9-0d8a-4a39-9a73-1021c0b471ac.m3u
+
+#EXTINF:-1 tvg-id="5f29be8e-0559-4372-9155-ec7608e5b23b" tvg-name="38 LOS SIMPSON casitas del horror" tvg-logo="https://i.postimg.cc/VvDnWj3W/la-casita-del-horror.jpg" group-title="24/7 INFANTILES",38 LOS SIMPSON casitas del horror
+http://vivetv.net:80/live/mauricio/mauricio/5f29be8e-0559-4372-9155-ec7608e5b23b.m3u
+
+
+#EXTINF:-1 tvg-id="ef4ca998-60a1-4ea5-8b56-f85a925e3e37" tvg-name="Plim Plim Un Heroe De Corazon" tvg-logo="https://i.postimg.cc/FzSg36PP/APRENDE-CON-PLIM-PLIM.jpg" group-title="24/7 BEBES 1-3 AÑOS",Plim Plim Un Heroe De Corazon
+http://vivetv.net:80/live/mauricio/mauricio/ef4ca998-60a1-4ea5-8b56-f85a925e3e37.m3u
+
+#EXTINF:-1 tvg-id="f6358138-f2db-43de-b7bf-1f10b2b1b227" tvg-name="106 PLIM PLIM canciones" tvg-logo="https://i.postimg.cc/2SVKYGkP/plim_plim.png" group-title="24/7 BEBES 1-3 AÑOS",106 PLIM PLIM canciones
+http://vivetv.net:80/live/mauricio/mauricio/f6358138-f2db-43de-b7bf-1f10b2b1b227.m3u
+
+#EXTINF:-1 tvg-id="3f312e21-6eec-4772-bf1d-a3c58e1df1f2" tvg-name="Luli PamPin" tvg-logo="https://i.postimg.cc/BZhJm84W/luli-pampin.jpg" group-title="24/7 BEBES 1-3 AÑOS",Luli PamPin
+http://vivetv.net:80/live/mauricio/mauricio/3f312e21-6eec-4772-bf1d-a3c58e1df1f2.m3u
+
+#EXTINF:-1 tvg-id="b713c5a6-544f-4ebf-9e7f-e55f19acd60b" tvg-name="7 BLUEY" tvg-logo="https://i.postimg.cc/J41b6Nqs/BLUEY.png" group-title="24/7 BEBES 1-3 AÑOS",7 BLUEY
+http://vivetv.net:80/live/mauricio/mauricio/b713c5a6-544f-4ebf-9e7f-e55f19acd60b.m3u
+
+#EXTINF:-1 tvg-id="2ec32984-10d4-4720-a3b2-d5e572200d15" tvg-name="39 MASHA Y EL OSO" tvg-logo="https://i.postimg.cc/fRn8gPRt/MASHA_Y_EL_OSO.png" group-title="24/7 BEBES 1-3 AÑOS",39 MASHA Y EL OSO
+http://vivetv.net:80/live/mauricio/mauricio/2ec32984-10d4-4720-a3b2-d5e572200d15.m3u
+
+#EXTINF:-1 tvg-id="cf47e1da-d798-4488-8c9b-b1a55ab9da63" tvg-name="100 PAW PATROL" tvg-logo="https://i.postimg.cc/qM6WYPp1/PAW_PATROL.png" group-title="24/7 BEBES 1-3 AÑOS",100 PAW PATROL
+http://vivetv.net:80/live/mauricio/mauricio/cf47e1da-d798-4488-8c9b-b1a55ab9da63.m3u
+
+#EXTINF:-1 tvg-id="b39f6632-c971-49c5-ad6d-f45f15747567" tvg-name="101 PEPPA PIG" tvg-logo="https://i.postimg.cc/QtMyqP6k/peppa_pig.png" group-title="24/7 BEBES 1-3 AÑOS",101 PEPPA PIG
+http://vivetv.net:80/live/mauricio/mauricio/b39f6632-c971-49c5-ad6d-f45f15747567.m3u
+
+#EXTINF:-1 tvg-id="9c41ddaa-9ef9-4938-87d7-f6347f2dcb85" tvg-name="108 POCOYO canciones" tvg-logo="https://i.postimg.cc/NffBz41D/POCOYOcanciones.png" group-title="24/7 BEBES 1-3 AÑOS",108 POCOYO canciones
+http://vivetv.net:80/live/mauricio/mauricio/9c41ddaa-9ef9-4938-87d7-f6347f2dcb85.m3u
+
+#EXTINF:-1 tvg-id="44ab09e7-f5c4-42d4-b4e3-b4bc4adc1c73" tvg-name="107 POCOYO" tvg-logo="https://i.postimg.cc/qvQ0rZTg/POCOYO.png" group-title="24/7 BEBES 1-3 AÑOS",107 POCOYO
+http://vivetv.net:80/live/mauricio/mauricio/44ab09e7-f5c4-42d4-b4e3-b4bc4adc1c73.m3u
+
+#EXTINF:-1 tvg-id="d4a75d99-384c-4538-a75c-ef16b063b560" tvg-name="24-7 Granja de Zenon" tvg-logo="https://i.postimg.cc/65rJPfh7/il-570x-N-4713420537-553j.jpg" group-title="24/7 BEBES 1-3 AÑOS",24-7 Granja de Zenon
+http://vivetv.net:80/live/mauricio/mauricio/d4a75d99-384c-4538-a75c-ef16b063b560.m3u
+
+#EXTINF:-1 tvg-id="8f257193-d07b-4a7b-b4f0-62e36c2537d4" tvg-name="24-7 Canciones de Cuna" tvg-logo="https://i.postimg.cc/SRQCprMy/images-2.jpg" group-title="24/7 BEBES 1-3 AÑOS",24-7 Canciones de Cuna
+http://vivetv.net:80/live/mauricio/mauricio/8f257193-d07b-4a7b-b4f0-62e36c2537d4.m3u
+
+#EXTINF:-1 tvg-id="4a38eab1-6c82-4865-b5fc-6fe612ababa2" tvg-name="Pequeños Heroes" tvg-logo="https://i.postimg.cc/rp9LsV5d/Pequeños_héroes.jpg" group-title="24/7 BEBES 1-3 AÑOS",Pequeños Heroes
+http://vivetv.net:80/live/mauricio/mauricio/4a38eab1-6c82-4865-b5fc-6fe612ababa2.m3u
+
+#EXTINF:-1 tvg-id="f89f092d-0908-441d-9991-3dfbea3cc20f" tvg-name="Danny Go!" tvg-logo="https://i.postimg.cc/k5nQTC6j/DANNY-GO.jpg" group-title="24/7 BEBES 1-3 AÑOS",Danny Go!
+http://vivetv.net:80/live/mauricio/mauricio/f89f092d-0908-441d-9991-3dfbea3cc20f.m3u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5cf6da7262ddb74c2f370ded6056f46c:78109125565ab1747f511f7e77e3bbaf
@@ -1124,6 +1204,106 @@ https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?|referer=htt
 ANIME ONEGAI TV PLUS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 
+#EXTINF:-1 tvg-id="d7004543-ebd4-4ef0-94bb-831bdfd5f9e2" tvg-name="4 ELFEN LIED" group-title="24/7 ANIMES",4 ELFEN LIED
+http://vivetv.net:80/live/mauricio/mauricio/d7004543-ebd4-4ef0-94bb-831bdfd5f9e2.m3u
+
+#EXTINF:-1 tvg-id="a8abcce9-7d9c-41a9-9ec1-6e5794e785f4" tvg-name="5 KENSHIN SAMURAI X" group-title="24/7 ANIMES",5 KENSHIN SAMURAI X
+http://vivetv.net:80/live/mauricio/mauricio/a8abcce9-7d9c-41a9-9ec1-6e5794e785f4.m3u
+
+#EXTINF:-1 tvg-id="e961aeaf-17b7-4437-9325-d309fc175e99" tvg-name="6 DRAGON BALL DAIMA LATINO" group-title="24/7 ANIMES",6 DRAGON BALL DAIMA LATINO
+http://vivetv.net:80/live/mauricio/mauricio/e961aeaf-17b7-4437-9325-d309fc175e99.m3u
+
+#EXTINF:-1 tvg-id="94eba879-511c-4972-8e57-5d5eac4f246f" tvg-name="7 Caballeros del Zodiaco peliculas" tvg-logo="https://image.tmdb.org/t/p/original/w1id1iEKogRjmMffAM01ZcWwBLR.jpg" group-title="24/7 ANIMES",7 Caballeros del Zodiaco peliculas
+http://vivetv.net:80/live/mauricio/mauricio/94eba879-511c-4972-8e57-5d5eac4f246f.m3u
+
+#EXTINF:-1 tvg-id="77b87615-6143-4441-99c8-e6a5dd88a24f" tvg-name="8 Super Campeones-capitan tsubasa 2018" tvg-logo="https://image.tmdb.org/t/p/original/4sflgsMQpqkzpcoNgrJGHj1VqxY.jpg" group-title="24/7 ANIMES",8 Super Campeones-capitan tsubasa 2018
+http://vivetv.net:80/live/mauricio/mauricio/77b87615-6143-4441-99c8-e6a5dd88a24f.m3u
+
+#EXTINF:-1 tvg-id="da0d4a7d-ca8e-4efc-b5cf-7f6a994ad99b" tvg-name="9 Robotech" tvg-logo="https://image.tmdb.org/t/p/original/bXDoWTWdWTPc5n8mclhM9fvhfG1.jpg" group-title="24/7 ANIMES",9 Robotech
+http://vivetv.net:80/live/mauricio/mauricio/da0d4a7d-ca8e-4efc-b5cf-7f6a994ad99b.m3u
+
+#EXTINF:-1 tvg-id="4618f196-3613-4ad8-9934-bec2b994189c" tvg-name="10 Death Note" tvg-logo="https://image.tmdb.org/t/p/original/6tk3niGT9rf48KePCv4fPKM0K62.jpg" group-title="24/7 ANIMES",10 Death Note
+http://vivetv.net:80/live/mauricio/mauricio/4618f196-3613-4ad8-9934-bec2b994189c.m3u
+
+#EXTINF:-1 tvg-id="41d14128-eec7-4dd7-8fd1-cc81409294c3" tvg-name="11 Neon Genesis Evangelion 90s" tvg-logo="https://image.tmdb.org/t/p/original/7qmPVHKE7ZNsqsEKkVXF8jNlahP.jpg" group-title="24/7 ANIMES",11 Neon Genesis Evangelion 90s
+http://vivetv.net:80/live/mauricio/mauricio/41d14128-eec7-4dd7-8fd1-cc81409294c3.m3u
+
+#EXTINF:-1 tvg-id="d6e588b0-96eb-4588-bd71-6917f67cf23e" tvg-name="12 Doctor Stone" tvg-logo="https://image.tmdb.org/t/p/original/rocRrglJfYkglKilmFaStvo5EvS.jpg" group-title="24/7 ANIMES",12 Doctor Stone
+http://vivetv.net:80/live/mauricio/mauricio/d6e588b0-96eb-4588-bd71-6917f67cf23e.m3u
+
+#EXTINF:-1 tvg-id="4b40e01b-28fe-423e-b6e6-3665777cbceb" tvg-name="13 Super campeones -capitan tsubasa 1983" tvg-logo="https://image.tmdb.org/t/p/original/kyy5VG2sGExLTnrRXFTZ41srN76.jpg" group-title="24/7 ANIMES",13 Super campeones -capitan tsubasa 1983
+http://vivetv.net:80/live/mauricio/mauricio/4b40e01b-28fe-423e-b6e6-3665777cbceb.m3u
+
+#EXTINF:-1 tvg-id="626895bd-8ff8-4c25-8f12-3ca5d6fced3f" tvg-name="14 Ataque a los titanes" tvg-logo="https://image.tmdb.org/t/p/original/uAlgu4talmCw772hYT5vlnO6Asu.jpg" group-title="24/7 ANIMES",14 Ataque a los titanes
+http://vivetv.net:80/live/mauricio/mauricio/626895bd-8ff8-4c25-8f12-3ca5d6fced3f.m3u
+
+#EXTINF:-1 tvg-id="07c89474-a4f2-4c75-b747-6071d52dcf06" tvg-name="15 Noragami" tvg-logo="https://image.tmdb.org/t/p/original/5hb8qfoPKQMlLfuhZcbcXwCRVEd.jpg" group-title="24/7 ANIMES",15 Noragami
+http://vivetv.net:80/live/mauricio/mauricio/07c89474-a4f2-4c75-b747-6071d52dcf06.m3u
+
+#EXTINF:-1 tvg-id="6e1eed18-b8ba-4b9b-8975-fdcde4572782" tvg-name="16 Gundam Wing" tvg-logo="https://image.tmdb.org/t/p/original/sSR2iMjOuNxN7omFRlfdjxSV52i.jpg" group-title="24/7 ANIMES",16 Gundam Wing
+http://vivetv.net:80/live/mauricio/mauricio/6e1eed18-b8ba-4b9b-8975-fdcde4572782.m3u
+
+#EXTINF:-1 tvg-id="fa716427-ba95-4662-aebe-1438f9ac780e" tvg-name="17 GTO Great Teacher Onizuka" tvg-
+logo="https://image.tmdb.org/t/p/original/tpGLTXIvJ3IuJHN8CBLSaxvkn0.jpg" group-title="24/7 ANIMES",17 GTO Great Teacher Onizuka
+http://vivetv.net:80/live/mauricio/mauricio/fa716427-ba95-4662-aebe-1438f9ac780e.m3u
+
+#EXTINF:-1 tvg-id="1d93194f-6adb-49cf-af27-6b6c41ce4206" tvg-name="18 BAKI" tvg-logo="https://image.tmdb.org/t/p/original/j4bL0G8h8k49MuXKYfZqhXqk2rI.jpg" group-title="24/7 ANIMES",18 BAKI
+http://vivetv.net:80/live/mauricio/mauricio/1d93194f-6adb-49cf-af27-6b6c41ce4206.m3u
+
+#EXTINF:-1 tvg-id="96ea8f89-b438-407c-83f7-975fd7161476" tvg-name="19 Zoids" tvg-logo="https://image.tmdb.org/t/p/original/wwzhNIAFACGp7xMJMkBStfqAlQk.jpg" group-title="24/7 ANIMES",19 Zoids
+http://vivetv.net:80/live/mauricio/mauricio/96ea8f89-b438-407c-83f7-975fd7161476.m3u
+
+#EXTINF:-1 tvg-id="a0ec0fe3-d180-4a45-9294-a0d4dd431a66" tvg-name="20 Zenki" tvg-logo="https://image.tmdb.org/t/p/original/sFhXlSqk4FnAvDBaG9YKYnJiE1V.jpg" group-title="24/7 ANIMES",20 Zenki
+http://vivetv.net:80/live/mauricio/mauricio/a0ec0fe3-d180-4a45-9294-a0d4dd431a66.m3u
+
+#EXTINF:-1 tvg-id="f8f825fa-70f2-4669-83ec-a36a8a7b425b" tvg-name="21 Ergo Proxy 24-7" tvg-logo="https://i.postimg.cc/25tSNn2w/MV5-BYm-Zm-OGM3-Mj-At-YWI3-My00-N2-Qy-LWJm-NTct-NTE5-MTU2-Zjcx-Yz-Ni-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg" group-title="24/7 ANIMES",21 Ergo Proxy 24-7
+http://vivetv.net:80/live/mauricio/mauricio/f8f825fa-70f2-4669-83ec-a36a8a7b425b.m3u
+
+#EXTINF:-1 tvg-id="f7975b0f-b080-4db2-a40f-8c7ba898a140" tvg-name="22 Mirmo Zibang" tvg-logo="https://image.tmdb.org/t/p/original/lbIFhsfpA7JJ1UoefzObmKDtcQG.jpg" group-title="24/7 ANIMES",22 Mirmo Zibang
+http://vivetv.net:80/live/mauricio/mauricio/f7975b0f-b080-4db2-a40f-8c7ba898a140.m3u
+
+#EXTINF:-1 tvg-id="ac2c47de-ce86-49bf-ae19-ebcee52d05b9" tvg-name="23 Los caballeros de kodai" tvg-logo="https://image.tmdb.org/t/p/original/oW7fSREzxYF49Yyeg1H9kuAFgBu.jpg" group-title="24/7 ANIMES",23 Los caballeros de kodai
+http://vivetv.net:80/live/mauricio/mauricio/ac2c47de-ce86-49bf-ae19-ebcee52d05b9.m3u
+
+#EXTINF:-1 tvg-id="9d914792-03bf-428d-b59d-82c87e3bffdb" tvg-name="24 Demon slayer - kimetsu no yaiba" tvg-logo="https://image.tmdb.org/t/p/original/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="24/7 ANIMES",24 Demon slayer - kimetsu no yaiba
+http://vivetv.net:80/live/mauricio/mauricio/9d914792-03bf-428d-b59d-82c87e3bffdb.m3u
+
+#EXTINF:-1 tvg-id="3d8e3077-b1cc-43bd-bef7-4b29cd41772e" tvg-name="25 haikyuu 24-7" tvg-logo="https://i.postimg.cc/XYzJqQwZ/haikyuu-24-7.jpg" group-title="24/7 ANIMES",25 haikyuu 24-7
+http://vivetv.net:80/live/mauricio/mauricio/3d8e3077-b1cc-43bd-bef7-4b29cd41772e.m3u
+
+#EXTINF:-1 tvg-id="080c5f34-fbbd-48ba-a9a5-b40c2838f3a0" tvg-name="26 Tokyo revengers" tvg-logo="https://i.postimg.cc/yxB9Bfy2/Tokyo-Revengers-24-7.webp" group-title="24/7 ANIMES",26 Tokyo revengers
+http://vivetv.net:80/live/mauricio/mauricio/080c5f34-fbbd-48ba-a9a5-b40c2838f3a0.m3u
+
+#EXTINF:-1 tvg-id="ca98fecf-6d2f-4e5c-b4ca-c8e82646365b" tvg-name="27 kakegurui 24-7" tvg-logo="https://i.postimg.cc/02vK8rjB/kakegurui-24-7.jpg" group-title="24/7 ANIMES",27 kakegurui 24-7
+http://vivetv.net:80/live/mauricio/mauricio/ca98fecf-6d2f-4e5c-b4ca-c8e82646365b.m3u
+
+#EXTINF:-1 tvg-id="9d827ca8-fc90-4cdc-b988-0e9aa35381ba" tvg-name="28 Jujutsu Kaizen 24-7" tvg-logo="https://i.postimg.cc/bYQ8cNcJ/jujutsu-kaisen-24-7.jpg" group-title="24/7 ANIMES",28 Jujutsu Kaizen 24-7
+http://vivetv.net:80/live/mauricio/mauricio/9d827ca8-fc90-4cdc-b988-0e9aa35381ba.m3u
+
+#EXTINF:-1 tvg-id="aba9f02f-ef0f-4a2c-be74-03d5bce54363" tvg-name="29 Naruto" tvg-logo="https://image.tmdb.org/t/p/original/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="24/7 ANIMES",29 Naruto
+http://vivetv.net:80/live/mauricio/mauricio/aba9f02f-ef0f-4a2c-be74-03d5bce54363.m3u
+
+#EXTINF:-1 tvg-id="f18e0531-f389-4868-8f59-b311a322092c" tvg-name="30 Bleach parte 1" tvg-logo="https://image.tmdb.org/t/p/original/mB6h4mlZXufkWtt58Bh1DiVvNgv.jpg" group-title="24/7 ANIMES",30 Bleach parte 1
+http://vivetv.net:80/live/mauricio/mauricio/f18e0531-f389-4868-8f59-b311a322092c.m3u
+
+#EXTINF:-1 tvg-id="a82a106a-35de-41e8-8fce-7648d08d0eb0" tvg-name="31 Bleach parte 2" tvg-logo="https://image.tmdb.org/t/p/original/xs88Qiibj5kr1lFTvIPn9bg7vbw.jpg" group-title="24/7 ANIMES",31 Bleach parte 2
+http://vivetv.net:80/live/mauricio/mauricio/a82a106a-35de-41e8-8fce-7648d08d0eb0.m3u
+
+#EXTINF:-1 tvg-id="60eb4488-f466-40bc-9110-1e24ccfc6eb5" tvg-name="32 Assassination Classroom" tvg-logo="https://image.tmdb.org/t/p/original/qf0l0nQ2t06Es3cSXflqx6l6vsJ.jpg" group-title="24/7 ANIMES",32 Assassination Classroom
+http://vivetv.net:80/live/mauricio/mauricio/60eb4488-f466-40bc-9110-1e24ccfc6eb5.m3u
+
+#EXTINF:-1 tvg-id="8ed0983b-854e-4b23-9324-d6506bad861e" tvg-name="33 Monster Rancher" tvg-logo="https://image.tmdb.org/t/p/original/rZU9MeIiSQj3BdcELTdnHFznvPe.jpg" group-title="24/7 ANIMES",33 Monster Rancher
+http://vivetv.net:80/live/mauricio/mauricio/8ed0983b-854e-4b23-9324-d6506bad861e.m3u
+
+#EXTINF:-1 tvg-id="5224371c-7a95-4827-aa04-fa7099449f67" tvg-name="111 NARUTO SHIPUDEN 1-7 TEMP latino" tvg-logo="https://i.postimg.cc/WbTB04Yq/narutoshipuden.png" group-title="24/7 ANIMES",111 NARUTO SHIPUDEN 1-7 TEMP latino
+http://vivetv.net:80/live/mauricio/mauricio/5224371c-7a95-4827-aa04-fa7099449f67.m3u
+
+#EXTINF:-1 tvg-id="fea9d06f-62b7-4d52-97ff-e49a04636365" tvg-name="Boruto: Naruto Next Generations - Del Cap 1 al 150" tvg-logo="https://i.postimg.cc/CM3NXBwg/BORUTO-NEX-GENERATION.jpg" group-title="24/7 ANIMES",Boruto: Naruto Next Generations - Del Cap 1 al 150
+http://vivetv.net:80/live/mauricio/mauricio/fea9d06f-62b7-4d52-97ff-e49a04636365.m3u
+
+#EXTINF:-1 tvg-id="4ca28d80-0f71-4e1a-8b49-6f151939d0b4" tvg-name="Boruto: Naruto Next Generations - Del Cap 151 al 293" tvg-logo="https://i.postimg.cc/CM3NXBwg/BORUTO-NEX-GENERATION.jpg" group-title="24/7 ANIMES",Boruto: Naruto Next Generations - Del Cap 151 al 293
+http://vivetv.net:80/live/mauricio/mauricio/4ca28d80-0f71-4e1a-8b49-6f151939d0b4.m3u
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ANIME - TEEN", Canal Anime Onegai 1 HD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
@@ -1156,8 +1336,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="ANIME - TEEN", ZTV Anime
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
-
-
 
 
 
@@ -1721,6 +1899,734 @@ https://cdn.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
 #EXTINF:-1 ch-number="" tvg-id="Futurock" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4384/CH_LOGO/160/160/0/0/18277879079297.png" group-title="Radios", Futuröck
 https://cdn.sensa.com.ar/output/SMT6/FTRd/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+	24/7 PELICULAS
+
+#EXTINF:-1 tvg-id="2696912e-c0b9-41d7-9806-5ea2f710dc1f" tvg-name="1 ROCKY BALBOA" tvg-logo="https://i.postimg.cc/KYZSgLR5/ROCKY_BALBOA.png" group-title="24/7 PELICULAS",1 ROCKY BALBOA
+http://vivetv.net:80/live/mauricio/mauricio/2696912e-c0b9-41d7-9806-5ea2f710dc1f.m3u
+
+#EXTINF:-1 tvg-id="75ea8dc8-770a-46c2-80cb-f511bb24fe1f" tvg-name="2 RAMBO" tvg-logo="https://i.postimg.cc/XYn5JwR8/RAMBO.png" group-title="24/7 PELICULAS",2 RAMBO
+http://vivetv.net:80/live/mauricio/mauricio/75ea8dc8-770a-46c2-80cb-f511bb24fe1f.m3u
+
+#EXTINF:-1 tvg-id="3e282465-0fb4-4fcd-8d0f-1885166caf52" tvg-name="3 RAPIDOS Y FURIOSOS" tvg-logo="https://i.postimg.cc/0j1b23jQ/rapidos_y_furiosos.png" group-title="24/7 PELICULAS",3 RAPIDOS Y FURIOSOS
+http://vivetv.net:80/live/mauricio/mauricio/3e282465-0fb4-4fcd-8d0f-1885166caf52.m3u
+
+#EXTINF:-1 tvg-id="671cc325-35fa-4ea5-a376-b05403840ef4" tvg-name="4 CINE BOLIVIANO" tvg-logo="https://i.postimg.cc/Y08g44R4/cine_boliviano.png" group-title="24/7 PELICULAS",4 CINE BOLIVIANO
+http://vivetv.net:80/live/mauricio/mauricio/671cc325-35fa-4ea5-a376-b05403840ef4.m3u
+
+#EXTINF:-1 tvg-id="deaa823b-fa0b-4f22-a58c-aeee156099b7" tvg-name="5 JURASSIC PARK" tvg-logo="https://i.postimg.cc/dVTsqGv6/jurassic_park.png" group-title="24/7 PELICULAS",5 JURASSIC PARK
+http://vivetv.net:80/live/mauricio/mauricio/deaa823b-fa0b-4f22-a58c-aeee156099b7.m3u
+
+#EXTINF:-1 tvg-id="bb9d22a5-c78e-457f-814e-ed773c5d01f4" tvg-name="6 EL SEÑOR DE LOS ANILLOS" tvg-logo="https://i.postimg.cc/k4GhmvPX/señor_de_los_anillos.png" group-title="24/7 PELICULAS",6 EL SEÑOR DE LOS ANILLOS
+http://vivetv.net:80/live/mauricio/mauricio/bb9d22a5-c78e-457f-814e-ed773c5d01f4.m3u
+
+#EXTINF:-1 tvg-id="39e5f764-b9ea-43e2-931a-ccb48c03eab2" tvg-name="8 VOLVER AL FUTURO" tvg-logo="https://i.postimg.cc/j508mw4L/volver_al_futuro.png" group-title="24/7 PELICULAS",8 VOLVER AL FUTURO
+http://vivetv.net:80/live/mauricio/mauricio/39e5f764-b9ea-43e2-931a-ccb48c03eab2.m3u
+
+#EXTINF:-1 tvg-id="9f152ca3-814d-4a7b-bf37-36d7ed263ba2" tvg-name="7 HOBBIT (señor de los anillos)" tvg-logo="https://i.postimg.cc/hjmZvPvH/hobbit.png" group-title="24/7 PELICULAS",7 HOBBIT (señor de los anillos)
+http://vivetv.net:80/live/mauricio/mauricio/9f152ca3-814d-4a7b-bf37-36d7ed263ba2.m3u
+
+#EXTINF:-1 tvg-id="7c62e47d-0527-4e8d-b518-b5c0bde67fa5" tvg-name="9 CHUCKY" tvg-logo="https://i.postimg.cc/g0sgf6Gd/chucky.png" group-title="24/7 PELICULAS",9 CHUCKY
+http://vivetv.net:80/live/mauricio/mauricio/7c62e47d-0527-4e8d-b518-b5c0bde67fa5.m3u
+
+#EXTINF:-1 tvg-id="353de686-05b4-42c6-b0c3-e60309322ed1" tvg-name="10 LOS INDESTRUCTIBLES" tvg-logo="https://i.postimg.cc/Ghs6YZtw/los_indestructibles.png" group-title="24/7 PELICULAS",10 LOS INDESTRUCTIBLES
+http://vivetv.net:80/live/mauricio/mauricio/353de686-05b4-42c6-b0c3-e60309322ed1.m3u
+
+#EXTINF:-1 tvg-id="9c022696-717e-4527-ace2-f100972dad49" tvg-name="11 JOHN WICK" tvg-logo="https://i.postimg.cc/FzJdh9ZH/john_wick.png" group-title="24/7 PELICULAS",11 JOHN WICK
+http://vivetv.net:80/live/mauricio/mauricio/9c022696-717e-4527-ace2-f100972dad49.m3u
+
+#EXTINF:-1 tvg-id="9d5bd3c0-c40f-435a-893a-ddad3128e8b5" tvg-name="12 AMERICAN PIE" tvg-logo="https://i.postimg.cc/63x5CdLt/america_pie.png" group-title="24/7 PELICULAS",12 AMERICAN PIE
+http://vivetv.net:80/live/mauricio/mauricio/9d5bd3c0-c40f-435a-893a-ddad3128e8b5.m3u
+
+#EXTINF:-1 tvg-id="15f5d6fe-c8e3-4771-8b44-72dded11010a" tvg-name="13 LAS CRONICAS DE NARNIA" tvg-logo="https://i.postimg.cc/NMJBfMkv/cronicas_de_narnia.png" group-title="24/7 PELICULAS",13 LAS CRONICAS DE NARNIA
+http://vivetv.net:80/live/mauricio/mauricio/15f5d6fe-c8e3-4771-8b44-72dded11010a.m3u
+
+#EXTINF:-1 tvg-id="aef0451f-131c-40fb-8358-a9825f3cfb9f" tvg-name="15 KARATE KID" tvg-logo="https://i.postimg.cc/sDF3ySbW/karate_kid.png" group-title="24/7 PELICULAS",15 KARATE KID
+http://vivetv.net:80/live/mauricio/mauricio/aef0451f-131c-40fb-8358-a9825f3cfb9f.m3u
+
+#EXTINF:-1 tvg-id="6425efe7-bf1c-47f2-be13-2d544fba0187" tvg-name="16 PIRATAS DEL CARIBE" tvg-logo="https://i.postimg.cc/WbvfGLzd/piratas_del_caribe.png" group-title="24/7 PELICULAS",16 PIRATAS DEL CARIBE
+http://vivetv.net:80/live/mauricio/mauricio/6425efe7-bf1c-47f2-be13-2d544fba0187.m3u
+
+#EXTINF:-1 tvg-id="da9c963c-0df3-4594-b2b8-564800f59cdd" tvg-name="17 JEAN CLAUDE VAN DAMME" tvg-logo="https://i.postimg.cc/280FVPZR/jean_claude_van_damme.png" group-title="24/7 PELICULAS",17 JEAN CLAUDE VAN DAMME
+http://vivetv.net:80/live/mauricio/mauricio/da9c963c-0df3-4594-b2b8-564800f59cdd.m3u
+
+#EXTINF:-1 tvg-id="195b08a1-6549-4ff5-8751-527de8b919c7" tvg-name="18 PELICULAS DE GUERRAS - BELICAS" tvg-logo="https://i.postimg.cc/vTygfxqS/belica.png" group-title="24/7 PELICULAS",18 PELICULAS DE GUERRAS - BELICAS
+http://vivetv.net:80/live/mauricio/mauricio/195b08a1-6549-4ff5-8751-527de8b919c7.m3u
+
+#EXTINF:-1 tvg-id="0e6b7ef5-d4df-4a0f-9070-2b557ff70912" tvg-name="20 VIERNES 13" tvg-logo="https://i.postimg.cc/wMFVDHpS/viernes_13.png" group-title="24/7 PELICULAS",20 VIERNES 13
+http://vivetv.net:80/live/mauricio/mauricio/0e6b7ef5-d4df-4a0f-9070-2b557ff70912.m3u
+
+#EXTINF:-1 tvg-id="d7a3c541-1940-4df1-9e7c-f9570dc4b435" tvg-name="19 PELICULAS CRISTIANAS" tvg-logo="https://i.postimg.cc/YS8Jqc4y/peliculas_cristianas.png" group-title="24/7 PELICULAS",19 PELICULAS CRISTIANAS
+http://vivetv.net:80/live/mauricio/mauricio/d7a3c541-1940-4df1-9e7c-f9570dc4b435.m3u
+
+#EXTINF:-1 tvg-id="3a0f1446-fdaa-41b1-9d3a-490ad8608624" tvg-name="21 CAMINO HACIA EL TERROR" tvg-logo="https://i.postimg.cc/ZRPKBFzK/camino_hacia_el_terrror.png" group-title="24/7 PELICULAS",21 CAMINO HACIA EL TERROR
+http://vivetv.net:80/live/mauricio/mauricio/3a0f1446-fdaa-41b1-9d3a-490ad8608624.m3u
+
+#EXTINF:-1 tvg-id="fb16c24d-3a76-4f82-a14b-d8b6b0116ab7" tvg-name="22 TERMINATOR" tvg-logo="https://i.postimg.cc/ydR3yTM5/terminator.png" group-title="24/7 PELICULAS",22 TERMINATOR
+http://vivetv.net:80/live/mauricio/mauricio/fb16c24d-3a76-4f82-a14b-d8b6b0116ab7.m3u
+
+#EXTINF:-1 tvg-id="bb4ee8fb-cf30-4a1b-9272-8db9f938afb5" tvg-name="23 ACTIVIDAD PARANORMAL" tvg-logo="https://i.postimg.cc/qRcM7ZVk/actividad_paranormal.png" group-title="24/7 PELICULAS",23 ACTIVIDAD PARANORMAL
+http://vivetv.net:80/live/mauricio/mauricio/bb4ee8fb-cf30-4a1b-9272-8db9f938afb5.m3u
+
+#EXTINF:-1 tvg-id="17e51cdb-e17a-4937-a8ce-09c4c71e86e5" tvg-name="24 PANDEMIAS" tvg-logo="https://i.postimg.cc/WzDFRgXP/pandemia.png" group-title="24/7 PELICULAS",24 PANDEMIAS
+http://vivetv.net:80/live/mauricio/mauricio/17e51cdb-e17a-4937-a8ce-09c4c71e86e5.m3u
+
+#EXTINF:-1 tvg-id="3e2c2e4b-6339-48e5-a6c9-7202d8953e07" tvg-name="25 ALVIN Y LAS ARDILLAS" tvg-logo="https://i.postimg.cc/W1ckR8z7/alvin_y_las_ardillas.png" group-title="24/7 PELICULAS",25 ALVIN Y LAS ARDILLAS
+http://vivetv.net:80/live/mauricio/mauricio/3e2c2e4b-6339-48e5-a6c9-7202d8953e07.m3u
+
+#EXTINF:-1 tvg-id="198a9519-020d-4aec-a230-9589129bf11c" tvg-name="26 PELICULAS 2024 pt. 1" tvg-logo="https://i.postimg.cc/26L3fhcp/peliculas_2024_pt_1.png" group-title="24/7 PELICULAS",26 PELICULAS 2024 pt. 1
+http://vivetv.net:80/live/mauricio/mauricio/198a9519-020d-4aec-a230-9589129bf11c.m3u
+
+#EXTINF:-1 tvg-id="9a8d2a72-a076-40a9-9a13-98c746297bf9" tvg-name="27 MISION IMPOSIBLE" tvg-logo="https://i.postimg.cc/VL4kDXZw/mission_imposible.png" group-title="24/7 PELICULAS",27 MISION IMPOSIBLE
+http://vivetv.net:80/live/mauricio/mauricio/9a8d2a72-a076-40a9-9a13-98c746297bf9.m3u
+
+#EXTINF:-1 tvg-id="ab7c59b8-9fdd-4c02-a670-1a6a126b0010" tvg-name="28 HALLOWEEN" tvg-logo="https://i.postimg.cc/YCVQtmNg/halloween.png" group-title="24/7 PELICULAS",28 HALLOWEEN
+http://vivetv.net:80/live/mauricio/mauricio/ab7c59b8-9fdd-4c02-a670-1a6a126b0010.m3u
+
+#EXTINF:-1 tvg-id="44ce8b16-863b-4440-8595-c0953de8691e" tvg-name="29 DUENDE MALDITO - LEPRECHAUN" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JLmMDAJ8qrIKKM4BjjFDGgXdf2kyQ3GCAfpLxSroD1jR.png" group-title="24/7 PELICULAS",29 DUENDE MALDITO - LEPRECHAUN
+http://vivetv.net:80/live/mauricio/mauricio/44ce8b16-863b-4440-8595-c0953de8691e.m3u
+
+#EXTINF:-1 tvg-id="f2c5a1a9-3b23-4ba5-a563-be46bf407b88" tvg-name="30 PELICULAS 2024 pt. 2" tvg-logo="https://i.postimg.cc/26L3fhcp/peliculas_2024_pt_1.png" group-title="24/7 PELICULAS",30 PELICULAS 2024 pt. 2
+http://vivetv.net:80/live/mauricio/mauricio/f2c5a1a9-3b23-4ba5-a563-be46bf407b88.m3u
+
+#EXTINF:-1 tvg-id="dba35a1e-c0a0-4894-867f-1f734e63416e" tvg-name="31 PELICULAS 2024 pt.3" tvg-logo="https://i.postimg.cc/26L3fhcp/peliculas_2024_pt_1.png" group-title="24/7 PELICULAS",31 PELICULAS 2024 pt.3
+http://vivetv.net:80/live/mauricio/mauricio/dba35a1e-c0a0-4894-867f-1f734e63416e.m3u
+
+#EXTINF:-1 tvg-id="5893190e-a18e-4150-a9ed-5d1efd5d701f" tvg-name="32 PELICULAS 2024 pt.4" tvg-logo="https://i.postimg.cc/26L3fhcp/peliculas_2024_pt_1.png" group-title="24/7 PELICULAS",32 PELICULAS 2024 pt.4
+http://vivetv.net:80/live/mauricio/mauricio/5893190e-a18e-4150-a9ed-5d1efd5d701f.m3u
+
+#EXTINF:-1 tvg-id="d71c8075-80cc-4c42-a3fa-3f9569557828" tvg-name="33 MAD MAX SAGA" tvg-logo="https://i.postimg.cc/XYVZFFQD/mad_max.png" group-title="24/7 PELICULAS",33 MAD MAX SAGA
+http://vivetv.net:80/live/mauricio/mauricio/d71c8075-80cc-4c42-a3fa-3f9569557828.m3u
+
+#EXTINF:-1 tvg-id="032c7416-d955-4587-bec9-9d932d6e2638" tvg-name="35 HARRY POTTER" group-title="24/7 PELICULAS",35 HARRY POTTER
+http://vivetv.net:80/live/mauricio/mauricio/032c7416-d955-4587-bec9-9d932d6e2638.m3u
+
+#EXTINF:-1 tvg-id="f1e8dbef-f651-45af-95fc-96ec09ac29fc" tvg-name="36 PELICULAS MARVEL TODAS" group-title="24/7 PELICULAS",36 
+PELICULAS MARVEL TODAS
+http://vivetv.net:80/live/mauricio/mauricio/f1e8dbef-f651-45af-95fc-96ec09ac29fc.m3u
+
+#EXTINF:-1 tvg-id="579e02c6-684c-46f9-b388-529235835e70" tvg-name="37 FREDDY KRUGER" group-title="24/7 PELICULAS",37 FREDDY KRUGER
+http://vivetv.net:80/live/mauricio/mauricio/579e02c6-684c-46f9-b388-529235835e70.m3u
+
+#EXTINF:-1 tvg-id="c86aa251-4b1c-4601-a0b5-be78257dcc89" tvg-name="38 WILL SMITH" group-title="24/7 PELICULAS",38 WILL SMITH
+http://vivetv.net:80/live/mauricio/mauricio/c86aa251-4b1c-4601-a0b5-be78257dcc89.m3u
+
+#EXTINF:-1 tvg-id="9cfa9efa-ec64-43e1-9f07-6ed66ca7548c" tvg-name="39 LA INDIA MARIA" group-title="24/7 PELICULAS",39 LA INDIA MARIA
+http://vivetv.net:80/live/mauricio/mauricio/9cfa9efa-ec64-43e1-9f07-6ed66ca7548c.m3u
+
+#EXTINF:-1 tvg-id="5002ce73-2b13-462b-9311-2c1e06876e34" tvg-name="40 PEDRO INFANTE" group-title="24/7 PELICULAS",40 PEDRO INFANTE
+http://vivetv.net:80/live/mauricio/mauricio/5002ce73-2b13-462b-9311-2c1e06876e34.m3u
+
+#EXTINF:-1 tvg-id="5cd01c62-855c-4015-9a4a-c6582e32c047" tvg-name="41 VICENTE FERNANDEZ" group-title="24/7 PELICULAS",41 VICENTE FERNANDEZ
+http://vivetv.net:80/live/mauricio/mauricio/5cd01c62-855c-4015-9a4a-c6582e32c047.m3u
+
+#EXTINF:-1 tvg-id="0444523e-152b-4c03-a973-87b22909da5b" tvg-name="42 AL PACINO" group-title="24/7 PELICULAS",42 AL PACINO
+http://vivetv.net:80/live/mauricio/mauricio/0444523e-152b-4c03-a973-87b22909da5b.m3u
+
+#EXTINF:-1 tvg-id="d37fbd11-db2f-4ec3-9970-3cbdf5d55bde" tvg-name="43 ANGELINA JOLIE" group-title="24/7 PELICULAS",43 ANGELINA JOLIE
+http://vivetv.net:80/live/mauricio/mauricio/d37fbd11-db2f-4ec3-9970-3cbdf5d55bde.m3u
+
+#EXTINF:-1 tvg-id="3d3d1751-9e53-41f1-9378-3ca3ead51d03" tvg-name="44 ARNOLD SCHWARZENEGGER" group-title="24/7 PELICULAS",44 ARNOLD SCHWARZENEGGER
+http://vivetv.net:80/live/mauricio/mauricio/3d3d1751-9e53-41f1-9378-3ca3ead51d03.m3u
+
+#EXTINF:-1 tvg-id="a8fcb163-e06f-4c71-b9f5-a624dc0b1d0a" tvg-name="45 CANTINFLAS" group-title="24/7 PELICULAS",45 CANTINFLAS
+http://vivetv.net:80/live/mauricio/mauricio/a8fcb163-e06f-4c71-b9f5-a624dc0b1d0a.m3u
+
+#EXTINF:-1 tvg-id="b21ed468-8781-4c86-aa63-c308f177d797" tvg-name="46 JACKIE CHAN" group-title="24/7 PELICULAS",46 JACKIE CHAN
+http://vivetv.net:80/live/mauricio/mauricio/b21ed468-8781-4c86-aa63-c308f177d797.m3u
+
+#EXTINF:-1 tvg-id="b0fe4839-ff1a-49dc-a391-ae34fc3e2e0e" tvg-name="47 JIM CARREY" group-title="24/7 PELICULAS",47 JIM CARREY
+http://vivetv.net:80/live/mauricio/mauricio/b0fe4839-ff1a-49dc-a391-ae34fc3e2e0e.m3u
+
+#EXTINF:-1 tvg-id="6ec0289d-b830-4553-8f04-d77d55881d2a" tvg-name="48 MEL GIBSON" group-title="24/7 PELICULAS",48 MEL GIBSON
+http://vivetv.net:80/live/mauricio/mauricio/6ec0289d-b830-4553-8f04-d77d55881d2a.m3u
+
+#EXTINF:-1 tvg-id="8bd8aa24-fa78-44a5-b4f7-6e298152145e" tvg-name="49 MORGAN FREEMAN" group-title="24/7 PELICULAS",49 MORGAN FREEMAN
+http://vivetv.net:80/live/mauricio/mauricio/8bd8aa24-fa78-44a5-b4f7-6e298152145e.m3u
+
+#EXTINF:-1 tvg-id="7508baba-267b-47f8-beba-60191ce33b65" tvg-name="50 WILL SMITH" group-title="24/7 PELICULAS",50 WILL SMITH
+http://vivetv.net:80/live/mauricio/mauricio/7508baba-267b-47f8-beba-60191ce33b65.m3u
+
+#EXTINF:-1 tvg-id="66dc9c56-3bdf-4cf2-a617-fe47cc1773fa" tvg-name="51 INFRAMUNDO" group-title="24/7 PELICULAS",51 INFRAMUNDO
+http://vivetv.net:80/live/mauricio/mauricio/66dc9c56-3bdf-4cf2-a617-fe47cc1773fa.m3u
+
+#EXTINF:-1 tvg-id="ad7d9022-7075-43d1-ba03-e91e8ca57834" tvg-name="34 FRANCO ESCAMILLA 24/7" tvg-logo="https://i.postimg.cc/VLVDv2BR/frando.png" group-title="24/7 PELICULAS",34 FRANCO ESCAMILLA 24/7
+http://vivetv.net:80/live/mauricio/mauricio/ad7d9022-7075-43d1-ba03-e91e8ca57834.m3u
+
+#EXTINF:-1 tvg-id="68c7a2a0-5e26-47a9-83d0-5bc7e41a28bb" tvg-name="52 Padre No Hay Mas Que Uno" tvg-logo="https://i.postimg.cc/ZnPtzt1N/padre-no-hay-mas-que-uno.jpg" group-title="24/7 PELICULAS",52 Padre No Hay Mas Que Uno
+http://vivetv.net:80/live/mauricio/mauricio/68c7a2a0-5e26-47a9-83d0-5bc7e41a28bb.m3u
+
+#EXTINF:-1 tvg-id="44b35270-dabf-4dcd-9ecb-74bec8547668" tvg-name="53 Adam Sandler" tvg-logo="https://th.bing.com/th/id/R.26b6bd23f3281bcaed1b4377a1ee4755?rik=vcAHT1N51FYjqw&pid=ImgRaw&r=0" group-title="24/7 PELICULAS",53 Adam Sandler
+http://vivetv.net:80/live/mauricio/mauricio/44b35270-dabf-4dcd-9ecb-74bec8547668.m3u
+
+#EXTINF:-1 tvg-id="05911910-0e35-4cc9-a795-b17d9f89b9fd" tvg-name="UFC TEM 23 PARTE 1" tvg-logo="https://i.postimg.cc/KjjJQRfY/UFC.png" group-title="24/7 PELICULAS",UFC TEM 23 PARTE 1
+http://vivetv.net:80/live/mauricio/mauricio/05911910-0e35-4cc9-a795-b17d9f89b9fd.m3u
+
+#EXTINF:-1 tvg-id="407e601f-72c6-43bf-8b94-1c92b707985e" tvg-name="UFC TEM 23 PARTE 2" tvg-logo="https://i.postimg.cc/KjjJQRfY/UFC.png" group-title="24/7 PELICULAS",UFC TEM 23 PARTE 2
+http://vivetv.net:80/live/mauricio/mauricio/407e601f-72c6-43bf-8b94-1c92b707985e.m3u
+
+#EXTINF:-1 tvg-id="4bdb8224-3e2e-4ce7-8f71-2ed572933827" tvg-name="UFC TEM 24 PARTE 1" tvg-logo="https://i.postimg.cc/KjjJQRfY/UFC.png" group-title="24/7 PELICULAS",UFC TEM 24 PARTE 1
+http://vivetv.net:80/live/mauricio/mauricio/4bdb8224-3e2e-4ce7-8f71-2ed572933827.m3u
+
+#EXTINF:-1 tvg-id="ccc6339c-73ed-4028-acde-87b66e035516" tvg-name="UFC TEM 24 PARTE 2" tvg-logo="https://i.postimg.cc/KjjJQRfY/UFC.png" group-title="24/7 PELICULAS",UFC TEM 24 PARTE 2
+http://vivetv.net:80/live/mauricio/mauricio/ccc6339c-73ed-4028-acde-87b66e035516.m3u
+
+#EXTINF:-1 tvg-id="bff88c2f-4d3f-4df3-8047-faf020c0bfb4" tvg-name="54 palito ortega 24-7" tvg-logo="https://i.postimg.cc/HkFZj74D/palito-ortega-24-7.jpg" group-title="24/7 PELICULAS",54 palito ortega 24-7
+http://vivetv.net:80/live/mauricio/mauricio/bff88c2f-4d3f-4df3-8047-faf020c0bfb4.m3u
+
+#EXTINF:-1 tvg-id="e43ad512-e240-45df-9020-b1e000ceedb9" tvg-name="55 Coleccion Peliculas Navidad 1" tvg-logo="https://i.postimg.cc/Gtmcwgvt/f1ff4088a18112c5fb9216d48258cc54.jpg" group-title="24/7 PELICULAS",55 Coleccion Peliculas Navidad 1
+http://vivetv.net:80/live/mauricio/mauricio/e43ad512-e240-45df-9020-b1e000ceedb9.m3u
+
+#EXTINF:-1 tvg-id="11ece781-0766-4160-9fa6-bbd575c9b2b6" tvg-name="56 Coleccion Navidad 2" tvg-logo="https://i.postimg.cc/Gtmcwgvt/f1ff4088a18112c5fb9216d48258cc54.jpg" group-title="24/7 PELICULAS",56 Coleccion Navidad 2
+http://vivetv.net:80/live/mauricio/mauricio/11ece781-0766-4160-9fa6-bbd575c9b2b6.m3u
+
+#EXTINF:-1 tvg-id="05949b8b-977e-437d-a938-7b652942f199" tvg-name="57 Coleccion Navidad 3" tvg-logo="https://i.postimg.cc/Gtmcwgvt/f1ff4088a18112c5fb9216d48258cc54.jpg" group-title="24/7 PELICULAS",57 Coleccion Navidad 3
+http://vivetv.net:80/live/mauricio/mauricio/05949b8b-977e-437d-a938-7b652942f199.m3u
+
+#EXTINF:-1 tvg-id="beef9642-c5f9-4734-8236-6921c0e42a7a" tvg-name="58 Coleccion Navidad 4" tvg-logo="https://i.postimg.cc/Gtmcwgvt/f1ff4088a18112c5fb9216d48258cc54.jpg" group-title="24/7 PELICULAS",58 Coleccion Navidad 4
+http://vivetv.net:80/live/mauricio/mauricio/beef9642-c5f9-4734-8236-6921c0e42a7a.m3u
+
+#EXTINF:-1 tvg-id="9931d16e-8918-45b7-b9fd-7d897e64010a" tvg-name="59 Coleccion Navidad 5" tvg-logo="https://i.postimg.cc/Gtmcwgvt/f1ff4088a18112c5fb9216d48258cc54.jpg" group-title="24/7 PELICULAS",59 Coleccion Navidad 5
+http://vivetv.net:80/live/mauricio/mauricio/9931d16e-8918-45b7-b9fd-7d897e64010a.m3u
+
+#EXTINF:-1 tvg-id="60d72252-c60b-4a5c-b3a8-e7c4477a70db" tvg-name="60 Beethoven" tvg-logo="https://i.postimg.cc/rFc9JgPM/beethoven.jpg" group-title="24/7 PELICULAS",60 Beethoven
+http://vivetv.net:80/live/mauricio/mauricio/60d72252-c60b-4a5c-b3a8-e7c4477a70db.m3u
+
+#EXTINF:-1 tvg-id="29c8f972-c77c-40c8-a8de-e67e493477ef" tvg-name="61 Alvin y las ardillas" tvg-logo="https://i.postimg.cc/W1ckR8z7/alvin-y-las-ardillas.png" group-title="24/7 PELICULAS",61 Alvin y las ardillas
+http://vivetv.net:80/live/mauricio/mauricio/29c8f972-c77c-40c8-a8de-e67e493477ef.m3u
+
+#EXTINF:-1 tvg-id="43121911-d465-4878-a623-7f2139574e4b" tvg-name="62 Depredador peliculas 24-7" tvg-logo="https://i.postimg.cc/2ygxGqHd/depredador-24-7.jpg" group-title="24/7 PELICULAS",62 Depredador peliculas 24-7
+http://vivetv.net:80/live/mauricio/mauricio/43121911-d465-4878-a623-7f2139574e4b.m3u
+
+#EXTINF:-1 tvg-id="b775af69-89aa-4ee0-9141-75a45b1bfbac" tvg-name="63 Spy kids- mini espias peliculas 24-7" tvg-logo="https://i.postimg.cc/C1pjtTYD/spy-kids-24-7.jpg" group-title="24/7 PELICULAS",63 Spy kids- mini espias peliculas 24-7
+http://vivetv.net:80/live/mauricio/mauricio/b775af69-89aa-4ee0-9141-75a45b1bfbac.m3u
+
+#EXTINF:-1 tvg-id="65bae094-408f-4920-88f1-324fb8e1409f" tvg-name="64 superman peliculas 24-7" tvg-logo="https://i.postimg.cc/NFNMTVxZ/peliculas-de-superman-24-7.jpg" group-title="24/7 PELICULAS",64 superman peliculas 24-7
+http://vivetv.net:80/live/mauricio/mauricio/65bae094-408f-4920-88f1-324fb8e1409f.m3u
+
+#EXTINF:-1 tvg-id="8337bed7-5726-4b92-a468-8337bbde0fb2" tvg-name="65 El Conjuro Orden Cronologico" tvg-logo="https://i.pinimg.com/originals/55/6f/b2/556fb27ed44f1211e0f5ba6a89770d68.jpg" group-title="24/7 PELICULAS",65 El Conjuro Orden Cronologico
+http://vivetv.net:80/live/mauricio/mauricio/8337bed7-5726-4b92-a468-8337bbde0fb2.m3u
+
+#EXTINF:-1 tvg-id="0e435df7-0215-4df6-8bbc-8602770fb34c" tvg-name="66 Destino Final" tvg-logo="https://image.tmdb.org/t/p/w400/frNkbclQpexf3aUzZrnixF3t5Hw.jpg" group-title="24/7 PELICULAS",66 Destino Final
+http://vivetv.net:80/live/mauricio/mauricio/0e435df7-0215-4df6-8bbc-8602770fb34c.m3u
+
+#EXTINF:-1 tvg-id="2626b008-3dc1-49aa-8931-3efd0faaa84f" tvg-name="67 SAW" tvg-logo="https://image.tmdb.org/t/p/w400/nzVkXj1IX0BNoYzpTVogtkcCStf.jpg" group-title="24/7 PELICULAS",67 SAW
+http://vivetv.net:80/live/mauricio/mauricio/2626b008-3dc1-49aa-8931-3efd0faaa84f.m3u
+
+#EXTINF:-1 tvg-id="74170017-7b82-45f3-973d-ab04c1ffcc00" tvg-name="68 Trilogia Culpa mia" tvg-logo="https://i.postimg.cc/4N4kz7BZ/culpa-mia.jpg" group-title="24/7 PELICULAS",68 Trilogia Culpa mia
+http://vivetv.net:80/live/mauricio/mauricio/74170017-7b82-45f3-973d-ab04c1ffcc00.m3u
+
+#EXTINF:-1 tvg-id="4b8e2fc6-c87b-46ad-b06f-059ea58671f2" tvg-name="69 Olmedo y porcel" tvg-logo="https://i.postimg.cc/wMBQmWZp/olmedo-y-porcel-24-7.jpg" group-title="24/7 PELICULAS",69 Olmedo y porcel
+http://vivetv.net:80/live/mauricio/mauricio/4b8e2fc6-c87b-46ad-b06f-059ea58671f2.m3u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INFALTILES 24/7
+
+
+#EXTINF:-1 tvg-id="7b202111-a943-445b-b09b-3777ca1378e6" tvg-name="1 Adventure Time" tvg-logo="https://i.postimg.cc/rwvWjyY3/adventure-time.png" group-title="24/7 INFANTILES",1 Adventure Time
+http://vivetv.net:80/live/mauricio/mauricio/7b202111-a943-445b-b09b-3777ca1378e6.m3u
+
+#EXTINF:-1 tvg-id="73919f59-b1b8-468a-bcc1-df0f38cb773d" tvg-name="2 ANIMANIACS" tvg-logo="https://i.postimg.cc/3Jfq8c45/ANIMANIACS.jpg" group-title="24/7 INFANTILES",2 ANIMANIACS
+http://vivetv.net:80/live/mauricio/mauricio/73919f59-b1b8-468a-bcc1-df0f38cb773d.m3u
+
+#EXTINF:-1 tvg-id="53ba745d-7bef-47da-acd0-b645d5db58fb" tvg-name="3 AQUA TEEN HUNGER FORCE" tvg-logo="https://i.postimg.cc/Pq0vzZ6F/Aqua-Teen-Hunger-Force-main-characters.png" group-title="24/7 INFANTILES",3 AQUA TEEN HUNGER FORCE
+http://vivetv.net:80/live/mauricio/mauricio/53ba745d-7bef-47da-acd0-b645d5db58fb.m3u
+
+#EXTINF:-1 tvg-id="5b58d347-24aa-4ee9-8aac-5da75f1a0970" tvg-name="4 BATMAN THE ANIMATED SERIES" tvg-logo="https://i.postimg.cc/LXNtkh1q/BATMAN.jpg" group-title="24/7 INFANTILES",4 BATMAN THE ANIMATED SERIES
+http://vivetv.net:80/live/mauricio/mauricio/5b58d347-24aa-4ee9-8aac-5da75f1a0970.m3u
+
+#EXTINF:-1 tvg-id="d425b2f2-9423-42a8-9db6-a8aa744f6b29" tvg-name="5 BEN 10" tvg-logo="https://i.postimg.cc/cLnPDGT1/BEN-10.jpg" group-title="24/7 INFANTILES",5 BEN 10
+http://vivetv.net:80/live/mauricio/mauricio/d425b2f2-9423-42a8-9db6-a8aa744f6b29.m3u
+
+#EXTINF:-1 tvg-id="a75e71f3-7e8f-4fa9-8aa5-451b1946c913" tvg-name="6 EL OSO EL TIGRE Y LOS DEMAS" tvg-logo="https://i.postimg.cc/v8hTRyds/EL-OSO-EL-TIGRE-Y-LOS-DEMAS.png" group-title="24/7 INFANTILES",6 EL OSO EL TIGRE Y LOS DEMAS
+http://vivetv.net:80/live/mauricio/mauricio/a75e71f3-7e8f-4fa9-8aa5-451b1946c913.m3u
+
+#EXTINF:-1 tvg-id="764f3664-325e-42f0-af03-30ce3e5e5e22" tvg-name="8 Bob Esponja" tvg-logo="https://i.postimg.cc/hv8v1tRG/bob-esponja.png" group-title="24/7 INFANTILES",8 Bob Esponja
+http://vivetv.net:80/live/mauricio/mauricio/764f3664-325e-42f0-af03-30ce3e5e5e22.m3u
+
+#EXTINF:-1 tvg-id="78ec4ebb-17ee-4261-ad51-225c70868de0" tvg-name="9 BUGS BUNNY Y SUS AMIGOS" tvg-logo="https://i.postimg.cc/8kZxbt74/BUGS-BUNNY-Y-SUS-AMIGOS.png" group-title="24/7 INFANTILES",9 BUGS BUNNY Y SUS AMIGOS
+http://vivetv.net:80/live/mauricio/mauricio/78ec4ebb-17ee-4261-ad51-225c70868de0.m3u
+
+#EXTINF:-1 tvg-id="a33523fd-80a0-4bcb-a2fb-5c7052965b4e" tvg-name="10 CAPITAN TSUBASA-super campeones" tvg-logo="https://i.postimg.cc/mrwGWRrf/CAPITAN-TSUBASA.png" group-title="24/7 INFANTILES",10 CAPITAN TSUBASA-super campeones
+http://vivetv.net:80/live/mauricio/mauricio/a33523fd-80a0-4bcb-a2fb-5c7052965b4e.m3u
+
+#EXTINF:-1 tvg-id="1098036a-8242-4e1b-b34d-e80ed2da04b7" tvg-name="11 CASTLEVANIA" tvg-logo="https://i.postimg.cc/0Q76Gz5R/CASTLEVANIA.png" group-title="24/7 INFANTILES",11 CASTLEVANIA
+http://vivetv.net:80/live/mauricio/mauricio/1098036a-8242-4e1b-b34d-e80ed2da04b7.m3u
+
+#EXTINF:-1 tvg-id="355a0ed4-67b6-4824-ae16-403ed30f123d" tvg-name="12 CENTRAL PARK" tvg-logo="https://i.postimg.cc/brxpFn48/CENRTAL-PARK.png" group-title="24/7 INFANTILES",12 CENTRAL PARK
+http://vivetv.net:80/live/mauricio/mauricio/355a0ed4-67b6-4824-ae16-403ed30f123d.m3u
+
+#EXTINF:-1 tvg-id="984a42b8-f877-483e-a550-b42e4224fc64" tvg-name="13 EL CHAVO DEL 8" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JLjCzse_sSq7lYETLC2ylZPDQOUSY8rbdXbMB-WqjoLoW1kxJCzoXgjqpyvTHjDU2m8_e-_d4WTmtm_LPJ8tSmULEyVXsWPM_-HqkYveIJ8CbKqjQG80Hhy-YfoxBkZUwTtvv93Q6KQnb6hfaIEPuN68E4Q6abTF2NonbGADN2ygjc223-NC5cxIzZCyPEVq3w.jpg" group-title="24/7 INFANTILES",13 EL CHAVO DEL 8
+http://vivetv.net:80/live/mauricio/mauricio/984a42b8-f877-483e-a550-b42e4224fc64.m3u
+
+#EXTINF:-1 tvg-id="73315e0b-b35b-412f-a8eb-fbf3202323e4" tvg-name="14 CHOWDER" tvg-logo="https://i.postimg.cc/HxyfNDT9/CHOWDER.jpg" group-title="24/7 INFANTILES",14 CHOWDER
+http://vivetv.net:80/live/mauricio/mauricio/73315e0b-b35b-412f-a8eb-fbf3202323e4.m3u
+
+#EXTINF:-1 tvg-id="0880bf95-1caf-4439-a821-53ded35773b5" tvg-name="15 DANNY PHANTOM" tvg-logo="https://i.postimg.cc/P5FrDwKp/danny-phantom.jpg" group-title="24/7 INFANTILES",15 DANNY PHANTOM
+http://vivetv.net:80/live/mauricio/mauricio/0880bf95-1caf-4439-a821-53ded35773b5.m3u
+
+#EXTINF:-1 tvg-id="c2d73f1f-5c27-40bb-a3e8-ca4651661e5c" tvg-name="16 DOS PERROS TONTOS" group-title="24/7 INFANTILES",16 DOS PERROS TONTOS
+http://vivetv.net:80/live/mauricio/mauricio/c2d73f1f-5c27-40bb-a3e8-ca4651661e5c.m3u
+
+#EXTINF:-1 tvg-id="46558398-6817-4913-89bc-8f92b991eba9" tvg-name="17 DRAGON BALL" tvg-logo="https://i.postimg.cc/CxZkbnJb/dragon-ball.jpg" group-title="24/7 INFANTILES",17 DRAGON BALL
+http://vivetv.net:80/live/mauricio/mauricio/46558398-6817-4913-89bc-8f92b991eba9.m3u
+
+#EXTINF:-1 tvg-id="e9e3a4a7-6290-4e80-a853-086e7bd3a270" tvg-name="18 DRAGON BALL GT" tvg-logo="https://i.postimg.cc/rFZ5dNG8/dragon-ball-gt.jpg" group-title="24/7 INFANTILES",18 DRAGON BALL GT
+http://vivetv.net:80/live/mauricio/mauricio/e9e3a4a7-6290-4e80-a853-086e7bd3a270.m3u
+
+#EXTINF:-1 tvg-id="6b58eaec-2566-4dcb-899d-396d85508fb4" tvg-name="19 ED EDD n EDDY" tvg-logo="https://i.postimg.cc/x1LtJv9g/ED-EDD-EDDY.jpg" group-title="24/7 INFANTILES",19 ED EDD n EDDY
+http://vivetv.net:80/live/mauricio/mauricio/6b58eaec-2566-4dcb-899d-396d85508fb4.m3u
+
+#EXTINF:-1 tvg-id="b5994118-4072-4580-afb9-c417564ceebf" tvg-name="20 EL LABORATORIO DE DEXTER" tvg-logo="https://i.postimg.cc/SQr64hJY/laboratorio-de-dexter.jpg" group-title="24/7 INFANTILES",20 EL LABORATORIO DE DEXTER
+http://vivetv.net:80/live/mauricio/mauricio/b5994118-4072-4580-afb9-c417564ceebf.m3u
+
+#EXTINF:-1 tvg-id="15bfcfb3-922d-4c89-9b60-b564b076ceb9" tvg-name="21 EL REYNO INFANTIL" tvg-logo="https://i.postimg.cc/KYYjWYcc/el_reyno_infantil.png" group-title="24/7 INFANTILES",21 EL REYNO INFANTIL
+http://vivetv.net:80/live/mauricio/mauricio/15bfcfb3-922d-4c89-9b60-b564b076ceb9.m3u
+
+#EXTINF:-1 tvg-id="01607f92-16c5-41ca-974e-3aca144d9e84" tvg-name="22 FUTURAMA" tvg-logo="https://i.postimg.cc/wBLrcKgK/FUTURAMA.jpg" group-title="24/7 INFANTILES",22 FUTURAMA
+http://vivetv.net:80/live/mauricio/mauricio/01607f92-16c5-41ca-974e-3aca144d9e84.m3u
+
+#EXTINF:-1 tvg-id="cc21d0ff-288c-4e99-ab58-b5383230fd8d" tvg-name="23 GARFIELD Y SUS AMIGOS" tvg-logo="https://i.postimg.cc/9XD2krvy/GARFIELD-Y-SUS-AMIGOS.png" group-title="24/7 INFANTILES",23 GARFIELD Y SUS AMIGOS
+http://vivetv.net:80/live/mauricio/mauricio/cc21d0ff-288c-4e99-ab58-b5383230fd8d.m3u
+
+#EXTINF:-1 tvg-id="0d848382-7c75-421b-8fd7-46202f6ea388" tvg-name="24 GENERATOR REX" tvg-logo="https://i.postimg.cc/2yr4VsRD/GENERATOR-REX.png" group-title="24/7 INFANTILES",24 GENERATOR REX
+http://vivetv.net:80/live/mauricio/mauricio/0d848382-7c75-421b-8fd7-46202f6ea388.m3u
+
+#EXTINF:-1 tvg-id="9ae55fa5-504b-4998-98b2-5a2f09b99f62" tvg-name="25 HARLEY QUINN" tvg-logo="https://i.postimg.cc/T30Y6BQb/HARLEY-QUINN.png" group-title="24/7 INFANTILES",25 HARLEY QUINN
+http://vivetv.net:80/live/mauricio/mauricio/9ae55fa5-504b-4998-98b2-5a2f09b99f62.m3u
+
+#EXTINF:-1 tvg-id="eabb792f-cd6b-4b0b-9311-f87504f8755a" tvg-name="26 JIMMY NEUTRON" tvg-logo="https://i.postimg.cc/dtfWD01m/jimmy-neutron.png" group-title="24/7 INFANTILES",26 JIMMY NEUTRON
+http://vivetv.net:80/live/mauricio/mauricio/eabb792f-cd6b-4b0b-9311-f87504f8755a.m3u
+
+#EXTINF:-1 tvg-id="4213ad70-4815-4248-8fd1-4a9598c8c827" tvg-name="27 JOHNNY BRAVO" tvg-logo="https://i.postimg.cc/25jtsKXV/JOHNNY-BRAVO.png" group-title="24/7 INFANTILES",27 JOHNNY BRAVO
+http://vivetv.net:80/live/mauricio/mauricio/4213ad70-4815-4248-8fd1-4a9598c8c827.m3u
+
+#EXTINF:-1 tvg-id="8bdb2ed9-4a57-4e65-bd5a-5cf5c3d53d98" tvg-name="28 KIM POSSIBLE" tvg-logo="https://i.postimg.cc/VNC9P0Cz/kim-possible.jpg" group-title="24/7 INFANTILES",28 KIM POSSIBLE
+http://vivetv.net:80/live/mauricio/mauricio/8bdb2ed9-4a57-4e65-bd5a-5cf5c3d53d98.m3u
+
+#EXTINF:-1 tvg-id="c962d51b-2d77-490a-ac16-465d12ee47cf" tvg-name="29 KRYPTO EL SUPER PERRO" tvg-logo="https://i.postimg.cc/cHB2PNdg/KRYPTO-THE-SUPER-DOG.png" group-title="24/7 INFANTILES",29 KRYPTO EL SUPER PERRO
+http://vivetv.net:80/live/mauricio/mauricio/c962d51b-2d77-490a-ac16-465d12ee47cf.m3u
+
+#EXTINF:-1 tvg-id="544600bf-33b6-498e-9a64-fb8b9c35f3fd" tvg-name="30 LA CARRERA DE LOS AUTOS LOCOS antigua y nueva version" tvg-logo="https://i.postimg.cc/5y3HHjb4/LA-CARRERA-DE-LOS-AUTOS-LOCOS-antigua-y-nueva.png" group-title="24/7 INFANTILES",30 LA CARRERA DE LOS AUTOS LOCOS antigua y nueva version
+http://vivetv.net:80/live/mauricio/mauricio/544600bf-33b6-498e-9a64-fb8b9c35f3fd.m3u
+
+#EXTINF:-1 tvg-id="8dcb2d32-848b-484e-8e2a-104117da3929" tvg-name="31 LA CASA DE MICKY MOUSE" tvg-logo="https://i.postimg.cc/FR7DvMKZ/LACASAdemicky.png" group-title="24/7 INFANTILES",31 LA CASA DE MICKY MOUSE
+http://vivetv.net:80/live/mauricio/mauricio/8dcb2d32-848b-484e-8e2a-104117da3929.m3u
+
+#EXTINF:-1 tvg-id="02700983-4895-46e9-8ca7-41e8bf7706dc" tvg-name="32 LA VACA Y EL POLLITO" tvg-logo="https://i.postimg.cc/3x1Bv841/lavacayelpollito.png" group-title="24/7 INFANTILES",32 LA VACA Y EL POLLITO
+http://vivetv.net:80/live/mauricio/mauricio/02700983-4895-46e9-8ca7-41e8bf7706dc.m3u
+
+#EXTINF:-1 tvg-id="b3f53b9f-922d-4ef5-956d-9cd7fcbc3096" tvg-name="33 LOS PADRINOS MAGICOS" tvg-logo="https://i.postimg.cc/g2W7QmNX/los_padrinos_magicos.png" group-title="24/7 INFANTILES",33 LOS PADRINOS MAGICOS
+http://vivetv.net:80/live/mauricio/mauricio/b3f53b9f-922d-4ef5-956d-9cd7fcbc3096.m3u
+
+#EXTINF:-1 tvg-id="9a18ace8-3d8b-4e66-bc74-910c73ee7bc2" tvg-name="34 LOS PITUFOS" tvg-logo="https://i.postimg.cc/pXxmyXm0/LOS_PITUFOS.png" group-title="24/7 INFANTILES",34 LOS PITUFOS
+http://vivetv.net:80/live/mauricio/mauricio/9a18ace8-3d8b-4e66-bc74-910c73ee7bc2.m3u
+
+#EXTINF:-1 tvg-id="1b4dcfc8-1922-4269-b7e9-2f7f9be12bdc" tvg-name="35 LOS RUGRATS" tvg-logo="https://i.postimg.cc/9Mw2pByb/los_rugrats.png" group-title="24/7 INFANTILES",35 LOS RUGRATS
+http://vivetv.net:80/live/mauricio/mauricio/1b4dcfc8-1922-4269-b7e9-2f7f9be12bdc.m3u
+
+
+
+#EXTINF:-1 tvg-id="6a608809-0607-4dbc-9035-2b5fe8fd035e" tvg-name="40 POPEYE EL MARINO" tvg-logo="https://i.postimg.cc/wT0hDbsY/POPEYE.png" group-title="24/7 INFANTILES",40 POPEYE EL MARINO
+http://vivetv.net:80/live/mauricio/mauricio/6a608809-0607-4dbc-9035-2b5fe8fd035e.m3u
+
+#EXTINF:-1 tvg-id="0c7754c4-4be3-4feb-b74a-e85dde20c02a" tvg-name="41 REGULAR SHOW" tvg-logo="https://i.postimg.cc/j2syf8kj/regular-show.jpg" group-title="24/7 INFANTILES",41 REGULAR SHOW
+http://vivetv.net:80/live/mauricio/mauricio/0c7754c4-4be3-4feb-b74a-e85dde20c02a.m3u
+
+#EXTINF:-1 tvg-id="5ea07109-64ac-4613-aa1c-68ea8dee8331" tvg-name="42 SUPER CAMPEONES-capitan tsubasa" tvg-logo="https://i.postimg.cc/RhFgWhRR/SUPER-CAMPEONES.png" group-title="24/7 INFANTILES",42 SUPER CAMPEONES-capitan tsubasa
+http://vivetv.net:80/live/mauricio/mauricio/5ea07109-64ac-4613-aa1c-68ea8dee8331.m3u
+
+#EXTINF:-1 tvg-id="1781c10e-e068-4c58-afb0-0e9e1edc0b77" tvg-name="43 TELETUBBIES" tvg-logo="https://i.postimg.cc/qq2LkqwL/teletubbies.png" group-title="24/7 INFANTILES",43 TELETUBBIES
+http://vivetv.net:80/live/mauricio/mauricio/1781c10e-e068-4c58-afb0-0e9e1edc0b77.m3u
+
+#EXTINF:-1 tvg-id="64c5d937-3984-4378-94fa-a09c9da3d61c" tvg-name="44 THE SNOOPY SHOW" tvg-logo="https://i.postimg.cc/SQf2Zq4y/THE-SNOOPY-SHOW.jpg" group-title="24/7 INFANTILES",44 THE SNOOPY SHOW
+http://vivetv.net:80/live/mauricio/mauricio/64c5d937-3984-4378-94fa-a09c9da3d61c.m3u
+
+#EXTINF:-1 tvg-id="028a6ddd-1d4d-4bdf-b8e8-ee82c8df81b3" tvg-name="45 TINY TOONS ADVENTURES" tvg-logo="https://i.postimg.cc/DywqyMXj/tiny-toons-adventures.jpg" group-title="24/7 INFANTILES",45 TINY TOONS ADVENTURES
+http://vivetv.net:80/live/mauricio/mauricio/028a6ddd-1d4d-4bdf-b8e8-ee82c8df81b3.m3u
+
+#EXTINF:-1 tvg-id="249daf3c-e439-435a-8c82-696992b0c4ab" tvg-name="46 TOM Y JERRY" tvg-logo="https://i.postimg.cc/mD3Qtxjq/ton-y-jerry.jpg" group-title="24/7 INFANTILES",46 TOM Y JERRY
+http://vivetv.net:80/live/mauricio/mauricio/249daf3c-e439-435a-8c82-696992b0c4ab.m3u
+
+#EXTINF:-1 tvg-id="a2aca0a6-2f1c-41f5-b89d-0fdcaedef2c7" tvg-name="47 YOUNG JUSTICE" tvg-logo="https://i.postimg.cc/W3cGNpGg/young-justice.jpg" group-title="24/7 INFANTILES",47 YOUNG JUSTICE
+http://vivetv.net:80/live/mauricio/mauricio/a2aca0a6-2f1c-41f5-b89d-0fdcaedef2c7.m3u
+
+#EXTINF:-1 tvg-id="a21f8784-a745-4599-b259-8ddb3ba73976" tvg-name="51 ART ATTACK" tvg-logo="https://i.postimg.cc/cJKnL0Qr/artattack.png" group-title="24/7 INFANTILES",51 ART ATTACK
+http://vivetv.net:80/live/mauricio/mauricio/a21f8784-a745-4599-b259-8ddb3ba73976.m3u
+
+#EXTINF:-1 tvg-id="7d0be4ab-87b0-4730-ba02-e7a02c8220d5" tvg-name="52 BARNEY Y SUS AMIGOS" tvg-logo="https://i.postimg.cc/Pr0hTp8d/barney.png" group-title="24/7 INFANTILES",52 BARNEY Y SUS AMIGOS
+http://vivetv.net:80/live/mauricio/mauricio/7d0be4ab-87b0-4730-ba02-e7a02c8220d5.m3u
+
+#EXTINF:-1 tvg-id="e46efc71-fdb5-4b1b-920c-cea4cea183e7" tvg-name="53 CHESPIRITO" tvg-logo="https://i.postimg.cc/1t1ft7n5/chespirito.png" group-title="24/7 INFANTILES",53 CHESPIRITO
+http://vivetv.net:80/live/mauricio/mauricio/e46efc71-fdb5-4b1b-920c-cea4cea183e7.m3u
+
+#EXTINF:-1 tvg-id="f4357e89-765a-40c2-9be5-fe5596dea4a0" tvg-name="54 LOS HECHICEROS DE WAVERLY PLACE" tvg-logo="https://i.postimg.cc/DZD6vc2G/los_hechiceros_de_place.png" group-title="24/7 INFANTILES",54 LOS HECHICEROS DE WAVERLY PLACE
+http://vivetv.net:80/live/mauricio/mauricio/f4357e89-765a-40c2-9be5-fe5596dea4a0.m3u
+
+#EXTINF:-1 tvg-id="5248c58d-a63f-41a6-bd49-62f887a2a43f" tvg-name="55 LAZY TOWN" tvg-logo="https://i.postimg.cc/wjCkKCgy/lazy_town.png" group-title="24/7 INFANTILES",55 LAZY TOWN
+http://vivetv.net:80/live/mauricio/mauricio/5248c58d-a63f-41a6-bd49-62f887a2a43f.m3u
+
+#EXTINF:-1 tvg-id="ae055878-957b-4e61-a5fa-efbe9e23d3d7" tvg-name="56 DRAGON BALL SUPER" tvg-logo="https://i.postimg.cc/j2tGvf4R/dragon-ball-super.png" group-title="24/7 INFANTILES",56 DRAGON BALL SUPER
+http://vivetv.net:80/live/mauricio/mauricio/ae055878-957b-4e61-a5fa-efbe9e23d3d7.m3u
+
+#EXTINF:-1 tvg-id="0fcdd0aa-f7ec-48a8-82dd-192c94ce7bd7" tvg-name="57 BARBIE" tvg-logo="https://i.postimg.cc/7hmrSCkb/barbie.png" group-title="24/7 INFANTILES",57 BARBIE
+http://vivetv.net:80/live/mauricio/mauricio/0fcdd0aa-f7ec-48a8-82dd-192c94ce7bd7.m3u
+
+#EXTINF:-1 tvg-id="e0266ae1-e84e-41de-a3e6-adf5c087eb86" tvg-name="58 MADAGASCAR" tvg-logo="https://i.postimg.cc/FFpCZ5Mt/madagascar.png" group-title="24/7 INFANTILES",58 MADAGASCAR
+http://vivetv.net:80/live/mauricio/mauricio/e0266ae1-e84e-41de-a3e6-adf5c087eb86.m3u
+
+#EXTINF:-1 tvg-id="b3a9c731-80f3-4db7-848e-1522b557fda0" tvg-name="59 CAMPANILLA" tvg-logo="https://i.postimg.cc/65mSBpPt/campanilla.png" group-title="24/7 INFANTILES",59 CAMPANILLA
+http://vivetv.net:80/live/mauricio/mauricio/b3a9c731-80f3-4db7-848e-1522b557fda0.m3u
+
+#EXTINF:-1 tvg-id="f26c4201-9934-440f-abbf-8746312bbd67" tvg-name="60 CARS" tvg-logo="https://i.postimg.cc/pdHy1RRJ/cars.png" group-title="24/7 INFANTILES",60 CARS
+http://vivetv.net:80/live/mauricio/mauricio/f26c4201-9934-440f-abbf-8746312bbd67.m3u
+
+#EXTINF:-1 tvg-id="677a4ded-a41b-4545-9c47-b486b4b1927f" tvg-name="61 LA ERA DE HIELO" tvg-logo="https://i.postimg.cc/c45nTr9q/la_era_de_hielo.png" group-title="24/7 INFANTILES",61 LA ERA DE HIELO
+http://vivetv.net:80/live/mauricio/mauricio/677a4ded-a41b-4545-9c47-b486b4b1927f.m3u
+
+#EXTINF:-1 tvg-id="c1e8234d-dd6c-4595-9aea-e2fabf401d97" tvg-name="62 LEGO" tvg-logo="https://i.postimg.cc/3wMNkpRB/lego.png" group-title="24/7 INFANTILES",62 LEGO
+http://vivetv.net:80/live/mauricio/mauricio/c1e8234d-dd6c-4595-9aea-e2fabf401d97.m3u
+
+#EXTINF:-1 tvg-id="297d9b53-36e9-440c-b219-ef7479c4831c" tvg-name="63 MY LITTLE PONY" tvg-logo="https://i.postimg.cc/3wcz9CMM/my_little_pony.png" group-title="24/7 INFANTILES",63 MY LITTLE PONY
+http://vivetv.net:80/live/mauricio/mauricio/297d9b53-36e9-440c-b219-ef7479c4831c.m3u
+
+#EXTINF:-1 tvg-id="c74c3636-7321-46a9-9615-419757b28818" tvg-name="64 EL REY LEON" tvg-logo="https://i.postimg.cc/ZRyYL5Mc/el_rey_leon.png" group-title="24/7 INFANTILES",64 EL REY LEON
+http://vivetv.net:80/live/mauricio/mauricio/c74c3636-7321-46a9-9615-419757b28818.m3u
+
+#EXTINF:-1 tvg-id="1ff2cddf-41f1-43ef-8ffd-c8bcb78c6f66" tvg-name="65 SCOOBY DOO" tvg-logo="https://i.postimg.cc/G2kw28fZ/scooby.png" group-title="24/7 INFANTILES",65 SCOOBY DOO
+http://vivetv.net:80/live/mauricio/mauricio/1ff2cddf-41f1-43ef-8ffd-c8bcb78c6f66.m3u
+
+#EXTINF:-1 tvg-id="fac0b50a-f088-4712-ad53-5975abd2732c" tvg-name="66 TOY STORY" tvg-logo="https://i.postimg.cc/xjMFbNRd/toy_story.png" group-title="24/7 INFANTILES",66 TOY STORY
+http://vivetv.net:80/live/mauricio/mauricio/fac0b50a-f088-4712-ad53-5975abd2732c.m3u
+
+#EXTINF:-1 tvg-id="e252418a-54b2-46a9-a1e9-ba3fc14b7586" tvg-name="67 LOS AVENTUREROS DEL AIRE" tvg-logo="https://i.postimg.cc/XNzrMXFn/aventureros_del_aire.png" group-title="24/7 INFANTILES",67 LOS AVENTUREROS DEL AIRE
+http://vivetv.net:80/live/mauricio/mauricio/e252418a-54b2-46a9-a1e9-ba3fc14b7586.m3u
+
+#EXTINF:-1 tvg-id="7b442f7d-abec-40a3-9a79-02e4986e4c07" tvg-name="68 EL CAPITAN PLANETA" tvg-logo="https://i.postimg.cc/0Qv8YJf9/capitan_planeta.png" group-title="24/7 INFANTILES",68 EL CAPITAN PLANETA
+http://vivetv.net:80/live/mauricio/mauricio/7b442f7d-abec-40a3-9a79-02e4986e4c07.m3u
+
+#EXTINF:-1 tvg-id="79fb646b-3d7c-40d8-9e72-a8b74cd65965" tvg-name="69 CATDOG" tvg-logo="https://i.postimg.cc/NF1C15dv/catdog.png" group-title="24/7 INFANTILES",69 CATDOG
+http://vivetv.net:80/live/mauricio/mauricio/79fb646b-3d7c-40d8-9e72-a8b74cd65965.m3u
+
+#EXTINF:-1 tvg-id="6223c3e9-c719-4e02-8397-b3c9ab149382" tvg-name="70 DON GATO Y SU PANDILLA" tvg-logo="https://i.postimg.cc/9X8YnPqg/don_gato_y_su_pandilla.png" group-title="24/7 INFANTILES",70 DON GATO Y SU PANDILLA
+http://vivetv.net:80/live/mauricio/mauricio/6223c3e9-c719-4e02-8397-b3c9ab149382.m3u
+
+#EXTINF:-1 tvg-id="2f10b655-9f17-463b-8eee-bf2298646bea" tvg-name="71 DORAEMON" tvg-logo="https://i.postimg.cc/G2ZS8ZnN/doraemon.png" group-title="24/7 INFANTILES",71 DORAEMON
+http://vivetv.net:80/live/mauricio/mauricio/2f10b655-9f17-463b-8eee-bf2298646bea.m3u
+
+#EXTINF:-1 tvg-id="7b27d10e-158d-461c-bcbe-3d4e79f398dd" tvg-name="72 EL CHAVO DEL 8 ANIMADO" tvg-logo="https://i.postimg.cc/ZnS2s1sN/chavo_animado.png" group-title="24/7 INFANTILES",72 EL CHAVO DEL 8 ANIMADO
+http://vivetv.net:80/live/mauricio/mauricio/7b27d10e-158d-461c-bcbe-3d4e79f398dd.m3u
+
+#EXTINF:-1 tvg-id="53b5269f-640d-4148-8ccb-f6d461a9b9fc" tvg-name="73 EL COYOTE Y CORRECAMINOS" tvg-logo="https://i.postimg.cc/4dbBynwK/el_coyote_y_correcaminos.png" group-title="24/7 INFANTILES",73 EL COYOTE Y CORRECAMINOS
+http://vivetv.net:80/live/mauricio/mauricio/53b5269f-640d-4148-8ccb-f6d461a9b9fc.m3u
+
+#EXTINF:-1 tvg-id="71311bf0-a275-4d47-826a-25e10962236c" tvg-name="74 EL GALLO CLAUDIO" tvg-logo="https://i.postimg.cc/Y93zkZqY/gallo_claudio.png" group-title="24/7 INFANTILES",74 EL GALLO CLAUDIO
+http://vivetv.net:80/live/mauricio/mauricio/71311bf0-a275-4d47-826a-25e10962236c.m3u
+
+#EXTINF:-1 tvg-id="c43621ba-b619-4ec6-930d-cca57a3a2527" tvg-name="75 EL INSPECTOR ARDILLA" tvg-logo="https://i.postimg.cc/VshbMmT5/el_inspector_ardilla.png" group-title="24/7 INFANTILES",75 EL INSPECTOR ARDILLA
+http://vivetv.net:80/live/mauricio/mauricio/c43621ba-b619-4ec6-930d-cca57a3a2527.m3u
+
+#EXTINF:-1 tvg-id="0c140ff8-572b-41ac-b48e-c587cfbab08d" tvg-name="76 EL PRINCIPE DRAGON" tvg-logo="https://i.postimg.cc/3wrg19Zw/el_principe_dragon.png" group-title="24/7 INFANTILES",76 EL PRINCIPE DRAGON
+http://vivetv.net:80/live/mauricio/mauricio/0c140ff8-572b-41ac-b48e-c587cfbab08d.m3u
+
+#EXTINF:-1 tvg-id="d15effb3-802c-4e71-9339-cb3c9f563e69" tvg-name="77 EL SHOW DE LOONEY TUNES" tvg-logo="https://i.postimg.cc/PrzyMLk2/looney_toones.png" group-title="24/7 INFANTILES",77 EL SHOW DE LOONEY TUNES
+http://vivetv.net:80/live/mauricio/mauricio/d15effb3-802c-4e71-9339-cb3c9f563e69.m3u
+
+#EXTINF:-1 tvg-id="32334291-cc9b-4795-b527-9b782009ab3b" tvg-name="79 EL SHOW DEL PAJARO LOCO" tvg-logo="https://i.postimg.cc/8PP4tpPG/pajaro_loco.png" group-title="24/7 INFANTILES",79 EL SHOW DEL PAJARO LOCO
+http://vivetv.net:80/live/mauricio/mauricio/32334291-cc9b-4795-b527-9b782009ab3b.m3u
+
+#EXTINF:-1 tvg-id="00232476-7415-41ea-a956-9d610a0c0c41" tvg-name="78 EL CONDE PATULA" tvg-logo="https://i.postimg.cc/KYKsQZfj/conde_patula.png" group-title="24/7 INFANTILES",78 EL CONDE PATULA
+http://vivetv.net:80/live/mauricio/mauricio/00232476-7415-41ea-a956-9d610a0c0c41.m3u
+
+#EXTINF:-1 tvg-id="285d4f6d-fa29-46ec-96da-dec139827b07" tvg-name="80 ERASE UNA VEZ LAS AMERICAS" tvg-logo="https://i.postimg.cc/g0n8ZjDS/las_americas.png" group-title="24/7 INFANTILES",80 ERASE UNA VEZ LAS AMERICAS
+http://vivetv.net:80/live/mauricio/mauricio/285d4f6d-fa29-46ec-96da-dec139827b07.m3u
+
+#EXTINF:-1 tvg-id="2c596018-15cf-4a31-b491-3984a2a04246" tvg-name="81 FANGFACE" tvg-logo="https://i.postimg.cc/RVPcV25L/fangface.png" group-title="24/7 INFANTILES",81 FANGFACE
+http://vivetv.net:80/live/mauricio/mauricio/2c596018-15cf-4a31-b491-3984a2a04246.m3u
+
+#EXTINF:-1 tvg-id="774e53e8-a79a-4b59-aafb-7287a1d9f1ab" tvg-name="82 FRANKENSTEIN JR" tvg-logo="https://i.postimg.cc/G2c2Dhv8/frankenstein_jr.png" group-title="24/7 INFANTILES",82 FRANKENSTEIN JR
+http://vivetv.net:80/live/mauricio/mauricio/774e53e8-a79a-4b59-aafb-7287a1d9f1ab.m3u
+
+#EXTINF:-1 tvg-id="5cbb1686-8a28-4e35-b1f2-7b5b7310b5cc" tvg-name="83 HAPPY TREE FRIENDS" tvg-logo="https://i.postimg.cc/rmmTcdSJ/happy_tree_friends.png" group-title="24/7 INFANTILES",83 HAPPY TREE FRIENDS
+http://vivetv.net:80/live/mauricio/mauricio/5cbb1686-8a28-4e35-b1f2-7b5b7310b5cc.m3u
+
+#EXTINF:-1 tvg-id="d0babcfa-79a5-4971-b249-d07dbebec99a" tvg-name="84 HEALTH CLIFF" tvg-logo="https://i.postimg.cc/sDDZGK3f/healthcliff.png" group-title="24/7 INFANTILES",84 HEALTH CLIFF
+http://vivetv.net:80/live/mauricio/mauricio/d0babcfa-79a5-4971-b249-d07dbebec99a.m3u
+
+#EXTINF:-1 tvg-id="5b10222c-ead9-4d92-b6bc-e707f3e9fe87" tvg-name="85 HEY ARNOLD" tvg-logo="https://i.postimg.cc/X7sG3FSZ/ey_arnold.png" group-title="24/7 INFANTILES",85 HEY ARNOLD
+http://vivetv.net:80/live/mauricio/mauricio/5b10222c-ead9-4d92-b6bc-e707f3e9fe87.m3u
+
+#EXTINF:-1 tvg-id="bd244c36-15b4-4824-bec4-84c05d91ac8c" tvg-name="86 HE-MAN" tvg-logo="https://i.postimg.cc/X7xG3PBc/he_man.png" group-title="24/7 INFANTILES",86 HE-MAN
+http://vivetv.net:80/live/mauricio/mauricio/bd244c36-15b4-4824-bec4-84c05d91ac8c.m3u
+
+#EXTINF:-1 tvg-id="84151718-4676-44de-a4c1-6173ba2c8190" tvg-name="87 MEGAS XLR" tvg-logo="https://i.postimg.cc/d1yB7Fcy/megas_xlr.png" group-title="24/7 INFANTILES",87 MEGAS XLR
+http://vivetv.net:80/live/mauricio/mauricio/84151718-4676-44de-a4c1-6173ba2c8190.m3u
+
+#EXTINF:-1 tvg-id="e0c80136-1162-4c2a-b485-0d0d71f68a3c" tvg-name="88 SPAWN" tvg-logo="https://i.postimg.cc/rsJ0YZLm/spawn.png" group-title="24/7 INFANTILES",88 SPAWN
+http://vivetv.net:80/live/mauricio/mauricio/e0c80136-1162-4c2a-b485-0d0d71f68a3c.m3u
+
+#EXTINF:-1 tvg-id="71ece0d4-d3c1-42b8-bdd5-ca4bbb7859d3" tvg-name="89 KENSHIN EL GUERRERO SAMURAI" tvg-logo="https://i.postimg.cc/CMPfDtJP/kenshin.png" group-title="24/7 INFANTILES",89 KENSHIN EL GUERRERO SAMURAI
+http://vivetv.net:80/live/mauricio/mauricio/71ece0d4-d3c1-42b8-bdd5-ca4bbb7859d3.m3u
+
+#EXTINF:-1 tvg-id="690027e9-e1be-445f-9ce1-b16d383f6578" tvg-name="90 KID COSMIC" tvg-logo="https://i.postimg.cc/Fz3gsXJH/kid_cosmic.png" group-title="24/7 INFANTILES",90 KID COSMIC
+http://vivetv.net:80/live/mauricio/mauricio/690027e9-e1be-445f-9ce1-b16d383f6578.m3u
+
+#EXTINF:-1 tvg-id="63999083-bf93-47e0-928d-f3abaa22541a" tvg-name="91 LAS CHICAS SUPERPODEROSAS" tvg-logo="https://i.postimg.cc/bYMgjLW5/chicas_superpoderosas.png" group-title="24/7 INFANTILES",91 LAS CHICAS SUPERPODEROSAS
+http://vivetv.net:80/live/mauricio/mauricio/63999083-bf93-47e0-928d-f3abaa22541a.m3u
+
+#EXTINF:-1 tvg-id="6b4cba74-4336-4d92-930d-52eab70f3030" tvg-name="92 PINKY Y CEREBRO" tvg-logo="https://i.postimg.cc/Y2bsJ1zG/pinkycerebro.png" group-title="24/7 INFANTILES",92 PINKY Y CEREBRO
+http://vivetv.net:80/live/mauricio/mauricio/6b4cba74-4336-4d92-930d-52eab70f3030.m3u
+
+#EXTINF:-1 tvg-id="d260561d-4fab-47e4-afd6-07434756ef26" tvg-name="93 THE IMPOSIBLES" tvg-logo="https://i.postimg.cc/vZVxVwYr/imposibles.png" group-title="24/7 INFANTILES",93 THE IMPOSIBLES
+http://vivetv.net:80/live/mauricio/mauricio/d260561d-4fab-47e4-afd6-07434756ef26.m3u
+
+#EXTINF:-1 tvg-id="6cbcbf32-0786-4154-beee-9b08fef8e20b" tvg-name="94 THUNDERCAST" tvg-logo="https://i.postimg.cc/rFQ0GKjD/thundercast.png" group-title="24/7 INFANTILES",94 THUNDERCAST
+http://vivetv.net:80/live/mauricio/mauricio/6cbcbf32-0786-4154-beee-9b08fef8e20b.m3u
+
+#EXTINF:-1 tvg-id="2feb1a93-2c64-4f38-bc1c-ed5e72e6d9d5" tvg-name="95 THUNDERCAST NUEVA ERA" tvg-logo="https://i.postimg.cc/gJC5TzKR/thundercastnuevaera.png" group-title="24/7 INFANTILES",95 THUNDERCAST NUEVA ERA
+http://vivetv.net:80/live/mauricio/mauricio/2feb1a93-2c64-4f38-bc1c-ed5e72e6d9d5.m3u
+
+#EXTINF:-1 tvg-id="036ce7f5-aca7-4048-8001-cd3f36c6c774" tvg-name="96 TRANSFORMERS VICTORY" tvg-logo="https://i.postimg.cc/QxQ14WKB/transformers_victory.png" group-title="24/7 INFANTILES",96 TRANSFORMERS VICTORY
+http://vivetv.net:80/live/mauricio/mauricio/036ce7f5-aca7-4048-8001-cd3f36c6c774.m3u
+
+#EXTINF:-1 tvg-id="be24b4cc-1882-4304-b336-d6a229cbcc8e" tvg-name="97 BEYBLADE" tvg-logo="https://i.postimg.cc/wjVfYfML/beyblade.png" group-title="24/7 INFANTILES",97 BEYBLADE
+http://vivetv.net:80/live/mauricio/mauricio/be24b4cc-1882-4304-b336-d6a229cbcc8e.m3u
+
+#EXTINF:-1 tvg-id="443faf1b-cc95-4a09-bb41-b2e228fb31e4" tvg-name="98 ULISES 31" tvg-logo="https://i.postimg.cc/C1jn9tLV/ULISES_31.png" group-title="24/7 INFANTILES",98 ULISES 31
+http://vivetv.net:80/live/mauricio/mauricio/443faf1b-cc95-4a09-bb41-b2e228fb31e4.m3u
+
+#EXTINF:-1 tvg-id="903f2155-95b9-40d7-8d5d-b0137e6e71e7" tvg-name="99 CHAPULIN COLORADO ANIMADO" tvg-logo="https://i.postimg.cc/9FXrYBVX/chapulin_animado.png" group-title="24/7 INFANTILES",99 CHAPULIN COLORADO ANIMADO
+http://vivetv.net:80/live/mauricio/mauricio/903f2155-95b9-40d7-8d5d-b0137e6e71e7.m3u
+
+#EXTINF:-1 tvg-id="a759758b-779d-4c19-8286-ff1157b50615" tvg-name="102 Icarly" tvg-logo="https://i.postimg.cc/BnS598kG/icarly.png" group-title="24/7 INFANTILES",102 Icarly
+http://vivetv.net:80/live/mauricio/mauricio/a759758b-779d-4c19-8286-ff1157b50615.m3u
+
+#EXTINF:-1 tvg-id="0a3ef2ce-1396-4919-a736-007955c31b1a" tvg-name="103 VICTORIOUS" tvg-logo="https://i.postimg.cc/1RrGy9bB/victorious.png" group-title="24/7 INFANTILES",103 VICTORIOUS
+http://vivetv.net:80/live/mauricio/mauricio/0a3ef2ce-1396-4919-a736-007955c31b1a.m3u
+
+#EXTINF:-1 tvg-id="55bcd202-a83a-46df-8f07-997eb63ee4eb" tvg-name="104 BOB ESPONJA 1-6 TEMP" tvg-logo="https://i.postimg.cc/hv8v1tRG/bob-esponja.png" group-title="24/7 INFANTILES",104 BOB ESPONJA 1-6 TEMP
+http://vivetv.net:80/live/mauricio/mauricio/55bcd202-a83a-46df-8f07-997eb63ee4eb.m3u
+
+#EXTINF:-1 tvg-id="7be1de46-68cf-4613-a44f-2d5933554cd8" tvg-name="105 BOB ESPONJA 7-13 TEMP" tvg-logo="https://i.postimg.cc/hv8v1tRG/bob-esponja.png" group-title="24/7 INFANTILES",105 BOB ESPONJA 7-13 TEMP
+http://vivetv.net:80/live/mauricio/mauricio/7be1de46-68cf-4613-a44f-2d5933554cd8.m3u
+
+#EXTINF:-1 tvg-id="7f563c81-fd21-42a5-8c11-ce019ca1372d" tvg-name="109 SCOOBY DOO Y SCRAPPY DOO" tvg-logo="https://i.postimg.cc/rFdsjrvK/scobydooscrapy.png" group-title="24/7 INFANTILES",109 SCOOBY DOO Y SCRAPPY DOO
+http://vivetv.net:80/live/mauricio/mauricio/7f563c81-fd21-42a5-8c11-ce019ca1372d.m3u
+
+#EXTINF:-1 tvg-id="2e59b02f-778f-4444-94a1-8e0b9a9df1f6" tvg-name="110 DRAGON BALL Z" tvg-logo="https://i.postimg.cc/Y0NXD10K/DRAGONBALLZ.png" group-title="24/7 INFANTILES",110 DRAGON BALL Z
+http://vivetv.net:80/live/mauricio/mauricio/2e59b02f-778f-4444-94a1-8e0b9a9df1f6.m3u
+
+#EXTINF:-1 tvg-id="a06ee9de-1226-4182-a000-316f42edb1c0" tvg-name="114 DIGIMON 01" tvg-logo="https://i.postimg.cc/1zZr2gxy/DIGIMON01.png" group-title="24/7 INFANTILES",114 DIGIMON 01
+http://vivetv.net:80/live/mauricio/mauricio/a06ee9de-1226-4182-a000-316f42edb1c0.m3u
+
+#EXTINF:-1 tvg-id="91d1920c-f5f9-43b2-8a54-a281ab456255" tvg-name="115 DIGIMON ADVENTURE 02" tvg-logo="https://i.postimg.cc/qqXNt7bx/DIGIMONADVENTURE02.png" group-title="24/7 INFANTILES",115 DIGIMON ADVENTURE 02
+http://vivetv.net:80/live/mauricio/mauricio/91d1920c-f5f9-43b2-8a54-a281ab456255.m3u
+
+#EXTINF:-1 tvg-id="dd0ddcae-3fb0-4131-a119-9033aab3b9b2" tvg-name="116 DIGIMON ADVENTURE 2020 08" tvg-logo="https://i.postimg.cc/MpGnTqy1/DIGIMONADVENTURE2020-08.png" group-title="24/7 INFANTILES",116 DIGIMON ADVENTURE 2020 08
+http://vivetv.net:80/live/mauricio/mauricio/dd0ddcae-3fb0-4131-a119-9033aab3b9b2.m3u
+
+#EXTINF:-1 tvg-id="60e9f3b9-81db-4bbb-af31-b970cec2de55" tvg-name="117 DIGIMON FRONTIER 04" tvg-logo="https://i.postimg.cc/m2vnZgx5/DIGIMONFRONTIER.png" group-title="24/7 INFANTILES",117 DIGIMON FRONTIER 04
+http://vivetv.net:80/live/mauricio/mauricio/60e9f3b9-81db-4bbb-af31-b970cec2de55.m3u
+
+#EXTINF:-1 tvg-id="34b77c5b-cadb-4ee1-9f7a-fc8502793091" tvg-name="118 DIGIMON GHOST GAME 09" tvg-logo="https://i.postimg.cc/K8QsPrkd/DIGIMONGHOSTGAME.png" group-title="24/7 INFANTILES",118 DIGIMON GHOST GAME 09
+http://vivetv.net:80/live/mauricio/mauricio/34b77c5b-cadb-4ee1-9f7a-fc8502793091.m3u
+
+#EXTINF:-1 tvg-id="0e81d6c1-9038-43f8-9a28-0bff73fd4f4d" tvg-name="119 DIGIMON SAVERS DATA SQUAD 05" tvg-logo="https://i.postimg.cc/htgtzgT2/DIGIMONSAVERSDATASQUAD.png" group-title="24/7 INFANTILES",119 DIGIMON SAVERS DATA SQUAD 05
+http://vivetv.net:80/live/mauricio/mauricio/0e81d6c1-9038-43f8-9a28-0bff73fd4f4d.m3u
+
+#EXTINF:-1 tvg-id="d48f3b46-dcb4-4147-b0d6-ef24bcb6b7f6" tvg-name="120 DIGIMON UNIVERSE APLI MONSTERS 07" tvg-logo="https://i.postimg.cc/7LtHW2cR/DIGIMONUNIVERSEAPLIMONSTERS.png" group-title="24/7 INFANTILES",120 DIGIMON UNIVERSE APLI MONSTERS 07
+http://vivetv.net:80/live/mauricio/mauricio/d48f3b46-dcb4-4147-b0d6-ef24bcb6b7f6.m3u
+
+#EXTINF:-1 tvg-id="2aedb0d1-db44-44d9-8339-b4a70e418456" tvg-name="FULL METAL ALCHEMIST" tvg-logo="https://i.postimg.cc/g2b1TkJS/full-metal-alchemist.jpg" group-title="24/7 INFANTILES",FULL METAL ALCHEMIST
+http://vivetv.net:80/live/mauricio/mauricio/2aedb0d1-db44-44d9-8339-b4a70e418456.m3u
+
+#EXTINF:-1 tvg-id="7a808249-ae1a-400a-bd35-054f1c37b12c" tvg-name="MY HERO ACADEMY" tvg-logo="https://i.postimg.cc/tJZgRdLN/MY-HERO-ACADEMY.jpg" group-title="24/7 INFANTILES",MY HERO ACADEMY
+http://vivetv.net:80/live/mauricio/mauricio/7a808249-ae1a-400a-bd35-054f1c37b12c.m3u
+
+#EXTINF:-1 tvg-id="bc0fd828-5d33-4918-ba9f-993747452864" tvg-name="122 El Chapulin Colorado" tvg-logo="https://i.ibb.co/mzTBQds/7398332bb1251226a6cc1de19c16c07e122f08772f1ab53e506c33e28249633e.jpg" group-title="24/7 INFANTILES",122 El Chapulin Colorado
+http://vivetv.net:80/live/mauricio/mauricio/bc0fd828-5d33-4918-ba9f-993747452864.m3u
+
+#EXTINF:-1 tvg-id="ac91376a-1105-46b2-97ab-0f31e1027470" tvg-name="24-7 Blippi" tvg-logo="https://i.postimg.cc/SRQCprMy/images-2.jpg" group-title="24/7 INFANTILES",24-7 Blippi
+http://vivetv.net:80/live/mauricio/mauricio/ac91376a-1105-46b2-97ab-0f31e1027470.m3u
+
+#EXTINF:-1 tvg-id="05e71e2d-f176-43f0-bc93-b510ab929ac6" tvg-name="24-7 Historia Biblia" tvg-logo="https://i.postimg.cc/LXCGzyR7/IMG-20250501-WA0071.jpg" group-title="24/7 INFANTILES",24-7 Historia Biblia
+http://vivetv.net:80/live/mauricio/mauricio/05e71e2d-f176-43f0-bc93-b510ab929ac6.m3u
+
+#EXTINF:-1 tvg-id="679623ff-1db7-4740-94b0-e85356b4bc77" tvg-name="24-7 Jorge El Curioso" tvg-logo="https://i.postimg.cc/NjjTnpwb/1745724573128.png" group-title="24/7 INFANTILES",24-7 Jorge El Curioso
+http://vivetv.net:80/live/mauricio/mauricio/679623ff-1db7-4740-94b0-e85356b4bc77.m3u
+
+#EXTINF:-1 tvg-id="572bab98-4f0e-494e-88c2-5111a3d53b96" tvg-name="24-7 Plaza Sesamo" tvg-logo="https://i.postimg.cc/KvsCKpQg/images.jpg" group-title="24/7 INFANTILES",24-7 Plaza Sesamo
+http://vivetv.net:80/live/mauricio/mauricio/572bab98-4f0e-494e-88c2-5111a3d53b96.m3u
+
+#EXTINF:-1 tvg-id="e0818907-1b76-4660-9050-53be372d1a21" tvg-name="24- Blippi" tvg-logo="https://i.postimg.cc/pTSR2V9p/0x1900-000000-80-0-0.jpg" group-title="24/7 INFANTILES",24- Blippi
+http://vivetv.net:80/live/mauricio/mauricio/e0818907-1b76-4660-9050-53be372d1a21.m3u
+
+#EXTINF:-1 tvg-id="0c6eaaed-bc12-4268-9f7e-c2869d298eea" tvg-name="24-7 Musica de Meditacion" tvg-logo="https://i.postimg.cc/4N44z3tH/1200x1200bb.jpg" group-title="24/7 INFANTILES",24-7 Musica de Meditacion
+http://vivetv.net:80/live/mauricio/mauricio/0c6eaaed-bc12-4268-9f7e-c2869d298eea.m3u
+
+#EXTINF:-1 tvg-id="c32ba552-0890-45e8-860f-39f111d7f214" tvg-name="La Oveja Shaun" tvg-logo="https://i.postimg.cc/SxLVJp2b/la-ovena-shaun.jpg" group-title="24/7 INFANTILES",La Oveja Shaun
+http://vivetv.net:80/live/mauricio/mauricio/c32ba552-0890-45e8-860f-39f111d7f214.m3u
+
+#EXTINF:-1 tvg-id="eb2fcdd1-d5b1-410c-9661-d5dd242fe44d" tvg-name="385 BACKYARDIGANS" tvg-logo="https://i.postimg.cc/j5W7MyYm/OIP.jpg" group-title="24/7 INFANTILES",385 BACKYARDIGANS
+http://vivetv.net:80/live/mauricio/mauricio/eb2fcdd1-d5b1-410c-9661-d5dd242fe44d.m3u
+
+#EXTINF:-1 tvg-id="6c4544f9-65aa-4624-855a-ffa989403712" tvg-name="39 Los Simpsons temp. 31 - 36" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 INFANTILES",39 Los Simpsons temp. 31 - 36
+http://vivetv.net:80/live/mauricio/mauricio/6c4544f9-65aa-4624-855a-ffa989403712.m3u
+
+#EXTINF:-1 tvg-id="10ca73bc-1630-450c-a3ce-1e35c82a9b5d" tvg-name="395 PASTELERIA DE ALICIA" tvg-logo="https://i.postimg.cc/HnF5SFgP/La-maravillosa-pasteler-a-de-Alicia-portada.webp" group-title="24/7 INFANTILES",395 PASTELERIA DE ALICIA
+http://vivetv.net:80/live/mauricio/mauricio/10ca73bc-1630-450c-a3ce-1e35c82a9b5d.m3u
+
+#EXTINF:-1 tvg-id="a52d9b17-9d95-4ad3-9410-e227ae1c2c67" tvg-name="40 ANFIBILANDIA-AMPHIBIA" tvg-logo="https://i.postimg.cc/wvGsvn7T/download.jpg" group-title="24/7 INFANTILES",40 ANFIBILANDIA-AMPHIBIA
+http://vivetv.net:80/live/mauricio/mauricio/a52d9b17-9d95-4ad3-9410-e227ae1c2c67.m3u
+
+#EXTINF:-1 tvg-id="7cc5e2fc-9b5b-4c8d-80a2-87bb76b8b09d" tvg-name="CANCION INFANTIL" tvg-logo="https://i.postimg.cc/sx0XZq7r/OIP.webp" group-title="24/7 INFANTILES",CANCION INFANTIL
+http://vivetv.net:80/live/mauricio/mauricio/7cc5e2fc-9b5b-4c8d-80a2-87bb76b8b09d.m3u
+
+#EXTINF:-1 tvg-id="d4c4b716-40e7-4b20-8307-8aff94a3c9a5" tvg-name="79 Tron la resistencia" tvg-logo="https://i.postimg.cc/Vv7H41Sk/tron-la-resistencia.jpg" group-title="24/7 INFANTILES",79 Tron la resistencia
+http://vivetv.net:80/live/mauricio/mauricio/d4c4b716-40e7-4b20-8307-8aff94a3c9a5.m3u
+
+#EXTINF:-1 tvg-id="e41fe75e-e029-48f2-a1f8-547ef64f4a3b" tvg-name="123 ahi viene cascarrabias" tvg-logo="https://i.postimg.cc/tCtXX2r5/ahi-viene-cascarrabias.jpg" group-title="24/7 INFANTILES",123 ahi viene cascarrabias
+http://vivetv.net:80/live/mauricio/mauricio/e41fe75e-e029-48f2-a1f8-547ef64f4a3b.m3u
+
+#EXTINF:-1 tvg-id="9616cc52-860e-4176-9a06-51e6d8739848" tvg-name="124 Ace Ventura Detective de mascotas" tvg-logo="https://i.postimg.cc/4xnyB1Tg/ace-ventura-animada.webp" group-title="24/7 INFANTILES",124 Ace Ventura Detective de mascotas
+http://vivetv.net:80/live/mauricio/mauricio/9616cc52-860e-4176-9a06-51e6d8739848.m3u
+
+#EXTINF:-1 tvg-id="74808671-083b-4517-9f2b-3c2a7d5d5dbd" tvg-name="126 el mundo de winx-world of winx" tvg-logo="https://i.postimg.cc/tJLq0YM2/world-of-winx.jpg" group-title="24/7 INFANTILES",126 el mundo de winx-world of winx
+http://vivetv.net:80/live/mauricio/mauricio/74808671-083b-4517-9f2b-3c2a7d5d5dbd.m3u
+
+#EXTINF:-1 tvg-id="ba3acbd7-ed06-4781-bd06-1cd45986c14e" tvg-name="127 Toonsylvania" tvg-logo="https://i.postimg.cc/qM5bT2Qk/toonsylvania.webp" group-title="24/7 INFANTILES",127 Toonsylvania
+http://vivetv.net:80/live/mauricio/mauricio/ba3acbd7-ed06-4781-bd06-1cd45986c14e.m3u
+
+#EXTINF:-1 tvg-id="ef7d7929-f91c-4c28-b064-71f451ac0452" tvg-name="128 El club winx parte 1 24-7" tvg-logo="https://i.postimg.cc/W3gQswQH/el-club-winx-parte-1.webp" group-title="24/7 INFANTILES",128 El club winx parte 1 24-7
+http://vivetv.net:80/live/mauricio/mauricio/ef7d7929-f91c-4c28-b064-71f451ac0452.m3u
+
+#EXTINF:-1 tvg-id="e9fd257a-ecc6-4538-b18e-63be45de27b2" tvg-name="129 El club winx parte 2 24-7" tvg-logo="https://i.postimg.cc/pX2gt8ks/el-club-winx-parte-2.jpg" group-title="24/7 INFANTILES",129 El club winx parte 2 24-7
+http://vivetv.net:80/live/mauricio/mauricio/e9fd257a-ecc6-4538-b18e-63be45de27b2.m3u
+
+#EXTINF:-1 tvg-id="c2483391-3069-4ab8-b29b-00f818b7d7e6" tvg-name="130 la joven liga de la justicia-young justice 24-7" tvg-logo="https://i.postimg.cc/43h011Nx/la-joven-liga-de-la-justicia-24-7.jpg" group-title="24/7 INFANTILES",130 la joven liga de la justicia-young justice 24-7
+http://vivetv.net:80/live/mauricio/mauricio/c2483391-3069-4ab8-b29b-00f818b7d7e6.m3u
+
+#EXTINF:-1 tvg-id="d4e77f85-7f89-42c5-9f2f-7497d2435292" tvg-name="KIFF" tvg-logo="https://i.postimg.cc/TwSmQg5v/download.jpg" group-title="24/7 INFANTILES",KIFF
+http://vivetv.net:80/live/mauricio/mauricio/d4e77f85-7f89-42c5-9f2f-7497d2435292.m3u
+
+#EXTINF:-1 tvg-id="d9546a55-2c0a-4159-ab61-0a16f2a6f6a4" tvg-name="131 Arthur 1996-24-7" tvg-logo="https://i.postimg.cc/V69LK4nN/ARTHUR-1996.jpg" group-title="24/7 INFANTILES",131 Arthur 1996-24-7
+http://vivetv.net:80/live/mauricio/mauricio/d9546a55-2c0a-4159-ab61-0a16f2a6f6a4.m3u
+
+#EXTINF:-1 tvg-id="8372981a-2f13-45d3-845c-d9509e35c611" tvg-name="132 candy candy 24-7" tvg-logo="https://i.postimg.cc/7hCtxt9H/candy-candy-24-7.jpg" group-title="24/7 INFANTILES",132 candy candy 24-7
+http://vivetv.net:80/live/mauricio/mauricio/8372981a-2f13-45d3-845c-d9509e35c611.m3u
+
+#EXTINF:-1 tvg-id="deb29d84-3c65-421e-a8ff-16a9623330f8" tvg-name="133 dave el barbaro 24-7" tvg-logo="https://i.postimg.cc/BQ4N769Z/dave-el-barbaro-24-7.jpg" group-title="24/7 INFANTILES",133 dave el barbaro 24-7
+http://vivetv.net:80/live/mauricio/mauricio/deb29d84-3c65-421e-a8ff-16a9623330f8.m3u
+
+#EXTINF:-1 tvg-id="b1343a35-c9aa-41f6-85a8-b5f3a7929845" tvg-name="134 erase una vez... el hombre" tvg-logo="https://i.postimg.cc/15yh0svw/erase-una-vez-el-hombre.webp" group-title="24/7 INFANTILES",134 erase una vez... el hombre
+http://vivetv.net:80/live/mauricio/mauricio/b1343a35-c9aa-41f6-85a8-b5f3a7929845.m3u
+
+#EXTINF:-1 tvg-id="a1ba4f6a-70c8-4079-a1e2-e72b7104e28c" tvg-name="135 erase una vez... la vida" tvg-logo="https://i.postimg.cc/d1cSqjXr/erase-una-vez-la-vida.jpg" group-title="24/7 INFANTILES",135 erase una vez... la vida
+http://vivetv.net:80/live/mauricio/mauricio/a1ba4f6a-70c8-4079-a1e2-e72b7104e28c.m3u
+
+#EXTINF:-1 tvg-id="4e5a6144-9639-45d6-8871-8460dcb044e6" tvg-name="136 erase una vez... el espacio 1982" tvg-logo="https://i.postimg.cc/3JJ2Wc2Z/erase-una-vez-el-espacio.jpg" group-title="24/7 INFANTILES",136 erase una vez... el espacio 1982
+http://vivetv.net:80/live/mauricio/mauricio/4e5a6144-9639-45d6-8871-8460dcb044e6.m3u
+
+#EXTINF:-1 tvg-id="5b3aade0-8679-4457-994f-9b4743e52df5" tvg-name="137 heidi" tvg-logo="https://i.postimg.cc/0Q0c1Jq5/heidi.jpg" group-title="24/7 INFANTILES",137 heidi
+http://vivetv.net:80/live/mauricio/mauricio/5b3aade0-8679-4457-994f-9b4743e52df5.m3u
+
+#EXTINF:-1 tvg-id="ec923578-564f-4a1c-9c7b-dee045a6a5f1" tvg-name="137 Mr Bean Animado-24/7" tvg-logo="https://i.postimg.cc/QNTTNKrQ/0d76a0fa9d6ddab7a6d7f94f6301b1c91db1fd7f83c84008bee90a29a3ae835f.jpg" group-title="24/7 INFANTILES",137 Mr Bean Animado-24/7
+http://vivetv.net:80/live/mauricio/mauricio/ec923578-564f-4a1c-9c7b-dee045a6a5f1.m3u
+
+#EXTINF:-1 tvg-id="f247ce36-0192-48ed-8cd5-a1419e419d22" tvg-name="138 Tortugas Ninjas Retro 24/7" tvg-logo="https://i.postimg.cc/hj3bkkTK/images.jpg" group-title="24/7 INFANTILES",138 Tortugas Ninjas Retro 24/7
+http://vivetv.net:80/live/mauricio/mauricio/f247ce36-0192-48ed-8cd5-a1419e419d22.m3u
+
+#EXTINF:-1 tvg-id="193b0344-4277-497d-9232-28f184aa646d" tvg-name="139 Erase una vez... Los Exploradores 1996-24-7" tvg-logo="https://i.postimg.cc/g2Dg5q9z/erase-una-vez-los-exploradores-24-7.jpg" group-title="24/7 INFANTILES",139 Erase una vez... Los Exploradores 1996-24-7
+http://vivetv.net:80/live/mauricio/mauricio/193b0344-4277-497d-9232-28f184aa646d.m3u
+
+#EXTINF:-1 tvg-id="40daf01c-cb64-4716-90c3-2ec26353f04e" tvg-name="140 Erase una vez... Los Inventores 1994" tvg-logo="https://i.postimg.cc/tRdxqbbB/erase-una-vez-los-inventores-24-7.jpg" group-title="24/7 INFANTILES",140 Erase una vez... Los Inventores 1994
+http://vivetv.net:80/live/mauricio/mauricio/40daf01c-cb64-4716-90c3-2ec26353f04e.m3u
+
+#EXTINF:-1 tvg-id="ea058be2-0326-464f-829d-df01fe7124d9" tvg-name="141 Aunque usted no lo crea ripley 1999" tvg-logo="https://i.postimg.cc/wj9rcC3q/aunque-usted-no-lo-crea-1999-ripley-animado-24-7.jpg" group-title="24/7 INFANTILES",141 Aunque usted no lo crea ripley 1999
+http://vivetv.net:80/live/mauricio/mauricio/ea058be2-0326-464f-829d-df01fe7124d9.m3u
+
+#EXTINF:-1 tvg-id="069ccfec-c93d-4d25-8181-8c447f6cf1d2" tvg-name="142 Chip y dale al rescate 1989" tvg-logo="https://i.postimg.cc/25V4t9NW/chip-y-dale-al-rescate-1989.webp" group-title="24/7 INFANTILES",142 Chip y dale al rescate 1989
+http://vivetv.net:80/live/mauricio/mauricio/069ccfec-c93d-4d25-8181-8c447f6cf1d2.m3u
+
+#EXTINF:-1 tvg-id="ddc669b9-58bc-424b-a272-e0e03e8745b9" tvg-name="Musica Para Concentrarse Y Descansar 01" tvg-logo="https://i.postimg.cc/SxvQkMB8/Whats-App-Image-2025-08-30-at-12-11-43-AM.jpg" group-title="24/7 INFANTILES",Musica Para Concentrarse Y Descansar 01
+http://vivetv.net:80/live/mauricio/mauricio/ddc669b9-58bc-424b-a272-e0e03e8745b9.m3u
+
+#EXTINF:-1 tvg-id="045f3677-9320-4b5a-9a36-ffc33eac995b" tvg-name="Musica Para Concentrarse y Descansar 02" tvg-logo="https://i.postimg.cc/SxvQkMB8/Whats-App-Image-2025-08-30-at-12-11-43-AM.jpg" group-title="24/7 INFANTILES",Musica Para Concentrarse y Descansar 02
+http://vivetv.net:80/live/mauricio/mauricio/045f3677-9320-4b5a-9a36-ffc33eac995b.m3u
+
+#EXTINF:-1 tvg-id="7725220d-b7b8-40c4-bcf8-013f20fafa02" tvg-name="145 Musica de Lluvia para tranquilizarse 24/7" tvg-logo="https://i.postimg.cc/D0ZJKTCs/a-adir-los-logos-de.png" group-title="24/7 INFANTILES",145 Musica de Lluvia para tranquilizarse 24/7
+http://vivetv.net:80/live/mauricio/mauricio/7725220d-b7b8-40c4-bcf8-013f20fafa02.m3u
+
+#EXTINF:-1 tvg-id="f4d7bd2c-96a1-402b-bd94-174a739c04dd" tvg-name="147 los prouds 2022" tvg-logo="https://i.postimg.cc/3wY8bnVN/los-proud-2022-24-7.jpg" group-title="24/7 INFANTILES",147 los prouds 2022
+http://vivetv.net:80/live/mauricio/mauricio/f4d7bd2c-96a1-402b-bd94-174a739c04dd.m3u
+
+#EXTINF:-1 tvg-id="722f9ece-28ec-41f6-8c64-660f4c8b6720" tvg-name="Bob, el constructor" tvg-logo="https://i.postimg.cc/VvQPQGw5/bob-el-constructor.jpg" group-title="24/7 INFANTILES", el constructor
+http://vivetv.net:80/live/mauricio/mauricio/722f9ece-28ec-41f6-8c64-660f4c8b6720.m3u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2766,3 +3672,4 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u
 
 #EXTINF:-1 tvg-id="5f85cf621d6d2200079f1de0" tvg-name="Karaoke por Stingray" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Música" tvg-chno="1525", Karaoke por Stingray
 https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7f4a1004-3df9-11f0-90ac-1ee1ca4b8ae7
+
