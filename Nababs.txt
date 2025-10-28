@@ -1,4 +1,4 @@
-#EXTM3U  refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/ar.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/generate/duMu5WNPC9.xml.gz,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/miEPG.xml,https://www.open-epg.com/files/paraguay2.xml.gz,https://www.bevy.be/bevyfiles/argentina.xml,http://213.126.50.203/sites/default/files/download/ini/info/siteini.pack/Argentina/cablevisionfibertel.com.ar.channels.xml,https://helmerluzo.github.io/PlutoTV_HL/epg/es.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/refs/heads/main/epg/artv-guide.xml"
+#EXTM3U  refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/ar.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/generate/duMu5WNPC9.xml.gz,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/miEPG.xml,https://www.open-epg.com/files/paraguay2.xml.gz,https://www.bevy.be/bevyfiles/argentina.xml,http://213.126.50.203/sites/default/files/download/ini/info/siteini.pack/Argentina/cablevisionfibertel.com.ar.channels.xml,https://helmerluzo.github.io/PlutoTV_HL/epg/es.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/refs/heads/main/epg/artv-guide.xml"
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -167,7 +167,7 @@ https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd?|referer=htt
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
 #EXTINF:-1 tvg-id="Canal 9.uy" tvg-name="Canal 9.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" group-title="Argentina" ch-number="9" type="channel",El nueve
-http://143.0.67.75:8000/play/a04h/index.m3u8
+http://181.13.112.203:8100/play/a04h/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -206,7 +206,7 @@ http://181.209.95.30:8000/play/a06c/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc0abcc84ec380cfc192b96d32abad23:9b7825385b89ff82d01909a4ae404877
 #EXTINF:-1 tvg-id="Telefe HD.uy" tvg-name="Telefe HD.uy" tvg-logo="https://i.ibb.co/Xk2ZFyC/telefe-internacional.png" group-title="Argentina" ch-number="11" type="channel",Telefé Internacional
-http://francope.elementfx.com/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd?|Origin=https://portal.app.flow.com.ar
+http://45.71.254.1:8000/play/a0t4/index.m3u8
 
 
 
@@ -219,7 +219,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/613237a1c9e0db0007a91350/master.m3u
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="Eltrece" tvg-logo="https://static.flow.com.ar/images/75/CH_LOGO/60/40/0/0/59037504071341.png" group-title="Argentina TV" type="channel",  El Trece
+#EXTINF:-1 tvg-id="Canal 13.ar" tvg-name="Canal 13.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="Argentina" ch-number="13" type="channel",El Trece
 http://143.0.67.75:8000/play/a0bg/index.m3u8
 
 
@@ -227,6 +227,22 @@ http://143.0.67.75:8000/play/a0bg/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5bd469f8bf268d5d148c3971c7c23fca:9af98080d22846fdf2988b8ba9ec4add
 #EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/El_trece_internacional.png/revision/latest/scale-to-width-down/200?cb=20160308002421" group-title="CANALES FLOW"  ,El Trece Internacional
 https://chromecast.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd
+
+
+#EXTINF:-1  group-logo="https://www.latina.pe/_templates/desktop/includes/img/latina.svg?v=2" group-title="CANALES FLOW"  , LATINA HD 
+http://8.243.126.131:8000/play/a001/index.m3u8
+
+
+
+
+
+#EXTINF:-1  group-logo="https://www.elonce.tv/__export/1716992127000/sites/rosario3/elonce/arte/elonce_logo.svg" group-title="CANALES FLOW"  , CANAL 11 DE SALTA
+http://181.13.112.203:8100/play/a0f1/index.m3u8
+
+
+#EXTINF:-1 group-logo="https://www.tvcanal2.com.ar/wp-content/uploads/2024/10/imagen-3.png" group-title="CANALES FLOW"  , CANAL 2 SALTA
+http://181.13.112.203:8100/play/a0f6/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/CNN/CNN-Logo.wine.png" group-title="CANALES FLOW" CNN en Español
@@ -584,7 +600,7 @@ http://cplay.club:2086/Javier0124/vdXJW9JnXP/38921
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 #EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="Deportes" ch-number="110" type="channel",ESPN Premium
-http://181.209.95.30:8000/play/a078/index.m3u8
+http://190.102.246.93:9005/play/a029
 
 
 #EXTINF:-1 tvg-id="ESPN PREMIUM 2"tvg- logo="https://i.ibb.co/xdZrSq0/espnpremium.png" , ESPN PREMIUM 2 LIBERTADORES CHAMPIONS F1
@@ -621,10 +637,14 @@ https://chromecast.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1
 https://cdn.sensa.com.ar/bpk-tv/SenalEventos/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LaLiga_TV_Por_M%2B_Logo.png" tvg-name="MOVISTAR LA LIGA" group-title=" MOVISTAR LA LIGA 2
+http://172.93.102.112:8989/278844_.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LaLiga_TV_Por_M%2B_Logo.png" tvg-name="MOVISTAR LA LIGA" group-title=" MOVISTAR LA LIGA
 http://181.78.106.127:9000/play/ca027/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/05KHcNMm/DIRECTV-1.jpg" DSPORTS HD
+http://181.78.106.127:9000/play/ca026/index.m3u8
 
 EXTINF:-1 tvg-logo="https://i.postimg.cc/05KHcNMm/DIRECTV-1.jpg" group-title="DEPORTES",DSPORTS HD (Arg)
 http://38.199.6.1:17001/play/a0d0/index.m3u8
@@ -814,7 +834,23 @@ http://vivetv.net:80/live/mauricio/mauricio/585c5499-e8b0-430c-a21a-5135d686000e
 
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Real_Madrid_TV.png" group-title="DEPORTES", REAL MADRID TV
-http://vipdwzv.top:8080/VIP014521741010038361/96a2bb36708d/724
+http://172.93.102.112:8989/278854_.m3u8
+
+#EXTINF:-1, M LC 🇪🇸
+http://172.93.102.112:8989/278845_.m3u8
+
+#EXTINF:-1,La liga Inside 🇪🇸
+https://is.gd/P9HFAg?LaligaInside.m3u8
+
+#EXTINF:-1,VAMOS 🇪🇸
+http://172.93.102.112:8989/278843_.m3u8
+
+#EXTINF:-1,TD 🇪🇸
+http://172.93.102.112:8989/278856_.m3u8
+
+
+#EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRcR36Ge_99-X91OT3gdWloyA4HvjY1lUbBMdo_bdNdQ&s=10"  group-title="DEPORTES", SKY LA LIGA ESP
@@ -1009,18 +1045,6 @@ http://vivetv.net:80/live/mauricio/mauricio/856e48f5-48ce-4abe-b847-7440441dce6f
 
 #EXTINF:-1 tvg-name="NBA PASS 10" tvg-logo="https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 10
 http://vivetv.net:80/live/mauricio/mauricio/4540201c-33d4-4c8d-b072-3a6d0879e31f.m3u
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -5556,6 +5580,7 @@ http://vivetv.net:80/live/mauricio/mauricio/ba6455ff-6c6a-4a2e-9dfa-76bd35ec1fed
 
 #EXTINF:-1 tvg-name="Distrito TV" tvg-logo="https://i.imgur.com/AqGIoIt.png" group-title="ESPAÑA",Distrito TV
 http://vivetv.net:80/live/mauricio/mauricio/b2d9a062-5781-4172-8158-c7777c4da775.m3u
+
 
 
 
