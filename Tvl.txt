@@ -199,7 +199,7 @@ http://201.217.246.177:8000/play/a055/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://git.io/JOTOu" group-title="Argentina" ch-number="11" type="channel",Telefé
-http://200.115.120.1:8000/play/ca016/index.m3u8
+http://201.217.246.177:8000/play/a06c/index.m3u8
 
 
 
@@ -7096,6 +7096,7 @@ http://fl5.moveonjoy.com/NBA_8/index.m3u8
 http://fl5.moveonjoy.com/NBA_9/index.m3u8
 #EXTINF:-1  tvg-name="NBA TV" tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="MoveOnJoy" radio="false",NBA TV
 https://fl3.moveonjoy.com/NBA_TV/index.m3u8
+
 
 
 
