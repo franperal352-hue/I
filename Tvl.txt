@@ -229,6 +229,19 @@ http://143.0.67.75:8000/play/a0bg/index.m3u8
 https://chromecast.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd
 
 
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
+#EXTINF:-1  tvg-id="Television Pública.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="Argentina", TV Pública
+http://201.217.246.177:8000/play/a056/index.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1  group-logo="https://www.latina.pe/_templates/desktop/includes/img/latina.svg?v=2" group-title="CANALES FLOW"  , LATINA HD 
 http://8.243.126.131:8000/play/a001/index.m3u8
 
@@ -7096,6 +7109,7 @@ http://fl5.moveonjoy.com/NBA_8/index.m3u8
 http://fl5.moveonjoy.com/NBA_9/index.m3u8
 #EXTINF:-1  tvg-name="NBA TV" tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="MoveOnJoy" radio="false",NBA TV
 https://fl3.moveonjoy.com/NBA_TV/index.m3u8
+
 
 
 
