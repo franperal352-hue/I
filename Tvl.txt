@@ -186,7 +186,7 @@ https://api.m3use.projectmoose.xyz/m3u/naruto420/naruto/68feaa336eeeb7b348dff6a4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://181.209.95.30:8000/play/a0a6/index.m3u8
+http://201.217.246.177:8000/play/a058/index.m3u8
 
 
 
@@ -194,12 +194,12 @@ http://181.209.95.30:8000/play/a0a6/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
 #EXTINF:-1 tvg-id="America.uy" tvg-name="America.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="Argentina" ch-number="14" type="channel",América
-http://181.209.95.30:8000/play/a0a7/index.m3u8
+http://201.217.246.177:8000/play/a055/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://git.io/JOTOu" group-title="Argentina" ch-number="11" type="channel",Telefé
-http://181.209.95.30:8000/play/a06c/index.m3u8
+http://201.217.246.177:8000/play/a06c/index.m3u8
 
 
 
@@ -7096,6 +7096,7 @@ http://fl5.moveonjoy.com/NBA_8/index.m3u8
 http://fl5.moveonjoy.com/NBA_9/index.m3u8
 #EXTINF:-1  tvg-name="NBA TV" tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="MoveOnJoy" radio="false",NBA TV
 https://fl3.moveonjoy.com/NBA_TV/index.m3u8
+
 
 
 
