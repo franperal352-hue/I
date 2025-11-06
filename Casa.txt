@@ -612,7 +612,7 @@ http://143.0.67.75:8000/play/a0bc/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
 #EXTINF:-1 ch-number="114" tvg-id="TYC" tvg-name="TyC Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Deportes", TyC Sports
-https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+http://38.44.109.41:8003/play/a02l/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tycsports.png" group-title="⚽ Deportes",✔️ TyC Sports 2
@@ -12259,4 +12259,5 @@ http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1322267.m3u8
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1322268.m3u8
 #EXTINF:-1 tvg-name="AR: TC (HD) CINECANAL" group-title="Telecentro",AR: TC (HD) CINECANAL
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1322269.m3u8
+
 
