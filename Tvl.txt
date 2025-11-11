@@ -1026,6 +1026,16 @@ http://181.78.106.127:9000/play/ca028/index.m3u8
 http://181.78.106.127:9000/play/ca039/index.m3u8
 
 
+#EXTINF:-1 tvg-name="NBA PASS 1" tvg-logo="https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS
+http://www.1play.cool:25461/8572225535/fb3d5cbeab/172538
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="NBA PASS 1" tvg-logo="https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 1
 http://vivetv.net:80/live/mauricio/mauricio/52c34918-d261-4d01-b303-5cd9010623f9.m3u
 
@@ -16981,3 +16991,4 @@ https://encoder-1b.montevision.com.ar/hls/monte.m3u8
 
 #EXTINF:-1 tvg-logo="https://eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="WEB CAM Y CLIMA", MONTE HERMOSO 2
 https://encoder-1b.montevision.com.ar/hls/monte2.m3u8
+
