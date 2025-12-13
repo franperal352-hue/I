@@ -1,22 +1,19 @@
 #EXTM3U  refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/ar.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/generate/duMu5WNPC9.xml.gz,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/miEPG.xml,https://www.open-epg.com/files/paraguay2.xml.gz,https://www.bevy.be/bevyfiles/argentina.xml,http://213.126.50.203/sites/default/files/download/ini/info/siteini.pack/Argentina/cablevisionfibertel.com.ar.channels.xml,https://helmerluzo.github.io/PlutoTV_HL/epg/es.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/refs/heads/main/epg/artv-guide.xml,https://raw.githubusercontent.com/dalimtv-stack/miEPG/refs/heads/main/miEPG.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz,https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz,https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz,https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz"
 
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
-#EXTINF:-1 ch-number="502" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FMEVT.png?raw=true" group-title="Música", Flow Music Eventos
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/7978/CH_LOGO/60/40/0/0/80687161075299.png" group-title="🇦🇷 FLOW"  ,🎵 Flow Music Eventos
+https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_C/Flow_Music_XP.mpd
 
 
 
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=596b599580b39ae2f3c413f7eae36902&key=2d7e3d5d31f68690fd877a111f84e8e3
-#EXTINF:-1 ch-number="504" tvg-logo="https://i.ibb.co/WD5sH68/flow-music-2.png" group-title="Música", FLOW MUSIC 2
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc/Flow_Music_2.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=596b599580b39ae2f3c413f7eae36902:2d7e3d5d31f68690fd877a111f84e8e3
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/7978/CH_LOGO/60/40/0/0/80687161075299.png" group-title="🇦🇷 FLOW"  ,🎵 FLOW MUSIC 2
+https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc_C/Flow_Music_2.mpd
 
 
 
@@ -39,8 +36,6 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_U
 #KODIPROP:inputstream.adaptive.license_key=f774b06a300783596f27b552226de9c0:4d6256b28b487bcf906bcf0328635747
 #EXTINF:-1 ch-number="143" tvg-id="Eventos3.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Deportes", Eventos 3
 https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-
 
 
 
@@ -124,173 +119,9 @@ https://streamlky.alsolnet.com/fmshow
 
 
 
-
 #EXTINF:-1 tvg-id="MISIONES ONLINE" tvg-name="MISIONES ONLINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Misiones_Online.png" group-title="STREAM" ch-number="106" type="channel",MISIONES ONLINE
 https://www.dailymotion.com/cdn/live/video/x7zh5gd.m3u8?sec=6S7bKIuc_I61nv1iltGBVjmXGyIx1F_3qzZkl-5ZodawEAJ4WqFCSaY6ZluzDf-HzcyZLyDIeDVWDmz1yr7vQi73Klgn6IVizgROYFtZOPZm0qGNLqJvE_Mdg-aBINR9&dmTs=590107&dmV1st=23c21541-8bf8-e268-0587-e91ecc2fd14b
 
-#EXTINF:-1 tvg-name="Sol tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/sol-tv.jpg?itok=PFqa19vd" group-title="CINE",SOL TV
-https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-
-#EXTINF:-1 tvg-name="Vclassics tv" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png" group-title="MUSICA",VCLASSICS TV
-https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w999019425.m3u8
-
-#EXTINF:-1 tvg-name="Cosmos tv" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQjjB8h8lhzBktI4zfzWXgz1cvM0gWdxXQWxrIlBQ=s88-c-k-c0x00ffffff-no-rj" group-title="CINE",COSMOS TV
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
-#EXTINF:-1 tvg-name="Uniteve" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/uniteve.png" group-title="CORDOBA",UNITEVE
-https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-
-#EXTINF:-1 tvg-name="Garabito tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/garabitotv.jpg?itok=c5PQ8jnJ" group-title="CINE",GARABITO TV
-https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Video club" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFYGAuS-WJxvzdD7ke9NWjRFK4tZbo0azgcOwscLg2H81KDozqw-L_iGbuSwMm56f4VrQ&usqp=CAU" group-title="CINE",VIDEO CLUB
-https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
-
-#EXTINF:-1 tvg-name="Historias de ultratumba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCQSI8gGoIiLZbmgn2w7L_c5kt7FzhO8l9J6VaDti_-w&s" group-title="DOCUMENTALES",HISTORIAS DE ULTRATUMBA
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dc3d3744-1f78-11ee-8064-731e08410b40&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c17155e9-837f-45b5-9910-9f7f45a03530&userId=&serverSideAds=true
-
-
-#EXTINF:-1 tvg-name="Failarmy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaWvwPr1nOxtFdz2l9loQ9qhPCSZs6kv23fFwCeoxRXw&s" group-title="DOCUMENTALES",FAILARMY
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dc3d1031-1f78-11ee-8064-731e08410b40&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=686eb0cb-39cb-47d5-a068-24f573ac1e8b&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-name="Estrellas de accion" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgGlzwp3dPBO4upXJYyZHa0lg8OpqNjl8SHy8RiyvPww&s" group-title="CINE",ESTRELLAS DE ACCION
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dc3cc214-1f78-11ee-8064-731e08410b40&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46c9fd1e-5125-4043-9ae1-e6b51f132664&userId=&serverSideAds=true
-
-
-#EXTINF:-1 tvg-name="Cinco Tigre tv" tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/04/CINCO-TV-logo.gif" group-title="BUENOS AIRES",CINCO TIGRE TV
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-
-#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/D-wIdAot_400x400_0.jpg?itok=WR0dwmXG" group-title="SANTIAGO DEL ESTERO",CANAL 7
-https://stream.arcast.com.ar/envivo/castv/chunklist_w1702223681.m3u8
-
-
-#EXTINF:-1 tvg-name="Telejunin" tvg-logo="https://telejunin.com/static/images/logo/teleJunin.png" group-title="BUENOS AIRES",TELEJUNIN
-https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
-
-#EXTINF:-1 tvg-name="Free tv accion" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/freetv_accion.jpg?itok=XlCiBv3M" group-title="CINE",FREE TV ACCION
-https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?url=freetv.com&amp;genre=Originales%20de%20FreeTV&amp;us_privacy=1YNN&amp;coppa=0&amp;c_producer=topcine&amp;c_lang=es&amp;app_bundle=com.olympusat.FreeTV
-
-#EXTINF:-1 tvg-name="Sicardi tv" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/canal-5-paralelo-46_1.png?itok=wP4nJSBK" group-title="BUENOS AIRES",SICARDI TV
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-
-
-#EXTINF:-1 tvg-name="Xtrema tv accion" tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoACCION2.jpg" group-title="CINE",XTREMA TV ACCION
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Canal u" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/canal-u.jpg?itok=okiiAwaW" group-title="CORDOBA",CANAL U
-https://stream.arcast.live/canalu/canalu/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png" group-title="NEUQUEN",CANAL 7 NEUQUEN
-https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://pbs.twimg.com/profile_images/1455005318002266117/LyDuNBH7_400x400.jpg" group-title="ENTRE RIOS",CANAL 9 PARANA
-https://stream.arcast.live/ahora/ahora/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Canal 13" tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png" group-title="LA RIOJA",CANAL 13 LA RIOJA
-https://stream.arcast.net:4443/mp/mp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Runtime peliculas" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE",RUNTIME PELICULAS
-https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
-
-#EXTINF:-1 tvg-name="Canal del sur" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="SAN JUAN",CANAL DEL SUR
-https://cnnsanjuan.com:9999/live/delsurtv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Spacio tv" tvg-logo="https://static.wixstatic.com/media/b7b640_979e29e625374f56818318d29761e139~mv2.png/v1/fill/w_106,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20stv%202022%20png%20mosca.png" group-title="SALTA",SPACIO TV
-https://stream.arcast.live/spaciotv/ngrp:spaciotv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-name="canal choco tv" tvg-logo="https://1.bp.blogspot.com/-Y0EHX8oKseE/YVL5RaGb0bI/AAAAAAAAQ8U/rUdKCZ7LWncR1VTrQ8n1DIwD26R_ji8bQCLcBGAsYHQ/w147-h147/Choco%2BTV%2Ben%2Bvivo.jpg" group-title="CHACO",CANAL CHOCO TV
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Extrema tv kids" tvg-logo="https://unored.tv/wp-content/uploads/2022/12/Extrema-Kids-PNG-300x224.png" group-title="INFANTILES",EXTREMA TV KIDS
-https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Go tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/Go-radio.jpg?itok=blyzvrgl" group-title="MUSICA",GO TV
-https://tigocloud.desdeparaguay.net/gotv/gotv/chunklist_w1939119464.m3u8
-
-#EXTINF:-1 tvg-name="Telenord" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/telenord.png?itok=7d_jY2UM" group-title="CORRIENTES",TELENORD
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Frecuencia musical tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/FMTV-1.png?itok=tsiX6AqJ" group-title="CINE",FRECUENCIA MUSICAL TV
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-name="Recuerdos retro radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/aawkulyuju3q.png" group-title="MUSICA",RECUERDOS RETRO RADIO
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Mas FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/65826.v6.png" group-title="MUSICA",MAS FM
-https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-
-#EXTINF:-1 tvg-name="Tvs retro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="GUATEMALA",TVS RETRO
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-
-#EXTINF:-1 tvg-name="Kids tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/72bf2ecca24095d1f015ae7c52749e68.webp" group-title="INFANTILES",KIDS TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master.m3u8
-
-#EXTINF:-1 tvg-name="Xtrema tv animal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2af4dd316afda72cb7c982a399289623.webp" group-title="DOCUMENTALES",XTREMA TV ANIMAL
-https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="CATAMARCA",CANAL 7
-https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
-
-#EXTINF:-1 tvg-name="5tv Corrientes" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="CORRIENTES",5TV CORRIENTES
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="13 max television" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="CORRIENTES",13 MAX TELEVISION
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Cable imagen Amstrong" tvg-logo="https://i.imgur.com/U9NuJQC.png" group-title="SANTA FE",CABLE IMAGEN AMSTRONG
-https://stream.arcast.com.ar/casse/casse/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Canal 2 Ushuaia" tvg-logo="https://i.ibb.co/q5NPdK2/canal2-logo.png" group-title="TIERRA DEL FUEGO",CANAL 2 USHUAIA
-https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
-
-#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/tvpp.jpg?itok=VWUMEWt4" group-title="LA PAMPA",CANAL 3 LA PAMPA
-https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Canal 3 Las Heras" tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2022/10/canal3logo-x1.png" group-title="SANTA CRUZ",CANAL 3 LAS HERAS
-https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Canal 4 Esquel" tvg-logo="https://i.imgur.com/6kbOr16.png" group-title="CHUBUT",CANAL 4 ESQUEL
-https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Canal 5 Pico Truncado" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/canal-5-paralelo-46.png?itok=0bHvpWFl" group-title="SANTA CRUZ",CANAL 5 PICO TRUNCADO
-https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Canal 8 Tunuyan" tvg-logo="https://tvinsur.com/i/ar/canal-8-mendoza.webp" group-title="MENDOZA",CANAL 8 TUNUYAN
-https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
-
-#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="JUJUY",CANAL 7 JUJUY
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="SALTA",CANAL 7 SALTA
-https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
-
-#EXTINF:-1 tvg-name="Canal 11 de la costa" tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="BUENOS AIRES",CANAL 11 DE LA COSTA
-https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
-
-#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/gFvg-0Js_400x400.jpg?itok=t_xR4eU-" group-title="JUJUY",CANAL 13 JUJUY
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-
-#EXTINF:-1 tvg-name="canal 40 Caucete" tvg-logo="https://i.imgur.com/xUiQvk8.png" group-title="SAN JUAN",CANAL 40 CAUCETE
-https://canalsj.kozow.com/canal40/index.m3u8
-
-#EXTINF:-1 tvg-name="Canal 34" tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="SAN JUAN",CANAL 34 SAN JUAN
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Canal 21" tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="MISIONES",CANAL 21
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Chilecito tv" tvg-logo="https://i.imgur.com/zGubmgZ.png" group-title="LA RIOJA",CHILECITO TV
-https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
-
-
-EXTINF:-1 tvg-name="Metro tv" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="TUCUMAN",METRO TV
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
-
-#EXTINF:-1 tvg-name="Net tv" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="BUENOS AIRES",NET TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Telecinco.ar" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="CHUBUT",TELECINCO.AR
-https://videohd.live:19360/8016/8016.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -416,6 +247,13 @@ http://201.217.246.177:8000/play/a06c/index.m3u8
 #EXTINF:-1  ch-number="11" tvg-id="telefe" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Argentina", Telefé 4
 https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc0abcc84ec380cfc192b96d32abad23:9b7825385b89ff82d01909a4ae404877
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/ 
+#EXTINF:-1 tvg-id="786#Telefe Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/1200px-Telefe_Internacional_%282018%29.png" ,Telefe Internacional
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=telefeinternacional&token=3574401799
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -428,6 +266,18 @@ http://143.0.67.75:8000/play/a0bg/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e7b05c7a737b7f0a5d571b91deaa2697:4079ac205b544b1c294ee1568906ff58
 #EXTINF:-1  ch-number="13" tvg-id="el13" tvg-name="Canal 13.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="Argentina", El Trece 2
 https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5bd469f8bf268d5d148c3971c7c23fca:9af98080d22846fdf2988b8ba9ec4add 
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-id="784#El Trece Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/El_trece_internacional.png/revision/latest/scale-to-width-down/200?cb=20160308002421" ,El Trece Internacional
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=eltreceinternacional&token=3574401799
+
+
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -491,8 +341,10 @@ https://g3.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/v
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
-#EXTINF:-1 group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/697/CH_LOGO/60/40/0/0/95216322073987.png" group-title="CANALES FLOW" ,KZOEntertaiment
-https://chromecast.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/ 
+#EXTINF:-1 tvg-id="199#KZO" tvg-logo="https://static.flow.com.ar/images/697/CH_LOGO/60/40/0/0/95216322073987.png",KZOEntertaiment
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=kzo&token=3574401799
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -661,11 +513,321 @@ http://190.14.10.19:16000/play/a06j/index.m3u8
 #EXTINF:-1 tvg-id="Abc Tv" tvg-name="Abc Tv" group-title="🇦🇷 SERVIDOR FLOW 2 🇦🇷"      ch-number="80" type="channel",ABC TV Paraguay
 https://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0179a4ba9f407dfdee057a33f8f220c:e0c3f11cb1d7f8d17b7a1532f29edb0b
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/717/CH_LOGO/60/40/0/0/2025760607999.png" group-title="🇦🇷 FLOW"   ,🌐 Somos Corrientes
+https://chromecast.cvattv.com.ar/live/c4eds/Somos_Corrientes/SA_Live_dash_enc_C/Somos_Corrientes.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bffd3b447aa44a429a703245836e46fa:13be31c0bcb76b28b1248bf64ab3926e
+#EXTINF:-1    tvg-logo="https://static.flow.com.ar/images/1045/CH_LOGO/60/40/0/0/6716887007729.png" group-title="🇦🇷 FLOW"  ,🌐 Somos La Plata
+https://chromecast.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_Live_dash_enc_C/Somos_La_Plata.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b57763b8d9c205d609ea509432201fac:a476cf79190fe4810efdd81e32317ff3
+#EXTINF:-1    tvg-logo="https://static.flow.com.ar/images/6637/CH_LOGO/60/40/0/0/4485570807941.png" group-title="🇦🇷 FLOW" ,🌐 SOMOS MAR DEL PLATA NECOCHEA
+https://chromecast.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/SA_Live_dash_enc_C/Canal_Ciudad_MDQ.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee8a6cc35fdb4ab7adeed9d16593459f:5ca774838d5c887f7a8d7dee64b9a6b0
+#EXTINF:-1    tvg-logo="https://static.flow.com.ar/images/6637/CH_LOGO/60/40/0/0/4485570807941.png" group-title="🇦🇷 FLOW"  ,🌐 Somos Norte
+https://chromecast.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc_C/Somos_Norte.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7071b5b3283cebd376d1ba9c6e53ba6e:87a6c4c8baaefb073270e92f092b4c25
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/7997/CH_LOGO/60/40/0/0/52917235072031.png" group-title="🇦🇷 FLOW"   ,🌐 Somos Rafaela
+https://chromecast.cvattv.com.ar/live/c4eds/Somos_Rafaela/SA_Live_dash_enc_C/Somos_Rafaela.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=863ed7f26cf51850b9ed735545c788ce:789edf190d78baefb569e8ca09ac86c2
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/6897/CH_LOGO/60/40/0/0/86582610074184.png" group-title="🇦🇷 FLOW"  ,🌐 Somos Rosario
+https://chromecast.cvattv.com.ar/live/c5eds/Somos_Rosario/SA_Live_dash_enc_C/Somos_Rosario.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9879546bcfd8a4231ce7502062f424fb:e071693afea3e58f8b28bf5b2311e3fc
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/7960/CH_LOGO/60/40/0/0/80711622072411.png" group-title="🇦🇷 FLOW"   ,🌐 Somos Salta Jujuy
+https://chromecast.cvattv.com.ar/live/c4eds/Somos_Salta/SA_Live_dash_enc_C/Somos_Salta.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1344e18e45e6e6e5ec0a302d769c8e52:913cfe90bb3af2d402eada6ad50ce22d
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/1263/CH_LOGO/60/40/0/0/5370906407919.png" group-title="🇦🇷 FLOW"  ,🌐 Somos Santa Fe
+https://chromecast.cvattv.com.ar/live/c5eds/Somos_STF/SA_Live_dash_enc_C/Somos_STF.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d85fcc70989d0dbe8d70dd70a4629c0:a953290192fd5db5bf7936a88ecc6877
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="🇦🇷 FLOW"  ,🌐 Canal 10 Córdoba
+https://chromecast.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc_C/Canal10_CBA_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a866ca98bef2351a68e4843139f8073:b0893077653d1ef842a1b65d8b34455a
+#EXTINF:-1  tvg-logo="https://infonegocios.info/content/companies/logos/81031_Canal%20C.png" group-title="🇦🇷 FLOW"  ,🌐 Canal C Córdoba
+https://chromecast.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc_C/Canal_C.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b93e6ce6b4fb51b890ac57d8c0b6a402:53eb2499d8c57cf6f9ea887c8683c591
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Isologo_cba24n.svg/1200px-Isologo_cba24n.svg.png" group-title="🇦🇷 FLOW"  ,🌐 CBA24N Córdoba
+https://chromecast.cvattv.com.ar/live/c4eds/CBA24/SA_Live_dash_enc_C/CBA24.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7804609194dc7145bf297153276096d2:03d3f4e3d0b35362dadfddce10dee00c
+#EXTINF:-1   tvg-logo="https://pbs.twimg.com/profile_images/614120836279205888/yR_DtcB5_400x400.jpg" group-title="🇦🇷 FLOW"  ,🌐 Canal Local Carlos Paz
+https://chromecast.cvattv.com.ar/live/c4eds/Local_Carlos_Paz/SA_Live_dash_enc_C/Local_Carlos_Paz.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=93c40cee58a5f415828cc32d0c80d311:d00906d71ee69515cd4dca1162d5ae7f
+#EXTINF:-1   tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2023/03/Marca-UNLP-TV-sin-fondo.png" group-title="🇦🇷 FLOW"  ,🌐 Canal Universidad De La Plata
+https://chromecast.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_Live_dash_enc_C/Canal_Universidad.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=513f2056bf40d9123918fd7939fbf065:075ee6dd9b67d88be5642eaa510e91cb
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/8001/CH_LOGO/60/40/0/0/68046414071342.png" group-title="🇦🇷 FLOW"  ,🌐 Somos El Valle
+https://chromecast.cvattv.com.ar/live/c4eds/Somos_El_Valle/SA_Live_dash_enc_C/Somos_El_Valle.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a15243320c0a79defa8814252e3e8c07:0659db05632c0061c126db7a12582499
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Canal_Siete_Bahia_Blanca.png" group-title="🇦🇷 FLOW"  ,🌐 Canal 7 Bahía Blanca
+https://chromecast.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_enc_C/Canal7_Bahia_Blanca.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ccfc823faed878832b3e4a69fcb72a2:d68b394ab768f4a2ec148ab8cdac46ef
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Canalnuevebblanca.png/640px-Canalnuevebblanca.png" group-title="🇦🇷 FLOW"  ,🌐 Canal 9 BAHÍA BLANCA
+https://chromecast.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_Live_dash_enc_C/Canal9_Bahia_Blanca.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dde29700ee0423e1afe3828c6f251295:1928b62bc191bd26c357137d7d909868
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png" group-title="🇦🇷 FLOW"  ,🌐 Canal 9 Chaco
+https://chromecast.cvattv.com.ar/live/c4eds/CH_9_Resistencia/SA_Live_dash_enc_C/CH_9_Resistencia.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd573858f3414066b9292ef6397a5c3c:593eb5f7facce4240ff7a5f26afd47e0
+#EXTINF:-1   tvg-logo="https://polotecparana.com.ar/wp-content/uploads/2021/09/LOGO-CANAL-NUEVE-LITORAL-01-NueveLitoral.png" group-title="🇦🇷 FLOW"  ,🌐 Canal 9 Litoral
+https://chromecast.cvattv.com.ar/live/c6eds/Canal_9_Parana/SA_Live_dash_enc_C/Canal_9_Parana.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55828b728b8affe6d1d57d050025645d:8ac11ed6d0ccaeac3f8218419f65bb94
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png" group-title="🇦🇷 FLOW"  ,🌐 Canal 7 NEUQUÉN
+https://chromecast.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc_C/Telefe_Neuquen.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c996a1465acddc9c3f7a2dd9b86aa88:a2b63e48c99bebb52bfcdb1830efdd3e
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Logo_Canal_12_-_Misiones.png" group-title="🇦🇷 FLOW"  ,🌐 Canal 12 MISIONES
+https://chromecast.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_Live_dash_enc_C/CH_12_Posadas.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c7a5de392f874308e4dd8f2837f1115:9ccf9ec6922c403d67d0df7952547581
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo-Canal-Once-Salta.png" group-title="🇦🇷 FLOW"  ,🌐 Canal 11 SALTA
+https://chromecast.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc_C/Telefe_Salta.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=662447df521fb590b72b1a11671c2afd:81c204c443987d7b176587d626a124a0
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png" group-title="🇦🇷 FLOW"  ,🌐 Canal 3 ROSARIO
+https://chromecast.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_C/Canal_3_Rosario.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c61b5ac8e1664bf5b544e92ea2597e1c:938437ac25f0a18e04efc1a083489edc
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png" group-title="🇦🇷 FLOW"   ,🌐 TELEFÉ ROSARIO
+https://chromecast.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc_C/Canal_5_Rosario.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=59ef9057114f44a480b62e36a6b1374f:74ef97bc54df5655c3a1d4f80b16e8d7
+#EXTINF:-1    tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="🇦🇷 FLOW" ,🌐 TELEFÉ SANTA FE
+https://chromecast.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc_C/Canal_13_SFE.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed542fdaa4598671e26aca3e160afed7:cdb880c60523b9ebc61b9003c41f8048
+#EXTINF:-1    tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcj2knBfG_p6DC8Vxb9_1NzM8lSmu9TQVSFab8ToqU_gusu7kccOkTClxQW_LTsUw9JCGmZE8yvosjkFrO_rOS95mSvQT785RYYY-VQ1lQw71n-YtW8gW2SXg5Wuh3OMWhDb71COlJLOfG4ovsmf2vjx2ZaOBiQzl0Vg24snZ9bthlwC4gk8eLlTTI/s614/Am%C3%A9rica_Tucum%C3%A1n-2019.png" group-title="🇦🇷 FLOW"  ,🌐 AMERICA TUCUMÁN
+https://chromecast.cvattv.com.ar/live/c7eds/America_Tucuman/SA_Live_dash_enc_C/America_Tucuman.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo-Canal-8-tucum%C3%A1n.png" group-title="🇦🇷 FLOW"  ,🌐 Canal 8 TV TUCUMÁN
+https://chromecast.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_C/Canal_8_Tucuman.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a53740aa52d8b50ccb218aab5e9d50e:e772fa4a4997b50a0ff04e2ef286a864
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Canal_10_de_Tucum%C3%A1n.png" group-title="🇦🇷 FLOW"  ,🌐 Canal 10 TUCUMÁN
+https://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc_C/Ch10_Tucuman.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="🇦🇷 FLOW"  ,🌐 Canal 12 CÓRDOBA
+https://chromecast.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_C/Canal_12_CBA.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=103ce214b4d04c8eb4dd43670e956dad:20e030576b8dc4df0d1c68e16af3bc0f
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="🇦🇷 FLOW"  ,🌐 Telefe Córdoba
+
+#EXTINF:-1 tvg-name="Sol tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/sol-tv.jpg?itok=PFqa19vd" group-title="CINE",SOL TV
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+#EXTINF:-1 tvg-name="Vclassics tv" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png" group-title="MUSICA",VCLASSICS TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w999019425.m3u8
+
+#EXTINF:-1 tvg-name="Cosmos tv" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQjjB8h8lhzBktI4zfzWXgz1cvM0gWdxXQWxrIlBQ=s88-c-k-c0x00ffffff-no-rj" group-title="CINE",COSMOS TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1 tvg-name="Uniteve" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/uniteve.png" group-title="CORDOBA",UNITEVE
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+
+#EXTINF:-1 tvg-name="Garabito tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/garabitotv.jpg?itok=c5PQ8jnJ" group-title="CINE",GARABITO TV
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Video club" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFYGAuS-WJxvzdD7ke9NWjRFK4tZbo0azgcOwscLg2H81KDozqw-L_iGbuSwMm56f4VrQ&usqp=CAU" group-title="CINE",VIDEO CLUB
+https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
+
+#EXTINF:-1 tvg-name="Historias de ultratumba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCQSI8gGoIiLZbmgn2w7L_c5kt7FzhO8l9J6VaDti_-w&s" group-title="DOCUMENTALES",HISTORIAS DE ULTRATUMBA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dc3d3744-1f78-11ee-8064-731e08410b40&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c17155e9-837f-45b5-9910-9f7f45a03530&userId=&serverSideAds=true
+
+
+#EXTINF:-1 tvg-name="Failarmy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaWvwPr1nOxtFdz2l9loQ9qhPCSZs6kv23fFwCeoxRXw&s" group-title="DOCUMENTALES",FAILARMY
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dc3d1031-1f78-11ee-8064-731e08410b40&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=686eb0cb-39cb-47d5-a068-24f573ac1e8b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-name="Estrellas de accion" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgGlzwp3dPBO4upXJYyZHa0lg8OpqNjl8SHy8RiyvPww&s" group-title="CINE",ESTRELLAS DE ACCION
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dc3cc214-1f78-11ee-8064-731e08410b40&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46c9fd1e-5125-4043-9ae1-e6b51f132664&userId=&serverSideAds=true
+
+
+#EXTINF:-1 tvg-name="Cinco Tigre tv" tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/04/CINCO-TV-logo.gif" group-title="BUENOS AIRES",CINCO TIGRE TV
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+
+#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/D-wIdAot_400x400_0.jpg?itok=WR0dwmXG" group-title="SANTIAGO DEL ESTERO",CANAL 7
+https://stream.arcast.com.ar/envivo/castv/chunklist_w1702223681.m3u8
+
+
+#EXTINF:-1 tvg-name="Telejunin" tvg-logo="https://telejunin.com/static/images/logo/teleJunin.png" group-title="BUENOS AIRES",TELEJUNIN
+https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
+
+#EXTINF:-1 tvg-name="Free tv accion" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/freetv_accion.jpg?itok=XlCiBv3M" group-title="CINE",FREE TV ACCION
+https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?url=freetv.com&amp;genre=Originales%20de%20FreeTV&amp;us_privacy=1YNN&amp;coppa=0&amp;c_producer=topcine&amp;c_lang=es&amp;app_bundle=com.olympusat.FreeTV
+
+#EXTINF:-1 tvg-name="Sicardi tv" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/canal-5-paralelo-46_1.png?itok=wP4nJSBK" group-title="BUENOS AIRES",SICARDI TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
+
+#EXTINF:-1 tvg-name="Xtrema tv accion" tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoACCION2.jpg" group-title="CINE",XTREMA TV ACCION
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal u" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/canal-u.jpg?itok=okiiAwaW" group-title="CORDOBA",CANAL U
+https://stream.arcast.live/canalu/canalu/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png" group-title="NEUQUEN",CANAL 7 NEUQUEN
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://pbs.twimg.com/profile_images/1455005318002266117/LyDuNBH7_400x400.jpg" group-title="ENTRE RIOS",CANAL 9 PARANA
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 13" tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png" group-title="LA RIOJA",CANAL 13 LA RIOJA
+https://stream.arcast.net:4443/mp/mp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Runtime peliculas" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE",RUNTIME PELICULAS
+https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
+
+#EXTINF:-1 tvg-name="Canal del sur" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="SAN JUAN",CANAL DEL SUR
+https://cnnsanjuan.com:9999/live/delsurtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Spacio tv" tvg-logo="https://static.wixstatic.com/media/b7b640_979e29e625374f56818318d29761e139~mv2.png/v1/fill/w_106,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20stv%202022%20png%20mosca.png" group-title="SALTA",SPACIO TV
+https://stream.arcast.live/spaciotv/ngrp:spaciotv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="canal choco tv" tvg-logo="https://1.bp.blogspot.com/-Y0EHX8oKseE/YVL5RaGb0bI/AAAAAAAAQ8U/rUdKCZ7LWncR1VTrQ8n1DIwD26R_ji8bQCLcBGAsYHQ/w147-h147/Choco%2BTV%2Ben%2Bvivo.jpg" group-title="CHACO",CANAL CHOCO TV
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Extrema tv kids" tvg-logo="https://unored.tv/wp-content/uploads/2022/12/Extrema-Kids-PNG-300x224.png" group-title="INFANTILES",EXTREMA TV KIDS
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Go tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/Go-radio.jpg?itok=blyzvrgl" group-title="MUSICA",GO TV
+https://tigocloud.desdeparaguay.net/gotv/gotv/chunklist_w1939119464.m3u8
+
+#EXTINF:-1 tvg-name="Telenord" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/telenord.png?itok=7d_jY2UM" group-title="CORRIENTES",TELENORD
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Frecuencia musical tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/FMTV-1.png?itok=tsiX6AqJ" group-title="CINE",FRECUENCIA MUSICAL TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="Recuerdos retro radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/aawkulyuju3q.png" group-title="MUSICA",RECUERDOS RETRO RADIO
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mas FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/65826.v6.png" group-title="MUSICA",MAS FM
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+
+#EXTINF:-1 tvg-name="Tvs retro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="GUATEMALA",TVS RETRO
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-name="Kids tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/72bf2ecca24095d1f015ae7c52749e68.webp" group-title="INFANTILES",KIDS TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master.m3u8
+
+#EXTINF:-1 tvg-name="Xtrema tv animal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2af4dd316afda72cb7c982a399289623.webp" group-title="DOCUMENTALES",XTREMA TV ANIMAL
+https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="CATAMARCA",CANAL 7
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="5tv Corrientes" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="CORRIENTES",5TV CORRIENTES
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="13 max television" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="CORRIENTES",13 MAX TELEVISION
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cable imagen Amstrong" tvg-logo="https://i.imgur.com/U9NuJQC.png" group-title="SANTA FE",CABLE IMAGEN AMSTRONG
+https://stream.arcast.com.ar/casse/casse/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 2 Ushuaia" tvg-logo="https://i.ibb.co/q5NPdK2/canal2-logo.png" group-title="TIERRA DEL FUEGO",CANAL 2 USHUAIA
+https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/tvpp.jpg?itok=VWUMEWt4" group-title="LA PAMPA",CANAL 3 LA PAMPA
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 3 Las Heras" tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2022/10/canal3logo-x1.png" group-title="SANTA CRUZ",CANAL 3 LAS HERAS
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 4 Esquel" tvg-logo="https://i.imgur.com/6kbOr16.png" group-title="CHUBUT",CANAL 4 ESQUEL
+https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 5 Pico Truncado" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/canal-5-paralelo-46.png?itok=0bHvpWFl" group-title="SANTA CRUZ",CANAL 5 PICO TRUNCADO
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 8 Tunuyan" tvg-logo="https://tvinsur.com/i/ar/canal-8-mendoza.webp" group-title="MENDOZA",CANAL 8 TUNUYAN
+https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
+
+#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="JUJUY",CANAL 7 JUJUY
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="SALTA",CANAL 7 SALTA
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+
+#EXTINF:-1 tvg-name="Canal 11 de la costa" tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="BUENOS AIRES",CANAL 11 DE LA COSTA
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+
+#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/gFvg-0Js_400x400.jpg?itok=t_xR4eU-" group-title="JUJUY",CANAL 13 JUJUY
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+
+#EXTINF:-1 tvg-name="canal 40 Caucete" tvg-logo="https://i.imgur.com/xUiQvk8.png" group-title="SAN JUAN",CANAL 40 CAUCETE
+https://canalsj.kozow.com/canal40/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 34" tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="SAN JUAN",CANAL 34 SAN JUAN
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 21" tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="MISIONES",CANAL 21
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Chilecito tv" tvg-logo="https://i.imgur.com/zGubmgZ.png" group-title="LA RIOJA",CHILECITO TV
+https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+
+
+EXTINF:-1 tvg-name="Metro tv" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="TUCUMAN",METRO TV
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+#EXTINF:-1 tvg-name="Net tv" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="BUENOS AIRES",NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Telecinco.ar" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="CHUBUT",TELECINCO.AR
+https://videohd.live:19360/8016/8016.m3u8
+
+
+
+
+
 
 
 deportes (100xx)
-
-
 
 
 
@@ -674,10 +836,21 @@ deportes (100xx)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=agenda&token=3576520243
 
 
+#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",ESPN (+10MB)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espniptv&token=3574401799
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="Deportes" ch-number="111" type="channel",ESPN
 http://190.104.67.230:234/play/a099/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"90671184dd82541a9d1786eaa025e345":"74f8eab46c1e43fd8f7b64c21a96fc5b","b87d7da884bd5f3496015f9c2e53c896":"4451447bdf55fe4451f4a3bf177da59a","b6989ba0aa0f5e8a817ecdfd9c385994":"75c6e6d57308f34ca482802a5e796a05"}
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",ESPN Chile
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn1cl&token=3574401799
+
+
+
 
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.postimg.cc/v8rFtMbz/espn.png" group-title="Deportes", ESPN 🇨🇴
 #EXTVLCOPT:network-caching=1000
@@ -699,6 +872,10 @@ http://181.78.71.49:1025/play/a0md/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="Deportes" ch-number="111" type="channel",ESPN ECUADOR
+http://179.51.136.19:8000/play/a1kq/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.postimg.cc/FRMp2jdS/ESPN-BRASIL-1.jpg" group-title="Deportes" ESPN BR
 http://45.175.61.242:8000/play/004/index.m3u8
@@ -708,6 +885,12 @@ http://45.175.61.242:8000/play/004/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
 #EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" group-title="Deportes" ch-number="112" type="channel",ESPN 2
 http://201.217.246.177:8000/play/a059/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4a79050eb710572bbc3cfa75706c1411":"3015fdb9da55deb571db141dd9e6a788","6ebf764158155658b1a765c2d86835d3":"3f330026708fc2fdd1a2f0e23cee7d04","888609fc0d8551f3b78cc018fe66f2fe":"42c3abebbeade8d3ccaf2877db162f73"}
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",ESPN 2 Chile
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn2cl&token=3574401799
+
 
 #EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.postimg.cc/mksxWpNC/espn2-logo-white.png" group-title="Deportes", ESPN 2 🇨🇴
 #EXTVLCOPT:network-caching=1000
@@ -766,7 +949,10 @@ http://181.78.71.49:1025/play/a0mr/index.m3u8
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t6xT16y/worldtv2.png" group-title="ESPN" ch-number="15" type="channel",ESPN 3 PE
+https://cors-proxy.cooks.fyi/bantel-cdn4.iptvperu.tv:1935/rawlight3/espn3.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="39" tvg-name="ESPN 3 FHD" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" group-title="CANAIS: ESPN ⚽",ESPN 3 BR FHD
@@ -777,6 +963,12 @@ http://wroxfibra.com:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8788.ts
 #KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
 #EXTINF:-1 tvg-id="ESPN 4.ar" tvg-name="ESPN 4" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="114" type="channel",ESPN 4
 http://201.217.246.177:8000/play/a076/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvR9Mnjh/worldtv2.png" group-title="ESPN" ch-number="16" type="channel",ESPN 4 PE
+https://cors-proxy.cooks.fyi/bantel-cdn4.iptvperu.tv:1935/rawlight3/espn4.stream/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ESPN 4 HD.uy" group-title="Deportes" tvg-logo="https://i.postimg.cc/BvR9Mnjh/ESPN_Extra_new.png" ,ESPN 4 🇨🇴
@@ -808,6 +1000,14 @@ http://200.4.96.59:8825/play/a06a/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" group-title="🇦🇷 FLOW",  ESPN 5 
 http://45.224.96.65:8011/play/a0jt/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdJDJ3xS/worldtv2.png" group-title="ESPN" ch-number="17" type="channel",ESPN 5 PE
+https://cors-proxy.cooks.fyi/bantel-cdn4.iptvperu.tv:1935/PNwE9t/espn5.stream/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-logo="https://i.postimg.cc/pdJDJ3xS/espn5.png" group-title="Deportes", ESPN 5 🇨🇴
 #EXTVLCOPT:network-caching=1000
@@ -905,6 +1105,16 @@ http://cplay.club:2086/Javier0124/vdXJW9JnXP/38921
 #EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="Deportes" ch-number="110" type="channel",ESPN Premium
 http://143.0.67.75:8000/play/a078/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4c230dbc7f6a4bfa6ad0aa73ff792374":"4186a7c2a15f590a9399886feaec4257"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-name="America.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png",ESPN Premium (FL)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtoken&token=3574401799
+
+
+
+
 #EXTINF:-1 tvg-id="ESPN PREMIUM 2"tvg- logo="https://i.ibb.co/xdZrSq0/espnpremium.png" , ESPN PREMIUM 2 LIBERTADORES CHAMPIONS F1
 http://38.252.213.12:8000/play/a02r
 
@@ -913,7 +1123,15 @@ http://38.252.213.12:8000/play/a02r
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Deportes" ch-number="109" type="channel",TNT Sports Premium
 http://143.0.67.75:8000/play/a0bc/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bc80fa3da696e503f940fde5f681a1c5":"ea46e4e9f1132e8dd71fb77f7d55058a"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+#EXTINF:-1 108" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png",TNT Sports HD (FL)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstoken&token=3574401799
 
+#EXTINF:-1 tvg-id="TYC SPORTS.ar" tvg-logo="https://i.imgur.com/7RHPeKo.png" tvg-group="Deportes",TyC Sports (+10MB)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportsiptv&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
@@ -921,16 +1139,27 @@ http://143.0.67.75:8000/play/a0bc/index.m3u8
 http://181.13.252.102:8000/play/a02s/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tycsports.png" group-title="⚽ Deportes",✔️ TyC Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
-https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png",TyC Sports Internacional
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportsinter&token=3574401799
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1c671f202f035fc68295e285440e1f06":"310aef86833c26696c1f6682934530ce","3269cc1ffdc856d39d6d27acaaeb9c57":"af30637020bd80650ef7ac7a57f05405","98c0a1fb0d425f88bfe1c2ad098575ae":"aae9f2ad90d5d29db4314586af9b414f"}
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png",TyC Sports Internacional (CL)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycintercl&token=3574401799
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgusCblUkZgbEe0QzEyqhic7yB5B0CpYkR80juX5pmjTMf_7TgBN0DU7el6uSHfeNmkjgu3uwIiibqo1Jc_qXaQeRFVKSyG-Fvn6XB1C9JxkdZ6poMOjHgi4jeRugapH5Kb9zXQNIPkSQAu_reJzAgX8q6OmxbMKARNm4uxGSC_wE92fyLW_dJyWEla/s512/tycsports2.png" group-title="CANALES FLOW"  ,Eventos TyC Sports 2
-https://chromecast.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-id="TyC Sports 2.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgusCblUkZgbEe0QzEyqhic7yB5B0CpYkR80juX5pmjTMf_7TgBN0DU7el6uSHfeNmkjgu3uwIiibqo1Jc_qXaQeRFVKSyG-Fvn6XB1C9JxkdZ6poMOjHgi4jeRugapH5Kb9zXQNIPkSQAu_reJzAgX8q6OmxbMKARNm4uxGSC_wE92fyLW_dJyWEla/s512/tycsports2.png"  ,Eventos TyC Sports 2
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventostyc&token=3574401799
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -938,9 +1167,37 @@ https://chromecast.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1
 #EXTINF:-1 ch-number="117" tvg-id="TyC Sports 2.ar" tvg-logo="https://i.postimg.cc/fT506CJ1/https://geo.edge.pontiscloud.com:9002/images/vod/vod/160/160/0/0/84523092279291.png" group-title="Deportes", Sensa Deportes
 https://cdn.sensa.com.ar/bpk-tv/SenalEventos/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=da8a49a594160cc0059f07b9f71cd39a:37ca91dd799b351a02445151c7f61070
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-id="VTV Plus HD.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/1200px-Logo_VTV_Plus_nuevo.png" ,VTV Plus Uruguay
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=vtvplus&token=357440179
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=df3ed6245bb9af1a0346379e8e475dff:f86f8457438d4e449d53b956cc1be664
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-logo="https://infonegocios.info/content/companies/logos/53409_Showsport.png" ,Show Sports Córdoba
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=showsports&token=3574401799
+
+
+#EXTINF:-1 tvg-logo="https://static.elcanaldelfutbol.com/static/images/logoECDFweb@3x.png" ,El Canal Del Fútbol (ecu)
+http://179.51.136.19:8000/play/a113/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LaLiga_TV_Por_M%2B_Logo.png" tvg-name="MOVISTAR LA LIGA" group-title=" MOVISTAR LA LIGA 2
 http://172.93.102.112:8989/278844_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",Dsports
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsip&token=3574401799
+
+#EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="🇦🇷 KOKE IPTV", DSports 
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS (RESPALDO)
@@ -960,6 +1217,7 @@ http://38.199.6.1:17001/play/a0vx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png" group-title="Tango Sports", DAZNF1 (RESPALDO)
 http://199.127.63.143:8989/278826_.m3u8
+
 
 
 
@@ -12595,6 +12853,7 @@ http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1115437.m3u8
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1341056.m3u8
 #EXTINF:-1 tvg-name="Paraguay|| Almaya TV" tvg-logo="https://gestion.almaya.com.py/views/img/plantilla/logotipo.png" group-title="Paraguay",Paraguay|| Almaya TV
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1377680.m3u8
+
 
 
 
