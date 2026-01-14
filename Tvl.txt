@@ -1183,6 +1183,135 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=vtvplus&token=357440179
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=showsports&token=3574401799
 
 
+#EXTINF:-1,M+ La Liga (HD) (ES)
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/92
+
+#EXTINF:-1,M+ La Liga (Repuesto) (HD)
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/93
+
+#EXTINF:-1,M+ La Liga TV 2 (FHD)
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/95
+
+#EXTINF:-1,M+ La Liga TV 2 (HD)
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/96
+
+#EXTINF:-1,M+ La Liga TV 3 (FHD)
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/97
+
+#EXTINF:-1,M+ La Liga TV 3 (HD)
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/8399
+
+#EXTINF:-1,La Liga TV HYPERMOTION
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/101
+
+#EXTINF:-1,La Liga HYPERMOTION (HD)
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/8402
+
+#EXTINF:-1,DANZ 1 (HD)
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/16656
+
+#EXTINF:-1,DANZ 1 (FHD)
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/105
+
+#EXTINF:-1,DANZ 2
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/106
+
+#EXTINF:-1,DANZ 3
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/142
+
+#EXTINF:-1,DANZ 4
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/143
+
+#EXTINF:-1,M+ La Liga de Campeones (HD)
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/107
+
+#EXTINF:-1,M+ La Liga de Campeones (HD Repuesto)
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/397
+
+#EXTINF:-1,M+ Vamos
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/397
+
+#EXTINF:-1,M+ Vamos (FHD)
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/122
+
+#EXTINF:-1,ESPN (España)
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/25825
+
+#EXTINF:-1,DANZ La Liga
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/391
+
+#EXTINF:-1,DANZ La Liga (Repuesto HD)
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/393
+
+#EXTINF:-1,DANZ La Liga 2
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/395
+
+#EXTINF:-1,Real Madrid TV
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/132
+
+#EXTINF:-1,DAZN F1 (HD)
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/104
+
+#EXTINF:-1,DAZN F1 (FHD)
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/402
+
+#EXTINF:-1,DANZ ACB Eventos 01
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/74455
+
+#EXTINF:-1,DANZ ACB Eventos 02
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/74456
+
+#EXTINF:-1,DANZ ACB Eventos 03
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/74457
+
+#EXTINF:-1,La Liga+ Eventos 1
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/74481
+
+#EXTINF:-1,La Liga+ Eventos 2
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/74482
+
+#EXTINF:-1,DANZ NFL EVENT 1
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/74509
+
+#EXTINF:-1,DANZ NFL EVENT 2
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/74510
+
+#EXTINF:-1,DANZ NBA EVENT 1
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/74514
+
+#EXTINF:-1,DANZ NBA EVENT 2
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/74515
+
+#EXTINF:-1,DANZ Liga Femenina Event 1
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/74529
+
+#EXTINF:-1,DANZ Liga Femenina Event 2
+http://pv8.eszpqsx.top:8080/es7931732365094001/4693d21bf1ad/74530
+
+# --- ESPN feeds por región ---
+
+#EXTINF:-1,ESPN DEPORTE (ES)
+http://vipsolur.xyz:8080/live/VIP015701750530685495/2ff6edfc8c56/280.m3u8
+
+#EXTINF:-1,ESPN 1 (NL)
+http://vipsolur.xyz:8080/live/VIP015701750530685495/2ff6edfc8c56/1308.m3u8
+
+#EXTINF:-1,ESPN 2 (NL)
+http://vipsolur.xyz:8080/live/VIP015701750530685495/2ff6edfc8c56/1309.m3u8
+
+#EXTINF:-1,ESPN 3 (NL)
+http://vipsolur.xyz:8080/live/VIP015701750530685495/2ff6edfc8c56/1310.m3u8
+
+#EXTINF:-1,ESPN 4 (NL)
+http://vipsolur.xyz:8080/live/VIP015701750530685495/2ff6edfc8c56/1311.m3u8
+
+#EXTINF:-1,ESPN (NL)
+http://vipsolur.xyz:8080/live/VIP015701750530685495/2ff6edfc8c56/135636.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://static.elcanaldelfutbol.com/static/images/logoECDFweb@3x.png" ,El Canal Del Fútbol (ecu)
 http://179.51.136.19:8000/play/a113/index.m3u8
 
@@ -12853,6 +12982,7 @@ http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1115437.m3u8
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1341056.m3u8
 #EXTINF:-1 tvg-name="Paraguay|| Almaya TV" tvg-logo="https://gestion.almaya.com.py/views/img/plantilla/logotipo.png" group-title="Paraguay",Paraguay|| Almaya TV
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1377680.m3u8
+
 
 
 
