@@ -287,11 +287,12 @@ https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd?|referer=htt
 
 
 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" group-title="ARGENTINA", dgo prueba
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vKvA-6kSQz-xL0BUJ4PHJg","k":"evQEFzscu3JZNORyWidLnA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://1063-aws-da-mt.vrioott.com/"
+https://1063-aws-da-mt.vrioott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1063/3e35a42c033746b790824260a2df8f88/manifest.mpd?hdnts=exp%3D1754193718%7Eacl%3D%2F*%7Eid%3D873149c4-d8b8-48d4-96e7-577772e4c152%7Ehmac%3D166f51dedfae13cbeced5c7562cbe4f2dbed08468f24b6b42167f0770bbbb3e0&tokenization=true&da=1&country=AR&accountType=DTH&accountId=873149c4-d8b8-48d4-96e7-577772e4c152&deviceType=web&channelId=CH0100000000128&deviceId=74033994-ef21-4b4a-95b7-61c1e8cb8a95&ck=eyJiY2FiYzBmYmE5MTI0MzNmYjEyZjQwNTQyNzgzYzcyNiI6IjdhZjQwNDE3M2IxY2JiNzI1OTM0ZTQ3MjVhMjc0YjljIn0%3D
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bcabc0fba912433fb12f40542783c726:7af404173b1cbb725934e4725a274b9c
-#EXTINF:-1  ch-number="11" tvg-id="telefe" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Argentina", dgo sports prueba
-https://1057-aws-da-mt.vrioott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1057/3246000a22764effbc70013d052b6126/manifest.mpd|referer=https://1057-aws-da-mt.vrioott.com/&webtoken=1.0
 
 
 
@@ -12955,6 +12956,7 @@ http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1115437.m3u8
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1341056.m3u8
 #EXTINF:-1 tvg-name="Paraguay|| Almaya TV" tvg-logo="https://gestion.almaya.com.py/views/img/plantilla/logotipo.png" group-title="Paraguay",Paraguay|| Almaya TV
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1377680.m3u8
+
 
 
 
