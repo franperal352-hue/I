@@ -279,16 +279,30 @@ https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd
 
 
 
+
+#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.postimg.cc/v8rFtMbz/espn.png" group-title="Deportes", espn premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ZkLICEGnQXGQrlqS4fPxCA","k":"gRGmJUAVHY3zkyWiBCXqGg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://apps.playme.com.ar/"
+https://apps.playme.com.ar/dash/CH_ESPN2/playlist.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6642c80841a7417190ae5a92e1f3f108:8111a62540151d8df39325a20425ea1a
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN2 (PlayMe)" group-title="Argentina",ESPN2
+https://apps.playme.com.ar/dash/CH_ESPN2/playlist.mpd|referer=https://apps.playme.com.ar/&user-agent=Mozilla/5.0
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
 #EXTINF:-1 group-title="Argentina"  tvg-id="America.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" tvg-group="Nacionales", América 2
 https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7dadd66644141569d4ce038d1776783:8eb22801adc53ec4a5f5982dff2247e6
-#EXTINF:-1 group-title="Argentina"  tvg-id="America.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" tvg-group="Nacionales", espn premium prueba 
-https://apps.playme.com.ar/dash/CH_ESPNPREMIUM/playlist.mpd|referer=https://player.sensa.com.ar/&webtoken=1.0
+
 
 
 
@@ -12952,6 +12966,7 @@ http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1115437.m3u8
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1341056.m3u8
 #EXTINF:-1 tvg-name="Paraguay|| Almaya TV" tvg-logo="https://gestion.almaya.com.py/views/img/plantilla/logotipo.png" group-title="Paraguay",Paraguay|| Almaya TV
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1377680.m3u8
+
 
 
 
