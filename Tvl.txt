@@ -1177,8 +1177,9 @@ http://cplay.club:2086/Javier0124/vdXJW9JnXP/38921
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31bd1c2d7ec744919f9438b166f575d3:08a8df7583e02f9eba7b0cf77207340b
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://cdn.plyr.io/3.7.2/plyr.css"
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" group-title="DEPORTES", ESPN PREMIUM HD
-https://apps.playme.com.ar/dash/CH_ESPNPREMIUM/playlist.mpd|referer=https://cdn.plyr.io/3.7.2/plyr.css/&webtoken=1.0
+https://apps.playme.com.ar/dash/CH_ESPNPREMIUM/playlist.mpd
 
 
 
@@ -12937,6 +12938,7 @@ http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1115437.m3u8
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1341056.m3u8
 #EXTINF:-1 tvg-name="Paraguay|| Almaya TV" tvg-logo="https://gestion.almaya.com.py/views/img/plantilla/logotipo.png" group-title="Paraguay",Paraguay|| Almaya TV
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1377680.m3u8
+
 
 
 
