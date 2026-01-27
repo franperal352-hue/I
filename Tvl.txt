@@ -900,11 +900,6 @@ https://bvclive1.boldmss.com/ESPN/ESPN_BVC.isml/ESPN.mpd|referer=https://cdn.ply
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31bd1c2d7ec744919f9438b166f575d3:08a8df7583e02f9eba7b0cf77207340b
-#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",ESPN AR 2 BCV
-https://bvclive1.boldmss.com/ESPN_2/ESPN_2_BVC.isml/ESPN_2.mpd
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -988,14 +983,6 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #EXTINF:-1 tvg-id="28" tvg-name="ESPN 2 HD " tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: ESPN ⚽",ESPN 2 BR FHD
 http://200.4.96.59:8825/play/a02b/index.m3u8
 
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31bd1c2d7ec744919f9438b166f575d3:08a8df7583e02f9eba7b0cf77207340b
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2005.png" group-title="DEPORTES", ESPN 3 AR BVC
-https://bvclive1.boldmss.com/ESPN_3/ESPN_3_BVC.isml/ESPN_3.mpd|referer=https://cdn.plyr.io/3.7.2/plyr.css/&webtoken=1.0
 
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2005.png" group-title="DEPORTES", ESPN 3 AR
@@ -1175,14 +1162,12 @@ http://cplay.club:2086/Javier0124/vdXJW9JnXP/38921
 
 
 
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31bd1c2d7ec744919f9438b166f575d3:08a8df7583e02f9eba7b0cf77207340b
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://cdn.plyr.io/3.7.2/plyr.css"
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" group-title="DEPORTES", ESPN PREMIUM HD
-https://apps.playme.com.ar/dash/CH_ESPNPREMIUM/playlist.mpd
-
-
-
+#KODIPROP:inputstream.adaptive.license_key=96a2a0e6e1234e75987885c3b87012e9:acf252886511ca0d9a4ec52e7b2c5a62
+#EXTINF:-1 ch-number="114" tvg-id="TYC" tvg-name="TyC Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Deportes", TyC Sports
+https://1125-aws.akamaized.net/1125_ESPN_PREMIUM_ARG_DASH/manifest.mpd?hdnts=exp%3D1769480581%7Eacl%3D%2F*%7Eid%3D1cef26c1-fb63-40a9-8a42-c1ab4e34b079%7Ehmac%3D884152b5edadd736a2f706a0594ccf52118695b92a2403291670a3c91a0d6a4e&tokenization=true&da=1&country=AR&accountType=DTH&accountId=1cef26c1-fb63-40a9-8a42-c1ab4e34b079&deviceType=web&channelId=CH0100000000182&deviceId=42b0fc9a-de5c-4745-8212-842befe39292
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" group-title="DEPORTES", ESPN PREMIUM 2 AR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -12938,6 +12923,7 @@ http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1115437.m3u8
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1341056.m3u8
 #EXTINF:-1 tvg-name="Paraguay|| Almaya TV" tvg-logo="https://gestion.almaya.com.py/views/img/plantilla/logotipo.png" group-title="Paraguay",Paraguay|| Almaya TV
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1377680.m3u8
+
 
 
 
