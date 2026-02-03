@@ -3,9 +3,8 @@
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed6e9faec04aa78f261171d1ace48957:2995fa69fa1158e82547d5d5a22b4e98
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://aux.canalesonline24.workers.dev/gigared?id=Canal_12_Misiones"
 #EXTINF:-1 Canal 12 misiones
-https://cdn02.gigared.com.ar/live/eds/Canal_12_Misiones/sa_live_dash/Canal_12_Misiones.mpd
+https://aux.canalesonline24.workers.dev/gigared?id=Canal_12_Misiones
 
 
 
@@ -12939,6 +12938,7 @@ http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1115437.m3u8
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1341056.m3u8
 #EXTINF:-1 tvg-name="Paraguay|| Almaya TV" tvg-logo="https://gestion.almaya.com.py/views/img/plantilla/logotipo.png" group-title="Paraguay",Paraguay|| Almaya TV
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1377680.m3u8
+
 
 
 
