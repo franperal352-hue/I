@@ -3,38 +3,6 @@
 
 
 
-#EXTINF:-1, HOLA TV PRUEBA DGO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"v8QuCzxCVI-DNu7RWJwy5Q","k":"-hQ1K32vXscOhqmESGq_aw"},{"kty":"oct","kid":"42fRpgL_WjKGjq9huWWvEQ","k":"PtAtUIDgNExeCq6usFMA-g"},{"kty":"oct","kid":"DdewL_N6UlaDF2p46S8a_A","k":"ybrmZFb_dhbH9ZIDJQJJIg"},{"kty":"oct","kid":"O_bycYWfX_WKu6bBmMH_vQ","k":"kyDIEv9NSsu4OsxactMm1Q"},{"kty":"oct","kid":"rbB5vafLWnuFSYFs7tPo1Q","k":"sqzLkMeElcMswSGXmkNLcw"},{"kty":"oct","kid":"G2tz_xIhX6mBWTS92bOAWw","k":"cWeoqlbVPM7OPXEJcx_jlw"},{"kty":"oct","kid":"PIetxW9KWnOF7ehxbcY6lQ","k":"OfngUA7HCYpa5CxgqvM7Hw"},{"kty":"oct","kid":"i0WZWedzU3KNJSVvLtz33A","k":"8V6nAMgcS22mOnZAKj90oA"},{"kty":"oct","kid":"KoRFlfrGWaSHdS2WATBumg","k":"bfUWFCvLwbWl_o8pRA2usQ"},{"kty":"oct","kid":"HRq_uz13OHuoZr06iNNj7g","k":"v-AClEgztjNavk8sR1fFPQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://1149-tbx.vrioott.com/holatv/manifest.mpd
-
-#EXTINF:-1, CARTOON NETWORK PRUEBA DGO	
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d28a5dba023a529381ef72cdf8166d82:7c77a51f603cb9773f783347e1974105
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://1037-tbx.vrioott.com/cartoonnetwork/manifest.mpd
-
-#EXTINF:-1, MTV PRUEBA DGO
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9eef20d377c95dce821a4a4f180b4dda:0b3fe225a88f39590a3229478dcc4e6a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://1165-tbx.vrioott.com/mtvls/manifest.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/7978/CH_LOGO/60/40/0/0/80687161075299.png" group-title="🇦🇷 FLOW"  ,🎵 Flow Music Eventos
@@ -103,7 +71,19 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.
 
 
 
-#EXTINF:-1,CANAL 12 
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed6e9faec04aa78f261171d1ace48957:2995fa69fa1158e82547d5d5a22b4e98
+#EXTINF:-1 group-title="Argentina"  tvg-id="Canal 9.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Doce_TV_Posadas_%28Logo_2023%29.svg/revision/latest?cb=20251015180825" tvg-group="Nacionales", CANAL 12 POSADAS MISIONES 
+https://cdn02.gigared.com.ar/live/eds/Canal_12_Misiones/sa_live_dash/Canal_12_Misiones.mpd
+
+#EXTINF:-1,CANAL 12 POSADAS MISIONES 2
 https://g2.vxral-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
 
 
@@ -180,7 +160,6 @@ https://live.enhdtv.com:8081/donnatvdigital/index.m3u8
 
 #EXTINF:-1,FM SHOW 
 https://streamlky.alsolnet.com/fmshow
-
 
 
 #EXTINF:-1 tvg-id="MISIONES ONLINE" tvg-name="MISIONES ONLINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Misiones_Online.png" group-title="STREAM" ch-number="106" type="channel",MISIONES ONLINE
@@ -911,10 +890,6 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Telecinco.ar" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="CHUBUT",TELECINCO.AR
 https://videohd.live:19360/8016/8016.m3u8
-
-
-
-
 
 
 
@@ -12958,6 +12933,7 @@ http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1115437.m3u8
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1341056.m3u8
 #EXTINF:-1 tvg-name="Paraguay|| Almaya TV" tvg-logo="https://gestion.almaya.com.py/views/img/plantilla/logotipo.png" group-title="Paraguay",Paraguay|| Almaya TV
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1377680.m3u8
+
 
 
 
