@@ -77,11 +77,11 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.
 
 
 
-
+#EXTINF:-1 group-title="Argentina"  tvg-id="Canal 9.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Doce_TV_Posadas_%28Logo_2023%29.svg/revision/latest?cb=20251015180825" tvg-group="Nacionales", CANAL 12 POSADAS MISIONES 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed6e9faec04aa78f261171d1ace48957:2995fa69fa1158e82547d5d5a22b4e98
-#EXTINF:-1 group-title="Argentina"  tvg-id="Canal 9.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Doce_TV_Posadas_%28Logo_2023%29.svg/revision/latest?cb=20251015180825" tvg-group="Nacionales", CANAL 12 POSADAS MISIONES 
-https://cdn02.gigared.com.ar/live/eds/Canal_12_Misiones/sa_live_dash/Canal_12_Misiones.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://cdn.plyr.io/3.7.2/plyr.css"
+https://cdn02.gigared.com.ar/live/eds/Canal_12_Misiones/sa_live_dash/Canal_12_Misiones.mpd|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1,CANAL 12 POSADAS MISIONES 2
 https://g2.vxral-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
@@ -12933,6 +12933,7 @@ http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1115437.m3u8
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1341056.m3u8
 #EXTINF:-1 tvg-name="Paraguay|| Almaya TV" tvg-logo="https://gestion.almaya.com.py/views/img/plantilla/logotipo.png" group-title="Paraguay",Paraguay|| Almaya TV
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1377680.m3u8
+
 
 
 
