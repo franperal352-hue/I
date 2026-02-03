@@ -3,6 +3,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/7978/CH_LOGO/60/40/0/0/80687161075299.png" group-title="🇦🇷 FLOW"  ,🎵 Flow Music Eventos
@@ -163,6 +172,17 @@ https://streamlky.alsolnet.com/fmshow
 
 #EXTINF:-1 tvg-id="MISIONES ONLINE" tvg-name="MISIONES ONLINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Misiones_Online.png" group-title="STREAM" ch-number="106" type="channel",MISIONES ONLINE
 https://www.dailymotion.com/cdn/live/video/x7zh5gd.m3u8?sec=6S7bKIuc_I61nv1iltGBVjmXGyIx1F_3qzZkl-5ZodawEAJ4WqFCSaY6ZluzDf-HzcyZLyDIeDVWDmz1yr7vQi73Klgn6IVizgROYFtZOPZm0qGNLqJvE_Mdg-aBINR9&dmTs=590107&dmV1st=23c21541-8bf8-e268-0587-e91ecc2fd14b
+
+
+
+#EXTINF:-1, prueba dtv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"FAwt2GpLM6uqwl0rMf1E1Q","k":"v4TlQi8iL5l0BdTQuc6NXA"},{"kty":"oct","kid":"gZw1PBZ0NUCdK0HHb3Wy1w","k":"E_3Q8Mo_yzCYZ6VVfhJf4Q"},{"kty":"oct","kid":"E09KGMSEQIyfdEl_OUL_iQ","k":"DeLBwj0sFK_XHDsB0MdVTQ"},{"kty":"oct","kid":"LxCnsE2YUCuOqJYOMKHZ-A","k":"7c1KbobexvFaiSYpbl_YGA"},{"kty":"oct","kid":"K9q0hURQXpWAqzckgGN0lw","k":"CB3oVFszm6CVkYvTqiUehg"}{"kty":"oct","kid":"kCjYEa4jUQOIJTI5DNCoaQ","k":"Ga2WxKVku5vBK2sEA9O_Xg"}{"kty":"oct","kid":"esjdfUhUW8iBCR7hu-yvQg","k":"mIzHEljRd1zLpCZDgNYQxw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://1066-aws.vrioott.com/1066_DIRECTV_SPORTS_OCC_3_DASH/manifest.mpd?hdnts=exp%3D1769873826%7Eacl%3D%2F*%7Eid%3D9e35e299-eff3-5c9f-b5ad-50c2223ab7a1%7Ehmac%3D7ef03c56fb6f6829d2f25902755719f6930b177c631eaac6fa5dda639d0cefcd&tokenization=true&da=1&country=AR&accountType=OTT&accountId=9e35e299-eff3-5c9f-b5ad-50c2223ab7a1&deviceType=web&channelId=CH0100000000131&deviceId=b824da03-60cb-40cb-84bb-8987d5097684
+
+
+
 
 
 
@@ -12932,6 +12952,7 @@ http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1115437.m3u8
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1341056.m3u8
 #EXTINF:-1 tvg-name="Paraguay|| Almaya TV" tvg-logo="https://gestion.almaya.com.py/views/img/plantilla/logotipo.png" group-title="Paraguay",Paraguay|| Almaya TV
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1377680.m3u8
+
 
 
 
