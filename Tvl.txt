@@ -4,10 +4,9 @@
 
 
 
-
 #EXTINF:-1, prueba dtv
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8dc81a2ae7984999d6a78cbf9118a5f0:b079ceba2963896225da1fd1dc713207
+#KODIPROP:inputstream.adaptive.license_key=30b65e863dc7ed2bd3c063dd52dc5d66:8fe48863d5e7ffdf68ad29abe9eecea6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://1125-aws.akamaized.net/1125_ESPN_PREMIUM_ARG_DASH/manifest.mpd
 
@@ -12972,6 +12971,7 @@ http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1115437.m3u8
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1341056.m3u8
 #EXTINF:-1 tvg-name="Paraguay|| Almaya TV" tvg-logo="https://gestion.almaya.com.py/views/img/plantilla/logotipo.png" group-title="Paraguay",Paraguay|| Almaya TV
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1377680.m3u8
+
 
 
 
