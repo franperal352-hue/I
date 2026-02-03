@@ -1171,14 +1171,13 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 http://cplay.club:2086/Javier0124/vdXJW9JnXP/38921
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4c230dbc7f6a4bfa6ad0aa73ff792374":"4186a7c2a15f590a9399886feaec4257"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-name="America.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png",ESPN Premium
+http://38.199.6.1:17001/play/a06g/index.m3u8
 
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=96a2a0e6e1234e75987885c3b87012e9:acf252886511ca0d9a4ec52e7b2c5a62
-#EXTINF:-1 ch-number="114" tvg-id="TYC" tvg-name="TyC Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Deportes", TyC Sports
-https://1125-aws.akamaized.net/1125_ESPN_PREMIUM_ARG_DASH/manifest.mpd?hdnts=exp%3D1769480581%7Eacl%3D%2F*%7Eid%3D1cef26c1-fb63-40a9-8a42-c1ab4e34b079%7Ehmac%3D884152b5edadd736a2f706a0594ccf52118695b92a2403291670a3c91a0d6a4e&tokenization=true&da=1&country=AR&accountType=DTH&accountId=1cef26c1-fb63-40a9-8a42-c1ab4e34b079&deviceType=web&channelId=CH0100000000182&deviceId=42b0fc9a-de5c-4745-8212-842befe39292
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" group-title="DEPORTES", ESPN PREMIUM 2 AR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -12934,6 +12933,7 @@ http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1115437.m3u8
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1341056.m3u8
 #EXTINF:-1 tvg-name="Paraguay|| Almaya TV" tvg-logo="https://gestion.almaya.com.py/views/img/plantilla/logotipo.png" group-title="Paraguay",Paraguay|| Almaya TV
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1377680.m3u8
+
 
 
 
