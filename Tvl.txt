@@ -7,9 +7,9 @@
 
 #EXTINF:-1, prueba dtv
 KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"jM9FpKZhQU6qEIOT4l3Sbw","k":"cFlxtwnHCTYhtVjPlDINhw"},{"kty":"oct","kid":"xE1SsR3OOHWtJ2XJ1GkHWw","k":"r0ujHBMk65KsiEY_e9lB1Q"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"i3duDhJ0PgOQjhjG5_rNug","k":"Kuacruf6olDbL-aPo5Ksuw"},{"kty":"oct","kid":"JYP3UwQuNUy3IdQdpfLG8A","k":"0NcvoLa4yxHMuhLbPJH1kw"},{"kty":"oct","kid":"lqKg5uEjTnWYeIXDuHAS6Q","k":"rPJSiGURyg2aTsUueyxaYg"},{"kty":"oct","kid":"E8yf1r2QO5qxYCsS4wgP_Q","k":"rRcJyoIIk56Wmyqo9jHtvw"},{"kty":"oct","kid":"DwYEikHOV9-Kwdcg6ecMew","k":"jY_imigtiGuTSjfztwSd6w"},{"kty":"oct","kid":"KtJ-mz9eUbSETMhLf2wOKg","k":"j1OQ-aZIEoPuc7iqQEaMsg"},{"kty":"oct","kid":"lfI9HyMaUXmGG2UbgG8-CQ","k":"Efb7fbiwLj05OHvOMiriaQ"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://1063-aws-da-mt.vrioott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1063/3e35a42c033746b790824260a2df8f88/manifest.mpd
+https://1125-aws.akamaized.net/1125_ESPN_PREMIUM_ARG_DASH/manifest.mpd
 
 
 
@@ -12967,6 +12967,7 @@ http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1115437.m3u8
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1341056.m3u8
 #EXTINF:-1 tvg-name="Paraguay|| Almaya TV" tvg-logo="https://gestion.almaya.com.py/views/img/plantilla/logotipo.png" group-title="Paraguay",Paraguay|| Almaya TV
 http://moontools.me:8080/live/AntonioSilvaC/dZuSYRw2nKGKYj/1377680.m3u8
+
 
 
 
