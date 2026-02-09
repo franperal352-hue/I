@@ -1,4 +1,4 @@
-#EXTM3U  refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/ar.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/generate/duMu5WNPC9.xml.gz,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/miEPG.xml,https://www.open-epg.com/files/paraguay2.xml.gz,https://www.bevy.be/bevyfiles/argentina.xml,http://213.126.50.203/sites/default/files/download/ini/info/siteini.pack/Argentina/cablevisionfibertel.com.ar.channels.xml,https://helmerluzo.github.io/PlutoTV_HL/epg/es.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/refs/heads/main/epg/artv-guide.xml,https://raw.githubusercontent.com/dalimtv-stack/miEPG/refs/heads/main/miEPG.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz,https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz,https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz,https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz"
+#EXTM3U  refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/ar.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/generate/duMu5WNPC9.xml.gz,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/miEPG.xml,https://www.open-epg.com/files/paraguay2.xml.gz,https://www.bevy.be/bevyfiles/argentina.xml,http://213.126.50.203/sites/default/files/download/ini/info/siteini.pack/Argentina/cablevisionfibertel.com.ar.channels.xml,https://helmerluzo.github.io/PlutoTV_HL/epg/es.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/refs/heads/main/epg/artv-guide.xml,https://raw.githubusercontent.com/dalimtv-stack/miEPG/refs/heads/main/miEPG.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz,https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz,https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz,https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz,https://iptv-org.github.io/epg/guides/pt/claro.com.br.epg.xml.gz,https://iptv-org.github.io/epg/guides/pt/meuguia.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/pt/mi.tv.epg.xml.gz"
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -903,12 +903,13 @@ https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOPPVHD/dsc3/manifest.m
 
 
 
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/Fhw6-N-WIAA3FEe.jpg" TV GLOBO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2909f8b269ac31ad89c6efb5a762a6d5:f2b4365b4e30521354ec78f2ca4cdf87
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
-https://ff9g1i2j3k4llwl.clarocdn.com.br/Content/Channel/SPOGLHD/dsc4/manifest.mpd
+KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.clarotvmais.com.br/
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/Fhw6-N-WIAA3FEe.jpg" TV GLOBO
+https://canais.fazoeli.co.za/fontes/smart/globonews.m3u8
 
 
 
@@ -918,7 +919,7 @@ https://ff9g1i2j3k4llwl.clarocdn.com.br/Content/Channel/SPOGLHD/dsc4/manifest.mp
 #KODIPROP:inputstream.adaptive.license_key=507c17dd20673ecd956ac9a926982bb8:dd96bc805772b82869290f7e2f72f034
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
-https://ff9g1i2j3k4llwl.clarocdn.com.br/Content/Channel/SPOBNHD/dsc4/manifest.mpd
+https://canais.fazoeli.co.za/fontes/smart/bandnews.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://images.seeklogo.com/logo-png/25/1/rede-tv-logo-png_seeklogo-252503.png"  REDE TV
@@ -926,7 +927,7 @@ https://ff9g1i2j3k4llwl.clarocdn.com.br/Content/Channel/SPOBNHD/dsc4/manifest.mp
 #KODIPROP:inputstream.adaptive.license_key=0ced13e17a7c35548c3feae0863a3bd2:9e85d59465dc27429519ab00bcda3a02
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
-https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPORTHD/dsc1/manifest.mpd
+https://canais.fazoeli.co.za/fontes/smart/redetv.m3u8
 
 
 
@@ -936,14 +937,14 @@ https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPORTHD/dsc1/manifest.mp
 #KODIPROP:inputstream.adaptive.license_key=5df85b8400e33c84954a1c2493b2a819:28b0d53410b833864e12389b67390c96
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
-https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOSBTHD/dsc1/manifest.mpd
+https://canais.fazoeli.co.za/fontes/smart/sbt.m3u8
 
-#EXTINF:-1,tvg-logo="https://images.seeklogo.com/logo-png/25/1/tv-cultura-logo-png_seeklogo-252504.png" CULTURA TV   
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=5df85b8400e33c84954a1c2493b2a819:28b0d53410b833864e12389b67390c96
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
-https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/NACCULHD/dsc2/manifest.mpd
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 
 
 #EXTINF:-1,tvg-logo="https://images.seeklogo.com/logo-png/25/1/rede-record-logo-png_seeklogo-252502.png" RECORD TV
@@ -951,7 +952,7 @@ https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/NACCULHD/dsc2/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=8fb0801343b5326989065410f30a6f17:5563aac272c5190627a4c20b8dc0e837
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
-https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPORECHD/dsc3/manifest.mpd
+https://canais.fazoeli.co.za/fontes/smart/recordnews.m3u8
 
 
 #EXTINF:-1, CANAL BRASILERO DE LA INFORMACION
@@ -967,22 +968,15 @@ https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOMEGHD/dsc3/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=0dc498bffdf23587b0965c7bd96493cb:2f39088e661f44599328766d2c732b66
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
-https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOGOSHD/dsc2/manifest.mpd
+https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
 
-#EXTINF:-1,tvg-logo="https://images.seeklogo.com/logo-png/23/1/polishop-logo-png_seeklogo-235519.png" POLISHOP
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=4f0a454277763e24891c2efb428b0bf4:d92201e750e4501e9e91ff386ea872e2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
-https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOSHOPHD/dsc2/manifest.mpd
-
-
-#EXTINF:-1,tvg-logo="https://canallike.com.br/wp-content/uploads/2020/12/canal-like-logo.png" LIKE TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=228eb20a84de386caf763826531826a5:7bf29f1bdb0e41805798c52b4be3c199
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.clarotvmais.com.br/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
-https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOLIKEHD/dsc1/manifest.mpd
+#EXTINF:-1,tvg-logo="https://canallike.com.br/wp-content/uploads/2020/12/canal-like-logo.png" LIKE TV
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOLIKEHD/dsc1/manifest.mpd|referer=https://www.clarotvmais.com.br/&webtoken=1.0
 
 
 #EXTINF:-1,tvg-logo=" TV BRASIL
@@ -1201,7 +1195,7 @@ https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCNBCHD/dsc1/manifest.
 #KODIPROP:inputstream.adaptive.license_key=7847bb240e74393da7feb25d6be1943f:16f4113e52edda7f2752b65f7073012a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
-https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCNBMHD/dsc2/manifest.mpd
+'https://canais.fazoeli.co.za/fontes/smart/cnnbrasil.m3u8
 
 
 #EXTINF:-1, TBC
@@ -1301,7 +1295,7 @@ https://ff9g1i2j3k4llwl.clarocdn.com.br/Content/Channel/SPOBSPHD/dsc4/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=606d0de7f0693a5384d44382dd038f2c:09db52754a015a68c0bfa09f8dbddeca
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
-https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOJPNHD/dsc2/manifest.mpd
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
 
 #EXTINF:-1, CNN BRASIL
@@ -8860,4 +8854,5 @@ https://jmp2.uk/stvp-ESAJ4500016BH
 
 #EXTINF:-1 tvg-id="ESBC2700008SK" tvg-name="ESBC2700008SK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20241022T051028SQUARE.png" group-title="Comedia" , Just For Laughs
 https://jmp2.uk/stvp-ESBC2700008SK
+
 
