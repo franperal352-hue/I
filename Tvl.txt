@@ -891,6 +891,937 @@ https://videohd.live:19360/8016/8016.m3u8
 
 
 
+BRASIL
+
+
+
+
+
+#EXTINF:-1, CLARO TV PUBLICIDAD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOPPVHD/dsc3/manifest.mpd
+
+
+
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/Fhw6-N-WIAA3FEe.jpg" TV GLOBO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=2909f8b269ac31ad89c6efb5a762a6d5:f2b4365b4e30521354ec78f2ca4cdf87
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://ff9g1i2j3k4llwl.clarocdn.com.br/Content/Channel/SPOGLHD/dsc4/manifest.mpd
+
+
+
+
+#EXTINF:-1, tvg-logo="https://images.seeklogo.com/logo-png/17/1/band-tv-logo-png_seeklogo-174745.png" BAND
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=507c17dd20673ecd956ac9a926982bb8:dd96bc805772b82869290f7e2f72f034
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://ff9g1i2j3k4llwl.clarocdn.com.br/Content/Channel/SPOBNHD/dsc4/manifest.mpd
+
+
+#EXTINF:-1, tvg-logo="https://images.seeklogo.com/logo-png/25/1/rede-tv-logo-png_seeklogo-252503.png"  REDE TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=0ced13e17a7c35548c3feae0863a3bd2:9e85d59465dc27429519ab00bcda3a02
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPORTHD/dsc1/manifest.mpd
+
+
+
+
+#EXTINF:-1,tvg-logo="tvg-logo="https://images.seeklogo.com/logo-png/25/1/rede-tv-logo-png_seeklogo-252503.png" SBT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=5df85b8400e33c84954a1c2493b2a819:28b0d53410b833864e12389b67390c96
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOSBTHD/dsc1/manifest.mpd
+
+#EXTINF:-1,tvg-logo="https://images.seeklogo.com/logo-png/25/1/tv-cultura-logo-png_seeklogo-252504.png" CULTURA TV   
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=5df85b8400e33c84954a1c2493b2a819:28b0d53410b833864e12389b67390c96
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/NACCULHD/dsc2/manifest.mpd
+
+
+#EXTINF:-1,tvg-logo="https://images.seeklogo.com/logo-png/25/1/rede-record-logo-png_seeklogo-252502.png" RECORD TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=8fb0801343b5326989065410f30a6f17:5563aac272c5190627a4c20b8dc0e837
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPORECHD/dsc3/manifest.mpd
+
+
+#EXTINF:-1, CANAL BRASILERO DE LA INFORMACION
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=6a4ca3669321387b9e001137e77067de:334b571389daa55a744b90365333bbad
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOMEGHD/dsc3/manifest.mpd
+
+
+#EXTINF:-1,tvg-logo="https://static.wixstatic.com/media/cb5ddf_9d2bf7cd5ba34a288d61c4e4d1ac7e04~mv2.png/v1/crop/x_41,y_711,w_1263,h_603/fill/w_390,h_172,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Revista%20Brasil%20Gospel%20-%20logo.png" GOSPEL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=0dc498bffdf23587b0965c7bd96493cb:2f39088e661f44599328766d2c732b66
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOGOSHD/dsc2/manifest.mpd
+
+#EXTINF:-1,tvg-logo="https://images.seeklogo.com/logo-png/23/1/polishop-logo-png_seeklogo-235519.png" POLISHOP
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=4f0a454277763e24891c2efb428b0bf4:d92201e750e4501e9e91ff386ea872e2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOSHOPHD/dsc2/manifest.mpd
+
+
+#EXTINF:-1,tvg-logo="https://canallike.com.br/wp-content/uploads/2020/12/canal-like-logo.png" LIKE TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=228eb20a84de386caf763826531826a5:7bf29f1bdb0e41805798c52b4be3c199
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOLIKEHD/dsc1/manifest.mpd
+
+
+#EXTINF:-1,tvg-logo=" TV BRASIL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=7c21b2902489353da1c18152e0fdc8c5:85e650b240432372730fa6e6291eb758
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOTVBHD/dsc3/manifest.mpd
+
+#EXTINF:-1,tvg-logo=" FUTURA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=9bcb5f4c778e30049c34006c9797596c:64a59824c8f3c3d0f3123ccfa3e0414d
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOFUTHD/dsc2/manifest.mpd
+
+
+#EXTINF:-1,tvg-logo=" TV OFF
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=059d545a56823c4d8ff1474dfb913e41:e0b46f58574618d622ccae852bf80357
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOOFFHD/dsc1/manifest.mpd
+
+
+#EXTINF:-1,tvg-logo=" GE TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=677c04165c843f9c87a691c2ac83ad7a:cc3c5a1227506b977e08aced2e218b0e
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://ff9g1i2j3k4llwl.clarocdn.com.br/Content/Channel/SPOGETVHD/dsc4/manifest.mpd
+
+#EXTINF:-1tvg-logo=" SPORTV 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=e73e681c10a33ddaa92c7bf7cfa1e4c8:db8f42a7cd77317aa7e6994640b6a96a
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://ff9g1i2j3k4llwl.clarocdn.com.br/Content/Channel/SPOSPTHD/dsc4/manifest.mpd
+
+
+#EXTINF:-1,tvg-logo=" SPORTV 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=e2d6e42f446b3b75a44efb9d2232eaee:d6983a304dc689003945e6c8a332374c
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://ff9g1i2j3k4llwl.clarocdn.com.br/Content/Channel/SPOSP2HD/dsc4/manifest.mpd
+
+
+
+#EXTINF:-1,tvg-logo=" SPORTV 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=e1cd251b46b3308aaa02d4efc64ca6dd:951c31d507f77907334cbc1150dd2b54
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://ff9g1i2j3k4llwl.clarocdn.com.br/Content/Channel/SPOSP3HD/dsc4/manifest.mpd
+
+
+
+#EXTINF:-1,tvg-logo=" GLOBO NEWS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=867b8e5cc5c3360a952db53e48e287b0:711c866af921d7838320d7cc9bc034d1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOGWSHD/dsc1/manifest.mpd
+
+#EXTINF:-1,tvg-logo=" GNT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=a9a2ebca6682349795131beac827c1d0:901d56c5a305a6c283d95eb315c69652
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOGNTHD/dsc2/manifest.mpd
+
+#EXTINF:-1,tvg-logo=" MULTI SHOW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=7c2a75d77ad0323eb2bd56ebed0864d5:0f32a20db837dc523ffdc134ee1cfdd4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOMTSHD/dsc1/manifest.mpd
+
+
+#EXTINF:-1,tvg-logo=" GLOBOPLAY NOVELAS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=8970085c1d413122aae0f8c4600f3efb:11494390b27b2ebac393a0fc8a60d315
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOVIVAHD/dsc3/manifest.mpd
+
+
+#EXTINF:-1,tvg-logo=" MODO VIAJE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=e1579998f9713b5dbe6d02a27d1a257c:e373adcb41877f3ceda0e6474d442233
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOGSHD/dsc3/manifest.mpd
+
+#EXTINF:-1,tvg-logo=" TRAVEL FOOD & DRINKS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=f58a303827513c69bb44fa0ada175028:60e68202ba44cee743ad6662b80b0487
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOTFDHD/dsc1/manifest.mpd
+
+
+#EXTINF:-1,tvg-logo=" MB&C NEWS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=1b7bb5da3eee31ca8a78cf89006d5e6e:cb0b1a5d44cdddf6967b9e7706a0ad78
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOBMCHD/dsc3/manifest.mpd
+
+#EXTINF:-1,tvg-logo=" LMC MAS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=0639b631bcb93211b4e88588b6d75e33:051ff625db698fe5605a9027ba7dfcdb
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOLMCHD/dsc2/manifest.mpd
+
+#EXTINF:-1,tvg-logo=" CANAL UOL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=942509b711273b0f9bcd4799c300851a:648b30c8b2a2b93b17fac9719172915b
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOUOLHD/dsc3/manifest.mpd
+
+#EXTINF:-1,tvg-logo=" E!
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=4bb7c28d83a73139b98994c651507a07:ecebd5ecade9b9c4e4aaeaa21e525de4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOENTHD/dsc1/manifest.mpd
+
+
+#EXTINF:-1,tvg-logo=" FASHION TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=ec3e0b65643038a5bd9a216ff83861a1:4b39fbcc712e5677b624e14a816b7afc
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCBQ10HD/dsc1/manifest.mpd
+
+#EXTINF:-1,tvg-logo=" TLC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=bde9773d1dd930cd89556abafdf98a1b:caf9e413869c2825bf33974e64abf3a3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOTLCHD/dsc1/manifest.mpd
+
+#EXTINF:-1,tvg-logo=" ARTE 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=b4b5de4159633f12ba57ab2d26b2e40d:e8df143e63f124ea0e68208140a1f769
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOTLCHD/dsc1/manifest.mpd
+
+
+#EXTINF:-1,tvg-logo=" FOOD NETWORK
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=6762f08d6aad39f8a9a49827e481b158:f348efe6d6e0b9bf55918c663f75c3e3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOFOODHD/dsc1/manifest.mpd
+
+#EXTINF:-1,tvg-logo=" DISCOVERY HOME&HEALTH
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=a3db08f0d1713c0889c04aa328a55076:9efa286d2859f7bc1e7f3ebe28be97fe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://ft5u6v7w9y0tkwl.clarocdn.com.br/Content/Channel/SPOHEAHD/dsc3/manifest.mpd
+
+
+#EXTINF:-1,tvg-logo=" CURTA!
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=554c719bc76d312abe2d6c81d28cc097:e18418f8a379f02e5836ce4dfe05a78c
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCBQ4HD/dsc3/manifest.mpd
+
+#EXTINF:-1,tvg-logo=" TRAVEL BOX BRASIL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=893ca7b027563b07b41a6d18d0fc5a63:347b88e82fd1607518d15ad7ba8969ed
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCBQ11HD/dsc3/manifest.mpd
+
+
+#EXTINF:-1,tvg-logo=" FISH TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=f7ae96187e67394f8357a348fe69bb85:cc5c231d0ee8f148a17c613b0f51ac6d
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOFISHHD/dsc2/manifest.mpd
+
+#EXTINF:-1,tvg-logo=" DISCOVERY HGTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=923bd533e863316594bd07f44204a59f:a5747519a772648b783326f0140fa583
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOHGTVHD/dsc3/manifest.mpd
+
+
+#EXTINF:-1, SABOR Y ARTE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=b9fc20ddbde73c5eae98a8b63be2e1d7:f0918046cffd7b5da8fcaf9e1053b562
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOSEAHD/dsc3/manifest.mpd
+
+#EXTINF:-1, CNBC BRASIL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=838c940dfbc4362685ace7cc97d2207e:090c0f4bfdd50260a1f1182b336e853b
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCNBCHD/dsc1/manifest.mpd
+
+#EXTINF:-1, CNN BRASIL MONEY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=7847bb240e74393da7feb25d6be1943f:16f4113e52edda7f2752b65f7073012a
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCNBMHD/dsc2/manifest.mpd
+
+
+#EXTINF:-1, TBC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=0281ae3760cd31648492887b231586b1:28d5c9bea4b395872842096a2c9d2fc9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOTBCHD/dsc2/manifest.mpd
+
+
+#EXTINF:-1, WOO HOO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=2469de2cb4f034aeb668b81851550445:63c5abdc67ce668e48b43f0b85f06461
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCBQ5HD/dsc3/manifest.mpd
+
+#EXTINF:-1, N SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=f0a3ebac257d3546905c14e97a9fdc3c:c40fb6ef11a35dd33edce2b8bb1fac08
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPONSTHD/dsc1/manifest.mpd
+
+#EXTINF:-1, SPORTY NET
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=2775ead8b9d23a22bc51b6e33c7bc05b:56b762b524dd09c02434db44cc778eaf
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPONFUTHD/dsc1/manifest.mpd
+
+#EXTINF:-1, X SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=6df368bc876534f5a694cbe733733baf:0be33c4248666248637654d4d403c46c
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOXSTHD/dsc1/manifest.mpd
+
+#EXTINF:-1, ESPN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=0ddedf532f1f3d339f3ebdc290ffe40f:064812bf4d55fc7285555974cff7fe8d
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fx1y4b5c6tkllwl.clarocdn.com.br/Content/Channel/SPOESBHD/dsc4/manifest.mpd
+
+#EXTINF:-1, ESPN 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=8e735f8f834c3310a886d42cb81c6e07:617150ffb3d6041c22db12fd211f1bbf
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://ff9g1i2j3k4llwl.clarocdn.com.br/Content/Channel/SPOESIHD/dsc4/manifest.mpd
+
+
+#EXTINF:-1, ESPN 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=bfd6379deb643a07aa1cf6d55a2c5914:d2738805d1ec1566c9ad8725cd2dac8e
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+ttps://ff9g1i2j3k4llwl.clarocdn.com.br/Content/Channel/SPOESPHD/dsc4/manifest.mpd
+
+
+#EXTINF:-1, ESPN 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=7f4644e6bc123d759eab54d4f078278b:05b5bca2e968ea8516af2a807fe48752
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://ff9g1i2j3k4llwl.clarocdn.com.br/Content/Channel/SPOFSTHD/dsc4/manifest.mpd
+
+
+#EXTINF:-1, ESPN 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=0baf2e0e6c6d35f59dc749d5bbcb6651:5f59970009e36de31d29fe6549b2f7f6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOFST2HD/dsc1/manifest.mpd
+
+
+
+#EXTINF:-1, ESPN 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=48cbd41fd79732e2adf50e505c469611:9bdd277227b8181629e0609fb741978c
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOESTHD/dsc3/manifest.mpd
+
+
+#EXTINF:-1, BAND SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=b16451adc5a33fb0b5a35e2ba1b987a3:8c5834e00e4828140a48b192938602af
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://ff9g1i2j3k4llwl.clarocdn.com.br/Content/Channel/SPOBSPHD/dsc4/manifest.mpd
+
+
+#EXTINF:-1, JP NEWS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=606d0de7f0693a5384d44382dd038f2c:09db52754a015a68c0bfa09f8dbddeca
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOJPNHD/dsc2/manifest.mpd
+
+
+#EXTINF:-1, CNN BRASIL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=7ac1ea59f27435b889751a334336a08d:6df339a811f8084ff8894481280c1525
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCNBHD/dsc3/manifest.mpd
+
+
+#EXTINF:-1, RECORD NEWS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=e3d695d9634231ad84eef2d57405b14e:ca9a8a661a11a58f6a1464fec3c250c0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPORDMHD/dsc1/manifest.mpd
+
+#EXTINF:-1, BAND NEWS TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=f1cfd1bac02334e49c7b5b3e8860b0e9:1f75a239187e3de2ed061bf3fa7e91e0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOBNSHD/dsc1/manifest.mpd
+
+#EXTINF:-1, DISCOVERY CHANNEL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=b3bce8a4ab3835c8b5d60124c640b0bc:a1658c6c11545fe12f17e46d847b9ed0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPODICHD/dsc2/manifest.mpd
+
+#EXTINF:-1, ANIMAL PLANET
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=fcbcd25b2d1d3aadb81d14026508b890:da17f3c0f2dba44bdf71ecee8125fa3d
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOAPLHD/dsc3/manifest.mpd
+
+#EXTINF:-1, HISTORY CHANNEL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=4e6fb278559d31deb1df683e9cdc02fe:caa1dc09a99d69db51fad1d4676962e5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOHISHD/dsc1/manifest.mpd
+
+#EXTINF:-1, DISCOVERY TURBO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=97546efdac893304bc9e952184871d42:03624d44ef1285124fa799e856947dce
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPODTBHD/dsc3/manifest.mpd
+
+#EXTINF:-1, DISCOVERY SCIENCE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=03bd2153fc1b3f43add64331f0fb3f1b:33c580c06737df93512eaeb307b7b057
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPODSCHD/dsc1/manifest.mpd
+
+#EXTINF:-1, SBT NEWS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=15e5256240553e53af51e870215c2518:18dece5110a8ab18ec2b879684e6217f
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOSBTNHD/dsc3/manifest.mpd
+
+#EXTINF:-1, DISCOVERY THEATER
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=a8f2665836443a3e9361324d4982dfbf:957815f5cc47719265a45eead937616f
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPODTHD/dsc3/manifest.mpd
+
+
+#EXTINF:-1, DISCOVERY WORLD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=1c5a5919174c3f00bdcf3cd8d33a4682:2c920d583847a7eb417ff223b0e64973
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPODISWHD/dsc3/manifest.mpd
+
+#EXTINF:-1, HISTORY 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=fdef42054c28360eace0d6389986f04d:b0d5d44fc7ae66103871f60edc841c23
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOH2HD/dsc2/manifest.mpd
+
+#EXTINF:-1, GLOOBINHO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=e4026aed59473bbda95e9fe2f64f42a7:73f2ae38f0cd4585435a05778f5f1d5d
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOGOBIHD/dsc3/manifest.mpd
+
+#EXTINF:-1, DISCOVERY KIDS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=032385dc3a033904ab5bf7483b13fcd6:f045b45fc1439bf186a81b849a781c95
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPODIKHD/dsc1/manifest.mpd
+
+#EXTINF:-1, GLOOB
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=922ad9847ee93558af91690d3ffa9af6:615a16fe64cae064973d083a8dd3ac53
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOGOBHD/dsc2/manifest.mpd
+
+
+#EXTINF:-1, CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=06508a75d1d5304e944bb091c70b31b9:0ef7fb9d1606b715ef14202688c2e42e
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCARHD/dsc2/manifest.mpd
+
+
+#EXTINF:-1, CARTOONITO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=157dccb55b7d34a897a467647355659a:11d45fdb81f6af3ff8a784d229d4cb54
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOBOOHD/dsc2/manifest.mpd
+
+#EXTINF:-1, TV RÁ TIM BUM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=bf9b516ab44c3d6e8dc0c469d586c38a:8cc40040496d449dd02dcd9ddf1c435f
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPORATHD/dsc3/manifest.mpd
+
+#EXTINF:-1, DUM DUM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=2975ca9810bc3a3bb6b70274335d4745:26adf3373255c713f2df36b853de1a7d
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOZOMHD/dsc1/manifest.mpd
+
+#EXTINF:-1, BIS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=3ee8a22e1de0350c9fd9c5d1383328ec:14e9794ad0a7fdb2d3632f4de76267f3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOMSHD/dsc3/manifest.mpd
+
+#EXTINF:-1, PLAY TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=bd358a9737b33c9395494a8ed28822f3:377e6948b39d80bd4af6466fb33cc305
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCBQ9/dsc1/manifest.mpd
+
+#EXTINF:-1, MUSIC BOX BRASIL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=2d80d745915c3b28a3767d65bd5c1720:18cdf2b14dc95e739502017325781b59
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCBQ8HD/dsc2/manifest.mpd
+
+#EXTINF:-1, TRACE BRASIL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=7c1aa8ad5ac2321990e6318dc5658963:38418f4e6ca8a9a13b43093888662a55
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOTCBHD/dsc2/manifest.mpd
+
+#EXTINF:-1, TRACE BRASIL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=7c1aa8ad5ac2321990e6318dc5658963:38418f4e6ca8a9a13b43093888662a55
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOTCBHD/dsc2/manifest.mpd
+
+
+#EXTINF:-1, UNIVERSAL TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=0110de67e8a43229a9afee5fbb1bf34c:14d17ea503859feb50f395a19491a2ea
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOUNVHD/dsc3/manifest.mpd
+
+#EXTINF:-1, WARNER CHANNEL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=eac853279bc93a6c890bbd26846e1d21:7804ab7e5c7d7a58bb9f408c42ded852
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOWARHD/dsc3/manifest.mpd
+
+#EXTINF:-1, SONY CHANNEL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=e8c330801826389ca7f371afe220d273:55de44c96e71bcef7a56e4f6865ca491
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOSNYHD/dsc2/manifest.mpd
+
+#EXTINF:-1, AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=020e4acdee843a6899a3b27610568e6c:745bf06392229c718cec3ba1c0d466f1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOAXNHD/dsc2/manifest.mpd
+
+#EXTINF:-1, TNT NOVELAS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=56f802370f033f5fbc8f6805217848b2:8f4bf90d3af2fa2fabea51b2486a3469
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOTNTNHD/dsc2/manifest.mpd
+
+
+#EXTINF:-1, A&E
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=6cf551b65ef233dda7ef03cee8bf4408:ee3debba9d8acbb31e622edb62ede595
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOAEMHD/dsc1/manifest.mpd
+
+
+#EXTINF:-1, DISCOVERY ID
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=dda1b18e3c0b3b5d85182212232e1ebb:2e1f9d5e8ab670a4ed9634fab8391683
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOPARHD/dsc1/manifest.mpd
+
+#EXTINF:-1, USA NETWORK
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=f3cfa4ad56ee36e8acc2667c2e126b84:36fa83bb3938f3f5733ac935f155acde
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOSCIHD/dsc1/manifest.mpd
+
+#EXTINF:-1, LIFETIME
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=bb01e70672b43807b56e1133a8da0d3a:26e7cbbf0c33a94a8be603297fd2ef77
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOANMHD/dsc3/manifest.mpd
+
+#EXTINF:-1, ADULT SWIM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=114df66554dd353da4a88890952a7f25:ce0b1f71493ae2052312674c4d43c363
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOADSHD/dsc3/manifest.mpd
+
+
+#EXTINF:-1, TNT SERIES
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=2311606c83a535eaae20c764d6bb02f4:bc0ff173f9ca1280e81a27eb5b1ee92e
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOTNTSHD/dsc2/manifest.mpd
+
+#EXTINF:-1, AMC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=24984840dcda35a9a15019c0eabe9948:b78ac27a04d4c8a807751030b6fe35db
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOAMCHD/dsc2/manifest.mpd
+
+#EXTINF:-1, EUROCHANNEL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=78011907100235aebc00c9739ecc68bc:cfdafe0ce7053c9d9bf876d3981814bb
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOERCHD/dsc1/manifest.mpd
+
+#EXTINF:-1, FILM&ARTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=e9f160d7858d3d96b0bac24b7f668c6d:98183ab83acd54b0d9f328f8622d9ef1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOFEAHD/dsc1/manifest.mpd
+
+
+#EXTINF:-1, CANAL BRASIL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=13ae1961190932b3b1c58f5b4bbf0984:9280888a2a8840104005a43aa16ebd0e
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCBRHD/dsc2/manifest.mpd
+
+
+#EXTINF:-1, TNT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=4d7d3330842b34adbd40be07e6a87697:6743b3b70a7f6a136b361dadd3aa56a3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://ff9g1i2j3k4llwl.clarocdn.com.br/Content/Channel/SPOTNTHD/dsc4/manifest.mpd
+
+#EXTINF:-1, MEGAPIX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=d8032935861b3c8e89f81b2479c1873b:f260c56d0493118edd4f4bb8101ae077
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOMGPHD/dsc3/manifest.mpd
+
+#EXTINF:-1, SPACE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=4fc4ec2fd171358b975fb6e2dcbd87fb:40f8874c7aaab7024af92c52e0089ec1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOSPCHD/dsc2/manifest.mpd
+
+#EXTINF:-1, CINEMAX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=981a3b99685734eb865c9988c55eba6d:dd86842c0b564e102c710d5c936686be
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOMBRHD/dsc2/manifest.mpd
+
+#EXTINF:-1, PRIME BOX BRASIL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=2b3c8a261c723d48a73840456b0b9358:8df0e5a033e182fb6351338328d24748
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCBQ7HD/dsc2/manifest.mpd
+
+#EXTINF:-1, STUDIO UNIVERSAL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=6997354c02c236a2a78ccfbaf52156fe:1da9369b9de9643e22b4fd0cace8417d
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOSULHD/dsc2/manifest.mpd
+
+#EXTINF:-1, TCM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=2c0a27a43a113dc7ab9852031a9b4cf3:ab051b6e6c83baadc673a86622f93d8a
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOTCM/dsc2/manifest.mpd
+
+#EXTINF:-1, C3-TV CLIMA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=1d9104bfbaf23b29a9c9b9f1ae94cefe:6de5da54648311a7bc8bf23a8b093142
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCLIMATHD/dsc3/manifest.mpd
+
+#EXTINF:-1, CANAL RURAL BRASIL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=11378447e3df330a82ec01368c5fdbf5:9631298d4eecf4216e0c4b1b72acfe67
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPORURHD/dsc2/manifest.mpd
+
+#EXTINF:-1, GAZETA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=ea97feaa8f1438ecb596efea0f81eab2:74a4aefb37f70e1e0fcc3cb0d19dcdac
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOGAZHD/dsc3/manifest.mpd
+
+
+#EXTINF:-1, AGRO MAIS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=414bac7c62f5333bbcc280ec6f270063:942ceb89dd220d6e5d8c60529391aea8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOAGMHD/dsc3/manifest.mpd
+
+#EXTINF:-1, CANAL DO BOI
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=a5e61b43b9fb3aef9f5c825528f0a116:2115ca23b72b606120423932586b2dc6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCBOIHD/dsc3/manifest.mpd
+
+#EXTINF:-1, PADRE ETERNO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=be3519b32ebc389fbda0715f2c81ae4d:f97a391cfd208353ad5183cea1bb8d4a
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPORCIHD/dsc1/manifest.mpd
+
+#EXTINF:-1, REDE VIDA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=f9991bb778cf3714acbb0791dac0a1c4:f16565d4445b7925cd7c7429abb416ef
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOVDAHD/dsc3/manifest.mpd
+
+
+#EXTINF:-1, CANCION NUEVA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=de3f214d01143637bb582d5dc80479be:f4487c0d2e8f8a2f36b73ec54add4ae3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOTCNHD/dsc2/manifest.mpd
+
+
+#EXTINF:-1, APARECIDA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=7d50c60a91c530d29770517d60b9f952:73d3ec2527c353e9ad25f95e2a91600f
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOAPAHD/dsc2/manifest.mpd
+
+#EXTINF:-1, LBV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=8169c43e353d33919ad7616644d2b081:b226094c51900b31e2cf8543cf25efa3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOLBVE/dsc1/manifest.mpd
+
+#EXTINF:-1, CGTN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=36f1aadb56e83ca4a1cf035c82aa7382:d192953ed7eb5f6dd99db2082800c8b7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCGTNHD/dsc2/manifest.mpd
+
+
+#EXTINF:-1, CNN INTERNACIONAL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=e30bcfc8dbb53d17ad35fa51c78a9577:c1b5f407bef0681c01f48f17e5c13f1d
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCNI/dsc1/manifest.mpd
+
+#EXTINF:-1, BLOOMBERG TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=57abd734835d32629c4876acd4c5ec57:b34e02b7459522feb5d2ac2d3ee1fb9a
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOBLO/dsc2/manifest.mpd
+
+#EXTINF:-1, BBC NEWS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=45af11b89d673e168f7eef120e2ab129:ec04438a99688e62b3c7d85007e470c8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOBBC/dsc3/manifest.mpd
+
+
+#EXTINF:-1, RAI ITALIA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=6228e7ed41e7388ab2b9461eb63495e2:98974f48711fda696ef0188e1150c6d0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPORAI/dsc2/manifest.mpd
+
+#EXTINF:-1, TV5 MONDE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=a4679af48bed35feb33dd769f3fb64a5:fb4b16d63526338ea76c70ff4656ed9f
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOTV5/dsc2/manifest.mpd
+
+
+#EXTINF:-1, TV ESPAÑOLA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=1b73c56babaa3589afcb721d20ffe193:25f2019890fc14f21b3c2863fdd353b6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOTVE/dsc2/manifest.mpd
+
+#EXTINF:-1, DW ALEMANIA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=b1acb0d32c8b3d7c976dabb253d0426d:92c50b67953c6b551716b22cc76ef0ef
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPODEU/dsc3/manifest.mpd
+
+
+#EXTINF:-1, FRANCE 24 en ESPAÑOL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=d65ee524d3f737f0b068f149611a2372:b6fa15b9208062c2f0763e944f7f733
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOF24HD/dsc2/manifest.mpd
+
+
+#EXTINF:-1, SPORTY NET
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=559680804e9d3feca84a10f155397484:4fedf21e2b4cb47b61f4975362774b78
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCCR1HD/dsc1/manifest.mpd
+
+#EXTINF:-1, SPORTY NET 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=ef68b4b8d5b230fda35ca624aebe5dcb:4959f6dc43876c82d562de1e4e5d2f51
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOCCR2HD/dsc2/manifest.mpd
+
+
+#EXTINF:-1, SPORTY NET 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=6e91a26ee0a433f6810fcef7f91dbd22:3b842d5eeb194d31dfac780af8df82c2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPONOR3HD/dsc3/manifest.mpd
+
+
+#EXTINF:-1, CLARO TV PUBLICIDAD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.clarotvmais.com.br/"
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOPPVHD/dsc3/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 deportes (100xx)
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1437,32 +2368,156 @@ http://200.12.41.194:8000/play/a089/index.m3u8
 https://76eb25c25d284d038e4a785c7c982f9d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORB-LATAM-ES-FAST-FREELIVESPORTS/957/freelivesports/hls/master/playlist.m3u8
 
 
+#EXTINF:-1,PPV - Dazn 1 (L)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/156148
+#EXTINF:-1,PPV - Dazn 1 (TV)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/156150
+#EXTINF:-1,PPV - Dazn 2 (L)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/156151
+#EXTINF:-1,PPV - Dazn 2 (TV)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/156152
+#EXTINF:-1,PPV - Dazn LaLiga (L)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/156156
+#EXTINF:-1,PPV - Dazn LaLiga 1 (TV)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/156157
+#EXTINF:-1,PPV - Dazn LaLiga 2 (TV)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/156159
+#EXTINF:-1,PPV - Dazn LaLiga 3 (TV) (Solo Eventos)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/156161
+#EXTINF:-1,PPV - Dazn LaLiga 4 (TV) (Solo Eventos)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/156162
+#EXTINF:-1,PPV - Dazn F1 (L)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/156163
+#EXTINF:-1,PPV - LaLiga: Dazn F1. (TV)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/156164
+#EXTINF:-1,PPV - F1 | Dazn (720)(Z)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/156165
+#EXTINF:-1,PPV - Serie A: Dazn Bar 1 (TV)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/156172
+#EXTINF:-1,PPV - Serie A: Dazn Sport 1 (TV)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/156173
 
-#EXTINF:-1 tvg-id="DAZN EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/2560px-DAZN_F1_logo.svg.png" tvg-name="DAZN" group-title="DEPORTES",DAZN F1
-http://planettvweb.com:8091/JavierHndez/AFur2741a/16967
+
+
+#EXTINF:-1,DEPORTES - beIN Sport USA (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9551
+#EXTINF:-1,DEPORTES - beIN Sports Xtra Ñ (TV)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9552
+#EXTINF:-1,DEPORTES - beIN Sports Ñ (i)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9553
+#EXTINF:-1,DEPORTES - Fox Deportes (TV)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9571
+#EXTINF:-1,DEPORTES - Fox Deportes (Z)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9572
+#EXTINF:-1,DEPORTES - Fox Sports 1 ARG (L)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9575
+#EXTINF:-1,DEPORTES - Fox Sports 1 ARG (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9576
+#EXTINF:-1,DEPORTES - Fox Sports 1 COL (TV)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9577
+#EXTINF:-1,DEPORTES - Fox Sports 1 LAT (Z)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9578
+#EXTINF:-1,DEPORTES - Fox Sports 1 MEX (M)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9579
+#EXTINF:-1,DEPORTES - Fox Sports 2 LAT (Z)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9580
+#EXTINF:-1,DEPORTES - Fox Sports 2 ARG (L)(SD)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9581
+#EXTINF:-1,DEPORTES - Fox Sports 2 ARG (i)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9582
+#EXTINF:-1,DEPORTES - Fox Sports 2 COL (TV)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9583
+#EXTINF:-1,DEPORTES - Fox Sports 2 MEX (L)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9584
+#EXTINF:-1,DEPORTES - Fox Sports 2 MEX (M)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9585
+#EXTINF:-1,DEPORTES - Fox Sports 2 MX (Z)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9586
+#EXTINF:-1,DEPORTES - Fox Sports 3 ARG (i)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9588
+#EXTINF:-1,DEPORTES - Fox Sports 3 ARG (TV)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9589
+#EXTINF:-1,DEPORTES - Fox Sports 3 COL (TV)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9590
+#EXTINF:-1,DEPORTES - Fox Sports 3 MEX (M)(SD)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9591
+#EXTINF:-1,DEPORTES - Fox Sports 3 MX (Z)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9592
+#EXTINF:-1,DEPORTES - Fox Sports Premium MX (i)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9593
+#EXTINF:-1,DEPORTES - TUDN - MEX (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9603
+#EXTINF:-1,DEPORTES - TUDN - MEX (Z)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9604
+#EXTINF:-1,DEPORTES - TUDN - USA (TV)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9605
+#EXTINF:-1,DEPORTES - TUDN - USA (Z)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9606
+#EXTINF:-1,DEPORTES - Directv Sports + (L)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9557
+#EXTINF:-1,DEPORTES - Directv Sports + (TV)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9558
+#EXTINF:-1,DEPORTES - Directv Sports + (TV)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9559
+#EXTINF:-1,DEPORTES - Directv Sports 1 (ARG) (TV)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9560
+#EXTINF:-1,DEPORTES - Directv Sports 1 CHI (e)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9561
+#EXTINF:-1,DEPORTES - Directv Sports 1 ECU (e)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9562
+#EXTINF:-1,DEPORTES - Directv Sports 1 ECU (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9563
+#EXTINF:-1,DEPORTES - Directv Sports 2 (e)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9564
+#EXTINF:-1,DEPORTES - Directv Sports 2 (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9565
+#EXTINF:-1,DEPORTES - Directv Sports 2 ARG (Z)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9567
+#EXTINF:-1,DEPORTES - Directv Sports 2 ARG (L)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9566
+#EXTINF:-1,DEPORTES - Directv Sports Fight (TV)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9568
+#EXTINF:-1,DEPORTES - Claro Sports 2 (Z)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9556
+#EXTINF:-1,DEPORTES - Fight BOX  (TV)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9570
+#EXTINF:-1,DEPORTES - Gol TV ES (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9594
+#EXTINF:-1,DEPORTES - Gol TV Internacional (TV)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9595
+#EXTINF:-1,DEPORTES - Golf Latin America (M)(SD)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9596
+#EXTINF:-1,DEPORTES - Golf Latin MEX (M)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9597
+#EXTINF:-1,DEPORTES - NBA U (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9598
+#EXTINF:-1,DEPORTES - Sky sports (TV)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9599
+#EXTINF:-1,DEPORTES - SKY Sports Bundesliga (Z)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9600
+#EXTINF:-1,DEPORTES - SKY Sports La liga (TV)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9601
+#EXTINF:-1,DEPORTES - Tennis Channel (L)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9602
+#EXTINF:-1,DEPORTES - TVC Deportes (L)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9607
+#EXTINF:-1,DEPORTES - TyC Sports INT (i)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9608
+#EXTINF:-1,DEPORTES - TyC Sports INT (TV)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9609
+#EXTINF:-1,DEPORTES - UFC (L)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9610
+#EXTINF:-1,DEPORTES - UFC Fight PASS (i)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9611
+#EXTINF:-1,DEPORTES - WWE  (Z)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9612
+#EXTINF:-1,DEPORTES - WWE (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9613
 
 
 
 #EXTINF:-1 tvg-name="UFC FIGHT" tvg-logo="https://i.postimg.cc/qvK3XB5n/UFC-PASS.jpg" group-title="DEPORTES",UFC (AUDIO EN)
 http://38.210.3.64:8090/play/A01E
-
-
-
-
-#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-logo="https://i.postimg.cc/G3YNTvcx/DANZ-ESPA-A.jpg" group-title="DAZN Eventos",DAZN 1 HD
-http://planettvweb.com:8091/JavierHndez/AFur2741a/12043
-
-
-
-
-#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-logo="https://i.postimg.cc/Bb8Vm1D4/DAZN-LIGA-2.jpg" group-title="DAZN Eventos",DAZN 2 HD
-http://planettvweb.com:8091/JavierHndez/AFur2741a/11975
-
-#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-logo="https://i.postimg.cc/Bb8Vm1D4/DAZN-LIGA-2.jpg" group-title="DAZN Eventos",DAZN 2 OP2 HD
-http://vivetv.net:80/live/mauricio/mauricio/16c791ef-ace9-4eab-8772-bc5a98e5987c.m3u
-
-
-
 
 
 
@@ -1667,6 +2722,682 @@ https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd?|referer=h
 #EXTINF:-1 group-title="Infantil" ch-number="213" tvg-id="ZooMoo.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1812/CH_LOGO/160/160/0/0/10249036073271.png", ZooMoo
 https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+
+
+
+#EXTINF:-1,24/7 Coraje el Perro Cobarde (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162821
+#EXTINF:-1,24/7 Dinosaurios (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162822
+#EXTINF:-1,24/7 Hey Arnold (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162823
+#EXTINF:-1,24/7 El Pajaro Loco (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162824
+#EXTINF:-1,24/7 FAMILY GUY (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162828
+#EXTINF:-1,24/7 RANMA (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162829
+#EXTINF:-1,24/7 SAKURA (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162831
+#EXTINF:-1,24/7 CHAPULIN COLORADO (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162833
+#EXTINF:-1,24/7 alf (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162835
+#EXTINF:-1,24/7 Star Trek (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162836
+#EXTINF:-1,24/7 Batman (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162837
+#EXTINF:-1,24/7 Tom y Jerry (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162845
+#EXTINF:-1,24/7 Doraemon (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162846
+#EXTINF:-1,24/7 Smallville (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162847
+#EXTINF:-1,24/7 Super Campeones (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162848
+#EXTINF:-1,24/7 Scooby Doo (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162849
+#EXTINF:-1,24/7 Samurai X (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162850
+#EXTINF:-1,24/7 POKEMON (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162851
+#EXTINF:-1,24/7 One Punch Man (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162852
+#EXTINF:-1,24/7 Yu-Gi-Oh (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162853
+#EXTINF:-1,24/7 Los Picapiedra (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162854
+#EXTINF:-1,24/7 Naruto (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162855
+#EXTINF:-1,24/7 Looney Tunes (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162856
+#EXTINF:-1,24/7 El Principel del Rap (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162857
+#EXTINF:-1,24/7 El Gallo Claudio (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162872
+#EXTINF:-1,24/7 Los Picapiedra (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162873
+#EXTINF:-1,24/7 One Punch Man (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162875
+#EXTINF:-1,24/7 Pinky y Cerebro (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162876
+#EXTINF:-1,24/7 TrollHunters (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162878
+#EXTINF:-1,24/7 Yu-Gi-Oh! (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162879
+#EXTINF:-1,24/7 DR House (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162881
+#EXTINF:-1,24/7 Alf (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162884
+#EXTINF:-1,24/7 Animaciones (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162885
+#EXTINF:-1,24/7 Bob Esponja (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162888
+#EXTINF:-1,24/7 Coraje Perro Cobarde (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162890
+#EXTINF:-1,24/7 Dinosaurios (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162891
+#EXTINF:-1,24/7 DraginBall (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162893
+#EXTINF:-1,24/7 Dragon BallGT (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162894
+#EXTINF:-1,24/7 Dragon Ball Super (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162895
+#EXTINF:-1,24/7 Dragin Ball Z (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162896
+#EXTINF:-1,24/7 CorreCamino (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162898
+#EXTINF:-1,24/7 Principe de Bel-air (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162899
+#EXTINF:-1,24/7 One Punch Man (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162900
+#EXTINF:-1,24/7 Elfen Lied (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162901
+#EXTINF:-1,24/7 Family Guy (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162902
+#EXTINF:-1,24/7 Game of Thrones HD (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162903
+#EXTINF:-1,24/7 Hey Arnold! (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162904
+#EXTINF:-1,24/7 Hora de Aventura (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162905
+#EXTINF:-1,24/7 Las aventuras de Tom Sawyer (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162909
+#EXTINF:-1,24/7 Looney Tunes (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162910
+#EXTINF:-1,24/7 Los Picapiedra (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162912
+#EXTINF:-1,24/7 Los Simpsons (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162913
+#EXTINF:-1,24/7 Naruto (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162914
+#EXTINF:-1,24/7 Naruto Shippuden (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162915
+#EXTINF:-1,24/7 Pinky y Cerebro (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162932
+#EXTINF:-1,24/7 Súper Campeones (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162936
+#EXTINF:-1,24/7 Un Show Más (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162938
+#EXTINF:-1,24/7 Animaniacs [Completo] (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162939
+#EXTINF:-1,24/7 Barón Rojo (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162940
+#EXTINF:-1,24/7 Dinosaurios [Completo] (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162943
+#EXTINF:-1,24/7 Doug (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162944
+#EXTINF:-1,24/7 Ed, Edd y Eddy (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162946
+#EXTINF:-1,24/7 El Coyote y el Correcaminos [Completo] (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162947
+#EXTINF:-1,24/7 El Laboratorio de Dexter [1 - 4T] (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162948
+#EXTINF:-1,24/7 El Pato Darkwing (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162950
+#EXTINF:-1,24/7 Elementary (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162951
+#EXTINF:-1,24/7 Game of Thrones SD (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162953
+#EXTINF:-1,24/7 Garfield y sus amigos (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162954
+#EXTINF:-1,24/7 Happy Tree Friends (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162955
+#EXTINF:-1,24/7 Hey Arnold! [Completo] (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162956
+#EXTINF:-1,24/7 Hora de aventura (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162957
+#EXTINF:-1,24/7 House of Cards (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162958
+#EXTINF:-1,24/7 Hunter x Hunter (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162959
+#EXTINF:-1,24/7 Johnny Bravo (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162960
+#EXTINF:-1,24/7 La pantera rosa Show (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162962
+#EXTINF:-1,24/7 La pantera rosa y sus hijos (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162963
+#EXTINF:-1,24/7 La pantera rosa [Completo] (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162964
+#EXTINF:-1,24/7 La Pequeña Lulú (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162965
+#EXTINF:-1,24/7 La vaca y el pollito (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162966
+#EXTINF:-1,24/7 Las chicas superpoderosas (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162968
+#EXTINF:-1,24/7 Las sombrías aventuras de Billy y Mandy (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162970
+#EXTINF:-1,24/7 Liga De La Justicia Ilimitada (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162971
+#EXTINF:-1,24/7 Loonatics (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162973
+#EXTINF:-1,24/7 Los autos locos (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162974
+#EXTINF:-1,24/7 Los años maravillosos (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162975
+#EXTINF:-1,24/7 Los chicos del barrio (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162977
+#EXTINF:-1,24/7 Calabozos y dragones (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162978
+#EXTINF:-1,24/7 Two and a Half Men [SUB] (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162983
+#EXTINF:-1,24/7 Sin Senos no hay Paraíso (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162984
+#EXTINF:-1,24/7 Sin senos sí hay paraíso (M)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/162985
+#EXTINF:-1,DEPORTES - SKY Sports LaLiga (Z)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164158
+#EXTINF:-1,DEPORTES - SKY Sports Premier League (Z)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164159
+#EXTINF:-1,24/7 Cinema - Accion 1 (e)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164581
+#EXTINF:-1,24/7 Cinema - Accion 2 (e)(1080)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164582
+#EXTINF:-1,24/7 Cinema - Accion 3 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164583
+#EXTINF:-1,24/7 Cinema - Accion 4 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164584
+#EXTINF:-1,24/7 Cinema - Accion 5 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164586
+#EXTINF:-1,24/7 Cinema - Accion 6 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164781
+#EXTINF:-1,24/7 Cinema - Accion 7 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164782
+#EXTINF:-1,24/7 Cinema - Accion 8 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164783
+#EXTINF:-1,24/7 Cinema - Accion 9 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164787
+#EXTINF:-1,24/7 Cinema - Accion 10 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164788
+#EXTINF:-1,24/7 Cinema - Saga Arma Mortal (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164789
+#EXTINF:-1,24/7 Cinema - Sagas Asaltos (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164790
+#EXTINF:-1,24/7 Cinema - Sagas Asesinos (e)(1080)(Dual Audio)  
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164791
+#EXTINF:-1,24/7 Cinema - Saga Duro de Matar (e)(1080)(Dual Audio)  
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164792
+#EXTINF:-1,24/7 Cinema - Saga Ip Man (e)(1080)(Dual Audio)  
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164793
+#EXTINF:-1,24/7 Cinema - Saga John Wick (e)(1080)(Dual Audio)  
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164794
+#EXTINF:-1,24/7 Cinema - Saga: Karate Kid (e)(1080)(Dual Audio)  
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164795
+#EXTINF:-1,24/7 Cinema - Saga Kickboxer (e)(1080)(Dual Audio)  
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164796
+#EXTINF:-1,24/7 Cinema - Sagas: Kung fu (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164797
+#EXTINF:-1,24/7 Cinema - Saga: Mision Imposible (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164798
+#EXTINF:-1,24/7 Cinema - Saga: Rambo (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164799
+#EXTINF:-1,24/7 Cinema - Saga: Rapidos y Furiosos (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164800
+#EXTINF:-1,24/7 Cinema - Saga: Taxi Drive (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164801
+#EXTINF:-1,24/7 Cinema - Netflix Premier 1 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164802
+#EXTINF:-1,24/7 Cinema - Netflix Premier 2 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164863
+#EXTINF:-1,24/7 Cinema - Netflix Premier 3 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164864
+#EXTINF:-1,24/7 Cinema - Netflix Premier 4 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164865
+#EXTINF:-1,24/7 Cinema - Netflix Premier 5 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164866
+#EXTINF:-1,24/7 Cinema - Netflix Premier 6 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164867
+#EXTINF:-1,24/7 Cinema - Netflix Premier 7 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164868
+#EXTINF:-1,24/7 Cinema - Amazon Prime 1 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164869
+#EXTINF:-1,24/7 Cinema - Amazon Prime 2 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164870
+#EXTINF:-1,24/7 Cinema - Amazon Prime 3 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164871
+#EXTINF:-1,24/7 Cinema - Amazon Prime 4 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164934
+#EXTINF:-1,24/7 Cinema - Amazon Prime 5 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164935
+#EXTINF:-1,24/7 Cinema - Amazon Prime 6 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164936
+#EXTINF:-1,24/7 Cinema - Amazon Prime 7 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164937
+#EXTINF:-1,24/7 Cinema - Amazon Prime 8 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164938
+#EXTINF:-1,24/7 Cinema - Amazon Prime 9 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164939
+#EXTINF:-1,24/7 Cinema - Amazon Prime 10 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164940
+#EXTINF:-1,24/7 Cinema - HBO MAX (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164941
+#EXTINF:-1,24/7 Cinema - 4K (e)(4K)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164942
+#EXTINF:-1,24/7 Cinema - Infantil 1 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164943
+#EXTINF:-1,24/7 Cinema - Infantil 2 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164944
+#EXTINF:-1,24/7 Cinema - Sagas: Barbie (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164945
+#EXTINF:-1,24/7 Cinema - Infantil 3 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164946
+#EXTINF:-1,24/7 Cinema - Sagas: Batman Animado (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164947
+#EXTINF:-1,24/7 Cinema - Sagas: Batman (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164948
+#EXTINF:-1,24/7 Cinema - Animacion 1 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164949
+#EXTINF:-1,24/7 Cinema - Animacion 2 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164950
+#EXTINF:-1,24/7 Cinema - Disney Cinema 1 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164951
+#EXTINF:-1,24/7 Cinema - Disney Cinema 2 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164952
+#EXTINF:-1,24/7 Cinema - Disney Animacion 1 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164953
+#EXTINF:-1,24/7 Cinema - Disney Animacion 2 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164954
+#EXTINF:-1,24/7 Cinema - Disney Animacion 3 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164955
+#EXTINF:-1,24/7 Cinema - APPLE TV (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164956
+#EXTINF:-1,24/7 Cinema - Aventura (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164957
+#EXTINF:-1,24/7 Cinema - Fantasia (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164958
+#EXTINF:-1,24/7 Cinema - Comedias 1 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164959
+#EXTINF:-1,24/7 Cinema - Comedias 2 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164960
+#EXTINF:-1,24/7 Cinema - Comedias 3 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164961
+#EXTINF:-1,24/7 Cinema - Comedias 4 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164962
+#EXTINF:-1,24/7 Cinema - Comedias 5 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164963
+#EXTINF:-1,24/7 Cinema - Comedias 6 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164964
+#EXTINF:-1,24/7 Cinema - Comedias 7 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164965
+#EXTINF:-1,24/7 Cinema - Comedias 8 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164966
+#EXTINF:-1,24/7 Cinema - Sagas: American Pie (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164967
+#EXTINF:-1,24/7 Cinema - Sagas: Scary Movie (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164968
+#EXTINF:-1,24/7 Cinema - Sagas: Loca Academia de Policias (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164969
+#EXTINF:-1,24/7 Cinema - Sagas: Harry Potter (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164970
+#EXTINF:-1,24/7 Cinema - Sagas: Harry Potter (e)(4K)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164971
+#EXTINF:-1,24/7 Cinema - Sagas: Star Wars (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164972
+#EXTINF:-1,24/7 Cinema - Sagas: Star Wars (e)(4K)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164973
+#EXTINF:-1,24/7 Cinema - Sagas: El Señor de los Anillos (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164974
+#EXTINF:-1,24/7 Cinema - Sagas: Jurassic Park (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164975
+#EXTINF:-1,24/7 Cinema - Sagas: 007 James Bond - Sean Connery (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164976
+#EXTINF:-1,24/7 Cinema - Sagas: 007 James Bond - Roger Moore (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164977
+#EXTINF:-1,24/7 Cinema - Sagas: 007 James Bond - Timothy Dalton (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164978
+#EXTINF:-1,24/7 Cinema - Sagas: 007 James Bond - Pierce Brosnan (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164979
+#EXTINF:-1,24/7 Cinema - Sagas: 007 James Bond - Daniel Craig (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164980
+#EXTINF:-1,24/7 Cinema - Sagas: El Planeta de los Simios - Moderno (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164981
+#EXTINF:-1,24/7 Cinema - Sagas: El Planeta de los Simios - Clasico (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164982
+#EXTINF:-1,24/7 Cinema - Sagas: Toy Story (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164983
+#EXTINF:-1,24/7 Cinema - Sagas: Madagascar (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164984
+#EXTINF:-1,24/7 Cinema Infantil - Sagas: La Era del hielo (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164985
+#EXTINF:-1,24/7 Cinema Comedias - Sagas: Asu Mare (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164986
+#EXTINF:-1,24/7 Cinema Terror - Halloween (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164987
+#EXTINF:-1,24/7 Cinema Terror - SAW (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164988
+#EXTINF:-1,24/7 Cinema Terror - El Conjuro (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164989
+#EXTINF:-1,24/7 Cinema Terror - Sagas: Alien (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164990
+#EXTINF:-1,24/7 Cinema Terror - Sagas: Resident Evil (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164991
+#EXTINF:-1,24/7 Cinema Terror - Sagas: Underworld (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164992
+#EXTINF:-1,24/7 Cinema Terror - Sagas: Viernes 13 (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164993
+#EXTINF:-1,24/7 Cinema Terror - Sagas: Pesadilla en Elm Street (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164994
+#EXTINF:-1,24/7 Cinema Terror - Sagas: La Maldicion (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164995
+#EXTINF:-1,24/7 Cinema Terror - Sagas: El Duende Maldito "Leprechaun" (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164996
+#EXTINF:-1,24/7 Cinema Terror - Sagas: Chucky (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/164997
+#EXTINF:-1,24/7 Cinema Accion - Sagas: The Matrix (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165064
+#EXTINF:-1,24/7 Cinema Ficcion - Sagas: Spider Man (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165066
+#EXTINF:-1,24/7 Cinema Ficcion - Sagas: Guardianes de la Galaxia (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165067
+#EXTINF:-1,24/7 Cinema Ficcion - Sagas: Marvel Universo (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165065
+#EXTINF:-1,24/7 Cinema Ficcion - Sagas: Marvel (e)(1080)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165068
+#EXTINF:-1,24/7 Series Narcos - El Chapo (e)(1080)(Dual)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165069
+#EXTINF:-1,24/7 Series Narcos - El Chema (e)(1080)(Dual)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165070
+#EXTINF:-1,24/7 Series Narcos - El Señor de los Cielos "Temporada 1" (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165071
+#EXTINF:-1,24/7 Series Narcos - El Señor de los Cielos "Temporada 2" (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165072
+#EXTINF:-1,24/7 Series Narcos - El Señor de los Cielos "Temporada 3" (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165073
+#EXTINF:-1,24/7 Series Narcos - El Señor de los Cielos "Temporada 4" (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165074
+#EXTINF:-1,24/7 Series Narcos - El Señor de los Cielos "Temporada 5" (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165075
+#EXTINF:-1,24/7 Series Narcos - El Señor de los Cielos "Temporada 6" (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165076
+#EXTINF:-1,24/7 Series Narcos - El Señor de los Cielos "Temporada 7" (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165077
+#EXTINF:-1,24/7 Series Narcos - El Señor de los Cielos "Temporada 8" (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165078
+#EXTINF:-1,24/7 Series Narcos - El Señor de los Cielos "Temporada 9" (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165079
+#EXTINF:-1,24/7 Series Narcos - Sobreviviendo a Escobar, Alias JJ (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165080
+#EXTINF:-1,24/7 Series Narcos - El General Naranjo (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165081
+#EXTINF:-1,24/7 Series Narcos - La Reina del Sur (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165082
+#EXTINF:-1,24/7 Series Narcos - Las muñecas de la mafia (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165083
+#EXTINF:-1,24/7 Series Narcos - Las muñecas de la mafia 2 (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165084
+#EXTINF:-1,24/7 Series Narcos - Narcos: México (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165085
+#EXTINF:-1,24/7 Series Narcos - El cartel de los sapos: El origen (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165183
+#EXTINF:-1,24/7 Series Narcos - Narcos (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165184
+#EXTINF:-1,24/7 Series Narcos - El Capo (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165186
+#EXTINF:-1,24/7 Series Narcos - Pablo Escobar (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165187
+#EXTINF:-1,24/7 Series Narcos - Tres Caines (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165195
+#EXTINF:-1,24/7 Series Narcos - El Cartel de los Sapos 1 (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165197
+#EXTINF:-1,24/7 Series Narcos - El Cartel de los Sapos 2 (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165198
+#EXTINF:-1,24/7 Series Crimen - 911 (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165200
+#EXTINF:-1,24/7 Series Crimen - Barry (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165201
+#EXTINF:-1,24/7 Series Crimen - Blindspot (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165202
+#EXTINF:-1,24/7 Series Crimen - Boardwalk Empire (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165356
+#EXTINF:-1,24/7 Series Crimen - Bones Temp. 1 al 6 (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165357
+#EXTINF:-1,24/7 Series Crimen - Codigos de familia Temp. 1 al 7 (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165203
+#EXTINF:-1,24/7 Series Crimen - Bones Temp. 7 al 12 (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165358
+#EXTINF:-1,24/7 Series Crimen - Breaking Bad (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165359
+#EXTINF:-1,24/7 Series Crimen - Chicago Fire Temp.1al7 (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165360
+#EXTINF:-1,24/7 Series Crimen - Chicago Fire Temp. 8al14 (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165361
+#EXTINF:-1,24/7 Series Crimen - Chicago Justice (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165362
+#EXTINF:-1,24/7 Series Crimen - Chicago Med (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165363
+#EXTINF:-1,24/7 Series Crimen - Chicago P.D (e)(720) (Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165364
+#EXTINF:-1,24/7 Series Crimen - Mentes Criminales (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165365
+#EXTINF:-1,24/7 Series Crimen - CSI Miami (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165366
+#EXTINF:-1,24/7 Series Crimen - CSI: New York (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165367
+#EXTINF:-1,24/7 Series Crimen - CSI: Las Vegas (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165368
+#EXTINF:-1,24/7 Series Crimen - CSI: Cyber (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165369
+#EXTINF:-1,24/7 Series Crimen - Dexter (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165370
+#EXTINF:-1,24/7 Series Crimen - El Marginal (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165473
+#EXTINF:-1,24/7 Series Crimen - Gangsters de Londres (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165474
+#EXTINF:-1,24/7 Series Crimen - El Padrino de Harlem (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165475
+#EXTINF:-1,24/7 Series Crimen - Hannibal (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165476
+#EXTINF:-1,24/7 Crimen - Hawaii Five-0 (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165477
+#EXTINF:-1,24/7 Series Crimen - La Casa de Papel (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165478
+#EXTINF:-1,24/7 Series Crimen - La Ley y el Orden: U.V.C (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165479
+#EXTINF:-1,24/7 Series Crimen - La Ley y el Orden: Crimen Organizado (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165480
+#EXTINF:-1,24/7 Series Crimen - Mr. Robot (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165481
+#EXTINF:-1,DEPORTES - Real Madrid TV (i)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165482
+#EXTINF:-1,PPV-Laliga Hypermotion 1 (i)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165483
+#EXTINF:-1,PPV-Laliga Hypermotion 2 (i)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165484
+#EXTINF:-1,PPV-Laliga Hypermotion 3 (i)(720) 
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165485
+#EXTINF:-1,24/7 Series Crimen - NCIS: Los Angeles (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165544
+#EXTINF:-1,24/7 Series Crimen - Peaky Blinders (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165545
+#EXTINF:-1,24/7 Series Crimen - Prison Break (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165546
+#EXTINF:-1,24/7 Series Crimen - Riverdale (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165547
+#EXTINF:-1,24/7 Series Crimen - Scorpion (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165548
+#EXTINF:-1,24/7 Series Crimen - El Mentalista (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165549
+#EXTINF:-1,24/7 Series Crimen - White Collar (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165550
+#EXTINF:-1,24/7 Series Crimen - NCIS: Criminología Naval (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165551
+#EXTINF:-1,24/7 Series Crimen - Better Call Saul (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165552
+#EXTINF:-1,24/7 Series Crimen - Tulsa King (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165553
+#EXTINF:-1,24/7 Series Crimen - The Rookie (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165554
+#EXTINF:-1,24/7 Series Crimen - S.W.A.T. (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165555
+#EXTINF:-1,24/7 Series Comedias - Casados con Hijos (ARG)(e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165556
+#EXTINF:-1,24/7 Series Comedias - Comedy Central Stand-Up (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165557
+#EXTINF:-1,24/7 Series Comedias - 40 y 20 Parte 1 (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165559
+#EXTINF:-1,24/7 Series Comedias - 40 y 20 Parte 2 (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165560
+#EXTINF:-1,24/7 Series Comedias - Aida (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165612
+#EXTINF:-1,24/7 Series Comedias - Aquí no hay quien viva (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165621
+#EXTINF:-1,24/7 Series Comedias - El Chavo del Ocho (e)(SD)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165622
+#EXTINF:-1,24/7 Series Comedias - El Chapulín Colorado (e)(SD)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/165887
+#EXTINF:-1,24/7 Series Comedias - El Chavo del Ocho (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/166082
+#EXTINF:-1,24/7 Series Comedias - El Pueblo (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/166084
+#EXTINF:-1,24/7 Series Comedias - Todos Odian a Chris (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/166085
+#EXTINF:-1,24/7 Series Comedias - Friends: Parte 1 (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/166086
+#EXTINF:-1,24/7 Series Comedias - Friends: Parte 2 (e)(720)(Dual Audio)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/166087
+#EXTINF:-1,24/7 Series Comedias - Full House: Parte 1 (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/166090
+#EXTINF:-1,24/7 Series Comedias - Full House: Parte 2 (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/166091
+#EXTINF:-1,24/7 Series Comedias - Como Conoci a tu Madre (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/166092
+#EXTINF:-1,24/7 Series Comedias - La familia P. Luche (e)(SD)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/166093
+#EXTINF:-1,24/7 Series Comedias - La que se avecina: Parte 1 (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/166094
+#EXTINF:-1,24/7 Series Comedias - La que se avecina: Parte 2 (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/166095
+#EXTINF:-1,24/7 Series Comedias - Malcolm (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/166096
+
+#EXTINF:-1,24/7 Infantil - Rugrats Crecidos (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169533
+#EXTINF:-1,24/7 Infantil - Avatar: La leyenda de Aang (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169534
+#EXTINF:-1,24/7 Infantil - Ben 10: Supremacia Alienigena  (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169535
+#EXTINF:-1,24/7 Infantil - Bob Esponja (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169536
+#EXTINF:-1,24/7 Infantil - KND: Los chicos del barrio (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169537
+#EXTINF:-1,24/7 Infantil - El increible mundo de Gumball (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169538
+#EXTINF:-1,24/7 Infantil - Jefe en Pañales (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169539
+#EXTINF:-1,24/7 Infantil - El Chavo Animado (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169540
+#EXTINF:-1,24/7 Infantil - El Pajaro Loco y sus amigos (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169541
+#EXTINF:-1,24/7 Infantil - En busca del valle encantado: La serie (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169542
+#EXTINF:-1,24/7 Infantil - Rapunzel (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169543
+#EXTINF:-1,24/7 Infantil - Gravity Falls (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169544
+#EXTINF:-1,24/7 Infantil - Hora de Aventura (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169545
+#EXTINF:-1,24/7 Infantil - Hotel Transilvania: La serie (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169546
+#EXTINF:-1,24/7 Infantil - Jimmy Neutron (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169547
+#EXTINF:-1,24/7 Infantil - Kick Buttowski (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169548
+#EXTINF:-1,24/7 Infantil - Kung Fu Panda: La Leyenda de Po (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169549
+#EXTINF:-1,24/7 Infantil - La princesa Sofía (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169550
+#EXTINF:-1,24/7 Infantil - La sirenita (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169551
+#EXTINF:-1,24/7 Retro - La Tropa Goofy (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169552
+#EXTINF:-1,24/7 Infantil - Capitan Calzoncillos (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169553
+#EXTINF:-1,24/7 Infantil - Billy y Mandy (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169554
+#EXTINF:-1,24/7 Retro - Winnie the Pooh (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169555
+#EXTINF:-1,24/7 Infantil - Las nuevas locuras del emperador (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169556
+#EXTINF:-1,24/7 Retro - Las Tortugas Ninja (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169557
+#EXTINF:-1,24/7 Infantil - LazyTown (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169558
+#EXTINF:-1,24/7 Infantil - Lilo y Stitch (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169559
+#EXTINF:-1,24/7 Infantil - Looney Tunes Platinum V1 (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169560
+#EXTINF:-1,24/7 Infantil - Looney Tunes Platinum V2 (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169561
+#EXTINF:-1,24/7 Infantil - Looney Tunes Platinum V3 (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169562
+#EXTINF:-1,24/7 Retro - Looney Tunes and Merrie Melodies (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169563
+#EXTINF:-1,24/7 Infantil - Los padrinos mágicos (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169564
+#EXTINF:-1,24/7 Retro - Los pequeños Picapiedras (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169565
+#EXTINF:-1,24/7 Infantil - Los pingüinos de Madagascar (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169566
+#EXTINF:-1,24/7 Retro - Los Pitufos (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169567
+#EXTINF:-1,24/7 Infantil - Peppa Pig (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169568
+#EXTINF:-1,24/7 Infantil - Phineas y Ferb (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169569
+#EXTINF:-1,24/7 Retro - Pinky y Cerebro (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169570
+#EXTINF:-1,24/7 Infantil - Pocoyo (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169571
+#EXTINF:-1,24/7 Infantil - Un show mas (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169572
+#EXTINF:-1,24/7 Retro - Rugrats: Aventuras en pañales (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169573
+#EXTINF:-1,24/7 Infantil - Scooby Doo y compañía (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169574
+#EXTINF:-1,24/7 Retro - Spiderman (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169575
+#EXTINF:-1,24/7 Infantil - Teen Titans (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169576
+#EXTINF:-1,24/7 Infantil - El Show de los Looney Tunes (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/169577
+#EXTINF:-1,24/7 Juveniles - Big Time Rush (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/173426
+#EXTINF:-1,24/7 Juveniles - Agente K.C. (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/173427
+#EXTINF:-1,24/7 Retro - CatDog (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/173428
+#EXTINF:-1,24/7 Juveniles - Drake y Josh (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/173429
+#EXTINF:-1,24/7 Juveniles - Buena Suerte Charlie (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/173431
+#EXTINF:-1,24/7 Juveniles - Hanna Montana (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/173432
+#EXTINF:-1,24/7 Juveniles - Henry Danger (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/173433
+#EXTINF:-1,24/7 Juveniles - iCarly (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/173434
+#EXTINF:-1,24/7 Juveniles - Kenan y Kel (e)(720)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/173435
 
 #EXTINF:-1 tvg-id="307749" tvg-name="AniRetro" tvg-logo="https://i.postimg.cc/D03hRbPt/435757743-122093226080292887-572220843076582151-n-jpg-1811-1811.png", AniRetro
 https://tv.arkeo.cl:19360/8000/8000.m3u8?PlaylistM3UCL
@@ -7129,3 +8860,4 @@ https://jmp2.uk/stvp-ESAJ4500016BH
 
 #EXTINF:-1 tvg-id="ESBC2700008SK" tvg-name="ESBC2700008SK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20241022T051028SQUARE.png" group-title="Comedia" , Just For Laughs
 https://jmp2.uk/stvp-ESBC2700008SK
+
