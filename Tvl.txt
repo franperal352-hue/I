@@ -1,6 +1,56 @@
 #EXTM3U  refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/ar.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/generate/duMu5WNPC9.xml.gz,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/miEPG.xml,https://www.open-epg.com/files/paraguay2.xml.gz,https://www.bevy.be/bevyfiles/argentina.xml,http://213.126.50.203/sites/default/files/download/ini/info/siteini.pack/Argentina/cablevisionfibertel.com.ar.channels.xml,https://helmerluzo.github.io/PlutoTV_HL/epg/es.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/refs/heads/main/epg/artv-guide.xml,https://raw.githubusercontent.com/dalimtv-stack/miEPG/refs/heads/main/miEPG.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz,https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz,https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz,https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz,https://iptv-org.github.io/epg/guides/pt/claro.com.br.epg.xml.gz,https://iptv-org.github.io/epg/guides/pt/meuguia.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/pt/mi.tv.epg.xml.gz"
 
 
+
+
+EXTINF:-1 tvg-name="TN",TN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2ff4f665fe9491ea914f5f8f0df0031:a5be72ad37f75ccc739ed951a3360958
+https://bvclive1.boldmss.com/TN/TN_BVC.isml/TN.mpd
+
+EXTINF:-1 tvg-name="A24",A24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b566d46e6bc340dbabb14761b721f718:dc16d14e8b45781e120f54279c5f6a93
+https://bvclive1.boldmss.com/A24/A24_BVC.isml/A24.mpd
+
+EXTINF:-1 tvg-name="C5N",C5N
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9664f194571646379fee20a080ecce4b:b2870d1257acfc9da74057d2b286e68e
+https://bvclive1.boldmss.com/C5N/C5N_BVC.isml/C5N.mpd
+
+EXTINF:-1 tvg-name="CRONICA HD",CRONICA HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eafc0a6924d1469486c538ce8cac7048:c56b8f4f1591ac79ff8f2f73072bb2cf
+https://bvclive1.boldmss.com/CRONICA_TV/CRONICA_TV_BVC.isml/CRONICA_TV.mpd
+
+EXTINF:-1 tvg-name="UNIFE",UNIFE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e8153f705f64b0499449ff403ed5b32:e63a5314ccb236a127665f3d95f8c183
+https://bvclive1.boldmss.com/TN/TN_BVC.isml/TN.mpd
+
+EXTINF:-1 tvg-name="AR12",AR12
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3feecb729a34e7cb0123c25dd890362:a0ce3b8a17ccfb82f7eef4d65710d0f0
+https://bvclive1.boldmss.com/AR12/AR12_BVC.isml/AR12.mpd
+
+EXTINF:-1 tvg-name="TV PUBLICA",TV PUBLICA
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc5eaf2dacee49c6b6b3299bfd7a3c55:59caf6a8acb148785de028994efd69f7
+https://bvclive1.boldmss.com/TV_PUBLICA/TV_PUBLICA_BVC.isml/TV_PUBLICA.mpd
+
+EXTINF:-1 tvg-name="AMERICA BVC",AMERICA BVC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=77cee7620b80b4965b2558502f2c696c6:eec3de24ddc895d1333ff7f33516f9f1
+https://bvclive1.boldmss.com/AMERICA/AMERICA_BVC.isml/AMERICA.mpd
+
+EXTINF:-1 tvg-name="CANAL 9 BS AS",CANAL 9 BS AS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d13f163e1c824951a54becae88891bbd:c0ad487ec61758ff055a275d7763a083
+https://bvclive1.boldmss.com/CANAL_9_BS_AS/CANAL_9_BS_AS_BVC.isml/CANAL_9_BS_AS.mpd
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/7978/CH_LOGO/60/40/0/0/80687161075299.png" group-title="🇦🇷 FLOW"  ,🎵 Flow Music Eventos
@@ -8854,5 +8904,6 @@ https://jmp2.uk/stvp-ESAJ4500016BH
 
 #EXTINF:-1 tvg-id="ESBC2700008SK" tvg-name="ESBC2700008SK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20241022T051028SQUARE.png" group-title="Comedia" , Just For Laughs
 https://jmp2.uk/stvp-ESBC2700008SK
+
 
 
