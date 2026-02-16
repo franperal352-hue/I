@@ -445,6 +445,10 @@ https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
 https://cdn.sensa.com.ar/output/NDS/CEOSCAD/output.mpd?|Referer=https://player.sensa.com.ar/&webtoken=1.0&Origin=https://player.sensa.com.ar/
 
+##EXTINF:-1 tvg-id="LOS SIMPSONS" LOS SIMPSONS 24/7
+http://45.225.68.1:8532/Live/d4f5b784e7457f62e324331180b055bb/online-24-7_480.m3u8
+
+
 
 ##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
@@ -1076,6 +1080,10 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstoken&token=357440
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+
+
+#EXTINF:-1 ch-number="110"  ch-number="110" tvg-id="ClaroSports.mx.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLASP.png?raw=true" group-title="Deportes", Claro Sports 2
+http://200.35.176.154:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 ch-number="108" ch-number="108" tvg-id="TyCSports.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="Deportes", TyC Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -9096,5 +9104,6 @@ http://181.78.27.128:12543/play/a04q/index.m3u8
 #EXTINF:0,WARNER HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.27.128:12543/play/a04s/index.m3u8
+
 
 
