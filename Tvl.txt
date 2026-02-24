@@ -11877,6 +11877,319 @@ https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd
 
 
 
+#EXTINF:11,A&E HD 
+http://190.60.39.195:8000/play/a0wp/index.m3u8
+#EXTINF:0,ADULT SWIM
+http://190.60.39.195:8000/play/a0pp/index.m3u8
+#EXTINF:0,ANIMAL PLANET HD SJ
+http://190.60.39.195:8000/play/a0wq/index.m3u8
+#EXTINF:0,AVIVAMIENTO HD SJ
+http://190.60.39.195:8000/play/a0wr/index.m3u8
+#EXTINF:0,AXN HD SJ
+http://190.60.39.195:8000/play/a0ws/index.m3u8
+#EXTINF:0,AZ CINEMA SJ
+
+http://190.60.39.195:8000/play/a0wt/index.m3u8
+#EXTINF:0,AZ CLICK SJ
+
+http://190.60.39.195:8000/play/a0wu/index.m3u8
+#EXTINF:0,AZ CORAZON SJ
+
+http://190.60.39.195:8000/play/a0wv/index.m3u8
+#EXTINF:0,AZ DEPORTES SJ
+
+http://190.60.39.195:8000/play/a0wm/index.m3u8
+#EXTINF:0,AZ INTER SJ
+
+http://190.60.39.195:8000/play/a0ww/index.m3u8
+#EXTINF:0,BANDAMAX HD SJ
+
+http://190.60.39.195:8000/play/a0wx/index.m3u8
+#EXTINF:0,BIT ME SJ
+
+http://190.60.39.195:8000/play/LATINO/index.m3u8
+#EXTINF:0,BOLIVISION HD SJ
+
+http://190.60.39.195:8000/play/a0wy/index.m3u8
+#EXTINF:0,CABLENOTICIAS HD SJ
+
+http://190.60.39.195:8000/play/a0we/index.m3u8
+#EXTINF:0,CADELCAMPO SJ
+
+http://190.60.39.195:8000/play/a0wz/index.m3u8
+#EXTINF:0,CANAL CAPITAL SJ
+
+http://190.60.39.195:8000/play/a0rz/index.m3u8
+#EXTINF:0,CANAL CONGRESO SJ
+
+http://190.60.39.195:8000/play/57/index.m3u8
+#EXTINF:0,CANAL INSTITUCIONAL SJ
+
+http://190.60.39.195:8000/play/a0vu/index.m3u8
+#EXTINF:0,CANAL UNO CD 
+
+http://190.60.39.195:8000/play/a00g/index.m3u8
+#EXTINF:0,CANAL UNO SJ
+
+http://190.60.39.195:8000/play/a0rw/index.m3u8
+#EXTINF:0,CARACOL 2 CD
+
+http://190.60.39.195:8000/play/a00f/index.m3u8
+#EXTINF:0,CARACOL HD SJ
+
+http://190.60.39.195:8000/play/a0w5/index.m3u8
+#EXTINF:0,CARTOON NETWORK SJ
+
+http://190.60.39.195:8000/play/a0w9/index.m3u8
+#EXTINF:0,CARTOONITO HD SJ
+
+http://190.60.39.195:8000/play/a0x0/index.m3u8
+#EXTINF:0,CINE CANAL HD SJ
+
+http://190.60.39.195:8000/play/a0x1/index.m3u8
+#EXTINF:0,CITY TV  SJ
+
+http://190.60.39.195:8000/play/CITY/index.m3u8
+#EXTINF:0,CNN SJ
+
+http://190.60.39.195:8000/play/a0wl/index.m3u8
+#EXTINF:0,COMEDY CENTRAL HD SJ
+
+http://190.60.39.195:8000/play/a0x2/index.m3u8
+#EXTINF:0,CRISTOVISION SJ
+
+http://190.60.39.195:8000/play/a0un/index.m3u8
+#EXTINF:0,DE PELICULA SJ
+
+http://190.60.39.195:8000/play/a0ue/index.m3u8
+#EXTINF:0,DISCOVERY CHANNEL SJ
+
+http://190.60.39.195:8000/play/a0x3/index.m3u8
+#EXTINF:0,DISCOVERY H&H  SJ
+
+http://190.60.39.195:8000/play/a0x4/index.m3u8
+#EXTINF:0,DISCOVERY ID SJ
+
+http://190.60.39.195:8000/play/a0x6/index.m3u8
+#EXTINF:0,DISCOVERY KIDS SJ
+
+http://190.60.39.195:8000/play/a0wb/index.m3u8
+#EXTINF:0,DISCOVERY SCIENCE SJ
+
+http://190.60.39.195:8000/play/a0x7/index.m3u8
+#EXTINF:0,DISCOVERY TURBO SJ
+
+http://190.60.39.195:8000/play/a0x5/index.m3u8
+#EXTINF:0,DW SJ
+
+http://190.60.39.195:8000/play/a0x8/index.m3u8
+#EXTINF:0,EDINSON - DISNEY CHANNEL HD
+
+http://190.60.39.195:8000/play/a00a/index.m3u8
+#EXTINF:0,EDINSON - DISNEY JR
+
+http://190.60.39.195:8000/play/a00b/index.m3u8
+#EXTINF:0,ENLACE SJ
+
+http://190.60.39.195:8000/play/a0x9/index.m3u8
+#EXTINF:0,ESPN 2 HD SJ
+
+http://190.60.39.195:8000/play/a0w4/index.m3u8
+#EXTINF:0,ESPN 3 HD SJ
+
+http://190.60.39.195:8000/play/a0wc/index.m3u8
+#EXTINF:0,ESPN 4 SJ
+
+http://190.60.39.195:8000/play/a0wn/index.m3u8
+#EXTINF:0,ESPN 5  HD SJ
+
+http://190.60.39.195:8000/play/a0wj/index.m3u8
+#EXTINF:0,ESPN 6 HD SJ
+
+http://190.60.39.195:8000/play/a0wd/index.m3u8
+#EXTINF:0,ESPN 7 HD SJ
+
+http://190.60.39.195:8000/play/a0wk/index.m3u8
+#EXTINF:0,ESPN HD SJ
+
+http://190.60.39.195:8000/play/a0w0/index.m3u8
+#EXTINF:0,EURO CHANNEL HD SJ
+
+http://190.60.39.195:8000/play/a0xb/index.m3u8
+#EXTINF:0,EWTN SJ
+
+http://190.60.39.195:8000/play/a0xc/index.m3u8
+#EXTINF:0,FOOD NETWORK SJ
+
+http://190.60.39.195:8000/play/a0xe/index.m3u8
+#EXTINF:0,FRANCE24H SJ
+
+http://190.60.39.195:8000/play/a0xf/index.m3u8
+#EXTINF:0,FX HD SJ
+
+http://190.60.39.195:8000/play/a0xg/index.m3u8
+#EXTINF:0,GLOBOVISION
+
+http://190.60.39.195:8000/play/a0ye/index.m3u8
+#EXTINF:0,GOLDEN EDGE SJ
+
+http://190.60.39.195:8000/play/a0uf/index.m3u8
+#EXTINF:0,GOLDEN HD SJ
+
+http://190.60.39.195:8000/play/a0xh/index.m3u8
+#EXTINF:0,HGTV SJ
+
+http://190.60.39.195:8000/play/a0xi/index.m3u8
+#EXTINF:0,HISTORY 2 SJ
+
+http://190.60.39.195:8000/play/a0uj/index.m3u8
+#EXTINF:0,HISTORY HD SJ
+
+http://190.60.39.195:8000/play/a0xj/index.m3u8
+#EXTINF:0,HTV HD SJ
+
+http://190.60.39.195:8000/play/a0yd/index.m3u8
+#EXTINF:0,IMG UNIVERSAL  SJ
+
+http://190.60.39.195:8000/play/a0xk/index.m3u8
+#EXTINF:0,LA KALLE SJ
+
+http://190.60.39.195:8000/play/a0xl/index.m3u8
+#EXTINF:0,LAS ESTRELLAS SJ
+
+http://190.60.39.195:8000/play/a0s0/index.m3u8
+#EXTINF:0,NUESTRA TELE
+
+http://190.60.39.195:8000/play/a0ui/index.m3u8
+#EXTINF:0,OROMAR
+
+http://190.60.39.195:8000/play/a0uy/index.m3u8
+#EXTINF:0,PASIONES HD
+
+http://190.60.39.195:8000/play/a0p6/index.m3u8
+#EXTINF:0,RCN 2 CD
+
+http://190.60.39.195:8000/play/a00e/index.m3u8
+#EXTINF:0,RCN HD SJ
+
+http://190.60.39.195:8000/play/a0w6/index.m3u8
+#EXTINF:0,RT SJ
+
+http://190.60.39.195:8000/play/a0xn/index.m3u8
+#EXTINF:0,RUMBATV SJ
+
+http://190.60.39.195:8000/play/a0xo/index.m3u8
+#EXTINF:0,SENAL CD
+
+http://190.60.39.195:8000/play/a00c/index.m3u8
+#EXTINF:0,SONY CHANNEL HD SJ
+
+http://190.60.39.195:8000/play/a0xp/index.m3u8
+#EXTINF:0,SONY HD SJ
+
+http://190.60.39.195:8000/play/a0xq/index.m3u8
+#EXTINF:0,SPACE HD SJ
+
+http://190.60.39.195:8000/play/a0xr/index.m3u8
+#EXTINF:0,STAR CHANNEL HD SJ
+
+http://190.60.39.195:8000/play/a0xs/index.m3u8
+#EXTINF:0,STUDIO UNIVERSAL HD SJ
+
+http://190.60.39.195:8000/play/a0xa/index.m3u8
+#EXTINF:0,TCM SJ
+
+http://190.60.39.195:8000/play/a0xt/index.m3u8
+#EXTINF:0,TELEANTIOQUIA SJ
+
+http://190.60.39.195:8000/play/a0vl/index.m3u8
+#EXTINF:0,TELECAFE SJ
+
+http://190.60.39.195:8000/play/a0wg/index.m3u8
+#EXTINF:0,TELECARIBE PLUS SJ
+
+http://190.60.39.195:8000/play/a0xv/index.m3u8
+#EXTINF:0,TELECARIBE SJ
+
+http://190.60.39.195:8000/play/a0rv/index.m3u8
+#EXTINF:0,TELEHIT HD SJ
+
+http://190.60.39.195:8000/play/a0xw/index.m3u8
+#EXTINF:0,TELEHIT MUSICA HD SJ
+
+http://190.60.39.195:8000/play/a0xx/index.m3u8
+#EXTINF:0,TELEISLA SJ
+
+http://190.60.39.195:8000/play/a0wi/index.m3u8
+#EXTINF:0,TELEMUNDO HD SJ
+
+http://190.60.39.195:8000/play/a0xy/index.m3u8
+#EXTINF:0,TELENOVELAS SJ
+
+http://190.60.39.195:8000/play/a0s1/index.m3u8
+#EXTINF:0,TELEPACIFICO SJ
+
+http://190.60.39.195:8000/play/a0w8/index.m3u8
+#EXTINF:0,TELESUR
+
+http://190.60.39.195:8000/play/a0ut/index.m3u8
+#EXTINF:0,TELEVID SJ
+
+http://190.60.39.195:8000/play/a0up/index.m3u8
+#EXTINF:0,TLT HD
+
+http://190.60.39.195:8000/play/a0ul/index.m3u8
+#EXTINF:0,TNT HD SJ
+
+http://190.60.39.195:8000/play/a0y1/index.m3u8
+#EXTINF:0,TNT SERIES SJ
+
+http://190.60.39.195:8000/play/a0wa/index.m3u8
+#EXTINF:0,TOONCAST SJ
+
+http://190.60.39.195:8000/play/a0y2/index.m3u8
+#EXTINF:0,TRACERSPORT HD SJ
+
+http://190.60.39.195:8000/play/a0y3/index.m3u8
+#EXTINF:0,TRAVELXP HD SJ
+
+http://190.60.39.195:8000/play/a0y4/index.m3u8
+#EXTINF:0,TRO SJ
+
+http://190.60.39.195:8000/play/a0w7/index.m3u8
+#EXTINF:0,TV AGRO SJ
+
+http://190.60.39.195:8000/play/a0uh/index.m3u8
+#EXTINF:0,TV HOGAR SJ
+
+http://190.60.39.195:8000/play/a0y5/index.m3u8
+#EXTINF:0,TVCHILE HD SJ
+
+http://190.60.39.195:8000/play/a0y6/index.m3u8
+#EXTINF:0,TVNOSTALGIA SJ
+
+http://190.60.39.195:8000/play/a0y7/index.m3u8
+#EXTINF:0,UNITEL
+
+http://190.60.39.195:8000/play/a0uv/index.m3u8
+#EXTINF:0,UNIVERSAL CHANNEL SJ
+
+http://190.60.39.195:8000/play/a009/index.m3u8
+#EXTINF:0,UNIVISION HD SJ
+
+http://190.60.39.195:8000/play/a0y8/index.m3u8
+#EXTINF:0,WARNER HD SJ
+
+http://190.60.39.195:8000/play/a0ya/index.m3u8
+#EXTINF:0,WIN
+
+http://190.60.39.195:8000/play/a0ug/index.m3u8
+#EXTINF:0,ZOOM SJ
+
+http://190.60.39.195:8000/play/a0yb/index.m3u8
+
+
+
 
 
 
