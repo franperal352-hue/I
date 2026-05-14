@@ -1,21 +1,39 @@
 #EXTM3U
 
 
-#EXTINF:0,index.m3u8
-#EXTVLCOPT:network-caching=1000
-http://189.50.210.3:8008/play/a07q/index.m3u8
 #EXTINF:11,26TV
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a01r/index.m3u8
-#EXTINF:0,9LINK HD
+#EXTINF:0,TN HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bl/index.m3u8
-#EXTINF:0,A&E HD
+http://181.13.252.102:8000/play/a058/index.m3u8
+#EXTINF:0,C5N
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05i/index.m3u8
+http://181.13.252.102:8000/play/a01p/index.m3u8
 #EXTINF:0,A24
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a01o/index.m3u8
+#EXTINF:0,Telefe HD
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a06c/index.m3u8
+#EXTINF:0,America TV HD
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a055/index.m3u8
+#EXTINF:0,Cronica
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a01q/index.m3u8
+#EXTINF:0,el nueve HD
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a04h/index.m3u8
+#EXTINF:0,el trece HD
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a0bg/index.m3u8
+#EXTINF:0,TV Publica HD
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a056/index.m3u8
+#EXTINF:0,A&E HD
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a05i/index.m3u8
 #EXTINF:0,AM Sports
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a01v/index.m3u8
@@ -25,15 +43,9 @@ http://181.13.252.102:8000/play/a01z/index.m3u8
 #EXTINF:0,AXN HD
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a05f/index.m3u8
-#EXTINF:0,America TV HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a055/index.m3u8
 #EXTINF:0,Baby TV
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02e/index.m3u8
-#EXTINF:0,C5N
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01p/index.m3u8
 #EXTINF:0,CNN en Espa ol
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a054/index.m3u8
@@ -61,9 +73,6 @@ http://181.13.252.102:8000/play/a04s/index.m3u8
 #EXTINF:0,Comedy Central HD
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02x/index.m3u8
-#EXTINF:0,Cronica
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01q/index.m3u8
 #EXTINF:0,DeporTV
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a06h/index.m3u8
@@ -97,6 +106,15 @@ http://181.13.252.102:8000/play/a04y/index.m3u8
 #EXTINF:0,E! Entertainment
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a050/index.m3u8
+#EXTINF:0,TyC Sports HD
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02s/index.m3u8
+#EXTINF:0,Dsport HD ENC
+#EXTVLCOPT:network-caching=1000
+http://177.53.152.117:8000/play/a07d/index.m3u8
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a05a/index.m3u8
 #EXTINF:0,ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a059/index.m3u8
@@ -106,12 +124,24 @@ http://181.13.252.102:8000/play/a05b/index.m3u8
 #EXTINF:0,ESPN 4 HD
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a076/index.m3u8
-#EXTINF:0,ESPN HD
+#EXTINF:0,ESPN 5 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05a/index.m3u8
-#EXTINF:11,ESPN Premium HD
+http://177.53.152.117:8000/play/a049/index.m3u8
+#EXTINF:0,ESPN 6 HD
+#EXTVLCOPT:network-caching=1000
+http://177.53.152.117:8000/play/a043/index.m3u8
+#EXTINF:0,ESPN 7 HD
+#EXTVLCOPT:network-caching=1000
+http://177.53.152.117:8000/play/a0f1/index.m3u8
+#EXTINF:11,ESPN Premium HD ARGETINA
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a078/index.m3u8
+#EXTINF:0,ESPN Premium HD (CHAMPIONS,LIBERTADORES F1)
+#EXTVLCOPT:network-caching=1000
+http://177.53.152.117:8000/play/a091/index.m3u8
+#EXTINF:0,TNT Sports HD
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a0bc/index.m3u8
 #EXTINF:0,El Canal  de las Estrellas
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a06z/index.m3u8
@@ -253,9 +283,6 @@ http://181.13.252.102:8000/play/a020/index.m3u8
 #EXTINF:0,TLNovelas
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a0bm/index.m3u8
-#EXTINF:0,TN HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a058/index.m3u8
 #EXTINF:0,TNT HD
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a07d/index.m3u8
@@ -265,24 +292,12 @@ http://181.13.252.102:8000/play/a07g/index.m3u8
 #EXTINF:0,TNT Series HD
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a07e/index.m3u8
-#EXTINF:0,TNT Sports HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bc/index.m3u8
-#EXTINF:0,TV Publica HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a056/index.m3u8
 #EXTINF:0,TVE
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a072/index.m3u8
-#EXTINF:0,Telefe HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06c/index.m3u8
 #EXTINF:0,The History Channel HD
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a05h/index.m3u8
-#EXTINF:0,TyC Sports HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02s/index.m3u8
 #EXTINF:0,USA Network
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a023/index.m3u8
@@ -301,9 +316,3 @@ http://181.13.252.102:8000/play/a05e/index.m3u8
 #EXTINF:0,ciudad magazine
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02h/index.m3u8
-#EXTINF:0,el nueve HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a04h/index.m3u8
-#EXTINF:0,el trece HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bg/index.m3u8
