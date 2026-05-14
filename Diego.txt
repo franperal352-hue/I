@@ -573,9 +573,6 @@ http://45.184.111.106:8000/play/a0d8/index.m3u8?hls
 #EXTINF:0,Pasiones
 #EXTVLCOPT:network-caching=1000
 http://45.184.111.106:8000/play/a05q/index.m3u8?hls
-#EXTINF:0,Playboy
-#EXTVLCOPT:network-caching=1000
-http://45.184.111.106:8000/play/a06w/index.m3u8?hls
 #EXTINF:0,RCC
 #EXTVLCOPT:network-caching=1000
 http://45.184.111.106:8000/play/1234/index.m3u8?hls
